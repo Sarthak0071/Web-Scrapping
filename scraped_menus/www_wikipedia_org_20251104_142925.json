@@ -81,12 +81,12 @@
   ],
   "error": null,
   "metadata": {
-    "scrape_time_seconds": 0.622,
+    "scrape_time_seconds": 0.578,
     "detection_score": 48,
     "detection_method": "direct_selector",
     "total_items": 19,
     "top_level_items": 19,
     "max_depth": 1,
-    "timestamp": "2025-11-04 12:40:12"
+    "timestamp": "2025-11-04 14:29:25"
   }
 }

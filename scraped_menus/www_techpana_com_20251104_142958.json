@@ -339,12 +339,12 @@
   ],
   "error": null,
   "metadata": {
-    "scrape_time_seconds": 13.98,
+    "scrape_time_seconds": 0.654,
     "detection_score": 61,
     "detection_method": "direct_selector",
     "total_items": 80,
     "top_level_items": 19,
     "max_depth": 2,
-    "timestamp": "2025-11-04 12:40:56"
+    "timestamp": "2025-11-04 14:29:58"
   }
 }

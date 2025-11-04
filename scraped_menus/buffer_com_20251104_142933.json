@@ -1,0 +1,40 @@
+{
+  "success": true,
+  "url": "https://buffer.com",
+  "menu": [
+    {
+      "text": "CreateBuild your own library of content ideas",
+      "url": "https://buffer.com/create?cta=bufferSite-globalNav-tools-create-1"
+    },
+    {
+      "text": "PublishPlan and schedule your content across social media platforms",
+      "url": "https://buffer.com/publish?cta=bufferSite-globalNav-tools-publish-1"
+    },
+    {
+      "text": "AnalyzeMeasure performance and turn insights into growth",
+      "url": "https://buffer.com/analyze?cta=bufferSite-globalNav-tools-analyze-1"
+    },
+    {
+      "text": "EngageEasily engage with your community",
+      "url": "https://buffer.com/engage?cta=bufferSite-globalNav-tools-engage-1"
+    },
+    {
+      "text": "CollaborateWork together seamlessly, from planning to publishing",
+      "url": "https://buffer.com/collaborate?cta=bufferSite-globalNav-tools-collaborate-1"
+    },
+    {
+      "text": "Start PageBuild a custom link-in-bio page in minutes",
+      "url": "https://buffer.com/start-page?cta=bufferSite-globalNav-tools-startPage-1"
+    }
+  ],
+  "error": null,
+  "metadata": {
+    "scrape_time_seconds": 0.376,
+    "detection_score": 50,
+    "detection_method": "direct_selector",
+    "total_items": 6,
+    "top_level_items": 6,
+    "max_depth": 1,
+    "timestamp": "2025-11-04 14:29:33"
+  }
+}

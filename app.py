@@ -8,7 +8,6 @@ from demo_urls import DEMO_URLS
 
 
 def sanitize_filename(url: str) -> str:
-    """Convert URL to safe filename"""
     filename = url.replace('https://', '').replace('http://', '').rstrip('/')
     for char in ['/', '\\', ':', '*', '?', '"', '<', '>', '|', '.']:
         filename = filename.replace(char, '_')
@@ -16,7 +15,6 @@ def sanitize_filename(url: str) -> str:
 
 
 def save_to_json(result: dict, output_dir: str = "scraped_menus"):
-    """Save scrape result to JSON file"""
     os.makedirs(output_dir, exist_ok=True)
     url = result.get('url', 'unknown')
     filename = sanitize_filename(url)
@@ -30,7 +28,6 @@ def save_to_json(result: dict, output_dir: str = "scraped_menus"):
 
 
 def print_summary(result: dict):
-    """Print scrape result summary"""
     print(f"\nURL: {result['url']}")
     
     if result['success']:
@@ -53,7 +50,6 @@ def print_summary(result: dict):
 
 
 def scrape_urls(scraper: MenuScraper, urls: list, output_dir: str = "scraped_menus"):
-    """Scrape multiple URLs and save results"""
     print(f"\nScraping {len(urls)} URLs\n")
     
     results = []
@@ -73,7 +69,6 @@ def scrape_urls(scraper: MenuScraper, urls: list, output_dir: str = "scraped_men
 
 
 def main():
-    """Main entry point"""
     print("Universal Menu Scraper\n")
     
     config = Config()

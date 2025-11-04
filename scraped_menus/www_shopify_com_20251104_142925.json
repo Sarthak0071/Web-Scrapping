@@ -75,12 +75,12 @@
   ],
   "error": null,
   "metadata": {
-    "scrape_time_seconds": 0.316,
+    "scrape_time_seconds": 0.353,
     "detection_score": 48,
     "detection_method": "direct_selector",
     "total_items": 16,
     "top_level_items": 5,
     "max_depth": 2,
-    "timestamp": "2025-11-04 12:40:13"
+    "timestamp": "2025-11-04 14:29:25"
   }
 }

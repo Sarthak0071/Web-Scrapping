@@ -49,12 +49,12 @@
   ],
   "error": null,
   "metadata": {
-    "scrape_time_seconds": 0.923,
+    "scrape_time_seconds": 1.067,
     "detection_score": 55,
     "detection_method": "direct_selector",
     "total_items": 11,
     "top_level_items": 11,
     "max_depth": 1,
-    "timestamp": "2025-11-04 12:40:16"
+    "timestamp": "2025-11-04 14:29:30"
   }
 }

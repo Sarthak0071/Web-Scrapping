@@ -1,0 +1,126 @@
+{
+  "success": true,
+  "url": "https://mailchimp.com",
+  "menu": [
+    {
+      "text": "See what’s new",
+      "url": "https://mailchimp.com/whats-new",
+      "children": [
+        {
+          "text": "Email marketingSend personalized emails that convert",
+          "url": "https://mailchimp.com/solutions/email-marketing-platform"
+        },
+        {
+          "text": "WebsitesCreate your branded web presence",
+          "url": "https://mailchimp.com/solutions/website-builder"
+        },
+        {
+          "text": "Social media marketingAmplify the conversation across multiple channels",
+          "url": "https://mailchimp.com/solutions/social-media-marketing-tools"
+        },
+        {
+          "text": "TemplatesCustomize pre-designed layouts",
+          "url": "https://mailchimp.com/solutions/digital-marketing-templates"
+        }
+      ]
+    },
+    {
+      "text": "See 300+ Integrations",
+      "url": "https://mailchimp.com/integrations",
+      "children": [
+        {
+          "text": "Shopify",
+          "url": "https://mailchimp.com/integrations/shopify-mailchimp"
+        },
+        {
+          "text": "WooCommerce",
+          "url": "https://mailchimp.com/integrations/woocommerce-mailchimp"
+        },
+        {
+          "text": "Canva",
+          "url": "https://mailchimp.com/integrations/canva"
+        },
+        {
+          "text": "Zapier",
+          "url": "https://mailchimp.com/integrations/zapier"
+        },
+        {
+          "text": "Square",
+          "url": "https://mailchimp.com/integrations/square"
+        },
+        {
+          "text": "Wix",
+          "url": "https://mailchimp.com/integrations/wix"
+        },
+        {
+          "text": "Squarespace",
+          "url": "https://mailchimp.com/integrations/squarespace-commerce"
+        },
+        {
+          "text": "Stripe",
+          "url": "https://mailchimp.com/integrations/stripe"
+        },
+        {
+          "text": "Salesforce",
+          "url": "https://mailchimp.com/integrations/salesforce"
+        },
+        {
+          "text": "Wordpress",
+          "url": "https://mailchimp.com/integrations/wordpress"
+        }
+      ]
+    },
+    {
+      "text": "See all resources",
+      "url": "https://mailchimp.com/resources",
+      "children": [
+        {
+          "text": "E-commerce",
+          "url": "https://mailchimp.com/resources/e-commerce"
+        },
+        {
+          "text": "Digital content",
+          "url": "https://mailchimp.com/resources/digital-content"
+        },
+        {
+          "text": "Marketing automations",
+          "url": "https://mailchimp.com/resources/marketing-automations"
+        },
+        {
+          "text": "Audience management",
+          "url": "https://mailchimp.com/resources/crm"
+        },
+        {
+          "text": "Websites",
+          "url": "https://mailchimp.com/resources/free-marketing-features-overview"
+        },
+        {
+          "text": "Email marketing",
+          "url": "https://mailchimp.com/resources/email"
+        },
+        {
+          "text": "Social media",
+          "url": "https://mailchimp.com/resources/social-media"
+        }
+      ]
+    },
+    {
+      "text": "Switch to Mailchimp",
+      "url": "https://mailchimp.com/switch-to-mailchimp"
+    },
+    {
+      "text": "Pricing",
+      "url": "https://mailchimp.com/pricing/marketing"
+    }
+  ],
+  "error": null,
+  "metadata": {
+    "scrape_time_seconds": 0.343,
+    "detection_score": 61,
+    "detection_method": "direct_selector",
+    "total_items": 26,
+    "top_level_items": 5,
+    "max_depth": 2,
+    "timestamp": "2025-11-04 14:29:33"
+  }
+}
