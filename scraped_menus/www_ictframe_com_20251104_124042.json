@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "url": "https://www.ictframe.com",
+  "menu": [
+    {
+      "text": "News",
+      "url": "https://ictframe.com/category/news"
+    },
+    {
+      "text": "Banking & Insurance",
+      "url": "https://ictframe.com/category/bank-insurance"
+    },
+    {
+      "text": "Telecom",
+      "url": "https://ictframe.com/category/telecom"
+    },
+    {
+      "text": "Auto Life",
+      "url": "https://ictframe.com/category/auto-life"
+    },
+    {
+      "text": "Gadgets",
+      "url": "https://ictframe.com/category/gadgets"
+    },
+    {
+      "text": "Security",
+      "url": "https://ictframe.com/category/security"
+    },
+    {
+      "text": "Health",
+      "url": "https://ictframe.com/category/health"
+    },
+    {
+      "text": "Sports",
+      "url": "https://ictframe.com/category/sports"
+    },
+    {
+      "text": "Events",
+      "url": "https://ictframe.com/category/events"
+    },
+    {
+      "text": "नेपाली",
+      "url": "https://np.ictframe.com"
+    }
+  ],
+  "error": null,
+  "metadata": {
+    "scrape_time_seconds": 1.391,
+    "detection_score": 50,
+    "detection_method": "direct_selector",
+    "total_items": 10,
+    "top_level_items": 10,
+    "max_depth": 1,
+    "timestamp": "2025-11-04 12:40:42"
+  }
+}

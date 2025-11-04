@@ -1,0 +1,6 @@
+{
+  "success": false,
+  "url": "https://www.gyapu.com",
+  "menu": [],
+  "error": "Failed to fetch URL: Request failed: 526 Server Error: <none> for url: https://gyapu.com/"
+}

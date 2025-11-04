@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "url": "https://www.overstock.com",
+  "menu": [
+    {
+      "text": "Furniture",
+      "url": "https://www.overstock.com/c/furniture?t=24352"
+    },
+    {
+      "text": "Rugs",
+      "url": "https://www.overstock.com/c/rugs?t=17602"
+    },
+    {
+      "text": "Patio",
+      "url": "https://www.overstock.com/c/outdoor?t=7907"
+    },
+    {
+      "text": "Lighting",
+      "url": "https://www.overstock.com/c/lighting?t=31087"
+    },
+    {
+      "text": "Decor",
+      "url": "https://www.overstock.com/c/home-decor?t=28396"
+    },
+    {
+      "text": "Bedding",
+      "url": "https://www.overstock.com/c/bed-bath/bedding?t=1"
+    },
+    {
+      "text": "Apparel",
+      "url": "https://www.overstock.com/c/clothing-shoes?t=75555"
+    },
+    {
+      "text": "Designer",
+      "url": "https://www.overstock.com/designer"
+    },
+    {
+      "text": "Jewelry & Watches",
+      "url": "https://www.overstock.com/c/jewelry-watches?t=71533"
+    },
+    {
+      "text": "The Vault",
+      "url": "https://www.overstock.com/vault"
+    },
+    {
+      "text": "More",
+      "url": "https://www.overstock.com/shop-all-departments"
+    }
+  ],
+  "error": null,
+  "metadata": {
+    "scrape_time_seconds": 0.923,
+    "detection_score": 55,
+    "detection_method": "direct_selector",
+    "total_items": 11,
+    "top_level_items": 11,
+    "max_depth": 1,
+    "timestamp": "2025-11-04 12:40:16"
+  }
+}

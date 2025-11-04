@@ -1,0 +1,48 @@
+# Core Dependencies for Elite Menu Scraper
+# Install with: pip install -r requirements.txt
+
+# Browser automation (handles JavaScript-rendered menus)
+playwright==1.40.0
+
+# HTML parsing (fast and reliable)
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Async HTTP client (for sites that don't need JS)
+aiohttp==3.9.1
+
+# Data validation
+pydantic==2.5.0
+
+# Additional utilities
+python-dotenv==1.0.0  # For environment variables (optional)
+
+
+# ========== INSTALLATION NOTES ==========
+#
+# 1. Install Python dependencies:
+#    pip install -r requirements.txt
+#
+# 2. Install Playwright browsers (IMPORTANT!):
+#    playwright install chromium
+#
+# 3. Optional - Install all browsers:
+#    playwright install
+#
+# ========================================
+
+
+# ========== OPTIONAL ENHANCEMENTS ==========
+# Uncomment if you want these features:
+
+# For Redis caching (if scaling to distributed system)
+# redis==5.0.1
+
+# For database storage
+# sqlalchemy==2.0.23
+
+# For proxy rotation
+# aiohttp-socks==0.8.4
+
+# For advanced rate limiting
+# aiolimiter==1.1.0

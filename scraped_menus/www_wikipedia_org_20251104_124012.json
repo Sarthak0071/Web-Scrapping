@@ -1,0 +1,92 @@
+{
+  "success": true,
+  "url": "https://www.wikipedia.org",
+  "menu": [
+    {
+      "text": "العربية",
+      "url": "https://ar.wikipedia.org"
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org"
+    },
+    {
+      "text": "English",
+      "url": "https://en.wikipedia.org"
+    },
+    {
+      "text": "Español",
+      "url": "https://es.wikipedia.org"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org"
+    },
+    {
+      "text": "Italiano",
+      "url": "https://it.wikipedia.org"
+    },
+    {
+      "text": "مصرى",
+      "url": "https://arz.wikipedia.org"
+    },
+    {
+      "text": "Nederlands",
+      "url": "https://nl.wikipedia.org"
+    },
+    {
+      "text": "日本語",
+      "url": "https://ja.wikipedia.org"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org"
+    },
+    {
+      "text": "Português",
+      "url": "https://pt.wikipedia.org"
+    },
+    {
+      "text": "Sinugboanong Binisaya",
+      "url": "https://ceb.wikipedia.org"
+    },
+    {
+      "text": "Svenska",
+      "url": "https://sv.wikipedia.org"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org"
+    },
+    {
+      "text": "Tiếng Việt",
+      "url": "https://vi.wikipedia.org"
+    },
+    {
+      "text": "Winaray",
+      "url": "https://war.wikipedia.org"
+    },
+    {
+      "text": "中文",
+      "url": "https://zh.wikipedia.org"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org"
+    }
+  ],
+  "error": null,
+  "metadata": {
+    "scrape_time_seconds": 0.622,
+    "detection_score": 48,
+    "detection_method": "direct_selector",
+    "total_items": 19,
+    "top_level_items": 19,
+    "max_depth": 1,
+    "timestamp": "2025-11-04 12:40:12"
+  }
+}

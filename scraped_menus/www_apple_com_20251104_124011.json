@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "url": "https://www.apple.com",
+  "menu": [
+    {
+      "text": "Apple",
+      "url": "https://www.apple.com"
+    },
+    {
+      "text": "Store",
+      "url": "https://www.apple.com/us/shop/goto/store"
+    }
+  ],
+  "error": null,
+  "metadata": {
+    "scrape_time_seconds": 0.16,
+    "detection_score": 71,
+    "detection_method": "direct_selector",
+    "total_items": 2,
+    "top_level_items": 2,
+    "max_depth": 1,
+    "timestamp": "2025-11-04 12:40:11"
+  }
+}

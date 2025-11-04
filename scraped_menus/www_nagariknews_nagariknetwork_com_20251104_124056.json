@@ -1,0 +1,6 @@
+{
+  "success": false,
+  "url": "https://www.nagariknews.nagariknetwork.com",
+  "menu": [],
+  "error": "Failed to fetch URL: Request failed: HTTPSConnectionPool(host='www.nagariknews.nagariknetwork.com', port=443): Max retries exceeded with "
+}
