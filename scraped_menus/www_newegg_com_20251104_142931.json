@@ -1,6 +1,0 @@
-{
-  "success": false,
-  "url": "https://www.newegg.com",
-  "menu": [],
-  "error": "Failed to fetch URL: Request failed: 403 Client Error: Forbidden for url: https://www.newegg.com/"
-}
