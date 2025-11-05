@@ -1,7 +1,7 @@
 {
   "website": "https://mailchimp.com",
   "domain": "mailchimp.com",
-  "scraped_at": "2025-11-05 21:22:13",
+  "scraped_at": "2025-11-05 21:16:12",
   "menus": [
     {
       "menu_name": "Solutions and Services",
@@ -309,30 +309,40 @@
       ]
     },
     {
-      "menu_name": "Hi, %s",
+      "menu_name": "Main Menu",
       "sections": [
         {
-          "section_title": "Account",
+          "section_title": null,
           "items": [
             {
-              "title": "Audience",
+              "title": "Restaurants",
               "description": "",
-              "url": "https://admin.mailchimp.com/audience/contacts/?ref=plums_nav"
+              "url": "https://mailchimp.com/solutions/marketing-tools-restaurants/"
             },
             {
-              "title": "Campaigns",
+              "title": "Entertainment + Leisure",
               "description": "",
-              "url": "https://admin.mailchimp.com/campaigns/?ref=plums_nav"
+              "url": "https://mailchimp.com/solutions/marketing-tools-hotels/"
             },
             {
-              "title": "Account",
+              "title": "Non-profit",
               "description": "",
-              "url": "https://admin.mailchimp.com/account/?ref=plums_nav"
+              "url": "https://mailchimp.com/solutions/marketing-tools-nonprofits/"
             },
             {
-              "title": "Log Out",
+              "title": "Digital Sales",
               "description": "",
-              "url": "https://admin.mailchimp.com/login/out/?ref=plums_nav"
+              "url": "https://mailchimp.com/solutions/ecommerce-marketing-tools/"
+            },
+            {
+              "title": "SMS marketing",
+              "description": "",
+              "url": "https://mailchimp.com/solutions/sms-marketing-tools/"
+            },
+            {
+              "title": "All audience tools",
+              "description": "",
+              "url": "https://mailchimp.com/audience/"
             }
           ]
         }

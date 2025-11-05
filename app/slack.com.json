@@ -1,0 +1,317 @@
+{
+  "website": "https://www.slack.com",
+  "domain": "www.slack.com",
+  "scraped_at": "2025-11-05 21:16:27",
+  "menus": [
+    {
+      "menu_name": "Features",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Channels",
+              "description": "",
+              "url": "https://slack.com/features/channels"
+            },
+            {
+              "title": "Slack Connect",
+              "description": "",
+              "url": "https://slack.com/connect"
+            },
+            {
+              "title": "Messaging",
+              "description": "",
+              "url": "https://slack.com/team-chat"
+            },
+            {
+              "title": "Huddles",
+              "description": "",
+              "url": "https://slack.com/features/huddles"
+            },
+            {
+              "title": "Clips",
+              "description": "",
+              "url": "https://slack.com/features/clips"
+            },
+            {
+              "title": "Templates",
+              "description": "",
+              "url": "https://slack.com/templates"
+            },
+            {
+              "title": "Canvas",
+              "description": "",
+              "url": "https://slack.com/features/canvas"
+            },
+            {
+              "title": "Lists",
+              "description": "",
+              "url": "https://slack.com/features/task-list"
+            },
+            {
+              "title": "File Sharing",
+              "description": "",
+              "url": "https://slack.com/document-sharing"
+            },
+            {
+              "title": "Workflow Builder",
+              "description": "",
+              "url": "https://slack.com/features/workflow-automation"
+            },
+            {
+              "title": "Apps & Integrations",
+              "description": "",
+              "url": "https://slack.com/integrations"
+            },
+            {
+              "title": "Slack and Salesforce",
+              "description": "",
+              "url": "https://slack.com/salesforce-slack-integration"
+            },
+            {
+              "title": "AI in Slack",
+              "description": "",
+              "url": "https://slack.com/features/ai"
+            },
+            {
+              "title": "Agentforce",
+              "description": "",
+              "url": "https://slack.com/ai-agents"
+            },
+            {
+              "title": "Enterprise Search",
+              "description": "",
+              "url": "https://slack.com/features/enterprise-search"
+            },
+            {
+              "title": "Security",
+              "description": "",
+              "url": "https://slack.com/trust/security"
+            },
+            {
+              "title": "Enterprise Key Management",
+              "description": "",
+              "url": "https://slack.com/enterprise-key-management"
+            },
+            {
+              "title": "Slack Atlas",
+              "description": "",
+              "url": "https://slack.com/atlas"
+            },
+            {
+              "title": "What is Slack?",
+              "description": "",
+              "url": "https://slack.com/what-is-slack"
+            },
+            {
+              "title": "Slack vs. Email",
+              "description": "",
+              "url": "https://slack.com/why/slack-vs-email"
+            },
+            {
+              "title": "Accessibility",
+              "description": "",
+              "url": "https://slack.com/accessibility"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Solutions",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Engineering",
+              "description": "",
+              "url": "https://slack.com/solutions/engineering"
+            },
+            {
+              "title": "IT",
+              "description": "",
+              "url": "https://slack.com/solutions/information-technology"
+            },
+            {
+              "title": "Customer Service",
+              "description": "",
+              "url": "https://slack.com/solutions/customer-service"
+            },
+            {
+              "title": "Sales",
+              "description": "",
+              "url": "https://slack.com/solutions/sales"
+            },
+            {
+              "title": "Project Management",
+              "description": "",
+              "url": "https://slack.com/solutions/project-management"
+            },
+            {
+              "title": "Marketing",
+              "description": "",
+              "url": "https://slack.com/solutions/marketing"
+            },
+            {
+              "title": "Human Resources",
+              "description": "",
+              "url": "https://slack.com/solutions/human-resources"
+            },
+            {
+              "title": "Security",
+              "description": "",
+              "url": "https://slack.com/solutions/security"
+            },
+            {
+              "title": "Manufacturing, Auto & Energy",
+              "description": "",
+              "url": "https://slack.com/solutions/manufacturing"
+            },
+            {
+              "title": "Technology",
+              "description": "",
+              "url": "https://slack.com/solutions/technology"
+            },
+            {
+              "title": "Media",
+              "description": "",
+              "url": "https://slack.com/solutions/media"
+            },
+            {
+              "title": "Small Business",
+              "description": "",
+              "url": "https://slack.com/solutions/small-business"
+            },
+            {
+              "title": "Financial Services",
+              "description": "",
+              "url": "https://slack.com/solutions/financial-services"
+            },
+            {
+              "title": "Retail",
+              "description": "",
+              "url": "https://slack.com/solutions/retail"
+            },
+            {
+              "title": "Education",
+              "description": "",
+              "url": "https://slack.com/solutions/distance-learning"
+            },
+            {
+              "title": "Health & Life Sciences",
+              "description": "",
+              "url": "https://slack.com/solutions/healthcare"
+            },
+            {
+              "title": "Start work faster with pre-made templates for every task.",
+              "description": "",
+              "url": "https://slack.com/templates/gallery"
+            },
+            {
+              "title": "Task Management",
+              "description": "",
+              "url": "https://slack.com/solutions/task-management"
+            },
+            {
+              "title": "Scale",
+              "description": "",
+              "url": "https://slack.com/scale"
+            },
+            {
+              "title": "Engagement",
+              "description": "",
+              "url": "https://slack.com/engage-users"
+            },
+            {
+              "title": "Trust",
+              "description": "",
+              "url": "https://slack.com/trust"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Resources",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Resources Library",
+              "description": "",
+              "url": "https://slack.com/resources"
+            },
+            {
+              "title": "What’s New",
+              "description": "",
+              "url": "https://slack.com/innovations"
+            },
+            {
+              "title": "Product Tour",
+              "description": "",
+              "url": "https://slackdemo.com/"
+            },
+            {
+              "title": "Events",
+              "description": "",
+              "url": "https://slack.com/events"
+            },
+            {
+              "title": "Developers",
+              "description": "",
+              "url": "https://api.slack.com"
+            },
+            {
+              "title": "Partners",
+              "description": "",
+              "url": "https://slack.com/partners"
+            },
+            {
+              "title": "Customer Stories",
+              "description": "",
+              "url": "https://slack.com/customer-stories"
+            },
+            {
+              "title": "Community",
+              "description": "",
+              "url": "https://slack.com/community"
+            },
+            {
+              "title": "Slack Certified",
+              "description": "",
+              "url": "https://slackcertified.com"
+            },
+            {
+              "title": "Blog",
+              "description": "",
+              "url": "https://slack.com/blog"
+            },
+            {
+              "title": "Slack Marketplace",
+              "description": "",
+              "url": "https://slack.com/marketplace"
+            },
+            {
+              "title": "Tips and tricks on getting started with Slack",
+              "description": "",
+              "url": "https://slack.com/resources/collections/slack-adoption-success-hub"
+            },
+            {
+              "title": "Help Center",
+              "description": "",
+              "url": "https://slack.com/help"
+            },
+            {
+              "title": "Customer Support",
+              "description": "",
+              "url": "https://slack.com/help/requests/new"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

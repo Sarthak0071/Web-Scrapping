@@ -1,0 +1,22 @@
+{
+  "website": "https://www.asana.com",
+  "domain": "www.asana.com",
+  "scraped_at": "2025-11-05 21:16:24",
+  "menus": [
+    {
+      "menu_name": "Productchevron-down icon",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Asana Home",
+              "description": "",
+              "url": "https://www.asana.com/?noredirect"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
