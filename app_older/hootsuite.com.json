@@ -1,7 +1,7 @@
 {
   "website": "https://hootsuite.com",
   "domain": "hootsuite.com",
-  "scraped_at": "2025-11-05 21:22:16",
+  "scraped_at": "2025-11-07 12:37:09",
   "menus": [
     {
       "menu_name": "Top features",
@@ -173,6 +173,26 @@
               "title": "FAQ",
               "description": "",
               "url": "https://hootsuite.com/faq"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "open navigation menu",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Integrations",
+              "description": "",
+              "url": "https://hootsuite.com/platform/integrations"
+            },
+            {
+              "title": "Enterprise",
+              "description": "",
+              "url": "https://hootsuite.com/plans/enterprise"
             }
           ]
         }

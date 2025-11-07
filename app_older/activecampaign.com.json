@@ -1,7 +1,7 @@
 {
   "website": "https://www.activecampaign.com",
   "domain": "www.activecampaign.com",
-  "scraped_at": "2025-11-05 21:22:18",
+  "scraped_at": "2025-11-07 12:37:11",
   "menus": [
     {
       "menu_name": "Platform",
@@ -41,7 +41,7 @@
             },
             {
               "title": "Take a tour",
-              "description": "Explore what’s possible",
+              "description": "",
               "url": "https://www.activecampaign.com/tours"
             },
             {
@@ -266,28 +266,68 @@
             },
             {
               "title": "Franchise Marketers Reported…",
-              "description": "Read the Report",
+              "description": "",
               "url": "https://www.activecampaign.com/reports/franchise-marketing"
             },
             {
               "title": "How AI gives Marketers Back One-third…",
-              "description": "Read the Report",
+              "description": "",
               "url": "https://www.activecampaign.com/reports/13-hours-back-each-week"
             },
             {
               "title": "Connect with ActiveCampaign Across the Globe",
-              "description": "Join the community",
+              "description": "",
               "url": "https://www.activecampaign.com/community"
             },
             {
               "title": "Help Docs",
-              "description": "Explore help resources",
+              "description": "",
               "url": "https://help.activecampaign.com/hc/en-us"
             },
             {
               "title": "The Future of Unit…",
-              "description": "Summer 2025",
+              "description": "",
               "url": "https://www.activecampaign.com/lp/the-future-of-unit-sales-webinar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Menu",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Português",
+              "description": "",
+              "url": "https://www.activecampaign.com/br"
+            },
+            {
+              "title": "Français",
+              "description": "",
+              "url": "https://www.activecampaign.com/fr"
+            },
+            {
+              "title": "Italiano",
+              "description": "",
+              "url": "https://www.activecampaign.com/it"
+            },
+            {
+              "title": "Deutsch",
+              "description": "",
+              "url": "https://www.activecampaign.com/de"
+            },
+            {
+              "title": "Español",
+              "description": "",
+              "url": "https://www.activecampaign.com/es"
+            },
+            {
+              "title": "Search",
+              "description": "",
+              "url": "https://www.activecampaign.com/search"
             }
           ]
         }

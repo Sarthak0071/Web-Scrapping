@@ -1,7 +1,7 @@
 {
   "website": "https://buffer.com",
   "domain": "buffer.com",
-  "scraped_at": "2025-11-05 21:22:11",
+  "scraped_at": "2025-11-07 12:37:02",
   "menus": [
     {
       "menu_name": "Features",
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "menu_name": "Channels",
+      "menu_name": "Navigation menu",
       "sections": [
         {
           "section_title": null,
@@ -103,41 +103,6 @@
               "title": "YouTube",
               "description": "",
               "url": "https://buffer.com/youtube?cta=bufferSite-globalNav-channels-youtube-1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "menu_name": "Resources",
-      "sections": [
-        {
-          "section_title": null,
-          "items": [
-            {
-              "title": "Blog",
-              "description": "Real-life stories and resources on growing an engaged audience",
-              "url": "https://buffer.com/resources/"
-            },
-            {
-              "title": "Templates",
-              "description": "Plug-and-play content templates to jump-start your planning",
-              "url": "https://buffer.com/templates"
-            },
-            {
-              "title": "Free Tools",
-              "description": "Easy-to-use tools to grow your presence across social media",
-              "url": "https://buffer.com/free-tools"
-            },
-            {
-              "title": "Social Media Insights",
-              "description": "Data-driven benchmarks, trends, and tips to grow smarter on social",
-              "url": "https://buffer.com/insights"
-            },
-            {
-              "title": "Our Community",
-              "description": "Learn, connect, and grow with creators around the world",
-              "url": "https://buffer.com/our-community"
             }
           ]
         }
