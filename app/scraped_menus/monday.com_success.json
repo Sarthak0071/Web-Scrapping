@@ -1,0 +1,167 @@
+{
+  "website": "https://www.monday.com",
+  "domain": "monday.com",
+  "scraped_at": "2025-11-07 13:39:08",
+  "menus": [
+    {
+      "menu_name": "Teams",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Marketing",
+              "description": "",
+              "url": "https://www.monday.com/work-management/marketing"
+            },
+            {
+              "title": "Project management",
+              "description": "",
+              "url": "https://www.monday.com/work-management/pmo"
+            },
+            {
+              "title": "Sales",
+              "description": "",
+              "url": "https://www.monday.com/crm"
+            },
+            {
+              "title": "Product development",
+              "description": "",
+              "url": "https://www.monday.com/w/dev"
+            },
+            {
+              "title": "Operations",
+              "description": "",
+              "url": "https://www.monday.com/operations"
+            },
+            {
+              "title": "IT",
+              "description": "",
+              "url": "https://www.monday.com/w/service"
+            },
+            {
+              "title": "HR",
+              "description": "",
+              "url": "https://www.monday.com/use-cases/hr-management-software"
+            }
+          ]
+        },
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Enterprise",
+              "description": "",
+              "url": "https://www.monday.com/w/enterprise"
+            },
+            {
+              "title": "Small business",
+              "description": "",
+              "url": "https://www.monday.com/smb"
+            },
+            {
+              "title": "Nonprofit",
+              "description": "",
+              "url": "https://www.monday.com/nonprofits"
+            }
+          ]
+        },
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Retail",
+              "description": "",
+              "url": "https://www.monday.com/w/industries/retail"
+            },
+            {
+              "title": "Media",
+              "description": "",
+              "url": "https://www.monday.com/w/industries/media"
+            },
+            {
+              "title": "Construction",
+              "description": "",
+              "url": "https://www.monday.com/construction"
+            },
+            {
+              "title": "Government",
+              "description": "",
+              "url": "https://www.monday.com/w/industries/public-sector"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Features",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Dashboards",
+              "description": "",
+              "url": "https://www.monday.com/features/dashboards"
+            },
+            {
+              "title": "Integrations",
+              "description": "",
+              "url": "https://www.monday.com/integrations"
+            },
+            {
+              "title": "Automations",
+              "description": "",
+              "url": "https://www.monday.com/features/automations"
+            },
+            {
+              "title": "AI",
+              "description": "",
+              "url": "https://www.monday.com/w/ai"
+            },
+            {
+              "title": "Kanban",
+              "description": "",
+              "url": "https://www.monday.com/features/kanban"
+            },
+            {
+              "title": "Docs",
+              "description": "",
+              "url": "https://www.monday.com/workdocs"
+            },
+            {
+              "title": "Gantt",
+              "description": "",
+              "url": "https://www.monday.com/features/gantt"
+            },
+            {
+              "title": "Forms",
+              "description": "",
+              "url": "https://www.monday.com/features/forms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Discover AI",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "monday MCP",
+              "description": "",
+              "url": "https://www.monday.com/w/mcp"
+            },
+            {
+              "title": "AI Trust center",
+              "description": "",
+              "url": "https://www.monday.com/w/ai-trust-center"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

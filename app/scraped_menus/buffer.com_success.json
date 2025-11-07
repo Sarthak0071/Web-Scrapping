@@ -1,7 +1,7 @@
 {
   "website": "https://buffer.com",
   "domain": "buffer.com",
-  "scraped_at": "2025-11-05 21:16:08",
+  "scraped_at": "2025-11-07 13:39:01",
   "menus": [
     {
       "menu_name": "Features",
@@ -10,32 +10,32 @@
           "section_title": null,
           "items": [
             {
-              "title": "Create",
+              "title": "CreateBuild your own library of content ideas",
               "description": "Build your own library of content ideas",
               "url": "https://buffer.com/create?cta=bufferSite-globalNav-tools-create-1"
             },
             {
-              "title": "Publish",
+              "title": "PublishPlan and schedule your content across social media platforms",
               "description": "Plan and schedule your content across social media platforms",
               "url": "https://buffer.com/publish?cta=bufferSite-globalNav-tools-publish-1"
             },
             {
-              "title": "Analyze",
+              "title": "AnalyzeMeasure performance and turn insights into growth",
               "description": "Measure performance and turn insights into growth",
               "url": "https://buffer.com/analyze?cta=bufferSite-globalNav-tools-analyze-1"
             },
             {
-              "title": "Engage",
+              "title": "EngageEasily engage with your community",
               "description": "Easily engage with your community",
               "url": "https://buffer.com/engage?cta=bufferSite-globalNav-tools-engage-1"
             },
             {
-              "title": "Collaborate",
+              "title": "CollaborateWork together seamlessly, from planning to publishing",
               "description": "Work together seamlessly, from planning to publishing",
               "url": "https://buffer.com/collaborate?cta=bufferSite-globalNav-tools-collaborate-1"
             },
             {
-              "title": "Start Page",
+              "title": "Start PageBuild a custom link-in-bio page in minutes",
               "description": "Build a custom link-in-bio page in minutes",
               "url": "https://buffer.com/start-page?cta=bufferSite-globalNav-tools-startPage-1"
             }
@@ -103,6 +103,41 @@
               "title": "YouTube",
               "description": "",
               "url": "https://buffer.com/youtube?cta=bufferSite-globalNav-channels-youtube-1"
+            }
+          ]
+        },
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "BlogReal-life stories and resources on growing an engaged audience",
+              "description": "Real-life stories and resources on growing an engaged audience",
+              "url": "https://buffer.com/resources/"
+            },
+            {
+              "title": "TemplatesPlug-and-play content templates to jump-start your planning",
+              "description": "Plug-and-play content templates to jump-start your planning",
+              "url": "https://buffer.com/templates"
+            },
+            {
+              "title": "Free ToolsEasy-to-use tools to grow your presence across social media",
+              "description": "Easy-to-use tools to grow your presence across social media",
+              "url": "https://buffer.com/free-tools"
+            },
+            {
+              "title": "Social Media InsightsData-driven benchmarks, trends, and tips to grow smarter on social",
+              "description": "Data-driven benchmarks, trends, and tips to grow smarter on social",
+              "url": "https://buffer.com/insights"
+            },
+            {
+              "title": "Our CommunityLearn, connect, and grow with creators around the world",
+              "description": "Learn, connect, and grow with creators around the world",
+              "url": "https://buffer.com/our-community"
+            },
+            {
+              "title": "SupportHelp articles and tutorials to get the most out of Buffer",
+              "description": "Help articles and tutorials to get the most out of Buffer",
+              "url": "https://support.buffer.com/"
             }
           ]
         }

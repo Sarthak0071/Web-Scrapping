@@ -1,7 +1,7 @@
 {
   "website": "https://hootsuite.com",
   "domain": "hootsuite.com",
-  "scraped_at": "2025-11-05 21:16:15",
+  "scraped_at": "2025-11-07 13:38:59",
   "menus": [
     {
       "menu_name": "Top features",
@@ -135,7 +135,7 @@
           "section_title": null,
           "items": [
             {
-              "title": "Social media trends",
+              "title": "new",
               "description": "",
               "url": "https://hootsuite.com/research/social-trends"
             },

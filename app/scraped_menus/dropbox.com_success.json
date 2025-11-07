@@ -1,0 +1,162 @@
+{
+  "website": "https://www.dropbox.com",
+  "domain": "dropbox.com",
+  "scraped_at": "2025-11-07 13:39:01",
+  "menus": [
+    {
+      "menu_name": "Products",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Dropbox",
+              "description": "",
+              "url": "https://www.dropbox.com/dropbox"
+            },
+            {
+              "title": "Replay",
+              "description": "",
+              "url": "https://www.dropbox.com/replay"
+            },
+            {
+              "title": "Backup",
+              "description": "",
+              "url": "https://www.dropbox.com/backup"
+            },
+            {
+              "title": "Reclaim.ai",
+              "description": "",
+              "url": "https://app.reclaim.ai/signup?utm_medium=referral&utm_source=dbx-header-referral&utm_campaign=dbx-header-signup&utm_term=dbx-header"
+            },
+            {
+              "title": "Dash",
+              "description": "",
+              "url": "https://dash.dropbox.com"
+            },
+            {
+              "title": "DocSend",
+              "description": "",
+              "url": "https://www.dropbox.com/docsend"
+            },
+            {
+              "title": "Sign",
+              "description": "",
+              "url": "https://www.dropbox.com/sign"
+            },
+            {
+              "title": "Early access",
+              "description": "",
+              "url": "https://www.dropbox.com/early-access"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Solutions",
+      "sections": [
+        {
+          "section_title": "Teams",
+          "items": [
+            {
+              "title": "Sales",
+              "description": "",
+              "url": "https://www.dropbox.com/business/solutions/sales"
+            },
+            {
+              "title": "Marketing",
+              "description": "",
+              "url": "https://www.dropbox.com/business/solutions/marketing"
+            },
+            {
+              "title": "HR",
+              "description": "",
+              "url": "https://www.dropbox.com/business/solutions/human-resources"
+            },
+            {
+              "title": "IT",
+              "description": "",
+              "url": "https://www.dropbox.com/business/solutions/it"
+            },
+            {
+              "title": "Creatives",
+              "description": "",
+              "url": "https://www.dropbox.com/business/solutions/creatives"
+            },
+            {
+              "title": "Cloud storage",
+              "description": "",
+              "url": "https://www.dropbox.com/features/cloud-storage"
+            },
+            {
+              "title": "Send large files",
+              "description": "",
+              "url": "https://www.dropbox.com/features/share/send-large-files"
+            },
+            {
+              "title": "Signing documents",
+              "description": "",
+              "url": "https://www.dropbox.com/features/productivity/electronic-signature"
+            },
+            {
+              "title": "Sharing files",
+              "description": "",
+              "url": "https://www.dropbox.com/features/share"
+            },
+            {
+              "title": "Construction",
+              "description": "",
+              "url": "https://www.dropbox.com/business/solutions/construction"
+            },
+            {
+              "title": "Technology",
+              "description": "",
+              "url": "https://www.dropbox.com/business/solutions/technology"
+            },
+            {
+              "title": "Manufacturing",
+              "description": "",
+              "url": "https://www.dropbox.com/business/solutions/manufacturing"
+            },
+            {
+              "title": "Media",
+              "description": "",
+              "url": "https://www.dropbox.com/business/solutions/media"
+            },
+            {
+              "title": "Professional services",
+              "description": "",
+              "url": "https://www.dropbox.com/business/solutions/professional-services"
+            },
+            {
+              "title": "Education",
+              "description": "",
+              "url": "https://www.dropbox.com/education"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Get app",
+      "sections": [
+        {
+          "section_title": "Desktop appMobile app",
+          "items": [
+            {
+              "title": "Desktop app",
+              "description": "",
+              "url": "https://www.dropbox.com/desktop"
+            },
+            {
+              "title": "Mobile app",
+              "description": "",
+              "url": "https://www.dropbox.com/mobile"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

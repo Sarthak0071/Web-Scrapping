@@ -1,0 +1,342 @@
+{
+  "website": "https://www.zoom.us",
+  "domain": "zoom.us",
+  "scraped_at": "2025-11-07 13:39:00",
+  "menus": [
+    {
+      "menu_name": "Products",
+      "sections": [
+        {
+          "section_title": "Zoom Workplace",
+          "items": [
+            {
+              "title": "Video conferencing for teams",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/virtual-meetings/"
+            },
+            {
+              "title": "Seamless instant messaging",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/team-chat/"
+            },
+            {
+              "title": "Cloud-based phone system",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/voip-phone/"
+            },
+            {
+              "title": "Email and calendar all-in-one",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/email-calendar/"
+            },
+            {
+              "title": "Scheduling made easy",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/appointment-scheduler/"
+            },
+            {
+              "title": "AI-first collaborative docs",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/collaborative-docs/"
+            },
+            {
+              "title": "Visual collaboration with online whiteboards",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/online-whiteboard/"
+            },
+            {
+              "title": "Video messages and screen recordings",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/screen-recorder/"
+            },
+            {
+              "title": "Stay on top of action items",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/productivity/"
+            },
+            {
+              "title": "Improve productivity",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/workflow-automation/"
+            },
+            {
+              "title": "Manage video content in one place",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/video-management/"
+            },
+            {
+              "title": "In-person and hybrid meetings",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/meeting-rooms/"
+            },
+            {
+              "title": "Flexible workspace reservation",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/meeting-rooms/features/workspace/#workspace"
+            },
+            {
+              "title": "Interactive content for your office",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/meeting-rooms/features/workspace/#digital-signage"
+            },
+            {
+              "title": "Securely invite and register guests",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/meeting-rooms/features/workspace/#visitor-management"
+            },
+            {
+              "title": "Employee experience platform",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/workvivo/"
+            },
+            {
+              "title": "Streamline customer interactions",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/contact-center/"
+            },
+            {
+              "title": "Conversational AI support",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/virtual-agent/"
+            },
+            {
+              "title": "Agent performance and engagement",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/workforce-engagement-management/"
+            },
+            {
+              "title": "Multi-day virtual or hybrid events",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/event-platform/"
+            },
+            {
+              "title": "Virtual broadcasts",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/webinars/"
+            },
+            {
+              "title": "Customer insights and analytics",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/conversation-intelligence/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "AI",
+      "sections": [
+        {
+          "section_title": "AI at Zoom",
+          "items": [
+            {
+              "title": "Work happy with AI Companion",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/ai-assistant/"
+            },
+            {
+              "title": "Personalize your experience",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/custom-ai/"
+            },
+            {
+              "title": "Master your role with AI",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/ai-assistant/solutions/"
+            },
+            {
+              "title": "AI Companion setup support",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/ai-assistant/resources/onboarding-resources/"
+            },
+            {
+              "title": "Read our latest whitepaper",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/ai-assistant/resources/privacy-security/"
+            },
+            {
+              "title": "Calculate how much you can save",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/ai-assistant/resources/roi-calculator/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Solutions",
+      "sections": [
+        {
+          "section_title": "By industryBy industry",
+          "items": [
+            {
+              "title": "By industry",
+              "description": "",
+              "url": "https://www.zoom.com/en/industry/"
+            },
+            {
+              "title": "Education",
+              "description": "",
+              "url": "https://www.zoom.com/en/industry/education/"
+            },
+            {
+              "title": "Financial Services",
+              "description": "",
+              "url": "https://www.zoom.com/en/industry/finance/"
+            },
+            {
+              "title": "Government",
+              "description": "",
+              "url": "https://www.zoom.com/en/industry/government/"
+            },
+            {
+              "title": "Healthcare",
+              "description": "",
+              "url": "https://www.zoom.com/en/industry/healthcare/"
+            },
+            {
+              "title": "Manufacturing",
+              "description": "",
+              "url": "https://www.zoom.com/en/industry/manufacturing/"
+            },
+            {
+              "title": "Retail",
+              "description": "",
+              "url": "https://www.zoom.com/en/industry/retail/"
+            },
+            {
+              "title": "Frontline",
+              "description": "",
+              "url": "https://www.zoom.com/en/products/collaboration-tools/solutions/frontline-workers/"
+            },
+            {
+              "title": "Broadcast",
+              "description": "",
+              "url": "https://www.zoom.com/en/audiences/broadcast/"
+            },
+            {
+              "title": "Small and midsize businesses",
+              "description": "",
+              "url": "https://www.zoom.com/en/audiences/small-business/"
+            },
+            {
+              "title": "Information Technology",
+              "description": "",
+              "url": "https://www.zoom.com/en/audiences/information-technology/"
+            },
+            {
+              "title": "Customer Experience",
+              "description": "",
+              "url": "https://www.zoom.com/en/audiences/cx/"
+            },
+            {
+              "title": "Sales and Revenue",
+              "description": "",
+              "url": "https://www.zoom.com/en/audiences/sales-and-revenue/"
+            },
+            {
+              "title": "Facilities",
+              "description": "",
+              "url": "https://www.zoom.com/en/audiences/av-facilities/"
+            },
+            {
+              "title": "Marketing and Events",
+              "description": "",
+              "url": "https://www.zoom.com/en/audiences/marketing-events/"
+            },
+            {
+              "title": "For Developer",
+              "description": "",
+              "url": "https://developers.zoom.us/docs"
+            },
+            {
+              "title": "Video SDK",
+              "description": "",
+              "url": "https://www.zoom.com/en/video-sdk/"
+            },
+            {
+              "title": "Meeting SDK",
+              "description": "",
+              "url": "https://developers.zoom.us/docs/meeting-sdk/"
+            },
+            {
+              "title": "App Marketplace",
+              "description": "",
+              "url": "https://marketplace.zoom.us/"
+            },
+            {
+              "title": "APIs",
+              "description": "",
+              "url": "https://developers.zoom.us/docs/api/"
+            },
+            {
+              "title": "Webhooks",
+              "description": "",
+              "url": "https://developers.zoom.us/docs/api/rest/webhook-reference/"
+            },
+            {
+              "title": "Zoom Apps",
+              "description": "",
+              "url": "https://www.zoom.com/en/zoom-apps/"
+            },
+            {
+              "title": "Developer Solutions",
+              "description": "",
+              "url": "https://developers.zoom.us/docs/"
+            },
+            {
+              "title": "For Partner",
+              "description": "",
+              "url": "https://partner.zoom.com/"
+            },
+            {
+              "title": "Partner Solutions",
+              "description": "",
+              "url": "https://partner.zoom.us/solutions/"
+            },
+            {
+              "title": "Find a Partner",
+              "description": "",
+              "url": "https://partner.zoom.us/partner-locator/"
+            },
+            {
+              "title": "Become a Partner",
+              "description": "",
+              "url": "https://partner.zoom.us/"
+            },
+            {
+              "title": "Partner Portal",
+              "description": "",
+              "url": "https://mypartnerportal.zoom.us/"
+            },
+            {
+              "title": "Partner Learning Center",
+              "description": "",
+              "url": "https://mypartnerportal.zoom.us/?sso=21&RelayState=/pages/38/home"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Meet",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Join a meeting",
+              "description": "",
+              "url": "https://zoom.us/join"
+            },
+            {
+              "title": "Host a meeting",
+              "description": "",
+              "url": "https://zoom.us/start/videomeeting"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

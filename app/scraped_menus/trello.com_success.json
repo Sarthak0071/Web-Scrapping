@@ -1,0 +1,137 @@
+{
+  "website": "https://www.trello.com",
+  "domain": "trello.com",
+  "scraped_at": "2025-11-07 13:39:06",
+  "menus": [
+    {
+      "menu_name": "Features",
+      "sections": [
+        {
+          "section_title": "Explore the features that help your team succeed",
+          "items": [
+            {
+              "title": "Inbox",
+              "description": "Capture every vital detail from emails, Slack, and more directly into your Trello Inbox.",
+              "url": "https://www.trello.com/inbox"
+            },
+            {
+              "title": "Planner",
+              "description": "Sync your calendar and allocate focused time slots to boost productivity.",
+              "url": "https://www.trello.com/planner"
+            },
+            {
+              "title": "Automation",
+              "description": "Automate tasks and workflows with Trello.",
+              "url": "https://www.trello.com/butler-automation"
+            },
+            {
+              "title": "Power-Ups",
+              "description": "Power up your teams by linking their favorite tools with Trello plugins.",
+              "url": "https://www.trello.com/power-ups"
+            },
+            {
+              "title": "Templates",
+              "description": "Give your team a blueprint for success with easy-to-use templates from industry leaders and the Trello community.",
+              "url": "https://www.trello.com/templates"
+            },
+            {
+              "title": "Integrations",
+              "description": "Find the apps your team is already using or discover new ways to get work done in Trello.",
+              "url": "https://www.trello.com/integrations"
+            }
+          ]
+        },
+        {
+          "section_title": "Take a page out of these pre-built Trello playbooks designed for all teams",
+          "items": [
+            {
+              "title": "Marketing teams",
+              "description": "Whether launching a new product, campaign, or creating content, Trello helps marketing teams succeed.",
+              "url": "https://www.trello.com/teams/marketing"
+            },
+            {
+              "title": "Product management",
+              "description": "Use Trello’s management boards and roadmap features to simplify complex projects and processes.",
+              "url": "https://www.trello.com/teams/product"
+            },
+            {
+              "title": "Engineering teams",
+              "description": "Ship more code, faster, and give your developers the freedom to be more agile with Trello.",
+              "url": "https://www.trello.com/teams/engineering"
+            },
+            {
+              "title": "Design teams",
+              "description": "Empower your design teams by using Trello to streamline creative requests and promote more fluid cross-team collaboration.",
+              "url": "https://www.trello.com/teams/design"
+            },
+            {
+              "title": "Startups",
+              "description": "From hitting revenue goals to managing workflows, small businesses thrive with Trello.",
+              "url": "https://www.trello.com/teams/startups"
+            },
+            {
+              "title": "Remote teams",
+              "description": "Keep your remote team connected and motivated, no matter where they’re located around the world.",
+              "url": "https://www.trello.com/teams/remote-team-management"
+            }
+          ]
+        },
+        {
+          "section_title": "Our product in action",
+          "items": [
+            {
+              "title": "Use case: Task management",
+              "description": "Track progress of tasks in one convenient place with a visual layout that adds ‘ta-da’ to your to-do’s.",
+              "url": "https://www.trello.com/use-cases/task-management"
+            },
+            {
+              "title": "Use case: Resource hub",
+              "description": "Save hours when you give teams a well-designed hub to find information easily and quickly.",
+              "url": "https://www.trello.com/use-cases/resource-hub"
+            },
+            {
+              "title": "Use case: Project management",
+              "description": "Keep projects organized, deadlines on track, and teammates aligned with Trello.",
+              "url": "https://www.trello.com/use-cases/project-management"
+            }
+          ]
+        },
+        {
+          "section_title": "Learn & connect",
+          "items": [
+            {
+              "title": "Trello guide",
+              "description": "Our easy to follow workflow guide will take you from project set-up to Trello expert in no time.",
+              "url": "https://www.trello.com/guide"
+            },
+            {
+              "title": "Remote work guide",
+              "description": "The complete guide to setting up your team for remote work success.",
+              "url": "https://www.trello.com/guide/remote-work"
+            },
+            {
+              "title": "Webinars",
+              "description": "Enjoy our free Trello webinars and become a productivity professional.",
+              "url": "https://www.trello.com/webinars"
+            },
+            {
+              "title": "Customer stories",
+              "description": "See how businesses have adopted Trello as a vital part of their workflow.",
+              "url": "https://www.trello.com/customers"
+            },
+            {
+              "title": "Developers",
+              "description": "The sky's the limit in what you can deliver to Trello users in your Power-Up!",
+              "url": "https://developer.atlassian.com/cloud/trello/"
+            },
+            {
+              "title": "Help resources",
+              "description": "Need help? Articles and FAQs to get you unstuck.",
+              "url": "https://support.atlassian.com/trello/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

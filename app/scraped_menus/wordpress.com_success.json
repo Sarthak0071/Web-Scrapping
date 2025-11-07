@@ -1,0 +1,22 @@
+{
+  "website": "https://www.wordpress.com",
+  "domain": "wordpress.com",
+  "scraped_at": "2025-11-07 13:39:05",
+  "menus": [
+    {
+      "menu_name": "Products",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Plans & Pricing",
+              "description": "",
+              "url": "https://wordpress.com/pricing/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

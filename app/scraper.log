@@ -1,0 +1,540 @@
+2025-11-06 21:53:49,056 [INFO] Starting scrape of 15 sites
+2025-11-06 21:53:49,060 [INFO] Scraping: https://buffer.com
+2025-11-06 21:53:49,886 [INFO] SUCCESS: 1 menus, 6 items
+2025-11-06 21:53:51,891 [INFO] Scraping: https://mailchimp.com
+2025-11-06 21:53:53,196 [INFO] SUCCESS: 4 menus, 43 items
+2025-11-06 21:53:55,202 [INFO] Scraping: https://hootsuite.com
+2025-11-06 21:53:55,976 [INFO] SUCCESS: 4 menus, 32 items
+2025-11-06 21:53:57,980 [INFO] Scraping: https://www.activecampaign.com
+2025-11-06 21:53:58,465 [INFO] SUCCESS: 3 menus, 50 items
+2025-11-06 21:54:00,466 [INFO] Scraping: https://www.hubspot.com
+2025-11-06 21:54:28,813 [INFO] SUCCESS: 5 menus, 61 items
+2025-11-06 21:54:30,816 [INFO] Scraping: https://www.slack.com
+2025-11-06 21:54:32,543 [INFO] SUCCESS: 2 menus, 60 items
+2025-11-06 21:54:34,546 [INFO] Scraping: https://www.shopify.com
+2025-11-06 21:54:36,200 [INFO] SUCCESS: 5 menus, 126 items
+2025-11-06 21:54:38,204 [INFO] Scraping: https://www.figma.com
+2025-11-06 21:54:39,399 [INFO] SUCCESS: 5 menus, 59 items
+2025-11-06 21:54:41,403 [INFO] Scraping: https://www.airtable.com
+2025-11-06 21:54:44,381 [INFO] SUCCESS: 3 menus, 64 items
+2025-11-06 21:54:46,385 [INFO] Scraping: https://www.asana.com
+2025-11-06 21:54:47,759 [INFO] SUCCESS: 1 menus, 1 items
+2025-11-06 21:54:49,760 [INFO] Scraping: https://www.notion.so
+2025-11-06 21:54:50,629 [INFO] SUCCESS: 2 menus, 25 items
+2025-11-06 21:54:52,629 [INFO] Scraping: https://www.canva.com
+2025-11-06 21:54:58,725 [ERROR] ERROR: Failed to fetch
+2025-11-06 21:55:00,730 [INFO] Scraping: https://www.dropbox.com
+2025-11-06 21:55:02,561 [INFO] SUCCESS: 3 menus, 24 items
+2025-11-06 21:55:04,569 [INFO] Scraping: https://www.trello.com
+2025-11-06 21:55:07,303 [WARNING] No menus found
+2025-11-06 21:55:09,311 [INFO] Scraping: https://www.zendesk.com
+2025-11-06 21:55:09,862 [INFO] SUCCESS: 6 menus, 62 items
+2025-11-06 21:55:11,867 [INFO] 
+2025-11-06 21:55:11,867 [INFO] ============================================================
+2025-11-06 21:55:11,868 [INFO] SUMMARY
+2025-11-06 21:55:11,869 [INFO] Total: 15 | Success: 13 | Failed: 2
+2025-11-06 21:55:11,869 [INFO] Extracted: 44 menus, 613 items
+2025-11-06 21:55:11,870 [INFO] Failed:
+2025-11-06 21:55:11,870 [INFO]   https://www.canva.com: Failed to fetch
+2025-11-06 21:55:11,870 [INFO]   https://www.trello.com: Unknown
+2025-11-06 21:55:11,871 [INFO] ============================================================
+2025-11-06 21:55:11,871 [INFO] Results saved to: C:\Users\ACER\Desktop\menu-scraper\app\scraped_menus
+2025-11-06 23:04:58,163 [INFO]    Workers: 15, Timeout: 20s
+2025-11-06 23:04:59,178 [INFO]    Found 3 potential menus
+2025-11-06 23:04:59,315 [INFO]    Found 4 potential menus
+2025-11-06 23:04:59,946 [INFO]    Found 4 potential menus
+2025-11-06 23:05:00,554 [INFO]    Found 2 potential menus
+2025-11-06 23:05:00,771 [INFO]    Found 4 potential menus
+2025-11-06 23:05:00,779 [INFO]    Found 7 potential menus
+2025-11-06 23:05:01,388 [INFO]    Found 3 potential menus
+2025-11-06 23:05:02,003 [INFO]    Found 10 potential menus
+2025-11-06 23:05:02,755 [INFO]    Found 7 potential menus
+2025-11-06 23:05:04,341 [INFO]    Found 6 potential menus
+2025-11-06 23:05:04,426 [INFO]    Found 4 potential menus
+2025-11-06 23:05:04,819 [INFO]    Found 14 potential menus
+2025-11-06 23:05:05,018 [INFO]    Found 10 potential menus
+2025-11-06 23:05:06,634 [WARNING] Attempt 1 failed for https://www.godaddy.com, retrying in 2s: 403 Client Error: Forbidden for url: https://www.godaddy.com/
+2025-11-06 23:05:07,474 [WARNING] Attempt 1 failed for https://www.namecheap.com, retrying in 2s: 403 Client Error: Forbidden for url: https://www.namecheap.com/
+2025-11-06 23:05:07,516 [INFO]    Found 6 potential menus
+2025-11-06 23:05:07,581 [INFO]    Found 4 potential menus
+2025-11-06 23:05:07,857 [INFO]    Found 4 potential menus
+2025-11-06 23:05:07,917 [WARNING] Attempt 1 failed for https://www.canva.com, retrying in 2s: 403 Client Error: Forbidden for url: https://www.canva.com/
+2025-11-06 23:05:10,167 [INFO]    Found 9 potential menus
+2025-11-06 23:05:10,298 [INFO]    Found 8 potential menus
+2025-11-06 23:05:10,412 [WARNING] Attempt 2 failed for https://www.godaddy.com, retrying in 4s: 403 Client Error: Forbidden for url: https://www.godaddy.com/
+2025-11-06 23:05:10,481 [INFO]    Found 6 potential menus
+2025-11-06 23:05:10,562 [WARNING] Attempt 2 failed for https://www.namecheap.com, retrying in 4s: 403 Client Error: Forbidden for url: https://www.namecheap.com/
+2025-11-06 23:05:11,757 [INFO]    Found 6 potential menus
+2025-11-06 23:05:12,379 [INFO]    Found 1 potential menus
+2025-11-06 23:05:12,594 [WARNING] Attempt 2 failed for https://www.canva.com, retrying in 4s: 403 Client Error: Forbidden for url: https://www.canva.com/
+2025-11-06 23:05:14,931 [ERROR] Failed to fetch https://www.namecheap.com after 3 attempts: 403 Client Error: Forbidden for url: https://www.namecheap.com/
+2025-11-06 23:05:14,931 [ERROR] Failed to fetch https://www.godaddy.com after 3 attempts: 403 Client Error: Forbidden for url: https://www.godaddy.com/
+2025-11-06 23:05:16,836 [ERROR] Failed to fetch https://www.canva.com after 3 attempts: 403 Client Error: Forbidden for url: https://www.canva.com/
+2025-11-06 23:05:26,059 [WARNING] Attempt 1 failed for https://www.adobe.com, retrying in 2s: HTTPSConnectionPool(host='www.adobe.com', port=443): Read timed out. (read timeout=20)
+2025-11-06 23:05:48,115 [WARNING] Attempt 2 failed for https://www.adobe.com, retrying in 4s: HTTPSConnectionPool(host='www.adobe.com', port=443): Read timed out. (read timeout=20)
+2025-11-06 23:06:12,264 [ERROR] Failed to fetch https://www.adobe.com after 3 attempts: HTTPSConnectionPool(host='www.adobe.com', port=443): Read timed out. (read timeout=20)
+2025-11-06 23:06:13,276 [INFO] 
+============================================================
+2025-11-06 23:06:13,281 [INFO] ============================================================
+2025-11-06 23:06:13,298 [INFO] ============================================================
+2025-11-06 23:06:13,311 [INFO]    - Check successful results in: scraped_menus/*_success.json
+2025-11-06 23:06:13,311 [INFO]    - Review failures in: scraped_menus/*_failed.json
+2025-11-06 23:06:13,311 [INFO] ============================================================
+
+2025-11-06 23:11:58,337 [INFO]    Workers: 15, Timeout: 20s
+2025-11-06 23:11:58,600 [WARNING] Attempt 1 failed for https://www.godaddy.com, retrying in 2s: 403 Client Error: Forbidden for url: https://www.godaddy.com/
+2025-11-06 23:11:58,643 [WARNING] Attempt 1 failed for https://www.namecheap.com, retrying in 2s: 403 Client Error: Forbidden for url: https://www.namecheap.com/
+2025-11-06 23:11:58,897 [INFO]    Found 4 potential menus
+2025-11-06 23:11:59,770 [WARNING] Attempt 1 failed for https://www.canva.com, retrying in 2s: 403 Client Error: Forbidden for url: https://www.canva.com/
+2025-11-06 23:12:01,006 [WARNING] Attempt 2 failed for https://www.godaddy.com, retrying in 4s: 403 Client Error: Forbidden for url: https://www.godaddy.com/
+2025-11-06 23:12:01,371 [WARNING] Attempt 2 failed for https://www.namecheap.com, retrying in 4s: 403 Client Error: Forbidden for url: https://www.namecheap.com/
+2025-11-06 23:12:02,260 [WARNING] Attempt 2 failed for https://www.canva.com, retrying in 4s: 403 Client Error: Forbidden for url: https://www.canva.com/
+2025-11-06 23:12:05,154 [ERROR] Failed to fetch https://www.godaddy.com after 3 attempts: 403 Client Error: Forbidden for url: https://www.godaddy.com/
+2025-11-06 23:12:05,456 [ERROR] Failed to fetch https://www.namecheap.com after 3 attempts: 403 Client Error: Forbidden for url: https://www.namecheap.com/
+2025-11-06 23:12:06,475 [ERROR] Failed to fetch https://www.canva.com after 3 attempts: 403 Client Error: Forbidden for url: https://www.canva.com/
+2025-11-06 23:12:18,640 [WARNING] Attempt 1 failed for https://www.adobe.com, retrying in 2s: HTTPSConnectionPool(host='www.adobe.com', port=443): Read timed out. (read timeout=20)
+2025-11-06 23:12:41,117 [WARNING] Attempt 2 failed for https://www.adobe.com, retrying in 4s: HTTPSConnectionPool(host='www.adobe.com', port=443): Read timed out. (read timeout=20)
+2025-11-06 23:13:05,210 [ERROR] Failed to fetch https://www.adobe.com after 3 attempts: HTTPSConnectionPool(host='www.adobe.com', port=443): Read timed out. (read timeout=20)
+2025-11-06 23:13:06,226 [INFO] 
+============================================================
+2025-11-06 23:13:06,232 [INFO] ============================================================
+2025-11-06 23:13:06,256 [INFO] ============================================================
+2025-11-06 23:13:06,264 [INFO]    - Check successful results in: scraped_menus/*_success.json
+2025-11-06 23:13:06,264 [INFO]    - Review failures in: scraped_menus/*_failed.json
+2025-11-06 23:13:06,265 [INFO] ============================================================
+
+2025-11-06 23:21:06,315 [INFO] 
+>> Starting scraping of 18 websites
+2025-11-06 23:21:06,316 [INFO] >> Workers: 10, Timeout: 25s
+
+2025-11-06 23:21:06,318 [INFO] >> Scraping buffer.com...
+2025-11-06 23:21:06,318 [INFO] >> Scraping mailchimp.com...
+2025-11-06 23:21:06,319 [INFO] >> Scraping hootsuite.com...
+2025-11-06 23:21:06,320 [INFO] >> Scraping activecampaign.com...
+2025-11-06 23:21:06,320 [INFO] >> Scraping hubspot.com...
+2025-11-06 23:21:06,320 [INFO] >> Scraping airtable.com...
+2025-11-06 23:21:06,321 [INFO] >> Scraping notion.so...
+2025-11-06 23:21:06,322 [INFO] >> Scraping dropbox.com...
+2025-11-06 23:21:06,323 [INFO] >> Scraping zoom.us...
+2025-11-06 23:21:06,323 [INFO] >> Scraping stripe.com...
+2025-11-06 23:21:06,692 [ERROR] >> ERROR activecampaign.com: Tag.find_all() got multiple values for argument 'limit'
+2025-11-06 23:21:06,692 [INFO] >> Scraping twilio.com...
+2025-11-06 23:21:06,763 [ERROR] >> ERROR buffer.com: Tag.find_all() got multiple values for argument 'limit'
+2025-11-06 23:21:06,763 [INFO] >> Scraping sendgrid.com...
+2025-11-06 23:21:07,219 [INFO] >> Scraping cloudflare.com...
+2025-11-06 23:21:07,220 [ERROR] >> ERROR twilio.com: Tag.find_all() got multiple values for argument 'limit'
+2025-11-06 23:21:07,366 [ERROR] >> ERROR hootsuite.com: Tag.find_all() got multiple values for argument 'limit'
+2025-11-06 23:21:07,366 [INFO] >> Scraping wordpress.com...
+2025-11-06 23:21:07,510 [INFO] >> Scraping shopify.com...
+2025-11-06 23:21:07,510 [ERROR] >> ERROR zoom.us: Tag.find_all() got multiple values for argument 'limit'
+2025-11-06 23:21:07,747 [ERROR] >> ERROR shopify.com: Tag.find_all() got multiple values for argument 'limit'
+2025-11-06 23:21:07,747 [INFO] >> Scraping atlassian.com...
+2025-11-06 23:21:08,196 [ERROR] >> ERROR airtable.com: Tag.find_all() got multiple values for argument 'limit'
+2025-11-06 23:21:08,197 [INFO] >> Scraping monday.com...
+2025-11-06 23:21:08,518 [ERROR] >> ERROR stripe.com: Tag.find_all() got multiple values for argument 'limit'
+2025-11-06 23:21:08,519 [INFO] >> Scraping trello.com...
+2025-11-06 23:21:08,606 [ERROR] >> ERROR notion.so: Tag.find_all() got multiple values for argument 'limit'
+2025-11-06 23:21:08,962 [ERROR] >> ERROR cloudflare.com: Tag.find_all() got multiple values for argument 'limit'
+2025-11-06 23:21:08,962 [ERROR] >> ERROR atlassian.com: Tag.find_all() got multiple values for argument 'limit'
+2025-11-06 23:21:09,040 [ERROR] >> ERROR dropbox.com: Tag.find_all() got multiple values for argument 'limit'
+2025-11-06 23:21:09,174 [ERROR] >> ERROR wordpress.com: Tag.find_all() got multiple values for argument 'limit'
+2025-11-06 23:21:09,306 [ERROR] >> ERROR mailchimp.com: Tag.find_all() got multiple values for argument 'limit'
+2025-11-06 23:21:09,911 [ERROR] >> ERROR trello.com: Tag.find_all() got multiple values for argument 'limit'
+2025-11-06 23:21:09,915 [ERROR] >> ERROR sendgrid.com: Tag.find_all() got multiple values for argument 'limit'
+2025-11-06 23:21:11,310 [ERROR] >> ERROR hubspot.com: Tag.find_all() got multiple values for argument 'limit'
+2025-11-06 23:21:12,042 [ERROR] >> ERROR monday.com: Tag.find_all() got multiple values for argument 'limit'
+2025-11-06 23:21:12,043 [INFO] 
+============================================================
+2025-11-06 23:21:12,044 [INFO] SCRAPING SUMMARY
+2025-11-06 23:21:12,044 [INFO] ============================================================
+2025-11-06 23:21:12,045 [INFO] SUCCESS: 0
+2025-11-06 23:21:12,045 [INFO] FAILED: 18
+2025-11-06 23:21:12,045 [INFO] SKIPPED: 0
+2025-11-06 23:21:12,046 [INFO] TIME: 5.73s (0.10 minutes)
+2025-11-06 23:21:12,046 [INFO] OUTPUT: scraped_menus/
+2025-11-06 23:21:12,046 [INFO] ============================================================
+2025-11-06 23:21:12,047 [INFO] SUCCESS RATE: 0.0%
+2025-11-06 23:21:12,047 [INFO] 
+Next steps:
+2025-11-06 23:21:12,047 [INFO]    - Check results: scraped_menus/*_success.json
+2025-11-06 23:21:12,048 [INFO]    - Review failures: scraped_menus/*_failed.json
+2025-11-06 23:21:12,048 [INFO] ============================================================
+
+2025-11-06 23:30:17,604 [INFO] 
+>> Starting scraping of 18 websites
+2025-11-06 23:30:17,612 [INFO] >> Workers: 10, Timeout: 25s
+
+2025-11-06 23:30:17,612 [INFO] >> Scraping buffer.com...
+2025-11-06 23:30:17,612 [INFO] >> Scraping mailchimp.com...
+2025-11-06 23:30:17,612 [INFO] >> Scraping hootsuite.com...
+2025-11-06 23:30:17,612 [INFO] >> Scraping activecampaign.com...
+2025-11-06 23:30:17,612 [INFO] >> Scraping hubspot.com...
+2025-11-06 23:30:17,612 [INFO] >> Scraping airtable.com...
+2025-11-06 23:30:17,612 [INFO] >> Scraping notion.so...
+2025-11-06 23:30:17,620 [INFO] >> Scraping dropbox.com...
+2025-11-06 23:30:17,620 [INFO] >> Scraping zoom.us...
+2025-11-06 23:30:17,620 [INFO] >> Scraping stripe.com...
+2025-11-06 23:30:18,312 [ERROR] >> ERROR mailchimp.com: unhashable type: 'slice'
+2025-11-06 23:30:18,312 [INFO] >> Scraping twilio.com...
+2025-11-06 23:30:18,410 [ERROR] >> ERROR buffer.com: unhashable type: 'slice'
+2025-11-06 23:30:18,410 [INFO] >> Scraping sendgrid.com...
+2025-11-06 23:30:18,522 [ERROR] >> ERROR activecampaign.com: unhashable type: 'slice'
+2025-11-06 23:30:18,522 [INFO] >> Scraping cloudflare.com...
+2025-11-06 23:30:18,758 [ERROR] >> ERROR hootsuite.com: unhashable type: 'slice'
+2025-11-06 23:30:18,758 [INFO] >> Scraping wordpress.com...
+2025-11-06 23:30:19,098 [ERROR] >> ERROR twilio.com: unhashable type: 'slice'
+2025-11-06 23:30:19,114 [INFO] >> Scraping shopify.com...
+2025-11-06 23:30:19,303 [ERROR] >> ERROR zoom.us: unhashable type: 'slice'
+2025-11-06 23:30:19,303 [INFO] >> Scraping atlassian.com...
+2025-11-06 23:30:19,576 [INFO] >> Scraping monday.com...
+2025-11-06 23:30:19,576 [ERROR] >> ERROR dropbox.com: 'NoneType' object is not subscriptable
+2025-11-06 23:30:19,608 [INFO] >> Scraping trello.com...
+2025-11-06 23:30:19,608 [ERROR] >> ERROR cloudflare.com: unhashable type: 'slice'
+2025-11-06 23:30:19,758 [ERROR] >> ERROR airtable.com: unhashable type: 'slice'
+2025-11-06 23:30:19,951 [ERROR] >> ERROR notion.so: unhashable type: 'slice'
+2025-11-06 23:30:19,951 [ERROR] >> ERROR shopify.com: unhashable type: 'slice'
+2025-11-06 23:30:20,582 [ERROR] >> ERROR stripe.com: unhashable type: 'slice'
+2025-11-06 23:30:20,891 [ERROR] >> ERROR atlassian.com: unhashable type: 'slice'
+2025-11-06 23:30:21,187 [ERROR] >> ERROR sendgrid.com: unhashable type: 'slice'
+2025-11-06 23:30:21,195 [ERROR] >> ERROR trello.com: unhashable type: 'slice'
+2025-11-06 23:30:21,260 [ERROR] >> ERROR wordpress.com: unhashable type: 'slice'
+2025-11-06 23:30:21,980 [ERROR] >> ERROR hubspot.com: unhashable type: 'slice'
+2025-11-06 23:30:23,474 [ERROR] >> ERROR monday.com: unhashable type: 'slice'
+2025-11-06 23:30:23,474 [INFO] 
+============================================================
+2025-11-06 23:30:23,474 [INFO] SCRAPING SUMMARY
+2025-11-06 23:30:23,474 [INFO] ============================================================
+2025-11-06 23:30:23,474 [INFO] SUCCESS: 0
+2025-11-06 23:30:23,474 [INFO] FAILED: 18
+2025-11-06 23:30:23,474 [INFO] SKIPPED: 0
+2025-11-06 23:30:23,474 [INFO] TIME: 5.86s (0.10 minutes)
+2025-11-06 23:30:23,474 [INFO] OUTPUT: scraped_menus/
+2025-11-06 23:30:23,474 [INFO] ============================================================
+2025-11-06 23:30:23,482 [INFO] SUCCESS RATE: 0.0%
+2025-11-06 23:30:23,482 [INFO] 
+Next steps:
+2025-11-06 23:30:23,482 [INFO]    - Check results: scraped_menus/*_success.json
+2025-11-06 23:30:23,482 [INFO]    - Review failures: scraped_menus/*_failed.json
+2025-11-06 23:30:23,482 [INFO] ============================================================
+
+2025-11-06 23:39:43,573 [INFO] 
+>> Starting scraping of 18 websites
+2025-11-06 23:39:43,575 [INFO] >> Workers: 10, Timeout: 25s
+
+2025-11-06 23:39:43,577 [INFO] >> Scraping buffer.com...
+2025-11-06 23:39:43,577 [INFO] >> Scraping mailchimp.com...
+2025-11-06 23:39:43,578 [INFO] >> Scraping hootsuite.com...
+2025-11-06 23:39:43,579 [INFO] >> Scraping activecampaign.com...
+2025-11-06 23:39:43,579 [INFO] >> Scraping hubspot.com...
+2025-11-06 23:39:43,580 [INFO] >> Scraping airtable.com...
+2025-11-06 23:39:43,580 [INFO] >> Scraping notion.so...
+2025-11-06 23:39:43,581 [INFO] >> Scraping dropbox.com...
+2025-11-06 23:39:43,582 [INFO] >> Scraping zoom.us...
+2025-11-06 23:39:43,583 [INFO] >> Scraping stripe.com...
+2025-11-06 23:39:44,357 [INFO]    Found 4 potential menus
+2025-11-06 23:39:44,368 [INFO]    >> 'Features': 6 items in 1 sections
+2025-11-06 23:39:44,432 [INFO] >> SUCCESS buffer.com: 1 menus, 6 items
+2025-11-06 23:39:44,448 [INFO] >> Scraping twilio.com...
+2025-11-06 23:39:45,762 [INFO]    Found 33 potential menus
+2025-11-06 23:39:45,773 [INFO]    >> 'Top features': 11 items in 1 sections
+2025-11-06 23:39:45,803 [INFO]    >> 'Industries': 10 items in 1 sections
+2025-11-06 23:39:45,838 [INFO]    >> 'Resources': 8 items in 1 sections
+2025-11-06 23:39:46,020 [INFO]    >> 'open navigation menu': 2 items in 1 sections
+2025-11-06 23:39:46,448 [INFO] >> SUCCESS hootsuite.com: 4 menus, 31 items
+2025-11-06 23:39:46,652 [INFO] >> Scraping sendgrid.com...
+2025-11-06 23:39:46,762 [INFO]    Found 34 potential menus
+2025-11-06 23:39:46,925 [INFO]    >> 'Notion': 10 items in 1 sections
+2025-11-06 23:39:46,939 [INFO]    >> 'Explore': 15 items in 1 sections
+2025-11-06 23:39:47,083 [INFO] >> SUCCESS notion.so: 2 menus, 25 items
+2025-11-06 23:39:47,119 [INFO] >> Scraping cloudflare.com...
+2025-11-06 23:39:47,554 [INFO]    Found 4 potential menus
+2025-11-06 23:39:47,655 [INFO]    >> 'Platform': 21 items in 1 sections
+2025-11-06 23:39:47,716 [INFO]    >> 'Use Cases': 21 items in 1 sections
+2025-11-06 23:39:47,735 [INFO]    >> 'Learn': 11 items in 1 sections
+2025-11-06 23:39:47,823 [INFO]    >> 'Menu': 6 items in 1 sections
+2025-11-06 23:39:47,867 [INFO] >> SUCCESS activecampaign.com: 4 menus, 59 items
+2025-11-06 23:39:48,009 [INFO] >> Scraping wordpress.com...
+2025-11-06 23:39:49,442 [INFO]    Found 28 potential menus
+2025-11-06 23:39:49,598 [INFO]    >> 'Products': 22 items in 1 sections
+2025-11-06 23:39:49,742 [INFO]    >> 'AI': 6 items in 1 sections
+2025-11-06 23:39:49,841 [INFO]    >> 'Solutions': 29 items in 1 sections
+2025-11-06 23:39:49,932 [INFO] >> SUCCESS zoom.us: 3 menus, 57 items
+2025-11-06 23:39:50,081 [INFO] >> Scraping shopify.com...
+2025-11-06 23:39:50,369 [INFO]    Found 30 potential menus
+2025-11-06 23:39:50,377 [INFO]    >> 'Products': 8 items in 1 sections
+2025-11-06 23:39:50,386 [INFO]    >> 'Solutions': 15 items in 1 sections
+2025-11-06 23:39:50,478 [INFO]    >> 'Get app': 2 items in 1 sections
+2025-11-06 23:39:50,930 [INFO]    Found 24 potential menus
+2025-11-06 23:39:51,012 [INFO] >> SUCCESS dropbox.com: 3 menus, 25 items
+2025-11-06 23:39:51,099 [INFO]    >> 'Solutions and Services': 18 items in 3 sections
+2025-11-06 23:39:51,133 [INFO] >> Scraping atlassian.com...
+2025-11-06 23:39:51,396 [INFO]    >> 'Integrations': 21 items in 1 sections
+2025-11-06 23:39:51,547 [INFO]    >> 'Resources': 15 items in 2 sections
+2025-11-06 23:39:52,207 [INFO]    >> 'For Developers': 3 items in 1 sections
+2025-11-06 23:39:52,439 [INFO] >> SUCCESS mailchimp.com: 4 menus, 57 items
+2025-11-06 23:39:52,993 [INFO]    Found 4 potential menus
+2025-11-06 23:39:53,024 [INFO]    >> 'Products': 1 items in 1 sections
+2025-11-06 23:39:53,141 [INFO] >> SUCCESS wordpress.com: 1 menus, 1 items
+2025-11-06 23:39:53,149 [INFO] >> Scraping monday.com...
+2025-11-06 23:39:53,430 [INFO] >> Scraping trello.com...
+2025-11-06 23:39:55,791 [INFO]    Found 16 potential menus
+2025-11-06 23:39:56,335 [INFO]    >> 'Solutions': 26 items in 1 sections
+2025-11-06 23:39:56,767 [INFO]    >> 'Resources': 16 items in 1 sections
+2025-11-06 23:39:56,817 [INFO]    >> 'What’s new': 3 items in 1 sections
+2025-11-06 23:39:56,973 [INFO] >> SUCCESS shopify.com: 3 menus, 45 items
+2025-11-06 23:39:57,500 [INFO]    Found 30 potential menus
+2025-11-06 23:39:57,521 [INFO]    >> 'Select a language': 5 items in 1 sections
+2025-11-06 23:39:57,757 [INFO]    >> 'About': 2 items in 1 sections
+2025-11-06 23:39:58,025 [INFO]    >> 'Products': 7 items in 2 sections
+2025-11-06 23:39:58,061 [INFO]    >> 'Solutions': 15 items in 1 sections
+2025-11-06 23:39:58,255 [INFO]    >> 'Resources': 25 items in 1 sections
+2025-11-06 23:39:58,614 [INFO] >> SUCCESS hubspot.com: 5 menus, 54 items
+2025-11-06 23:39:59,908 [INFO]    Found 12 potential menus
+2025-11-06 23:40:00,146 [INFO]    >> 'Platform': 19 items in 2 sections
+2025-11-06 23:40:00,273 [INFO]    >> 'Solutions': 7 items in 1 sections
+2025-11-06 23:40:00,812 [INFO]    >> 'Resources': 24 items in 1 sections
+2025-11-06 23:40:00,924 [INFO]    >> 'Developers Docs': 4 items in 1 sections
+2025-11-06 23:40:00,975 [INFO]    Found 9 potential menus
+2025-11-06 23:40:00,992 [INFO]    >> 'Support': 2 items in 1 sections
+2025-11-06 23:40:01,233 [INFO]    >> 'See all teams': 6 items in 1 sections
+2025-11-06 23:40:01,399 [INFO]    >> 'See all use cases': 3 items in 1 sections
+2025-11-06 23:40:01,415 [INFO] >> SUCCESS trello.com: 2 menus, 9 items
+2025-11-06 23:40:01,649 [INFO] >> SUCCESS airtable.com: 5 menus, 56 items
+2025-11-06 23:40:02,539 [INFO]    Found 26 potential menus
+2025-11-06 23:40:02,864 [INFO]    >> 'Platform': 20 items in 1 sections
+2025-11-06 23:40:02,922 [INFO]    >> 'Products': 22 items in 1 sections
+2025-11-06 23:40:03,198 [INFO] >> SUCCESS cloudflare.com: 2 menus, 42 items
+2025-11-06 23:40:05,718 [INFO]    Found 7 potential menus
+2025-11-06 23:40:05,784 [INFO]    >> 'Teams': 14 items in 3 sections
+2025-11-06 23:40:05,829 [INFO]    >> 'Features': 8 items in 1 sections
+2025-11-06 23:40:05,875 [INFO]    >> 'Discover AI': 2 items in 1 sections
+2025-11-06 23:40:05,936 [INFO] >> SUCCESS monday.com: 3 menus, 24 items
+2025-11-06 23:40:06,463 [INFO]    Found 23 potential menus
+2025-11-06 23:40:06,508 [INFO]    >> 'API statusDeveloper blog': 6 items in 2 sections
+2025-11-06 23:40:06,553 [INFO]    >> 'JobsNewsroomStripe PressBecome a partner': 7 items in 1 sections
+2025-11-06 23:40:06,659 [INFO]    >> 'PaymentsPaymentsOnline payments': 3 items in 1 sections
+2025-11-06 23:40:06,748 [INFO]    >> 'RadarRadarFraud prevention': 4 items in 1 sections
+2025-11-06 23:40:06,801 [INFO]    >> 'ConnectConnectPayments for platforms': 5 items in 1 sections
+2025-11-06 23:40:06,934 [INFO] >> SUCCESS stripe.com: 5 menus, 25 items
+2025-11-06 23:40:10,595 [INFO]    Found 7 potential menus
+2025-11-06 23:40:10,635 [INFO]    >> 'Products': 17 items in 1 sections
+2025-11-06 23:40:10,715 [INFO]    >> 'Why SendGrid': 19 items in 1 sections
+2025-11-06 23:40:10,740 [INFO]    >> 'Resources': 11 items in 1 sections
+2025-11-06 23:40:10,794 [INFO]    >> 'Developers': 13 items in 1 sections
+2025-11-06 23:40:10,968 [INFO]    >> 'Pricing': 1 items in 1 sections
+2025-11-06 23:40:10,995 [INFO]    >> 'Contact us': 1 items in 1 sections
+2025-11-06 23:40:11,195 [INFO] >> SUCCESS sendgrid.com: 6 menus, 62 items
+2025-11-06 23:40:11,245 [INFO]    Found 22 potential menus
+2025-11-06 23:40:11,325 [INFO]    >> 'Products': 18 items in 6 sections
+2025-11-06 23:40:11,389 [INFO]    >> 'Solutions': 10 items in 3 sections
+2025-11-06 23:40:11,405 [INFO]    >> 'Why Atlassian?': 7 items in 1 sections
+2025-11-06 23:40:11,415 [INFO]    >> 'Resources': 14 items in 2 sections
+2025-11-06 23:40:11,435 [INFO] >> SUCCESS atlassian.com: 4 menus, 49 items
+2025-11-06 23:40:12,195 [INFO]    Found 9 potential menus
+2025-11-06 23:40:12,198 [INFO]    >> 'English': 6 items in 1 sections
+2025-11-06 23:40:12,198 [INFO]    >> 'Support': 3 items in 1 sections
+2025-11-06 23:40:12,198 [INFO]    >> 'Login': 3 items in 1 sections
+2025-11-06 23:40:12,225 [INFO]    >> 'ProductsAn icon of a down chevron': 41 items in 1 sections
+2025-11-06 23:40:12,255 [INFO]    >> 'SolutionsAn icon of a down chevron': 29 items in 1 sections
+2025-11-06 23:40:12,282 [INFO]    >> 'Why TwilioAn icon of a down chevron': 13 items in 1 sections
+2025-11-06 23:40:12,315 [INFO]    >> 'ResourcesAn icon of a down chevron': 18 items in 1 sections
+2025-11-06 23:40:12,335 [INFO]    >> 'PricingAn icon of a down chevron': 16 items in 1 sections
+2025-11-06 23:40:12,335 [INFO] >> SUCCESS twilio.com: 8 menus, 129 items
+2025-11-06 23:40:17,410 [INFO] 
+============================================================
+2025-11-06 23:40:17,410 [INFO] SCRAPING SUMMARY
+2025-11-06 23:40:17,410 [INFO] ============================================================
+2025-11-06 23:40:17,410 [INFO] SUCCESS: 18
+2025-11-06 23:40:17,410 [INFO] FAILED: 0
+2025-11-06 23:40:17,415 [INFO] SKIPPED: 0
+2025-11-06 23:40:17,415 [INFO] TIME: 33.84s (0.56 minutes)
+2025-11-06 23:40:17,415 [INFO] OUTPUT: scraped_menus/
+2025-11-06 23:40:17,415 [INFO] ============================================================
+2025-11-06 23:40:17,415 [INFO] SUCCESS RATE: 100.0%
+2025-11-06 23:40:17,415 [INFO] 
+Next steps:
+2025-11-06 23:40:17,415 [INFO]    - Check results: scraped_menus/*_success.json
+2025-11-06 23:40:17,415 [INFO] ============================================================
+
+2025-11-07 13:25:52,714 [INFO] 
+============================================================
+2025-11-07 13:25:52,717 [INFO] UNIVERSAL HTML MENU SCRAPER v3.0
+2025-11-07 13:25:52,718 [INFO] Targets: 18 websites
+2025-11-07 13:25:52,718 [INFO] Workers: 10
+2025-11-07 13:25:52,718 [INFO] ============================================================
+
+2025-11-07 13:25:52,721 [INFO] START: buffer.com
+2025-11-07 13:25:52,722 [INFO] START: mailchimp.com
+2025-11-07 13:25:52,724 [INFO] START: hootsuite.com
+2025-11-07 13:25:52,725 [INFO] START: activecampaign.com
+2025-11-07 13:25:52,726 [INFO] START: hubspot.com
+2025-11-07 13:25:52,727 [INFO] START: airtable.com
+2025-11-07 13:25:52,728 [INFO] START: notion.so
+2025-11-07 13:25:52,729 [INFO] START: dropbox.com
+2025-11-07 13:25:52,731 [INFO] START: zoom.us
+2025-11-07 13:25:52,733 [INFO] START: stripe.com
+2025-11-07 13:25:53,178 [INFO]    Found 8 menu triggers
+2025-11-07 13:25:53,187 [INFO]   MENU: 'Platform' -> 21 items, 1 sections
+2025-11-07 13:25:53,198 [INFO]   MENU: 'Use Cases' -> 21 items, 1 sections
+2025-11-07 13:25:53,206 [INFO]   MENU: 'Learn' -> 11 items, 1 sections
+2025-11-07 13:25:53,209 [INFO]   MENU: 'Menu' -> 6 items, 1 sections
+2025-11-07 13:25:53,216 [INFO]   MENU: 'Platform Platform' -> 2 items, 1 sections
+2025-11-07 13:25:53,236 [INFO] SUCCESS: activecampaign.com -> 5 menus, 61 items
+2025-11-07 13:25:53,267 [INFO] START: twilio.com
+2025-11-07 13:25:53,355 [INFO]    Found 5 menu triggers
+2025-11-07 13:25:53,359 [INFO]   MENU: 'Features' -> 6 items, 1 sections
+2025-11-07 13:25:53,371 [INFO] SUCCESS: buffer.com -> 1 menus, 6 items
+2025-11-07 13:25:53,372 [INFO] START: sendgrid.com
+2025-11-07 13:25:53,562 [INFO]    Found 9 menu triggers
+2025-11-07 13:25:53,567 [INFO]   MENU: 'Top features' -> 11 items, 1 sections
+2025-11-07 13:25:53,571 [INFO]   MENU: 'Industries' -> 10 items, 1 sections
+2025-11-07 13:25:53,576 [INFO]   MENU: 'Resources' -> 8 items, 1 sections
+2025-11-07 13:25:53,584 [INFO]   MENU: 'Integrations' -> 3 items, 1 sections
+2025-11-07 13:25:53,588 [INFO] SUCCESS: hootsuite.com -> 4 menus, 32 items
+2025-11-07 13:25:53,606 [INFO] START: cloudflare.com
+2025-11-07 13:25:53,749 [INFO]    Found 28 menu triggers
+2025-11-07 13:25:53,757 [INFO]   MENU: 'Notion' -> 10 items, 1 sections
+2025-11-07 13:25:53,768 [INFO]   MENU: 'Explore' -> 15 items, 1 sections
+2025-11-07 13:25:53,792 [INFO] SUCCESS: notion.so -> 2 menus, 25 items
+2025-11-07 13:25:53,794 [INFO] START: wordpress.com
+2025-11-07 13:25:54,801 [INFO]    Found 27 menu triggers
+2025-11-07 13:25:54,880 [INFO]   MENU: 'Products' -> 24 items, 1 sections
+2025-11-07 13:25:54,895 [INFO]   MENU: 'AI' -> 6 items, 1 sections
+2025-11-07 13:25:54,943 [INFO]   MENU: 'Solutions' -> 29 items, 1 sections
+2025-11-07 13:25:54,988 [INFO]   MENU: 'Meet' -> 2 items, 1 sections
+2025-11-07 13:25:54,994 [INFO]   MENU: 'Web AppWeb App' -> 7 items, 1 sections
+2025-11-07 13:25:55,032 [INFO] SUCCESS: zoom.us -> 5 menus, 68 items
+2025-11-07 13:25:55,040 [INFO] START: shopify.com
+2025-11-07 13:25:55,776 [INFO]    Found 9 menu triggers
+2025-11-07 13:25:55,814 [INFO]   MENU: 'Platform' -> 19 items, 2 sections
+2025-11-07 13:25:55,837 [INFO]   MENU: 'Solutions' -> 7 items, 1 sections
+2025-11-07 13:25:55,902 [INFO]   MENU: 'Resources' -> 36 items, 3 sections
+2025-11-07 13:25:55,939 [INFO] SUCCESS: airtable.com -> 3 menus, 62 items
+2025-11-07 13:25:56,003 [INFO] START: atlassian.com
+2025-11-07 13:25:56,524 [INFO]    Found 28 menu triggers
+2025-11-07 13:25:56,542 [INFO]   MENU: 'The Platform' -> 3 items, 1 sections
+2025-11-07 13:25:56,596 [INFO]   MENU: 'Communications' -> 16 items, 1 sections
+2025-11-07 13:25:56,700 [INFO]   MENU: 'Customer Data' -> 14 items, 1 sections
+2025-11-07 13:25:56,718 [INFO]   MENU: 'Authentication' -> 2 items, 1 sections
+2025-11-07 13:25:56,791 [INFO]    Found 9 menu triggers
+2025-11-07 13:25:56,855 [INFO]   MENU: 'Conversational AI' -> 3 items, 1 sections
+2025-11-07 13:25:57,057 [INFO]   MENU: 'Use Cases' -> 14 items, 1 sections
+2025-11-07 13:25:57,160 [INFO]   MENU: 'Teams' -> 5 items, 1 sections
+2025-11-07 13:25:57,203 [INFO]   MENU: 'Industry' -> 8 items, 1 sections
+2025-11-07 13:25:57,218 [INFO]   MENU: 'Company Size' -> 2 items, 1 sections
+2025-11-07 13:25:57,233 [INFO]   MENU: 'Overview' -> 2 items, 1 sections
+2025-11-07 13:25:57,237 [INFO]   MENU: 'Platform' -> 20 items, 1 sections
+2025-11-07 13:25:57,322 [INFO]   MENU: 'Differentiators' -> 4 items, 1 sections
+2025-11-07 13:25:57,408 [INFO]   MENU: 'Products' -> 22 items, 1 sections
+2025-11-07 13:25:57,453 [INFO]   MENU: 'Company' -> 8 items, 1 sections
+2025-11-07 13:25:57,539 [INFO]   MENU: 'Developers' -> 19 items, 1 sections
+2025-11-07 13:25:57,648 [INFO]   MENU: 'Developers' -> 5 items, 1 sections
+2025-11-07 13:25:57,652 [INFO]    Found 44 menu triggers
+2025-11-07 13:25:57,768 [INFO]   MENU: 'Partners' -> 5 items, 1 sections
+2025-11-07 13:25:57,814 [INFO]    Found 5 menu triggers
+2025-11-07 13:25:57,829 [INFO]   MENU: 'Learn' -> 9 items, 1 sections
+2025-11-07 13:25:57,894 [INFO]   MENU: 'Products' -> 8 items, 1 sections
+2025-11-07 13:25:57,971 [INFO]   MENU: 'Resources' -> 14 items, 1 sections
+2025-11-07 13:25:58,060 [INFO]   MENU: 'Products' -> 1 items, 1 sections
+2025-11-07 13:25:58,126 [INFO]   MENU: 'Support and services' -> 8 items, 1 sections
+2025-11-07 13:25:58,171 [INFO]   MENU: 'Solutions' -> 15 items, 1 sections
+2025-11-07 13:25:58,329 [INFO]   MENU: 'Company' -> 12 items, 1 sections
+2025-11-07 13:25:58,329 [INFO]    Found 12 menu triggers
+2025-11-07 13:25:58,547 [INFO] SUCCESS: wordpress.com -> 1 menus, 1 items
+2025-11-07 13:25:58,699 [INFO]   MENU: 'Get app' -> 2 items, 1 sections
+2025-11-07 13:25:58,805 [INFO]   MENU: 'Products' -> 2 items, 1 sections
+2025-11-07 13:25:58,981 [INFO]   MENU: 'IndustriesHealthcareBankingRetailGamingPublic sector' -> 5 items, 1 sections
+2025-11-07 13:25:59,018 [INFO]    Found 3 menu triggers
+2025-11-07 13:25:59,265 [INFO]   MENU: 'Solutions and Services' -> 18 items, 3 sections
+2025-11-07 13:25:59,463 [INFO]    Found 6 menu triggers
+2025-11-07 13:25:59,489 [INFO] START: monday.com
+2025-11-07 13:25:59,740 [INFO]    Found 29 menu triggers
+2025-11-07 13:25:59,748 [INFO]   MENU: 'Why Twilio' -> 1 items, 1 sections
+2025-11-07 13:25:59,749 [INFO]   MENU: 'EngageEventsDemosWebinarsWorkshops' -> 1 items, 1 sections
+2025-11-07 13:25:59,926 [INFO]   MENU: 'Solutions' -> 29 items, 2 sections
+2025-11-07 13:26:00,050 [INFO]   MENU: 'Integrations' -> 25 items, 2 sections
+2025-11-07 13:26:00,278 [INFO]   MENU: 'Products' -> 17 items, 1 sections
+2025-11-07 13:26:00,330 [INFO] SUCCESS: dropbox.com -> 3 menus, 25 items
+2025-11-07 13:26:00,337 [INFO]    Found 4 menu triggers
+2025-11-07 13:26:00,347 [INFO]    Found 9 menu triggers
+2025-11-07 13:26:00,353 [INFO]   MENU: 'Select a language' -> 5 items, 1 sections
+2025-11-07 13:26:00,379 [INFO]   MENU: 'Pricing' -> 16 items, 1 sections
+2025-11-07 13:26:00,381 [INFO] SUCCESS: cloudflare.com -> 8 menus, 98 items
+2025-11-07 13:26:00,397 [INFO]   MENU: 'Resources' -> 16 items, 1 sections
+2025-11-07 13:26:00,411 [INFO]   MENU: 'Resources' -> 14 items, 2 sections
+2025-11-07 13:26:00,424 [INFO]   MENU: 'Why SendGrid' -> 19 items, 1 sections
+2025-11-07 13:26:00,425 [INFO] START: trello.com
+2025-11-07 13:26:00,457 [INFO]   MENU: 'Products' -> 18 items, 6 sections
+2025-11-07 13:26:00,462 [INFO]   MENU: 'API statusDeveloper blog' -> 6 items, 2 sections
+2025-11-07 13:26:00,467 [INFO]   MENU: 'About' -> 4 items, 1 sections
+2025-11-07 13:26:00,469 [INFO]   MENU: 'English' -> 6 items, 1 sections
+2025-11-07 13:26:00,479 [INFO]   MENU: 'What’s new' -> 3 items, 1 sections
+2025-11-07 13:26:00,512 [INFO]   MENU: 'Resources' -> 11 items, 1 sections
+2025-11-07 13:26:00,578 [INFO]   MENU: 'Solutions' -> 10 items, 3 sections
+2025-11-07 13:26:00,625 [INFO]   MENU: 'JobsNewsroomStripe PressBecome a partner' -> 7 items, 1 sections
+2025-11-07 13:26:00,658 [INFO] SUCCESS: mailchimp.com -> 3 menus, 57 items
+2025-11-07 13:26:00,681 [INFO]   MENU: 'Products' -> 7 items, 2 sections
+2025-11-07 13:26:00,683 [INFO]   MENU: 'Login' -> 3 items, 1 sections
+2025-11-07 13:26:00,684 [INFO] SUCCESS: shopify.com -> 3 menus, 48 items
+2025-11-07 13:26:00,701 [INFO]   MENU: 'Developers' -> 13 items, 1 sections
+2025-11-07 13:26:00,706 [INFO]   MENU: 'Why Atlassian?' -> 7 items, 1 sections
+2025-11-07 13:26:00,707 [INFO] SUCCESS: stripe.com -> 2 menus, 13 items
+2025-11-07 13:26:00,718 [INFO]   MENU: 'Solutions' -> 15 items, 1 sections
+2025-11-07 13:26:00,724 [INFO] SUCCESS: twilio.com -> 20 menus, 131 items
+2025-11-07 13:26:00,748 [INFO]   MENU: 'Pricing' -> 1 items, 1 sections
+2025-11-07 13:26:00,754 [INFO]   MENU: 'Resources' -> 14 items, 2 sections
+2025-11-07 13:26:00,765 [INFO]   MENU: 'Resources' -> 25 items, 1 sections
+2025-11-07 13:26:00,770 [INFO]   MENU: 'Contact us' -> 1 items, 1 sections
+2025-11-07 13:26:00,772 [INFO] SUCCESS: atlassian.com -> 4 menus, 49 items
+2025-11-07 13:26:00,781 [INFO]   MENU: 'Products Products' -> 6 items, 1 sections
+2025-11-07 13:26:00,782 [INFO] SUCCESS: sendgrid.com -> 6 menus, 62 items
+2025-11-07 13:26:00,924 [INFO]   MENU: 'Skip to content' -> 1 items, 1 sections
+2025-11-07 13:26:00,925 [INFO] SUCCESS: hubspot.com -> 7 menus, 63 items
+2025-11-07 13:26:01,817 [INFO]    Found 7 menu triggers
+2025-11-07 13:26:01,823 [INFO]   MENU: 'See all teams' -> 6 items, 1 sections
+2025-11-07 13:26:01,826 [INFO]   MENU: 'See all use cases' -> 3 items, 1 sections
+2025-11-07 13:26:01,828 [INFO] SUCCESS: trello.com -> 2 menus, 9 items
+2025-11-07 13:26:04,122 [INFO]    Found 7 menu triggers
+2025-11-07 13:26:04,125 [INFO]   MENU: 'Teams' -> 14 items, 3 sections
+2025-11-07 13:26:04,127 [INFO]   MENU: 'Features' -> 8 items, 1 sections
+2025-11-07 13:26:04,129 [INFO]   MENU: 'Discover AI' -> 2 items, 1 sections
+2025-11-07 13:26:04,131 [INFO]   MENU: 'Pricing' -> 3 items, 2 sections
+2025-11-07 13:26:04,131 [INFO] SUCCESS: monday.com -> 4 menus, 27 items
+2025-11-07 13:26:21,426 [INFO] 
+============================================================
+2025-11-07 13:26:21,427 [INFO] SUMMARY
+2025-11-07 13:26:21,427 [INFO] ============================================================
+2025-11-07 13:26:21,428 [INFO] SUCCESS: 18
+2025-11-07 13:26:21,429 [INFO] FAILED: 0
+2025-11-07 13:26:21,429 [INFO] SKIPPED: 0
+2025-11-07 13:26:21,430 [INFO] TIME: 28.7s (0.5min)
+2025-11-07 13:26:21,431 [INFO] SUCCESS RATE: 100.0%
+2025-11-07 13:26:21,432 [INFO] OUTPUT: scraped_menus/
+2025-11-07 13:26:21,432 [INFO] ============================================================
+
+2025-11-07 13:38:57,705 [INFO]    Workers: 10, Timeout: 25s
+2025-11-07 13:38:58,270 [INFO]    Found 10 potential menus
+2025-11-07 13:38:58,738 [INFO]    Found 4 potential menus
+2025-11-07 13:38:58,856 [INFO]    Found 2 potential menus
+2025-11-07 13:38:59,015 [INFO]    Found 7 potential menus
+2025-11-07 13:38:59,934 [INFO]    Found 7 potential menus
+2025-11-07 13:39:00,209 [INFO]    Found 4 potential menus
+2025-11-07 13:39:00,323 [INFO]    Found 4 potential menus
+2025-11-07 13:39:00,774 [INFO]    Found 6 potential menus
+2025-11-07 13:39:01,937 [INFO]    Found 9 potential menus
+2025-11-07 13:39:02,686 [INFO]    Found 14 potential menus
+2025-11-07 13:39:03,823 [INFO]    Found 8 potential menus
+2025-11-07 13:39:04,484 [INFO]    Found 3 potential menus
+2025-11-07 13:39:05,360 [INFO]    Found 4 potential menus
+2025-11-07 13:39:06,027 [INFO]    Found 6 potential menus
+2025-11-07 13:39:06,545 [INFO]    Found 4 potential menus
+2025-11-07 13:39:07,673 [INFO]    Found 6 potential menus
+2025-11-07 13:39:07,831 [INFO]    Found 6 potential menus
+2025-11-07 13:39:08,063 [INFO]    Found 1 potential menus
+2025-11-07 13:39:28,891 [INFO] 
+============================================================
+2025-11-07 13:39:28,900 [INFO] ============================================================
+2025-11-07 13:39:28,933 [INFO] ============================================================
+2025-11-07 13:39:28,944 [INFO]    - Check successful results in: scraped_menus/*_success.json
+2025-11-07 13:39:28,945 [INFO] ============================================================
+

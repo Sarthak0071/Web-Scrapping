@@ -1,7 +1,7 @@
 {
   "website": "https://www.hubspot.com",
-  "domain": "www.hubspot.com",
-  "scraped_at": "2025-11-05 21:16:21",
+  "domain": "hubspot.com",
+  "scraped_at": "2025-11-07 13:39:02",
   "menus": [
     {
       "menu_name": "Select a language",
@@ -65,64 +65,49 @@
           "section_title": "The HubSpot Customer Platform",
           "items": [
             {
-              "title": "Marketing Hub",
-              "description": "Marketing automation software",
+              "title": "Free HubSpot CRM",
+              "description": "",
+              "url": "https://www.hubspot.com/products/crm"
+            },
+            {
+              "title": "Overview of all products",
+              "description": "",
+              "url": "https://www.hubspot.com/products/get-started"
+            },
+            {
+              "title": "Free and premium plans",
+              "description": "",
               "url": "https://www.hubspot.com/products/marketing"
             },
             {
-              "title": "Sales Hub",
-              "description": "Sales software",
+              "title": "Free and premium plans",
+              "description": "",
               "url": "https://www.hubspot.com/products/sales"
             },
             {
-              "title": "Service Hub",
-              "description": "Customer service software",
+              "title": "Free and premium plans",
+              "description": "",
               "url": "https://www.hubspot.com/products/service"
             },
             {
-              "title": "Content Hub",
-              "description": "Content marketing software",
+              "title": "Free and premium plans",
+              "description": "",
               "url": "https://www.hubspot.com/products/content"
             },
             {
-              "title": "Data Hub",
-              "description": "Data management software",
+              "title": "Free and premium plans",
+              "description": "",
               "url": "https://www.hubspot.com/products/data"
             },
             {
-              "title": "Commerce Hub",
-              "description": "CPQ, billing, and payments software",
+              "title": "Free and premium plans",
+              "description": "",
               "url": "https://www.hubspot.com/products/commerce"
             },
             {
-              "title": "Smart CRM",
-              "description": "AI-powered, flexible CRM software",
-              "url": "https://www.hubspot.com/products/crm/ai-crm"
-            },
-            {
-              "title": "Small Business Bundle",
-              "description": "The Starter edition of each product, built for startups and small businesses",
-              "url": "https://www.hubspot.com/products/crm/starter"
-            }
-          ]
-        },
-        {
-          "section_title": "Small Business Bundle",
-          "items": [
-            {
-              "title": "Breeze",
-              "description": "HubSpot's AI that powers the entire customer platform",
-              "url": "https://www.hubspot.com/products/artificial-intelligence"
-            },
-            {
-              "title": "Breeze Agents",
-              "description": "AI-powered specialists that extend your team's marketing, sales, and service capabilities",
+              "title": "Meet your AI growth team",
+              "description": "",
               "url": "https://www.hubspot.com/products/artificial-intelligence/breeze-ai-agents"
-            },
-            {
-              "title": "HubSpot Marketplace",
-              "description": "Connect your favorite apps to HubSpot",
-              "url": "https://ecosystem.hubspot.com/marketplace/apps"
             }
           ]
         }
@@ -233,12 +218,7 @@
               "title": "Annual Diversity Report",
               "description": "",
               "url": "https://www.hubspot.com/diversity/report"
-            }
-          ]
-        },
-        {
-          "section_title": "Community & Events",
-          "items": [
+            },
             {
               "title": "INBOUND Event",
               "description": "",
@@ -253,12 +233,7 @@
               "title": "HubSpot User Groups",
               "description": "",
               "url": "https://www.hubspot.com/hubspot-user-groups"
-            }
-          ]
-        },
-        {
-          "section_title": "Partners",
-          "items": [
+            },
             {
               "title": "Solutions Partner Program",
               "description": "",
@@ -283,12 +258,7 @@
               "title": "Startup Partner Program",
               "description": "",
               "url": "https://www.hubspot.com/startups/partners"
-            }
-          ]
-        },
-        {
-          "section_title": "Education",
-          "items": [
+            },
             {
               "title": "The Loop Marketing Playbook",
               "description": "",
@@ -318,12 +288,7 @@
               "title": "HubSpot Knowledge Base",
               "description": "",
               "url": "https://knowledge.hubspot.com"
-            }
-          ]
-        },
-        {
-          "section_title": "Tools",
-          "items": [
+            },
             {
               "title": "Website Templates",
               "description": "",
@@ -333,12 +298,7 @@
               "title": "Developer Tools",
               "description": "",
               "url": "https://developers.hubspot.com"
-            }
-          ]
-        },
-        {
-          "section_title": "Services",
-          "items": [
+            },
             {
               "title": "Onboarding",
               "description": "",
@@ -368,6 +328,21 @@
               "title": "Hire a Solutions Partner",
               "description": "",
               "url": "https://ecosystem.hubspot.com/marketplace/solutions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Skip to content",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Customer Support",
+              "description": "",
+              "url": "https://help.hubspot.com"
             }
           ]
         }
