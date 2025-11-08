@@ -1,0 +1,1937 @@
+{
+  "website": "https://www.twilio.com",
+  "domain": "www.twilio.com",
+  "scraped_at": "2025-11-07T16:27:33.023242",
+  "menus": [
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "English An icon of a checkmark",
+          "url": "https://www.twilio.com/en-us",
+          "items": []
+        },
+        {
+          "title": "French",
+          "url": "https://www.twilio.com/fr-fr",
+          "items": []
+        },
+        {
+          "title": "German",
+          "url": "https://www.twilio.com/de-de",
+          "items": []
+        },
+        {
+          "title": "Japanese",
+          "url": "https://www.twilio.com/ja-jp",
+          "items": []
+        },
+        {
+          "title": "Portuguese",
+          "url": "https://www.twilio.com/pt-br",
+          "items": []
+        },
+        {
+          "title": "Spanish",
+          "url": "https://www.twilio.com/es-mx",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Help Center",
+          "url": "https://help.twilio.com/",
+          "items": []
+        },
+        {
+          "title": "Support Plans",
+          "url": "https://www.twilio.com/en-us/support-plans",
+          "items": []
+        },
+        {
+          "title": "Partner Solutions",
+          "url": "https://www.twilio.com/en-us/partners",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Twilio logo Messaging, Voice, Verify, Video, and more Twilio",
+          "url": "https://www.twilio.com/login",
+          "items": []
+        },
+        {
+          "title": "Customer Data Platform Twilio Segment",
+          "url": "https://app.segment.com/login",
+          "items": []
+        },
+        {
+          "title": "Email Twilio SendGrid",
+          "url": "https://login.sendgrid.com/login/identifier",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Twilio logo",
+          "url": "https://www.twilio.com/en-us",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Customer Engagement Platform An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/customer-engagement-platform",
+          "items": []
+        },
+        {
+          "title": "Communications An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/cpaas",
+          "items": []
+        },
+        {
+          "title": "Customer Data An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/customer-data-platform",
+          "items": []
+        },
+        {
+          "title": "Messaging An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/messaging",
+          "items": []
+        },
+        {
+          "title": "SMS",
+          "url": "https://www.twilio.com/en-us/messaging/channels/sms",
+          "items": []
+        },
+        {
+          "title": "WhatsApp",
+          "url": "https://www.twilio.com/en-us/messaging/channels/whatsapp",
+          "items": []
+        },
+        {
+          "title": "Conversations API",
+          "url": "https://www.twilio.com/en-us/messaging/conversations-api",
+          "items": []
+        },
+        {
+          "title": "RCS",
+          "url": "https://www.twilio.com/en-us/messaging/channels/rcs",
+          "items": []
+        },
+        {
+          "title": "Voice An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/voice",
+          "items": []
+        },
+        {
+          "title": "SIP Trunking",
+          "url": "https://www.twilio.com/en-us/sip-trunking",
+          "items": []
+        },
+        {
+          "title": "Email API An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/products/email-api",
+          "items": []
+        },
+        {
+          "title": "SMTP Service",
+          "url": "https://www.twilio.com/en-us/products/email-api/smtp-service",
+          "items": []
+        },
+        {
+          "title": "Marketing Campaigns",
+          "url": "https://www.twilio.com/en-us/products/marketing-campaigns",
+          "items": []
+        },
+        {
+          "title": "Phone Numbers An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/phone-numbers",
+          "items": []
+        },
+        {
+          "title": "Toll-free",
+          "url": "https://www.twilio.com/en-us/phone-numbers/toll-free",
+          "items": []
+        },
+        {
+          "title": "10DLC",
+          "url": "https://www.twilio.com/en-us/phone-numbers/a2p-10dlc",
+          "items": []
+        },
+        {
+          "title": "Short Codes",
+          "url": "https://www.twilio.com/en-us/messaging/channels/sms/short-codes",
+          "items": []
+        },
+        {
+          "title": "Video API An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/video",
+          "items": []
+        },
+        {
+          "title": "Flex An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/flex",
+          "items": []
+        },
+        {
+          "title": "Connections An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/products/connections",
+          "items": []
+        },
+        {
+          "title": "Warehouses",
+          "url": "https://www.twilio.com/en-us/products/connections/warehouses",
+          "items": []
+        },
+        {
+          "title": "Reverse ETL",
+          "url": "https://www.twilio.com/en-us/products/connections/reverse-etl",
+          "items": []
+        },
+        {
+          "title": "Functions",
+          "url": "https://www.twilio.com/en-us/products/connections/functions",
+          "items": []
+        },
+        {
+          "title": "Protocols An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/products/protocols",
+          "items": []
+        },
+        {
+          "title": "Unify An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/products/unify",
+          "items": []
+        },
+        {
+          "title": "Profiles Sync",
+          "url": "https://www.twilio.com/en-us/products/unify/profiles-sync",
+          "items": []
+        },
+        {
+          "title": "Unified Profiles",
+          "url": "https://www.twilio.com/en-us/products/unify/unified-profiles",
+          "items": []
+        },
+        {
+          "title": "Engage An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/products/engage",
+          "items": []
+        },
+        {
+          "title": "Audiences",
+          "url": "https://www.twilio.com/en-us/products/engage/audiences",
+          "items": []
+        },
+        {
+          "title": "Journeys",
+          "url": "https://www.twilio.com/en-us/products/engage/journeys",
+          "items": []
+        },
+        {
+          "title": "Intelligence",
+          "url": "https://segment.com/solutions/ai/",
+          "items": []
+        },
+        {
+          "title": "Predictions",
+          "url": "https://segment.com/solutions/ai/predictions/",
+          "items": []
+        },
+        {
+          "title": "Data Observability",
+          "url": "https://www.twilio.com/en-us/products/data-observability",
+          "items": []
+        },
+        {
+          "title": "Verify An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/user-authentication-identity/verify",
+          "items": []
+        },
+        {
+          "title": "Lookup An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/user-authentication-identity/lookup",
+          "items": []
+        },
+        {
+          "title": "Conversational AI An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/products/conversational-ai",
+          "items": []
+        },
+        {
+          "title": "ConversationRelay",
+          "url": "https://www.twilio.com/en-us/products/conversational-ai/conversationrelay",
+          "items": []
+        },
+        {
+          "title": "Conversational Intelligence",
+          "url": "https://www.twilio.com/en-us/products/conversational-ai/conversational-intelligence",
+          "items": []
+        },
+        {
+          "title": "Verification and identity An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/use-cases/user-verification-identity",
+          "items": []
+        },
+        {
+          "title": "Fraud prevention",
+          "url": "https://www.twilio.com/en-us/use-cases/fraud-prevention",
+          "items": []
+        },
+        {
+          "title": "Alerts and notifications An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/use-cases/alerts-and-notifications",
+          "items": []
+        },
+        {
+          "title": "Appointment reminders",
+          "url": "https://www.twilio.com/en-us/use-cases/appointment-reminders",
+          "items": []
+        },
+        {
+          "title": "Lead alerts",
+          "url": "https://www.twilio.com/en-us/use-cases/lead-alerts",
+          "items": []
+        },
+        {
+          "title": "Mass texting",
+          "url": "https://www.twilio.com/en-us/use-cases/mass-texting",
+          "items": []
+        },
+        {
+          "title": "Marketing and promotions An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/use-cases/marketing-and-promotions",
+          "items": []
+        },
+        {
+          "title": "SMS marketing",
+          "url": "https://www.twilio.com/en-us/solutions/text-marketing",
+          "items": []
+        },
+        {
+          "title": "Cross-sell and upsell",
+          "url": "https://www.twilio.com/en-us/use-cases/boost-cross-sell-upsell",
+          "items": []
+        },
+        {
+          "title": "Optimize ad spend",
+          "url": "https://www.twilio.com/en-us/use-cases/optimize-ad-spend",
+          "items": []
+        },
+        {
+          "title": "Support and sales An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/use-cases/support-and-sales",
+          "items": []
+        },
+        {
+          "title": "IVR",
+          "url": "https://www.twilio.com/en-us/use-cases/ivr",
+          "items": []
+        },
+        {
+          "title": "Contact center",
+          "url": "https://www.twilio.com/en-us/flex/use-cases/contact-center",
+          "items": []
+        },
+        {
+          "title": "Customer data management An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/use-cases/customer-data-management-integration",
+          "items": []
+        },
+        {
+          "title": "Developers An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/developers",
+          "items": []
+        },
+        {
+          "title": "Data Engineering An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/data-engineering",
+          "items": []
+        },
+        {
+          "title": "Marketing An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/marketing",
+          "items": []
+        },
+        {
+          "title": "Product An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/product-and-engineering",
+          "items": []
+        },
+        {
+          "title": "Customer Experience An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/customer-experience",
+          "items": []
+        },
+        {
+          "title": "Financial services An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/financial-services",
+          "items": []
+        },
+        {
+          "title": "Healthcare An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/healthcare",
+          "items": []
+        },
+        {
+          "title": "Retail An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/retail",
+          "items": []
+        },
+        {
+          "title": "Nonprofit An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/nonprofit",
+          "items": []
+        },
+        {
+          "title": "Hospitality An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/hospitality",
+          "items": []
+        },
+        {
+          "title": "eCommerce An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/ecommerce",
+          "items": []
+        },
+        {
+          "title": "Public sector An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/public-sector",
+          "items": []
+        },
+        {
+          "title": "Education An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/education",
+          "items": []
+        },
+        {
+          "title": "Enterprise An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/enterprise",
+          "items": []
+        },
+        {
+          "title": "Startup An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/startups",
+          "items": []
+        },
+        {
+          "title": "Why Twilio An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/why-twilio",
+          "items": []
+        },
+        {
+          "title": "Customer stories An icon of a right chevron",
+          "url": "https://customers.twilio.com/en-us",
+          "items": []
+        },
+        {
+          "title": "One platform An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/customer-engagement-platform",
+          "items": []
+        },
+        {
+          "title": "Privacy and security An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/trust-center",
+          "items": []
+        },
+        {
+          "title": "Built for builders An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/lp/be-a-builder",
+          "items": []
+        },
+        {
+          "title": "Enterprise scale An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/enterprise",
+          "items": []
+        },
+        {
+          "title": "Extensible by design An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/cpaas",
+          "items": []
+        },
+        {
+          "title": "Real-time customer data An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/customer-data-platform",
+          "items": []
+        },
+        {
+          "title": "Artificial intelligence An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/ai",
+          "items": []
+        },
+        {
+          "title": "Infrastructure An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/global-infrastructure",
+          "items": []
+        },
+        {
+          "title": "About us An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/company",
+          "items": []
+        },
+        {
+          "title": "Values An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/company/values",
+          "items": []
+        },
+        {
+          "title": "Diversity An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/company/diversity",
+          "items": []
+        },
+        {
+          "title": "Careers An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/company/jobs",
+          "items": []
+        },
+        {
+          "title": "Twilio.org An icon of a right chevron",
+          "url": "https://www.twilio.org/en-us",
+          "items": []
+        },
+        {
+          "title": "Investor relations An icon of a right chevron",
+          "url": "https://investors.twilio.com/",
+          "items": []
+        },
+        {
+          "title": "Press and media An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/press",
+          "items": []
+        },
+        {
+          "title": "Events An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/events",
+          "items": []
+        },
+        {
+          "title": "Documentation An icon of a right chevron",
+          "url": "https://www.twilio.com/docs",
+          "items": []
+        },
+        {
+          "title": "Code samples An icon of a right chevron",
+          "url": "https://www.twilio.com/code-exchange",
+          "items": []
+        },
+        {
+          "title": "Developer Hub An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/developers",
+          "items": []
+        },
+        {
+          "title": "Champions An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/champions",
+          "items": []
+        },
+        {
+          "title": "Changelog An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/changelog",
+          "items": []
+        },
+        {
+          "title": "Serverless An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/serverless",
+          "items": []
+        },
+        {
+          "title": "Blog An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/blog",
+          "items": []
+        },
+        {
+          "title": "Resource Center An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/resource-center",
+          "items": []
+        },
+        {
+          "title": "Guides",
+          "url": "https://www.twilio.com/en-us/resource-center/guides?asset-type=guide",
+          "items": []
+        },
+        {
+          "title": "Reports",
+          "url": "https://www.twilio.com/en-us/resource-center/reports?asset-type=report",
+          "items": []
+        },
+        {
+          "title": "Webinars",
+          "url": "https://www.twilio.com/en-us/resource-center/webinars?asset-type=webinar",
+          "items": []
+        },
+        {
+          "title": "Podcasts",
+          "url": "https://www.twilio.com/en-us/resource-center/podcasts?asset-type=podcast",
+          "items": []
+        },
+        {
+          "title": "Customer stories An icon of a right chevron",
+          "url": "https://customers.twilio.com/en-us",
+          "items": []
+        },
+        {
+          "title": "State of Customer Engagement An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/state-of-customer-engagement",
+          "items": []
+        },
+        {
+          "title": "Events An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/events",
+          "items": []
+        },
+        {
+          "title": "Customer data community An icon of a right chevron",
+          "url": "https://community.segment.com/",
+          "items": []
+        },
+        {
+          "title": "Customer data recipes An icon of a right chevron",
+          "url": "https://segment.com/recipes/",
+          "items": []
+        },
+        {
+          "title": "Help Center An icon of a right chevron",
+          "url": "https://help.twilio.com/",
+          "items": []
+        },
+        {
+          "title": "Find a partner An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/partners",
+          "items": []
+        },
+        {
+          "title": "Become a partner An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/partners/become-a-partner",
+          "items": []
+        },
+        {
+          "title": "Professional services An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/professional-services",
+          "items": []
+        },
+        {
+          "title": "Support plans An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/support-plans",
+          "items": []
+        },
+        {
+          "title": "Status An icon of a right chevron",
+          "url": "https://status.twilio.com/",
+          "items": []
+        },
+        {
+          "title": "SendGrid status",
+          "url": "https://status.sendgrid.com/",
+          "items": []
+        },
+        {
+          "title": "Segment status",
+          "url": "https://status.segment.com/",
+          "items": []
+        },
+        {
+          "title": "All Pricing An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/pricing",
+          "items": []
+        },
+        {
+          "title": "Messaging An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/pricing/messaging",
+          "items": []
+        },
+        {
+          "title": "SMS",
+          "url": "https://www.twilio.com/en-us/sms/pricing/us",
+          "items": []
+        },
+        {
+          "title": "WhatsApp",
+          "url": "https://www.twilio.com/en-us/whatsapp/pricing",
+          "items": []
+        },
+        {
+          "title": "Conversations API",
+          "url": "https://www.twilio.com/en-us/messaging/pricing/conversations-api",
+          "items": []
+        },
+        {
+          "title": "Voice An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/voice/pricing/us",
+          "items": []
+        },
+        {
+          "title": "SIP Trunking",
+          "url": "https://www.twilio.com/en-us/sip-trunking/pricing/us",
+          "items": []
+        },
+        {
+          "title": "Conferencing",
+          "url": "https://www.twilio.com/en-us/voice/conference/pricing",
+          "items": []
+        },
+        {
+          "title": "Email API An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/products/email-api/pricing",
+          "items": []
+        },
+        {
+          "title": "Marketing Campaigns",
+          "url": "https://www.twilio.com/en-us/products/marketing-campaigns/pricing",
+          "items": []
+        },
+        {
+          "title": "Video API An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/video/pricing",
+          "items": []
+        },
+        {
+          "title": "Flex An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/flex/pricing",
+          "items": []
+        },
+        {
+          "title": "Customer Data Platform An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/pricing/customer-data",
+          "items": []
+        },
+        {
+          "title": "Customer Data Pipeline An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/products/connections/pricing",
+          "items": []
+        },
+        {
+          "title": "Verify An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/verify/pricing",
+          "items": []
+        },
+        {
+          "title": "Lookup An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/user-authentication-identity/pricing/lookup",
+          "items": []
+        },
+        {
+          "title": "Customer Engagement Platform An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/customer-engagement-platform",
+          "items": []
+        },
+        {
+          "title": "Communications An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/cpaas",
+          "items": []
+        },
+        {
+          "title": "Customer Data An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/customer-data-platform",
+          "items": []
+        },
+        {
+          "title": "Messaging An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/messaging",
+          "items": []
+        },
+        {
+          "title": "SMS",
+          "url": "https://www.twilio.com/en-us/messaging/channels/sms",
+          "items": []
+        },
+        {
+          "title": "WhatsApp",
+          "url": "https://www.twilio.com/en-us/messaging/channels/whatsapp",
+          "items": []
+        },
+        {
+          "title": "Conversations API",
+          "url": "https://www.twilio.com/en-us/messaging/conversations-api",
+          "items": []
+        },
+        {
+          "title": "RCS",
+          "url": "https://www.twilio.com/en-us/messaging/channels/rcs",
+          "items": []
+        },
+        {
+          "title": "Voice An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/voice",
+          "items": []
+        },
+        {
+          "title": "SIP Trunking",
+          "url": "https://www.twilio.com/en-us/sip-trunking",
+          "items": []
+        },
+        {
+          "title": "Email API An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/products/email-api",
+          "items": []
+        },
+        {
+          "title": "SMTP Service",
+          "url": "https://www.twilio.com/en-us/products/email-api/smtp-service",
+          "items": []
+        },
+        {
+          "title": "Marketing Campaigns",
+          "url": "https://www.twilio.com/en-us/products/marketing-campaigns",
+          "items": []
+        },
+        {
+          "title": "Phone Numbers An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/phone-numbers",
+          "items": []
+        },
+        {
+          "title": "Toll-free",
+          "url": "https://www.twilio.com/en-us/phone-numbers/toll-free",
+          "items": []
+        },
+        {
+          "title": "10DLC",
+          "url": "https://www.twilio.com/en-us/phone-numbers/a2p-10dlc",
+          "items": []
+        },
+        {
+          "title": "Short Codes",
+          "url": "https://www.twilio.com/en-us/messaging/channels/sms/short-codes",
+          "items": []
+        },
+        {
+          "title": "Video API An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/video",
+          "items": []
+        },
+        {
+          "title": "Flex An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/flex",
+          "items": []
+        },
+        {
+          "title": "Connections An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/products/connections",
+          "items": []
+        },
+        {
+          "title": "Warehouses",
+          "url": "https://www.twilio.com/en-us/products/connections/warehouses",
+          "items": []
+        },
+        {
+          "title": "Reverse ETL",
+          "url": "https://www.twilio.com/en-us/products/connections/reverse-etl",
+          "items": []
+        },
+        {
+          "title": "Functions",
+          "url": "https://www.twilio.com/en-us/products/connections/functions",
+          "items": []
+        },
+        {
+          "title": "Protocols An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/products/protocols",
+          "items": []
+        },
+        {
+          "title": "Unify An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/products/unify",
+          "items": []
+        },
+        {
+          "title": "Profiles Sync",
+          "url": "https://www.twilio.com/en-us/products/unify/profiles-sync",
+          "items": []
+        },
+        {
+          "title": "Unified Profiles",
+          "url": "https://www.twilio.com/en-us/products/unify/unified-profiles",
+          "items": []
+        },
+        {
+          "title": "Engage An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/products/engage",
+          "items": []
+        },
+        {
+          "title": "Audiences",
+          "url": "https://www.twilio.com/en-us/products/engage/audiences",
+          "items": []
+        },
+        {
+          "title": "Journeys",
+          "url": "https://www.twilio.com/en-us/products/engage/journeys",
+          "items": []
+        },
+        {
+          "title": "Intelligence",
+          "url": "https://segment.com/solutions/ai/",
+          "items": []
+        },
+        {
+          "title": "Predictions",
+          "url": "https://segment.com/solutions/ai/predictions/",
+          "items": []
+        },
+        {
+          "title": "Data Observability",
+          "url": "https://www.twilio.com/en-us/products/data-observability",
+          "items": []
+        },
+        {
+          "title": "Verify An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/user-authentication-identity/verify",
+          "items": []
+        },
+        {
+          "title": "Lookup An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/user-authentication-identity/lookup",
+          "items": []
+        },
+        {
+          "title": "Conversational AI An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/products/conversational-ai",
+          "items": []
+        },
+        {
+          "title": "ConversationRelay",
+          "url": "https://www.twilio.com/en-us/products/conversational-ai/conversationrelay",
+          "items": []
+        },
+        {
+          "title": "Conversational Intelligence",
+          "url": "https://www.twilio.com/en-us/products/conversational-ai/conversational-intelligence",
+          "items": []
+        },
+        {
+          "title": "Verification and identity An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/use-cases/user-verification-identity",
+          "items": []
+        },
+        {
+          "title": "Fraud prevention",
+          "url": "https://www.twilio.com/en-us/use-cases/fraud-prevention",
+          "items": []
+        },
+        {
+          "title": "Alerts and notifications An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/use-cases/alerts-and-notifications",
+          "items": []
+        },
+        {
+          "title": "Appointment reminders",
+          "url": "https://www.twilio.com/en-us/use-cases/appointment-reminders",
+          "items": []
+        },
+        {
+          "title": "Lead alerts",
+          "url": "https://www.twilio.com/en-us/use-cases/lead-alerts",
+          "items": []
+        },
+        {
+          "title": "Mass texting",
+          "url": "https://www.twilio.com/en-us/use-cases/mass-texting",
+          "items": []
+        },
+        {
+          "title": "Marketing and promotions An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/use-cases/marketing-and-promotions",
+          "items": []
+        },
+        {
+          "title": "SMS marketing",
+          "url": "https://www.twilio.com/en-us/solutions/text-marketing",
+          "items": []
+        },
+        {
+          "title": "Cross-sell and upsell",
+          "url": "https://www.twilio.com/en-us/use-cases/boost-cross-sell-upsell",
+          "items": []
+        },
+        {
+          "title": "Optimize ad spend",
+          "url": "https://www.twilio.com/en-us/use-cases/optimize-ad-spend",
+          "items": []
+        },
+        {
+          "title": "Support and sales An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/use-cases/support-and-sales",
+          "items": []
+        },
+        {
+          "title": "IVR",
+          "url": "https://www.twilio.com/en-us/use-cases/ivr",
+          "items": []
+        },
+        {
+          "title": "Contact center",
+          "url": "https://www.twilio.com/en-us/flex/use-cases/contact-center",
+          "items": []
+        },
+        {
+          "title": "Customer data management An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/use-cases/customer-data-management-integration",
+          "items": []
+        },
+        {
+          "title": "Developers An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/developers",
+          "items": []
+        },
+        {
+          "title": "Data Engineering An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/data-engineering",
+          "items": []
+        },
+        {
+          "title": "Marketing An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/marketing",
+          "items": []
+        },
+        {
+          "title": "Product An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/product-and-engineering",
+          "items": []
+        },
+        {
+          "title": "Customer Experience An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/customer-experience",
+          "items": []
+        },
+        {
+          "title": "Financial services An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/financial-services",
+          "items": []
+        },
+        {
+          "title": "Healthcare An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/healthcare",
+          "items": []
+        },
+        {
+          "title": "Retail An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/retail",
+          "items": []
+        },
+        {
+          "title": "Nonprofit An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/nonprofit",
+          "items": []
+        },
+        {
+          "title": "Hospitality An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/hospitality",
+          "items": []
+        },
+        {
+          "title": "eCommerce An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/ecommerce",
+          "items": []
+        },
+        {
+          "title": "Public sector An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/public-sector",
+          "items": []
+        },
+        {
+          "title": "Education An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/education",
+          "items": []
+        },
+        {
+          "title": "Enterprise An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/enterprise",
+          "items": []
+        },
+        {
+          "title": "Startup An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/startups",
+          "items": []
+        },
+        {
+          "title": "Why Twilio An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/why-twilio",
+          "items": []
+        },
+        {
+          "title": "Customer stories An icon of a right chevron",
+          "url": "https://customers.twilio.com/en-us",
+          "items": []
+        },
+        {
+          "title": "One platform An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/customer-engagement-platform",
+          "items": []
+        },
+        {
+          "title": "Privacy and security An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/trust-center",
+          "items": []
+        },
+        {
+          "title": "Built for builders An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/lp/be-a-builder",
+          "items": []
+        },
+        {
+          "title": "Enterprise scale An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions/enterprise",
+          "items": []
+        },
+        {
+          "title": "Extensible by design An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/cpaas",
+          "items": []
+        },
+        {
+          "title": "Real-time customer data An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/customer-data-platform",
+          "items": []
+        },
+        {
+          "title": "Artificial intelligence An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/ai",
+          "items": []
+        },
+        {
+          "title": "Infrastructure An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/global-infrastructure",
+          "items": []
+        },
+        {
+          "title": "About us An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/company",
+          "items": []
+        },
+        {
+          "title": "Values An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/company/values",
+          "items": []
+        },
+        {
+          "title": "Diversity An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/company/diversity",
+          "items": []
+        },
+        {
+          "title": "Careers An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/company/jobs",
+          "items": []
+        },
+        {
+          "title": "Twilio.org An icon of a right chevron",
+          "url": "https://www.twilio.org/en-us",
+          "items": []
+        },
+        {
+          "title": "Investor relations An icon of a right chevron",
+          "url": "https://investors.twilio.com/",
+          "items": []
+        },
+        {
+          "title": "Press and media An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/press",
+          "items": []
+        },
+        {
+          "title": "Events An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/events",
+          "items": []
+        },
+        {
+          "title": "Documentation An icon of a right chevron",
+          "url": "https://www.twilio.com/docs",
+          "items": []
+        },
+        {
+          "title": "Code samples An icon of a right chevron",
+          "url": "https://www.twilio.com/code-exchange",
+          "items": []
+        },
+        {
+          "title": "Developer Hub An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/developers",
+          "items": []
+        },
+        {
+          "title": "Champions An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/champions",
+          "items": []
+        },
+        {
+          "title": "Changelog An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/changelog",
+          "items": []
+        },
+        {
+          "title": "Serverless An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/serverless",
+          "items": []
+        },
+        {
+          "title": "Blog An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/blog",
+          "items": []
+        },
+        {
+          "title": "Resource Center An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/resource-center",
+          "items": []
+        },
+        {
+          "title": "Guides",
+          "url": "https://www.twilio.com/en-us/resource-center/guides?asset-type=guide",
+          "items": []
+        },
+        {
+          "title": "Reports",
+          "url": "https://www.twilio.com/en-us/resource-center/reports?asset-type=report",
+          "items": []
+        },
+        {
+          "title": "Webinars",
+          "url": "https://www.twilio.com/en-us/resource-center/webinars?asset-type=webinar",
+          "items": []
+        },
+        {
+          "title": "Podcasts",
+          "url": "https://www.twilio.com/en-us/resource-center/podcasts?asset-type=podcast",
+          "items": []
+        },
+        {
+          "title": "Customer stories An icon of a right chevron",
+          "url": "https://customers.twilio.com/en-us",
+          "items": []
+        },
+        {
+          "title": "State of Customer Engagement An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/state-of-customer-engagement",
+          "items": []
+        },
+        {
+          "title": "Events An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/events",
+          "items": []
+        },
+        {
+          "title": "Customer data community An icon of a right chevron",
+          "url": "https://community.segment.com/",
+          "items": []
+        },
+        {
+          "title": "Customer data recipes An icon of a right chevron",
+          "url": "https://segment.com/recipes/",
+          "items": []
+        },
+        {
+          "title": "Help Center An icon of a right chevron",
+          "url": "https://help.twilio.com/",
+          "items": []
+        },
+        {
+          "title": "Find a partner An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/partners",
+          "items": []
+        },
+        {
+          "title": "Become a partner An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/partners/become-a-partner",
+          "items": []
+        },
+        {
+          "title": "Professional services An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/professional-services",
+          "items": []
+        },
+        {
+          "title": "Support plans An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/support-plans",
+          "items": []
+        },
+        {
+          "title": "Status An icon of a right chevron",
+          "url": "https://status.twilio.com/",
+          "items": []
+        },
+        {
+          "title": "SendGrid status",
+          "url": "https://status.sendgrid.com/",
+          "items": []
+        },
+        {
+          "title": "Segment status",
+          "url": "https://status.segment.com/",
+          "items": []
+        },
+        {
+          "title": "All Pricing An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/pricing",
+          "items": []
+        },
+        {
+          "title": "Messaging An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/pricing/messaging",
+          "items": []
+        },
+        {
+          "title": "SMS",
+          "url": "https://www.twilio.com/en-us/sms/pricing/us",
+          "items": []
+        },
+        {
+          "title": "WhatsApp",
+          "url": "https://www.twilio.com/en-us/whatsapp/pricing",
+          "items": []
+        },
+        {
+          "title": "Conversations API",
+          "url": "https://www.twilio.com/en-us/messaging/pricing/conversations-api",
+          "items": []
+        },
+        {
+          "title": "Voice An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/voice/pricing/us",
+          "items": []
+        },
+        {
+          "title": "SIP Trunking",
+          "url": "https://www.twilio.com/en-us/sip-trunking/pricing/us",
+          "items": []
+        },
+        {
+          "title": "Conferencing",
+          "url": "https://www.twilio.com/en-us/voice/conference/pricing",
+          "items": []
+        },
+        {
+          "title": "Email API An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/products/email-api/pricing",
+          "items": []
+        },
+        {
+          "title": "Marketing Campaigns",
+          "url": "https://www.twilio.com/en-us/products/marketing-campaigns/pricing",
+          "items": []
+        },
+        {
+          "title": "Video API An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/video/pricing",
+          "items": []
+        },
+        {
+          "title": "Flex An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/flex/pricing",
+          "items": []
+        },
+        {
+          "title": "Customer Data Platform An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/pricing/customer-data",
+          "items": []
+        },
+        {
+          "title": "Customer Data Pipeline An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/products/connections/pricing",
+          "items": []
+        },
+        {
+          "title": "Verify An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/verify/pricing",
+          "items": []
+        },
+        {
+          "title": "Lookup An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/user-authentication-identity/pricing/lookup",
+          "items": []
+        },
+        {
+          "title": "About Twilio",
+          "url": "https://www.twilio.com/en-us/company",
+          "items": []
+        },
+        {
+          "title": "Customer Engagement Platform (CEP)",
+          "url": "https://www.twilio.com/en-us/customer-engagement-platform",
+          "items": []
+        },
+        {
+          "title": "Communications",
+          "url": "https://www.twilio.com/en-us/cpaas",
+          "items": []
+        },
+        {
+          "title": "Customer Data Platform (CDP)",
+          "url": "https://www.twilio.com/en-us/customer-data-platform",
+          "items": []
+        },
+        {
+          "title": "AI",
+          "url": "https://www.twilio.com/en-us/ai",
+          "items": []
+        },
+        {
+          "title": "Customer stories",
+          "url": "https://customers.twilio.com/en-us",
+          "items": []
+        },
+        {
+          "title": "Events",
+          "url": "https://www.twilio.com/en-us/events",
+          "items": []
+        },
+        {
+          "title": "Contact sales",
+          "url": "https://www.twilio.com/en-us/help/sales",
+          "items": []
+        },
+        {
+          "title": "View pricing",
+          "url": "https://www.twilio.com/en-us/pricing",
+          "items": []
+        },
+        {
+          "title": "Why Twilio An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/why-twilio",
+          "items": []
+        },
+        {
+          "title": "Twilio Engage",
+          "url": "https://www.twilio.com/en-us/products/engage",
+          "items": []
+        },
+        {
+          "title": "Connections",
+          "url": "https://www.twilio.com/en-us/products/connections",
+          "items": []
+        },
+        {
+          "title": "Email API",
+          "url": "https://www.twilio.com/en-us/products/email-api",
+          "items": []
+        },
+        {
+          "title": "User authentication and identity",
+          "url": "https://www.twilio.com/en-us/user-authentication-identity",
+          "items": []
+        },
+        {
+          "title": "MMS messaging",
+          "url": "https://www.twilio.com/en-us/messaging/channels/mms",
+          "items": []
+        },
+        {
+          "title": "Voice PSTN",
+          "url": "https://www.twilio.com/en-us/voice",
+          "items": []
+        },
+        {
+          "title": "Latest innovations",
+          "url": "https://www.twilio.com/en-us/products/beta",
+          "items": []
+        },
+        {
+          "title": "Pre-built solutions",
+          "url": "https://www.twilio.com/en-us/partners/saas",
+          "items": []
+        },
+        {
+          "title": "All products An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/products",
+          "items": []
+        },
+        {
+          "title": "Customer data management",
+          "url": "https://segment.com/use-cases/customer-data-management-integration",
+          "items": []
+        },
+        {
+          "title": "Audience segmentation",
+          "url": "https://segment.com/use-cases/segmentation-audience-activation/",
+          "items": []
+        },
+        {
+          "title": "Contact center",
+          "url": "https://www.twilio.com/en-us/flex/use-cases/contact-center",
+          "items": []
+        },
+        {
+          "title": "SMS marketing",
+          "url": "https://www.twilio.com/en-us/solutions/text-marketing",
+          "items": []
+        },
+        {
+          "title": "Customer acquisition",
+          "url": "https://segment.com/use-cases/customer-acquisition-activation",
+          "items": []
+        },
+        {
+          "title": "Voice response system (IVR)",
+          "url": "https://www.twilio.com/en-us/use-cases/ivr",
+          "items": []
+        },
+        {
+          "title": "Fraud prevention",
+          "url": "https://www.twilio.com/en-us/use-cases/fraud-prevention",
+          "items": []
+        },
+        {
+          "title": "Bulk text messaging",
+          "url": "https://www.twilio.com/en-us/use-cases/mass-texting",
+          "items": []
+        },
+        {
+          "title": "Mass email sender",
+          "url": "https://www.twilio.com/en-us/resource-center/bulk-email-guide",
+          "items": []
+        },
+        {
+          "title": "All use cases An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/solutions#use-cases",
+          "items": []
+        },
+        {
+          "title": "Developer resources",
+          "url": "https://www.twilio.com/docs#developer-toolkit",
+          "items": []
+        },
+        {
+          "title": "Twilio Essentials",
+          "url": "https://www.twilio.com/docs#twilio-essentials",
+          "items": []
+        },
+        {
+          "title": "SDKs",
+          "url": "https://www.twilio.com/docs/libraries",
+          "items": []
+        },
+        {
+          "title": "CDP integrations",
+          "url": "https://segment.com/catalog/",
+          "items": []
+        },
+        {
+          "title": "SMTP Email API",
+          "url": "https://www.twilio.com/docs/sendgrid/for-developers/sending-email/getting-started-smtp",
+          "items": []
+        },
+        {
+          "title": "SMS API",
+          "url": "https://www.twilio.com/docs/messaging/api",
+          "items": []
+        },
+        {
+          "title": "WhatsApp API",
+          "url": "https://www.twilio.com/docs/whatsapp",
+          "items": []
+        },
+        {
+          "title": "Voice API",
+          "url": "https://www.twilio.com/docs/voice",
+          "items": []
+        },
+        {
+          "title": "Connections",
+          "url": "https://segment.com/docs/connections/",
+          "items": []
+        },
+        {
+          "title": "All docs An icon of a right chevron",
+          "url": "https://www.twilio.com/docs",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "See all products",
+          "url": "https://www.twilio.com/en-us/products",
+          "items": []
+        },
+        {
+          "title": "See all products",
+          "url": "https://www.twilio.com/en-us/products",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "latest innovations",
+          "url": "https://www.twilio.com/en-us/products/beta",
+          "items": []
+        },
+        {
+          "title": "integrations",
+          "url": "https://segment.com/catalog/?utm_referrer=https%3A%2F%2Fwww.twilio.com%2F",
+          "items": []
+        },
+        {
+          "title": "builder tools",
+          "url": "https://www.twilio.com/en-us/serverless",
+          "items": []
+        },
+        {
+          "title": "support plans",
+          "url": "https://www.twilio.com/en-us/support-plans",
+          "items": []
+        },
+        {
+          "title": "latest innovations",
+          "url": "https://www.twilio.com/en-us/products/beta",
+          "items": []
+        },
+        {
+          "title": "integrations",
+          "url": "https://segment.com/catalog/?utm_referrer=https%3A%2F%2Fwww.twilio.com%2F",
+          "items": []
+        },
+        {
+          "title": "builder tools",
+          "url": "https://www.twilio.com/en-us/serverless",
+          "items": []
+        },
+        {
+          "title": "support plans",
+          "url": "https://www.twilio.com/en-us/support-plans",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "See all solutions",
+          "url": "https://www.twilio.com/en-us/solutions",
+          "items": []
+        },
+        {
+          "title": "Read now",
+          "url": "https://www.twilio.com/en-us/report/gartner-mq-cpaas-2025",
+          "items": []
+        },
+        {
+          "title": "Read now",
+          "url": "https://www.twilio.com/en-us/state-of-customer-engagement",
+          "items": []
+        },
+        {
+          "title": "Contact sales",
+          "url": "https://www.twilio.com/en-us/help/sales",
+          "items": []
+        },
+        {
+          "title": "Start for free",
+          "url": "https://www.twilio.com/en-us/try-twilio",
+          "items": []
+        },
+        {
+          "title": "See all solutions",
+          "url": "https://www.twilio.com/en-us/solutions",
+          "items": []
+        },
+        {
+          "title": "Read now",
+          "url": "https://www.twilio.com/en-us/report/gartner-mq-cpaas-2025",
+          "items": []
+        },
+        {
+          "title": "Read now",
+          "url": "https://www.twilio.com/en-us/state-of-customer-engagement",
+          "items": []
+        },
+        {
+          "title": "Contact sales",
+          "url": "https://www.twilio.com/en-us/help/sales",
+          "items": []
+        },
+        {
+          "title": "Start for free",
+          "url": "https://www.twilio.com/en-us/try-twilio",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Privacy Policy",
+          "url": "https://www.twilio.com/en-us/legal/privacy",
+          "items": []
+        },
+        {
+          "title": "Privacy Policy",
+          "url": "https://www.twilio.com/en-us/legal/privacy",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Request to attend",
+          "url": "https://signal.twilio.com/london2025/begin",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Start for free",
+          "url": "https://www.twilio.com/en-us/try-twilio",
+          "items": []
+        },
+        {
+          "title": "See what's possible",
+          "url": "https://www.twilio.com/en-us/customer-engagement-platform",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Be a builder",
+          "url": "https://www.twilio.com/en-us/lp/be-a-builder",
+          "items": []
+        },
+        {
+          "title": "Send messages",
+          "url": "https://www.twilio.com/en-us/messaging",
+          "items": []
+        },
+        {
+          "title": "Send emails",
+          "url": "https://www.twilio.com/en-us/products/email-api",
+          "items": []
+        },
+        {
+          "title": "Make calls",
+          "url": "https://www.twilio.com/en-us/voice",
+          "items": []
+        },
+        {
+          "title": "Verify users",
+          "url": "https://www.twilio.com/en-us/user-authentication-identity/verify",
+          "items": []
+        },
+        {
+          "title": "Manage data",
+          "url": "https://www.twilio.com/en-us/customer-data-platform",
+          "items": []
+        },
+        {
+          "title": "Read the report An icon of a outbound link arrow",
+          "url": "https://www.twilio.com/en-us/report/gartner-mq-cpaas-2025",
+          "items": []
+        },
+        {
+          "title": "View docs",
+          "url": "https://www.twilio.com/docs",
+          "items": []
+        },
+        {
+          "title": "Start for free",
+          "url": "https://www.twilio.com/en-us/try-twilio",
+          "items": []
+        },
+        {
+          "title": "See product solutions",
+          "url": "https://www.twilio.com/en-us/solutions/product-and-engineering",
+          "items": []
+        },
+        {
+          "title": "Start for free",
+          "url": "https://www.twilio.com/en-us/try-twilio",
+          "items": []
+        },
+        {
+          "title": "See marketing solutions",
+          "url": "https://www.twilio.com/en-us/solutions/marketing",
+          "items": []
+        },
+        {
+          "title": "Start for free",
+          "url": "https://www.twilio.com/en-us/try-twilio",
+          "items": []
+        },
+        {
+          "title": "See data solutions",
+          "url": "https://segment.com/engineering?utm_referrer=https%3A%2F%2Fwww.twilio.com%2F",
+          "items": []
+        },
+        {
+          "title": "Start for free",
+          "url": "https://app.segment.com/signup",
+          "items": []
+        },
+        {
+          "title": "See support solutions",
+          "url": "https://www.twilio.com/en-us/solutions/customer-experience",
+          "items": []
+        },
+        {
+          "title": "Start for free",
+          "url": "https://www.twilio.com/en-us/try-twilio",
+          "items": []
+        },
+        {
+          "title": "Read Shopify's story",
+          "url": "https://customers.twilio.com/en-us/shopify-2",
+          "items": []
+        },
+        {
+          "title": "Read Cleveland Clinic's story",
+          "url": "https://customers.twilio.com/en-us/cleveland-clinic",
+          "items": []
+        },
+        {
+          "title": "Read Intuit's story",
+          "url": "https://customers.twilio.com/en-us/intuit",
+          "items": []
+        },
+        {
+          "title": "Read United Way's story",
+          "url": "https://customers.twilio.com/en-us/united-way",
+          "items": []
+        },
+        {
+          "title": "Read Toyota's story",
+          "url": "https://customers.twilio.com/en-us/toyota-connected",
+          "items": []
+        },
+        {
+          "title": "View pricing",
+          "url": "https://www.twilio.com/en-us/pricing",
+          "items": []
+        },
+        {
+          "title": "Start for free",
+          "url": "https://www.twilio.com/en-us/try-twilio",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "View all products",
+          "url": "https://www.twilio.com/en-us/products",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Why Twilio",
+          "url": "https://www.twilio.com/en-us/why-twilio",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Download report An icon of a outbound link arrow",
+          "url": "https://www.twilio.com/en-us/report/gartner-mq-cpaas-2025",
+          "items": []
+        },
+        {
+          "title": "Download excerpt An icon of a outbound link arrow",
+          "url": "https://www.twilio.com/en-us/lp/idc-marketscape-cpaas-2025",
+          "items": []
+        },
+        {
+          "title": "Download excerpt An icon of a outbound link arrow",
+          "url": "https://segment.com/learn/download/idc-marketscape-2024?utm_referrer=https%3A%2F%2Fwww.twilio.com%2F",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Twilio careers",
+          "url": "https://www.twilio.com/en-us/company/jobs",
+          "items": []
+        },
+        {
+          "title": "Twilio.org",
+          "url": "https://www.twilio.org/en-us",
+          "items": []
+        },
+        {
+          "title": "Press and media",
+          "url": "https://www.twilio.com/en-us/press",
+          "items": []
+        },
+        {
+          "title": "Investor relations",
+          "url": "https://investors.twilio.com/",
+          "items": []
+        },
+        {
+          "title": "Legal",
+          "url": "https://www.twilio.com/en-us/legal/tos",
+          "items": []
+        },
+        {
+          "title": "Privacy",
+          "url": "https://www.twilio.com/en-us/legal/privacy",
+          "items": []
+        },
+        {
+          "title": "Security",
+          "url": "https://www.twilio.com/en-us/security",
+          "items": []
+        },
+        {
+          "title": "Sitemap",
+          "url": "https://www.twilio.com/sitemap.xml",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Facebook logo",
+          "url": "https://www.facebook.com/TeamTwilio",
+          "items": []
+        },
+        {
+          "title": "Twitter Logo Follow us on Twitter",
+          "url": "https://x.com/twilio",
+          "items": []
+        },
+        {
+          "title": "LinkedIn logo",
+          "url": "https://www.linkedin.com/company/twilio-inc-",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

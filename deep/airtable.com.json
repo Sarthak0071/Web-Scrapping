@@ -1,0 +1,57 @@
+{
+  "website": "https://www.airtable.com",
+  "domain": "www.airtable.com",
+  "scraped_at": "2025-11-08 12:36:12",
+  "menus": [
+    {
+      "menu_name": "Navigation",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Airtable home or view your bases",
+              "description": "",
+              "url": "https://www.airtable.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Navigation",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Blog",
+              "description": "",
+              "url": "https://www.airtable.com/articles"
+            },
+            {
+              "title": "Customer Stories",
+              "description": "",
+              "url": "https://www.airtable.com/customer-stories"
+            },
+            {
+              "title": "Builders & BreakthroughsNEW",
+              "description": "",
+              "url": "https://www.airtable.com/breakthroughs"
+            },
+            {
+              "title": "Videos",
+              "description": "",
+              "url": "https://www.airtable.com/videos"
+            },
+            {
+              "title": "Events",
+              "description": "",
+              "url": "https://www.airtable.com/events-webinars"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

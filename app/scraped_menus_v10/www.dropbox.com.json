@@ -1,0 +1,28 @@
+{
+  "website": "https://www.dropbox.com",
+  "domain": "www.dropbox.com",
+  "scraped_at": "2025-11-07T21:00:00.000000",
+  "menus": [
+    {
+      "title": "Teams",
+      "items": [
+        {
+          "title": "Enterprise",
+          "url": "https://www.dropbox.com/enterprise",
+          "items": []
+        },
+        {
+          "title": "Pricing",
+          "url": "https://www.dropbox.com/plans",
+          "items": []
+        },
+        {
+          "title": "Contact sales",
+          "url": "https://www.dropbox.com/contact-sales",
+          "items": []
+        }
+      ]
+    }
+  ],
+  "notes": "HTML-based navigation with hierarchy detection"
+}

@@ -1,0 +1,335 @@
+{
+  "website": "https://www.dropbox.com",
+  "domain": "www.dropbox.com",
+  "scraped_at": "2025-11-07T22:00:00.000000",
+  "menus": [
+    {
+      "title": "Teams",
+      "items": [
+        {
+          "title": "Dropbox Store, share, and access files across devices",
+          "url": "https://www.dropbox.com/dropbox",
+          "items": []
+        },
+        {
+          "title": "Replay Review and approve videos faster",
+          "url": "https://www.dropbox.com/replay",
+          "items": []
+        },
+        {
+          "title": "Backup Automatically back up your devices",
+          "url": "https://www.dropbox.com/backup",
+          "items": []
+        },
+        {
+          "title": "Reclaim.ai Schedule habits, tasks, and meetings with AI",
+          "url": "https://app.reclaim.ai/signup?utm_medium=referral&utm_source=dbx-header-referral&utm_campaign=dbx-header-signup&utm_term=dbx-header",
+          "items": []
+        },
+        {
+          "title": "Dash Find, organize, and protect company content",
+          "url": "https://dash.dropbox.com",
+          "items": []
+        },
+        {
+          "title": "DocSend Send documents securely and track activity",
+          "url": "https://www.dropbox.com/docsend",
+          "items": []
+        },
+        {
+          "title": "Sign Request and add signatures to documents",
+          "url": "https://www.dropbox.com/sign",
+          "items": []
+        },
+        {
+          "title": "Early access Preview new product experiences",
+          "url": "https://www.dropbox.com/early-access",
+          "items": []
+        },
+        {
+          "title": "Sales",
+          "url": "https://www.dropbox.com/business/solutions/sales",
+          "items": []
+        },
+        {
+          "title": "Marketing",
+          "url": "https://www.dropbox.com/business/solutions/marketing",
+          "items": []
+        },
+        {
+          "title": "HR",
+          "url": "https://www.dropbox.com/business/solutions/human-resources",
+          "items": []
+        },
+        {
+          "title": "IT",
+          "url": "https://www.dropbox.com/business/solutions/it",
+          "items": []
+        },
+        {
+          "title": "Creatives",
+          "url": "https://www.dropbox.com/business/solutions/creatives",
+          "items": []
+        },
+        {
+          "title": "Cloud storage",
+          "url": "https://www.dropbox.com/features/cloud-storage",
+          "items": []
+        },
+        {
+          "title": "Send large files",
+          "url": "https://www.dropbox.com/features/share/send-large-files",
+          "items": []
+        },
+        {
+          "title": "Video review",
+          "url": "https://www.dropbox.com/replay",
+          "items": []
+        },
+        {
+          "title": "Signing documents",
+          "url": "https://www.dropbox.com/features/productivity/electronic-signature",
+          "items": []
+        },
+        {
+          "title": "Sharing files",
+          "url": "https://www.dropbox.com/features/share",
+          "items": []
+        },
+        {
+          "title": "Construction",
+          "url": "https://www.dropbox.com/business/solutions/construction",
+          "items": []
+        },
+        {
+          "title": "Technology",
+          "url": "https://www.dropbox.com/business/solutions/technology",
+          "items": []
+        },
+        {
+          "title": "Manufacturing",
+          "url": "https://www.dropbox.com/business/solutions/manufacturing",
+          "items": []
+        },
+        {
+          "title": "Media",
+          "url": "https://www.dropbox.com/business/solutions/media",
+          "items": []
+        },
+        {
+          "title": "Professional services",
+          "url": "https://www.dropbox.com/business/solutions/professional-services",
+          "items": []
+        },
+        {
+          "title": "Education",
+          "url": "https://www.dropbox.com/education",
+          "items": []
+        },
+        {
+          "title": "Enterprise",
+          "url": "https://www.dropbox.com/enterprise",
+          "items": []
+        },
+        {
+          "title": "Pricing",
+          "url": "https://www.dropbox.com/plans",
+          "items": []
+        },
+        {
+          "title": "Contact sales",
+          "url": "https://www.dropbox.com/contact-sales",
+          "items": []
+        },
+        {
+          "title": "Desktop app",
+          "url": "https://www.dropbox.com/desktop",
+          "items": []
+        },
+        {
+          "title": "Mobile app",
+          "url": "https://www.dropbox.com/mobile",
+          "items": []
+        },
+        {
+          "title": "Sign up",
+          "url": "https://www.dropbox.com/register",
+          "items": [
+            {
+              "title": "Log in",
+              "url": "https://www.dropbox.com/login",
+              "items": []
+            }
+          ]
+        },
+        {
+          "title": "Log in",
+          "url": "https://www.dropbox.com/login",
+          "items": [
+            {
+              "title": "Get started",
+              "url": "https://www.dropbox.com/plans",
+              "items": []
+            }
+          ]
+        },
+        {
+          "title": "Get started",
+          "url": "https://www.dropbox.com/plans",
+          "items": []
+        },
+        {
+          "title": "Dropbox Store, share, and access files across devices",
+          "url": "https://www.dropbox.com/dropbox",
+          "items": []
+        },
+        {
+          "title": "Replay Review and approve videos faster",
+          "url": "https://www.dropbox.com/replay",
+          "items": []
+        },
+        {
+          "title": "Backup Automatically back up your devices",
+          "url": "https://www.dropbox.com/backup",
+          "items": []
+        },
+        {
+          "title": "Reclaim.ai Schedule habits, tasks, and meetings with AI",
+          "url": "https://app.reclaim.ai/signup?utm_medium=referral&utm_source=dbx-header-referral&utm_campaign=dbx-header-signup&utm_term=dbx-header",
+          "items": []
+        },
+        {
+          "title": "Dash Find, organize, and protect company content",
+          "url": "https://dash.dropbox.com",
+          "items": []
+        },
+        {
+          "title": "DocSend Send documents securely and track activity",
+          "url": "https://www.dropbox.com/docsend",
+          "items": []
+        },
+        {
+          "title": "Sign Request and add signatures to documents",
+          "url": "https://www.dropbox.com/sign",
+          "items": []
+        },
+        {
+          "title": "Early access Preview new product experiences",
+          "url": "https://www.dropbox.com/early-access",
+          "items": []
+        },
+        {
+          "title": "Sales",
+          "url": "https://www.dropbox.com/business/solutions/sales",
+          "items": []
+        },
+        {
+          "title": "Marketing",
+          "url": "https://www.dropbox.com/business/solutions/marketing",
+          "items": []
+        },
+        {
+          "title": "HR",
+          "url": "https://www.dropbox.com/business/solutions/human-resources",
+          "items": []
+        },
+        {
+          "title": "IT",
+          "url": "https://www.dropbox.com/business/solutions/it",
+          "items": []
+        },
+        {
+          "title": "Creatives",
+          "url": "https://www.dropbox.com/business/solutions/creatives",
+          "items": []
+        },
+        {
+          "title": "Cloud storage",
+          "url": "https://www.dropbox.com/features/cloud-storage",
+          "items": []
+        },
+        {
+          "title": "Send large files",
+          "url": "https://www.dropbox.com/features/share/send-large-files",
+          "items": []
+        },
+        {
+          "title": "Video review",
+          "url": "https://www.dropbox.com/replay",
+          "items": []
+        },
+        {
+          "title": "Signing documents",
+          "url": "https://www.dropbox.com/features/productivity/electronic-signature",
+          "items": []
+        },
+        {
+          "title": "Sharing files",
+          "url": "https://www.dropbox.com/features/share",
+          "items": []
+        },
+        {
+          "title": "Construction",
+          "url": "https://www.dropbox.com/business/solutions/construction",
+          "items": []
+        },
+        {
+          "title": "Technology",
+          "url": "https://www.dropbox.com/business/solutions/technology",
+          "items": []
+        },
+        {
+          "title": "Manufacturing",
+          "url": "https://www.dropbox.com/business/solutions/manufacturing",
+          "items": []
+        },
+        {
+          "title": "Media",
+          "url": "https://www.dropbox.com/business/solutions/media",
+          "items": []
+        },
+        {
+          "title": "Professional services",
+          "url": "https://www.dropbox.com/business/solutions/professional-services",
+          "items": []
+        },
+        {
+          "title": "Education",
+          "url": "https://www.dropbox.com/education",
+          "items": []
+        },
+        {
+          "title": "Enterprise",
+          "url": "https://www.dropbox.com/enterprise",
+          "items": []
+        },
+        {
+          "title": "Pricing",
+          "url": "https://www.dropbox.com/plans",
+          "items": []
+        },
+        {
+          "title": "Contact sales",
+          "url": "https://www.dropbox.com/contact-sales",
+          "items": []
+        },
+        {
+          "title": "Desktop app",
+          "url": "https://www.dropbox.com/desktop",
+          "items": []
+        },
+        {
+          "title": "Mobile app",
+          "url": "https://www.dropbox.com/mobile",
+          "items": []
+        },
+        {
+          "title": "Get started",
+          "url": "https://www.dropbox.com/plans",
+          "items": []
+        }
+      ]
+    }
+  ],
+  "notes": "HTML-based navigation with advanced hierarchy detection"
+}

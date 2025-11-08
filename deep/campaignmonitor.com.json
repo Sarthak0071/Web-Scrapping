@@ -1,0 +1,132 @@
+{
+  "website": "https://www.campaignmonitor.com",
+  "domain": "www.campaignmonitor.com",
+  "scraped_at": "2025-11-08 12:36:08",
+  "menus": [
+    {
+      "menu_name": "Navigation",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Features",
+              "description": "",
+              "url": "https://www.campaignmonitor.com/features/overview"
+            },
+            {
+              "title": "Campaign Score",
+              "description": "",
+              "url": "https://www.campaignmonitor.com/features/campaign-score/"
+            },
+            {
+              "title": "Deliverability",
+              "description": "",
+              "url": "https://www.campaignmonitor.com/features/deliverability/"
+            },
+            {
+              "title": "Email Template Builder",
+              "description": "",
+              "url": "https://www.campaignmonitor.com/features/email-template-builder/"
+            },
+            {
+              "title": "Segmentation",
+              "description": "",
+              "url": "https://www.campaignmonitor.com/features/email-segmentation/"
+            },
+            {
+              "title": "Personalization",
+              "description": "",
+              "url": "https://www.campaignmonitor.com/features/email-personalization/"
+            },
+            {
+              "title": "Marketing Automation",
+              "description": "",
+              "url": "https://www.campaignmonitor.com/features/marketing-automation/"
+            },
+            {
+              "title": "Transactional Email",
+              "description": "",
+              "url": "https://www.campaignmonitor.com/features/transactional-email/"
+            },
+            {
+              "title": "Analytics",
+              "description": "",
+              "url": "https://www.campaignmonitor.com/features/email-analytics/"
+            },
+            {
+              "title": "AI",
+              "description": "",
+              "url": "https://www.campaignmonitor.com/Features/ai-features"
+            },
+            {
+              "title": "Integrations",
+              "description": "",
+              "url": "https://www.campaignmonitor.com/integrations/"
+            },
+            {
+              "title": "Signup Forms",
+              "description": "",
+              "url": "https://www.campaignmonitor.com/features/email-sign-up-forms/"
+            },
+            {
+              "title": "SMS",
+              "description": "",
+              "url": "https://www.campaignmonitor.com/features/sms/"
+            },
+            {
+              "title": "Expert Services",
+              "description": "",
+              "url": "https://www.campaignmonitor.com/features/expert-services/"
+            },
+            {
+              "title": "What's New",
+              "description": "",
+              "url": "https://www.campaignmonitor.com/whats-new/"
+            },
+            {
+              "title": "Pricing",
+              "description": "",
+              "url": "https://www.campaignmonitor.com/pricing/"
+            },
+            {
+              "title": "Resources",
+              "description": "",
+              "url": "https://www.campaignmonitor.com/resources/"
+            },
+            {
+              "title": "Customers",
+              "description": "",
+              "url": "https://www.campaignmonitor.com/customers/"
+            },
+            {
+              "title": "Gallery",
+              "description": "",
+              "url": "https://www.campaignmonitor.com/best-email-marketing-campaigns/"
+            },
+            {
+              "title": "Agencies",
+              "description": "",
+              "url": "https://www.campaignmonitor.com/agencies/"
+            },
+            {
+              "title": "Support",
+              "description": "",
+              "url": "https://help.campaignmonitor.com/"
+            },
+            {
+              "title": "Sales",
+              "description": "",
+              "url": "https://www.campaignmonitor.com/contact-sales/?sv=home"
+            },
+            {
+              "title": "Try it free",
+              "description": "",
+              "url": "https://www.campaignmonitor.com/signup/?sv=home"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

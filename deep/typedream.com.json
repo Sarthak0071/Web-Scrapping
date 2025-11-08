@@ -1,0 +1,92 @@
+{
+  "website": "https://typedream.com",
+  "domain": "typedream.com",
+  "scraped_at": "2025-11-08 12:37:20",
+  "menus": [
+    {
+      "menu_name": "Navigation",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "SitesBuild your dream website",
+              "description": "",
+              "url": "https://typedream.com/sites"
+            },
+            {
+              "title": "Link in bioBring all your online presence into one!",
+              "description": "",
+              "url": "https://typedream.com/linkinbio"
+            },
+            {
+              "title": "FormsCreate forms to capture leads, surveys, and more",
+              "description": "",
+              "url": "https://typedream.com/form"
+            },
+            {
+              "title": "BlogConnect your database and display contents",
+              "description": "",
+              "url": "https://typedream.com/blogs"
+            },
+            {
+              "title": "ProductsSell your digital products",
+              "description": "",
+              "url": "https://typedream.com/products"
+            },
+            {
+              "title": "EmailsAnnounce new products or offer deals to audience",
+              "description": "",
+              "url": "https://typedream.com/emails"
+            },
+            {
+              "title": "Templates",
+              "description": "",
+              "url": "https://typedream.com/templates"
+            },
+            {
+              "title": "Showcase",
+              "description": "",
+              "url": "https://typedream.com/showcases"
+            },
+            {
+              "title": "Guide & tutorialsStart using Typedream to build your site",
+              "description": "",
+              "url": "https://typedream.com/docs"
+            },
+            {
+              "title": "IntegrationsIntegrate external tools to your website",
+              "description": "",
+              "url": "https://typedream.com/docs/integration"
+            },
+            {
+              "title": "ChangelogA weekly update on new features & bug fixes",
+              "description": "",
+              "url": "https://typedream.com/changelog"
+            },
+            {
+              "title": "BlogDiscover insights from Typedream team",
+              "description": "",
+              "url": "https://typedream.com/blog"
+            },
+            {
+              "title": "AssetsElevate your website with asset-packs and tools",
+              "description": "",
+              "url": "https://typedream.com/assets"
+            },
+            {
+              "title": "PodcastAn unfiltered journal of our thoughts as a founder",
+              "description": "",
+              "url": "https://podcasters.spotify.com/pod/show/typedream"
+            },
+            {
+              "title": "Pricing",
+              "description": "",
+              "url": "https://typedream.com/pricing"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "website": "https://postmarkapp.com",
+  "domain": "postmarkapp.com",
+  "scraped_at": "2025-11-08 12:36:39",
+  "menus": [
+    {
+      "menu_name": "Product",
+      "sections": [
+        {
+          "section_title": "Features",
+          "items": [
+            {
+              "title": "Email API",
+              "description": "",
+              "url": "https://postmarkapp.com/email-api"
+            },
+            {
+              "title": "SMTP Service",
+              "description": "",
+              "url": "https://postmarkapp.com/smtp-service"
+            },
+            {
+              "title": "Message Streams",
+              "description": "",
+              "url": "https://postmarkapp.com/message-streams"
+            },
+            {
+              "title": "Transactional Email",
+              "description": "",
+              "url": "https://postmarkapp.com/transactional-email"
+            },
+            {
+              "title": "Email Delivery",
+              "description": "",
+              "url": "https://postmarkapp.com/email-delivery"
+            },
+            {
+              "title": "Email Templates",
+              "description": "",
+              "url": "https://postmarkapp.com/email-templates"
+            },
+            {
+              "title": "Inbound Email",
+              "description": "",
+              "url": "https://postmarkapp.com/inbound-email"
+            },
+            {
+              "title": "Analytics & Retention",
+              "description": "",
+              "url": "https://postmarkapp.com/email-analytics"
+            },
+            {
+              "title": "Integrations",
+              "description": "",
+              "url": "https://postmarkapp.com/integrations"
+            }
+          ]
+        },
+        {
+          "section_title": "Postmark For",
+          "items": [
+            {
+              "title": "Agencies",
+              "description": "",
+              "url": "https://postmarkapp.com/for/agencies"
+            },
+            {
+              "title": "Enterprise",
+              "description": "",
+              "url": "https://postmarkapp.com/for/enterprise"
+            },
+            {
+              "title": "Startups",
+              "description": "",
+              "url": "https://postmarkapp.com/for/startups"
+            },
+            {
+              "title": "Bootstrapped Startups",
+              "description": "",
+              "url": "https://postmarkapp.com/for/bootstrapped-startups"
+            },
+            {
+              "title": "Side Projects",
+              "description": "",
+              "url": "https://postmarkapp.com/for/side-projects"
+            }
+          ]
+        },
+        {
+          "section_title": "Postmark vs.",
+          "items": [
+            {
+              "title": "SendGrid",
+              "description": "",
+              "url": "https://postmarkapp.com/compare/sendgrid-alternative"
+            },
+            {
+              "title": "Mailgun",
+              "description": "",
+              "url": "https://postmarkapp.com/compare/mailgun-alternative"
+            },
+            {
+              "title": "Amazon SES",
+              "description": "",
+              "url": "https://postmarkapp.com/compare/amazon-ses-alternative"
+            },
+            {
+              "title": "SparkPost",
+              "description": "",
+              "url": "https://postmarkapp.com/compare/sparkpost-alternative"
+            },
+            {
+              "title": "Mandrill",
+              "description": "",
+              "url": "https://postmarkapp.com/compare/mandrill-alternative"
+            },
+            {
+              "title": "Pricing",
+              "description": "",
+              "url": "https://postmarkapp.com/pricing"
+            },
+            {
+              "title": "Blog",
+              "description": "",
+              "url": "https://postmarkapp.com/blog"
+            },
+            {
+              "title": "API Documentation",
+              "description": "",
+              "url": "https://postmarkapp.com/developer"
+            },
+            {
+              "title": "Getting Started",
+              "description": "",
+              "url": "https://postmarkapp.com/manual"
+            },
+            {
+              "title": "Email Guides",
+              "description": "",
+              "url": "https://postmarkapp.com/guides"
+            },
+            {
+              "title": "Email Comic",
+              "description": "",
+              "url": "https://postmarkapp.com/postmark-express"
+            },
+            {
+              "title": "Webinars",
+              "description": "",
+              "url": "https://postmarkapp.com/webinars"
+            },
+            {
+              "title": "Videos",
+              "description": "",
+              "url": "https://postmarkapp.com/videos"
+            },
+            {
+              "title": "Podcast",
+              "description": "",
+              "url": "https://postmarkapp.com/podcast"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Resources",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Labs",
+              "description": "",
+              "url": "https://postmarkapp.com/labs"
+            },
+            {
+              "title": "DMARC Digests",
+              "description": "",
+              "url": "https://dmarcdigests.com"
+            },
+            {
+              "title": "Glossary",
+              "description": "",
+              "url": "https://postmarkapp.com/glossary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Help",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Support Center",
+              "description": "",
+              "url": "https://postmarkapp.com/support"
+            },
+            {
+              "title": "Contact Support",
+              "description": "",
+              "url": "https://postmarkapp.com/contact"
+            },
+            {
+              "title": "Talk to Sales",
+              "description": "",
+              "url": "https://postmarkapp.com/talk-to-sales"
+            },
+            {
+              "title": "Status",
+              "description": "",
+              "url": "https://status.postmarkapp.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Navigation",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Why Postmark?",
+              "description": "",
+              "url": "https://postmarkapp.com/why"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Navigation",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Webhooks",
+              "description": "",
+              "url": "https://postmarkapp.com/email-webhooks"
+            },
+            {
+              "title": "Security",
+              "description": "",
+              "url": "https://postmarkapp.com/security"
+            },
+            {
+              "title": "Email Experts",
+              "description": "",
+              "url": "https://postmarkapp.com/email-experts"
+            },
+            {
+              "title": "Rebound",
+              "description": "",
+              "url": "https://postmarkapp.com/rebound"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Navigation",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "More",
+              "description": "",
+              "url": "https://postmarkapp.com/developer/integration/official-libraries"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

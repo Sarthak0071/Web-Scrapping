@@ -1,0 +1,42 @@
+{
+  "website": "https://www.sendgrid.com",
+  "domain": "www.sendgrid.com",
+  "scraped_at": "2025-11-07T16:27:13.354207",
+  "menus": [
+    {
+      "title": "Email Section",
+      "items": [
+        {
+          "title": "Email Marketing",
+          "url": "https://sendgrid.com/en-us/solutions/email-marketing",
+          "items": []
+        },
+        {
+          "title": "Email API",
+          "url": "https://sendgrid.com/en-us/solutions/email-api",
+          "items": []
+        },
+        {
+          "title": "Twilio Programmable SMS",
+          "url": "https://www.twilio.com/en-us/messaging/channels/sms",
+          "items": []
+        },
+        {
+          "title": "Expert Services (Twilio Professional Services)",
+          "url": "https://www.twilio.com/en-us/professional-services",
+          "items": []
+        },
+        {
+          "title": "One Platform Solution",
+          "url": "https://sendgrid.com/en-us/solutions",
+          "items": []
+        },
+        {
+          "title": "Pricing",
+          "url": "https://sendgrid.com/en-us/pricing",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

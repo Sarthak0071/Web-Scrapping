@@ -1,0 +1,407 @@
+{
+  "website": "https://www.zoom.us",
+  "domain": "www.zoom.us",
+  "scraped_at": "2025-11-07T18:00:00.000000",
+  "menus": [
+    {
+      "title": "Menu-div-js-language-content",
+      "items": [
+        {
+          "title": "Deutsch",
+          "url": "https://www.zoom.com/de/",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://www.zoom.com/en",
+          "items": []
+        },
+        {
+          "title": "Español",
+          "url": "https://www.zoom.com/es",
+          "items": []
+        },
+        {
+          "title": "Français",
+          "url": "https://www.zoom.com/fr/",
+          "items": []
+        },
+        {
+          "title": "Indonesia",
+          "url": "https://www.zoom.com/id/",
+          "items": []
+        },
+        {
+          "title": "Italiano",
+          "url": "https://www.zoom.com/it/",
+          "items": []
+        },
+        {
+          "title": "日本語",
+          "url": "https://www.zoom.com/ja/",
+          "items": []
+        },
+        {
+          "title": "한국어",
+          "url": "https://www.zoom.com/ko/",
+          "items": []
+        },
+        {
+          "title": "Nederlands",
+          "url": "https://www.zoom.com/nl/",
+          "items": []
+        },
+        {
+          "title": "Polski",
+          "url": "https://www.zoom.com/pl/",
+          "items": []
+        },
+        {
+          "title": "Português",
+          "url": "https://www.zoom.com/pt/",
+          "items": []
+        },
+        {
+          "title": "Русский",
+          "url": "https://www.zoom.com/ru/",
+          "items": []
+        },
+        {
+          "title": "Svenska",
+          "url": "https://www.zoom.com/sv/",
+          "items": []
+        },
+        {
+          "title": "Türkçe",
+          "url": "https://www.zoom.com/tr/",
+          "items": []
+        },
+        {
+          "title": "Tiếng Việt",
+          "url": "https://www.zoom.com/vi/",
+          "items": []
+        },
+        {
+          "title": "中文（简体，中国）",
+          "url": "https://www.zoom.com/zh-cn/",
+          "items": []
+        },
+        {
+          "title": "中文（繁體，台灣）",
+          "url": "https://www.zoom.com/zh-tw/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu-div-N/A",
+      "items": [
+        {
+          "title": "Zoom Blog Zoom Blog",
+          "url": "https://www.zoom.com/en/blog/",
+          "items": []
+        },
+        {
+          "title": "Customers",
+          "url": "https://www.zoom.com/en/customer-stories/all/",
+          "items": []
+        },
+        {
+          "title": "Our Team",
+          "url": "https://www.zoom.com/en/about/team/",
+          "items": []
+        },
+        {
+          "title": "Careers",
+          "url": "https://careers.zoom.us/home",
+          "items": []
+        },
+        {
+          "title": "Integrations",
+          "url": "https://marketplace.zoom.us/",
+          "items": []
+        },
+        {
+          "title": "Partners",
+          "url": "https://partner.zoom.us/",
+          "items": []
+        },
+        {
+          "title": "Investors",
+          "url": "https://investors.zoom.us/",
+          "items": []
+        },
+        {
+          "title": "Press",
+          "url": "https://news.zoom.us/",
+          "items": []
+        },
+        {
+          "title": "Sustainability & ESG",
+          "url": "https://www.zoom.com/en/about/esg-fy2024-impact-report/",
+          "items": []
+        },
+        {
+          "title": "Zoom Cares Zoom Cares",
+          "url": "https://zoomcares.zoom.us/",
+          "items": []
+        },
+        {
+          "title": "Media Kit",
+          "url": "https://www.zoom.com/en/about/media-kit/",
+          "items": []
+        },
+        {
+          "title": "How To Videos",
+          "url": "https://learn-zoom.us/show-me",
+          "items": []
+        },
+        {
+          "title": "Developer Platform",
+          "url": "https://developers.zoom.us/",
+          "items": []
+        },
+        {
+          "title": "Zoom Ventures",
+          "url": "https://www.zoom.com/en/zoom-ventures/",
+          "items": []
+        },
+        {
+          "title": "Zoom Merchandise Store Zoom Merchandise Store",
+          "url": "https://shophappy.zoom.us/",
+          "items": []
+        },
+        {
+          "title": "Zoom Workplace App Zoom Workplace App",
+          "url": "https://zoom.us/download",
+          "items": []
+        },
+        {
+          "title": "Zoom Rooms App Zoom Rooms App",
+          "url": "https://zoom.us/download#room_client",
+          "items": []
+        },
+        {
+          "title": "Zoom Rooms Controller",
+          "url": "https://zoom.us/download#room_controller",
+          "items": []
+        },
+        {
+          "title": "Browser Extension",
+          "url": "https://zoom.us/download#chrome_ext",
+          "items": []
+        },
+        {
+          "title": "Outlook Plug-in",
+          "url": "https://zoom.us/download#outlook_plugin",
+          "items": []
+        },
+        {
+          "title": "iPhone/iPad App iPhone/iPad App",
+          "url": "https://zoom.us/download#client_iphone",
+          "items": []
+        },
+        {
+          "title": "Android App Android App",
+          "url": "https://zoom.us/download#mobile_app",
+          "items": []
+        },
+        {
+          "title": "Zoom Virtual Backgrounds",
+          "url": "https://www.zoom.com/en/products/virtual-meetings/features/virtual-background-library/",
+          "items": []
+        },
+        {
+          "title": "Contact Sales",
+          "url": "https://www.zoom.com/en/contact/contact-sales/",
+          "items": []
+        },
+        {
+          "title": "Plans & Pricing",
+          "url": "https://zoom.us/pricing",
+          "items": []
+        },
+        {
+          "title": "Request a Demo",
+          "url": "https://www.zoom.com/en/contact/live-demo/",
+          "items": []
+        },
+        {
+          "title": "Webinars and Events",
+          "url": "https://ev.zoom.us/",
+          "items": []
+        },
+        {
+          "title": "Zoom Experience Center Zoom Experience Center",
+          "url": "https://ebc.zoom.us/",
+          "items": []
+        },
+        {
+          "title": "Test Zoom",
+          "url": "https://zoom.us/test",
+          "items": []
+        },
+        {
+          "title": "Account",
+          "url": "https://zoom.us/account",
+          "items": []
+        },
+        {
+          "title": "Support Center Support Center",
+          "url": "https://support.zoom.com/hc/en",
+          "items": []
+        },
+        {
+          "title": "Learning Center",
+          "url": "https://learning.zoom.us/learn",
+          "items": []
+        },
+        {
+          "title": "Zoom Community",
+          "url": "https://community.zoom.com/",
+          "items": []
+        },
+        {
+          "title": "Technical Content Library Technical Content Library",
+          "url": "https://www.zoom.com/en/products/resources/tech-library/",
+          "items": []
+        },
+        {
+          "title": "Feedback",
+          "url": "https://zoom.us/feed",
+          "items": []
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://www.zoom.com/en/contact/",
+          "items": []
+        },
+        {
+          "title": "Accessibility",
+          "url": "https://www.zoom.com/en/accessibility/",
+          "items": []
+        },
+        {
+          "title": "Developer Support",
+          "url": "https://developers.zoom.us/support/",
+          "items": []
+        },
+        {
+          "title": "Privacy, Security, Legal Policies, and Modern Slavery Act Transparency Statement",
+          "url": "https://www.zoom.com/en/trust/legal-compliance/",
+          "items": []
+        },
+        {
+          "title": "Terms",
+          "url": "https://www.zoom.com/en/trust/terms/",
+          "items": []
+        },
+        {
+          "title": "Privacy",
+          "url": "https://www.zoom.com/en/trust/privacy/privacy-statement/",
+          "items": []
+        },
+        {
+          "title": "Trust Center",
+          "url": "https://www.zoom.com/en/trust/",
+          "items": []
+        },
+        {
+          "title": "Acceptable Use Guidelines",
+          "url": "https://explore.zoom.us/en/acceptable-use-guidelines/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu-div-js-language-mobile-content",
+      "items": [
+        {
+          "title": "Deutsch",
+          "url": "https://www.zoom.com/de/",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://www.zoom.com/en/",
+          "items": []
+        },
+        {
+          "title": "Español",
+          "url": "https://www.zoom.com/es/",
+          "items": []
+        },
+        {
+          "title": "Français",
+          "url": "https://www.zoom.com/fr/",
+          "items": []
+        },
+        {
+          "title": "Indonesia",
+          "url": "https://www.zoom.com/id/",
+          "items": []
+        },
+        {
+          "title": "Italiano",
+          "url": "https://www.zoom.com/it/",
+          "items": []
+        },
+        {
+          "title": "日本語",
+          "url": "https://www.zoom.com/ja/",
+          "items": []
+        },
+        {
+          "title": "한국어",
+          "url": "https://www.zoom.com/ko/",
+          "items": []
+        },
+        {
+          "title": "Nederlands",
+          "url": "https://www.zoom.com/nl/",
+          "items": []
+        },
+        {
+          "title": "Polski",
+          "url": "https://www.zoom.com/pl",
+          "items": []
+        },
+        {
+          "title": "Português",
+          "url": "https://www.zoom.com/pt/",
+          "items": []
+        },
+        {
+          "title": "Русский",
+          "url": "https://www.zoom.com/ru/",
+          "items": []
+        },
+        {
+          "title": "Svenska",
+          "url": "https://www.zoom.com/sv/",
+          "items": []
+        },
+        {
+          "title": "Türkçe",
+          "url": "https://www.zoom.com/tr/",
+          "items": []
+        },
+        {
+          "title": "Tiếng Việt",
+          "url": "https://www.zoom.com/vi/",
+          "items": []
+        },
+        {
+          "title": "中文（简体，中国）",
+          "url": "https://www.zoom.com/zh-cn/",
+          "items": []
+        },
+        {
+          "title": "中文（繁體，台灣）",
+          "url": "https://www.zoom.com/zh-tw/",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

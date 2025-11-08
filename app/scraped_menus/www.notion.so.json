@@ -1,0 +1,451 @@
+{
+  "website": "https://www.notion.so",
+  "domain": "www.notion.so",
+  "scraped_at": "2025-11-07T16:08:26.752836",
+  "menus": [
+    {
+      "title": "Main Navigation",
+      "items": [
+        {
+          "title": "Notion",
+          "url": "#",
+          "items": [
+            {
+              "title": "Notion AIBuild, write, automate",
+              "url": "https://www.notion.so/product/ai",
+              "items": []
+            },
+            {
+              "title": "AgentsNewHandles manual tasks",
+              "url": "https://www.notion.so/product/ai/use-cases",
+              "items": []
+            },
+            {
+              "title": "Enterprise SearchFind answers instantly",
+              "url": "https://www.notion.so/product/enterprise-search",
+              "items": []
+            },
+            {
+              "title": "AI Meeting NotesPerfectly written by AI",
+              "url": "https://www.notion.so/product/ai-meeting-notes",
+              "items": []
+            },
+            {
+              "title": "Knowledge BaseCentralize your knowledge",
+              "url": "https://www.notion.so/product/wikis",
+              "items": []
+            },
+            {
+              "title": "ProjectsManage any project",
+              "url": "https://www.notion.so/product/projects",
+              "items": []
+            },
+            {
+              "title": "SitesPublish anything, fast",
+              "url": "https://www.notion.so/product/sites",
+              "items": []
+            },
+            {
+              "title": "Explore AI use casesNewSee what Notion AI can do",
+              "url": "https://www.notion.so/product/ai/use-cases",
+              "items": []
+            },
+            {
+              "title": "Browse marketplaceTemplates for everything",
+              "url": "https://www.notion.so/templates",
+              "items": []
+            },
+            {
+              "title": "View integrationsConnect your apps with Notion",
+              "url": "https://www.notion.so/integrations",
+              "items": []
+            },
+            {
+              "title": "Download web clipperSave from the web into Notion",
+              "url": "https://www.notion.so/web-clipper",
+              "items": []
+            },
+            {
+              "title": "Download app",
+              "url": "https://www.notion.so/download",
+              "items": []
+            }
+          ]
+        },
+        {
+          "title": "Explore",
+          "url": "#",
+          "items": [
+            {
+              "title": "Eng & Product",
+              "url": "https://www.notion.so/product/notion-for-product-development",
+              "items": []
+            },
+            {
+              "title": "Design",
+              "url": "https://www.notion.so/product/notion-for-design",
+              "items": []
+            },
+            {
+              "title": "Marketing",
+              "url": "https://www.notion.so/templates/category/marketing",
+              "items": []
+            },
+            {
+              "title": "IT",
+              "url": "https://www.notion.so/templates/category/ticketing",
+              "items": []
+            },
+            {
+              "title": "Startups",
+              "url": "https://www.notion.so/startups",
+              "items": []
+            },
+            {
+              "title": "SMBs",
+              "url": "https://www.notion.so/teams",
+              "items": []
+            },
+            {
+              "title": "Enterprise",
+              "url": "https://www.notion.so/enterprise",
+              "items": []
+            },
+            {
+              "title": "Education",
+              "url": "https://www.notion.so/product/notion-for-education",
+              "items": []
+            },
+            {
+              "title": "Customer stories",
+              "url": "https://www.notion.so/customers",
+              "items": []
+            },
+            {
+              "title": "Blog",
+              "url": "https://www.notion.so/blog",
+              "items": []
+            },
+            {
+              "title": "Community",
+              "url": "https://www.notion.so/community",
+              "items": []
+            },
+            {
+              "title": "API",
+              "url": "https://developers.notion.com",
+              "items": []
+            },
+            {
+              "title": "Templates",
+              "url": "https://www.notion.so/templates",
+              "items": []
+            },
+            {
+              "title": "Consultants",
+              "url": "https://www.notion.so/consulting-partner-program",
+              "items": []
+            }
+          ]
+        },
+        {
+          "title": "Notion",
+          "url": "#",
+          "items": [
+            {
+              "title": "Notion AIBuild, write, automate",
+              "url": "https://www.notion.so/product/ai",
+              "items": []
+            },
+            {
+              "title": "AgentsNewHandles manual tasks",
+              "url": "https://www.notion.so/product/ai/use-cases",
+              "items": []
+            },
+            {
+              "title": "Enterprise SearchFind answers instantly",
+              "url": "https://www.notion.so/product/enterprise-search",
+              "items": []
+            },
+            {
+              "title": "AI Meeting NotesPerfectly written by AI",
+              "url": "https://www.notion.so/product/ai-meeting-notes",
+              "items": []
+            },
+            {
+              "title": "Knowledge BaseCentralize your knowledge",
+              "url": "https://www.notion.so/product/wikis",
+              "items": []
+            },
+            {
+              "title": "ProjectsManage any project",
+              "url": "https://www.notion.so/product/projects",
+              "items": []
+            },
+            {
+              "title": "SitesPublish anything, fast",
+              "url": "https://www.notion.so/product/sites",
+              "items": []
+            },
+            {
+              "title": "Explore AI use casesNewSee what Notion AI can do",
+              "url": "https://www.notion.so/product/ai/use-cases",
+              "items": []
+            },
+            {
+              "title": "Browse marketplaceTemplates for everything",
+              "url": "https://www.notion.so/templates",
+              "items": []
+            },
+            {
+              "title": "View integrationsConnect your apps with Notion",
+              "url": "https://www.notion.so/integrations",
+              "items": []
+            },
+            {
+              "title": "Download web clipperSave from the web into Notion",
+              "url": "https://www.notion.so/web-clipper",
+              "items": []
+            },
+            {
+              "title": "Download app",
+              "url": "https://www.notion.so/download",
+              "items": []
+            }
+          ]
+        },
+        {
+          "title": "Explore",
+          "url": "#",
+          "items": [
+            {
+              "title": "Eng & Product",
+              "url": "https://www.notion.so/product/notion-for-product-development",
+              "items": []
+            },
+            {
+              "title": "Design",
+              "url": "https://www.notion.so/product/notion-for-design",
+              "items": []
+            },
+            {
+              "title": "Marketing",
+              "url": "https://www.notion.so/templates/category/marketing",
+              "items": []
+            },
+            {
+              "title": "IT",
+              "url": "https://www.notion.so/templates/category/ticketing",
+              "items": []
+            },
+            {
+              "title": "Startups",
+              "url": "https://www.notion.so/startups",
+              "items": []
+            },
+            {
+              "title": "SMBs",
+              "url": "https://www.notion.so/teams",
+              "items": []
+            },
+            {
+              "title": "Enterprise",
+              "url": "https://www.notion.so/enterprise",
+              "items": []
+            },
+            {
+              "title": "Education",
+              "url": "https://www.notion.so/product/notion-for-education",
+              "items": []
+            },
+            {
+              "title": "Customer stories",
+              "url": "https://www.notion.so/customers",
+              "items": []
+            },
+            {
+              "title": "Blog",
+              "url": "https://www.notion.so/blog",
+              "items": []
+            },
+            {
+              "title": "Community",
+              "url": "https://www.notion.so/community",
+              "items": []
+            },
+            {
+              "title": "API",
+              "url": "https://developers.notion.com",
+              "items": []
+            },
+            {
+              "title": "Templates",
+              "url": "https://www.notion.so/templates",
+              "items": []
+            },
+            {
+              "title": "Consultants",
+              "url": "https://www.notion.so/consulting-partner-program",
+              "items": []
+            }
+          ]
+        },
+        {
+          "title": "Notion AIBuild, write, automate",
+          "url": "https://www.notion.so/product/ai",
+          "items": []
+        },
+        {
+          "title": "AgentsNewHandles manual tasks",
+          "url": "https://www.notion.so/product/ai/use-cases",
+          "items": []
+        },
+        {
+          "title": "Enterprise SearchFind answers instantly",
+          "url": "https://www.notion.so/product/enterprise-search",
+          "items": []
+        },
+        {
+          "title": "AI Meeting NotesPerfectly written by AI",
+          "url": "https://www.notion.so/product/ai-meeting-notes",
+          "items": []
+        },
+        {
+          "title": "Knowledge BaseCentralize your knowledge",
+          "url": "https://www.notion.so/product/wikis",
+          "items": []
+        },
+        {
+          "title": "ProjectsManage any project",
+          "url": "https://www.notion.so/product/projects",
+          "items": []
+        },
+        {
+          "title": "SitesPublish anything, fast",
+          "url": "https://www.notion.so/product/sites",
+          "items": []
+        },
+        {
+          "title": "Explore AI use casesNewSee what Notion AI can do",
+          "url": "https://www.notion.so/product/ai/use-cases",
+          "items": []
+        },
+        {
+          "title": "Browse marketplaceTemplates for everything",
+          "url": "https://www.notion.so/templates",
+          "items": []
+        },
+        {
+          "title": "View integrationsConnect your apps with Notion",
+          "url": "https://www.notion.so/integrations",
+          "items": []
+        },
+        {
+          "title": "Download web clipperSave from the web into Notion",
+          "url": "https://www.notion.so/web-clipper",
+          "items": []
+        },
+        {
+          "title": "Download app",
+          "url": "https://www.notion.so/download",
+          "items": []
+        },
+        {
+          "title": "Mail",
+          "url": "https://www.notion.so/product/mail",
+          "items": []
+        },
+        {
+          "title": "Calendar",
+          "url": "https://www.notion.so/product/calendar",
+          "items": []
+        },
+        {
+          "title": "AI",
+          "url": "https://www.notion.so/product/ai",
+          "items": []
+        },
+        {
+          "title": "Enterprise",
+          "url": "https://www.notion.so/enterprise",
+          "items": []
+        },
+        {
+          "title": "Pricing",
+          "url": "https://www.notion.so/pricing",
+          "items": []
+        },
+        {
+          "title": "Eng & Product",
+          "url": "https://www.notion.so/product/notion-for-product-development",
+          "items": []
+        },
+        {
+          "title": "Design",
+          "url": "https://www.notion.so/product/notion-for-design",
+          "items": []
+        },
+        {
+          "title": "Marketing",
+          "url": "https://www.notion.so/templates/category/marketing",
+          "items": []
+        },
+        {
+          "title": "IT",
+          "url": "https://www.notion.so/templates/category/ticketing",
+          "items": []
+        },
+        {
+          "title": "Startups",
+          "url": "https://www.notion.so/startups",
+          "items": []
+        },
+        {
+          "title": "SMBs",
+          "url": "https://www.notion.so/teams",
+          "items": []
+        },
+        {
+          "title": "Enterprise",
+          "url": "https://www.notion.so/enterprise",
+          "items": []
+        },
+        {
+          "title": "Education",
+          "url": "https://www.notion.so/product/notion-for-education",
+          "items": []
+        },
+        {
+          "title": "Customer stories",
+          "url": "https://www.notion.so/customers",
+          "items": []
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.notion.so/blog",
+          "items": []
+        },
+        {
+          "title": "Community",
+          "url": "https://www.notion.so/community",
+          "items": []
+        },
+        {
+          "title": "API",
+          "url": "https://developers.notion.com",
+          "items": []
+        },
+        {
+          "title": "Templates",
+          "url": "https://www.notion.so/templates",
+          "items": []
+        },
+        {
+          "title": "Consultants",
+          "url": "https://www.notion.so/consulting-partner-program",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

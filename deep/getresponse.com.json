@@ -1,0 +1,32 @@
+{
+  "website": "https://www.getresponse.com",
+  "domain": "www.getresponse.com",
+  "scraped_at": "2025-11-08 12:36:00",
+  "menus": [
+    {
+      "menu_name": "Navigation",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Search",
+              "description": "",
+              "url": "https://www.getresponse.com/search"
+            },
+            {
+              "title": "Enterprise",
+              "description": "",
+              "url": "https://www.getresponse.com/max"
+            },
+            {
+              "title": "Pricing",
+              "description": "",
+              "url": "https://www.getresponse.com/pricing"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

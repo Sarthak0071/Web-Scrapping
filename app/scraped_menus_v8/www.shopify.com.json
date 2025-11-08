@@ -1,0 +1,629 @@
+{
+  "website": "https://www.shopify.com",
+  "domain": "www.shopify.com",
+  "scraped_at": "2025-11-07T19:00:00.000000",
+  "menus": [
+    {
+      "title": "Main Menu",
+      "items": [
+        {
+          "title": "Start your business . Build your brand",
+          "url": "https://www.shopify.com/start",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Create your website . Online store editor",
+          "url": "https://www.shopify.com/website/builder",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Customize your store . Store themes",
+          "url": "https://themes.shopify.com/",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Find business apps . Shopify app store",
+          "url": "https://apps.shopify.com/",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Own your site domain . Domains & hosting",
+          "url": "https://www.shopify.com/domains",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Explore free business tools . Tools to run your business",
+          "url": "https://www.shopify.com/tools",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Sell your products . Sell online or in person",
+          "url": "https://www.shopify.com/sell",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Check out customers . World-class checkout",
+          "url": "https://www.shopify.com/checkout",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Sell online . Grow your business online",
+          "url": "https://www.shopify.com/online",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Sell across channels . Reach millions of shoppers and boost sales",
+          "url": "https://www.shopify.com/channels",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Sell in person . Point of Sale (POS)",
+          "url": "https://www.shopify.com/pos",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Sell globally . International sales",
+          "url": "https://www.shopify.com/international",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Sell wholesale & direct . Business-to-business (B2B)",
+          "url": "https://www.shopify.com/plus/solutions/b2b-ecommerce",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Accept online payments . Set up forms of payment",
+          "url": "https://www.shopify.com/payments",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Market your business . Reach & retain customers",
+          "url": "https://www.shopify.com/marketing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Market across social . Social media integrations",
+          "url": "https://www.shopify.com/facebook-instagram",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Chat with customers . Shopify Inbox",
+          "url": "https://www.shopify.com/inbox",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Nurture customers . Shopify Email",
+          "url": "https://www.shopify.com/email-marketing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Know your audience . Gain customer insights",
+          "url": "https://www.shopify.com/segmentation",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Manage your business . Track sales, orders & analytics",
+          "url": "https://www.shopify.com/manage",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Manage your finances & access funding . Shopify Finance",
+          "url": "https://www.shopify.com/finance",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Measure your performance . Analytics and Reporting",
+          "url": "https://www.shopify.com/analytics",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Ship orders faster . Shopify Shipping",
+          "url": "https://www.shopify.com/shipping",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Manage your stock & orders . Inventory & order management",
+          "url": "https://www.shopify.com/orders",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Outsource fulfillment & returns . Shopify Fulfillment Network",
+          "url": "https://www.shopify.com/fulfillment",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Automate your business . Shopify Flow",
+          "url": "https://www.shopify.com/flow",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Shopify Developers . Build with Shopify's powerful APIs",
+          "url": "https://shopify.dev",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Plus . A commerce solution for growing digital brands",
+          "url": "https://www.shopify.com/plus",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "All Products . Explore all Shopify products & features",
+          "url": "https://www.shopify.com/products",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Pricing",
+          "url": "https://www.shopify.com/pricing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Help and support . Get 24/7 support",
+          "url": "https://help.shopify.com/en/",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "How-to guides . Read in-depth business guides",
+          "url": "https://www.shopify.com/blog/topics/guides",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Business courses . Learn from proven experts",
+          "url": "https://www.shopifyacademy.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Shopify blog . Business strategy tips",
+          "url": "https://www.shopify.com/blog",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "What is Shopify? . How our commerce platform works",
+          "url": "https://www.shopify.com/blog/what-is-shopify",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Shopify Editions . New, innovative Shopify products",
+          "url": "https://www.shopify.com/editions",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Founder stories . Learn from successful merchants",
+          "url": "https://www.shopify.com/blog/topics/founder-stories",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Branding . Build your brand from scratch",
+          "url": "https://www.shopify.com/blog/how-to-build-a-brand",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Marketing . Build a marketing plan",
+          "url": "https://www.shopify.com/blog/marketing-plan",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Ecommerce SEO . Improve your search ranking",
+          "url": "https://www.shopify.com/blog/ecommerce-seo-beginners-guide",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Social media strategy . Turn social into sales",
+          "url": "https://www.shopify.com/blog/topics/social-media-optimization",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Business growth . Scale your business",
+          "url": "https://www.shopify.com/blog/how-to-scale-small-business",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Logo maker .",
+          "url": "https://www.shopify.com/tools/logo-maker",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Stock photography .",
+          "url": "https://www.shopify.com/stock-photos",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Business plan template .",
+          "url": "https://www.shopify.com/blog/business-plan-template",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "QR code generator .",
+          "url": "https://www.shopify.com/tools/qr-code-generator",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Enterprise",
+          "url": "https://www.shopify.com/enterprise",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Changelog . Your source for recent updates",
+          "url": "https://changelog.shopify.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Summer ’25 Edition . The latest 150+ product updates",
+          "url": "https://www.shopify.com/editions/summer2025",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Newsroom . All company news and press releases",
+          "url": "https://shopify.com/news",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Log in",
+          "url": "https://www.shopify.com/login?ui_locales=en",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Start for free",
+          "url": "https://admin.shopify.com/signup?locale=en&language=en&signup_page=https%3A%2F%2Fwww.shopify.com%2F&signup_types%5B%5D=paid_trial_experience",
+          "parent_id": null,
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Main",
+      "items": [
+        {
+          "title": "Start your business . Build your brand",
+          "url": "https://www.shopify.com/start",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Create your website . Online store editor",
+          "url": "https://www.shopify.com/website/builder",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Customize your store . Store themes",
+          "url": "https://themes.shopify.com/",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Find business apps . Shopify app store",
+          "url": "https://apps.shopify.com/",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Own your site domain . Domains & hosting",
+          "url": "https://www.shopify.com/domains",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Explore free business tools . Tools to run your business",
+          "url": "https://www.shopify.com/tools",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Sell your products . Sell online or in person",
+          "url": "https://www.shopify.com/sell",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Check out customers . World-class checkout",
+          "url": "https://www.shopify.com/checkout",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Sell online . Grow your business online",
+          "url": "https://www.shopify.com/online",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Sell across channels . Reach millions of shoppers and boost sales",
+          "url": "https://www.shopify.com/channels",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Sell in person . Point of Sale (POS)",
+          "url": "https://www.shopify.com/pos",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Sell globally . International sales",
+          "url": "https://www.shopify.com/international",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Sell wholesale & direct . Business-to-business (B2B)",
+          "url": "https://www.shopify.com/plus/solutions/b2b-ecommerce",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Accept online payments . Set up forms of payment",
+          "url": "https://www.shopify.com/payments",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Market your business . Reach & retain customers",
+          "url": "https://www.shopify.com/marketing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Market across social . Social media integrations",
+          "url": "https://www.shopify.com/facebook-instagram",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Chat with customers . Shopify Inbox",
+          "url": "https://www.shopify.com/inbox",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Nurture customers . Shopify Email",
+          "url": "https://www.shopify.com/email-marketing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Know your audience . Gain customer insights",
+          "url": "https://www.shopify.com/segmentation",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Manage your business . Track sales, orders & analytics",
+          "url": "https://www.shopify.com/manage",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Manage your finances & access funding . Shopify Finance",
+          "url": "https://www.shopify.com/finance",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Measure your performance . Analytics and Reporting",
+          "url": "https://www.shopify.com/analytics",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Ship orders faster . Shopify Shipping",
+          "url": "https://www.shopify.com/shipping",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Manage your stock & orders . Inventory & order management",
+          "url": "https://www.shopify.com/orders",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Outsource fulfillment & returns . Shopify Fulfillment Network",
+          "url": "https://www.shopify.com/fulfillment",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Automate your business . Shopify Flow",
+          "url": "https://www.shopify.com/flow",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Shopify Developers . Build with Shopify's powerful APIs",
+          "url": "https://shopify.dev",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Plus . A commerce solution for growing digital brands",
+          "url": "https://www.shopify.com/plus",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "All Products . Explore all Shopify products & features",
+          "url": "https://www.shopify.com/products",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Pricing",
+          "url": "https://www.shopify.com/pricing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Help and support . Get 24/7 support",
+          "url": "https://help.shopify.com/en/",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "How-to guides . Read in-depth business guides",
+          "url": "https://www.shopify.com/blog/topics/guides",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Business courses . Learn from proven experts",
+          "url": "https://www.shopifyacademy.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Shopify blog . Business strategy tips",
+          "url": "https://www.shopify.com/blog",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "What is Shopify? . How our commerce platform works",
+          "url": "https://www.shopify.com/blog/what-is-shopify",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Shopify Editions . New, innovative Shopify products",
+          "url": "https://www.shopify.com/editions",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Founder stories . Learn from successful merchants",
+          "url": "https://www.shopify.com/blog/topics/founder-stories",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Branding . Build your brand from scratch",
+          "url": "https://www.shopify.com/blog/how-to-build-a-brand",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Marketing . Build a marketing plan",
+          "url": "https://www.shopify.com/blog/marketing-plan",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Ecommerce SEO . Improve your search ranking",
+          "url": "https://www.shopify.com/blog/ecommerce-seo-beginners-guide",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Social media strategy . Turn social into sales",
+          "url": "https://www.shopify.com/blog/topics/social-media-optimization",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Business growth . Scale your business",
+          "url": "https://www.shopify.com/blog/how-to-scale-small-business",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Logo maker .",
+          "url": "https://www.shopify.com/tools/logo-maker",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Stock photography .",
+          "url": "https://www.shopify.com/stock-photos",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Business plan template .",
+          "url": "https://www.shopify.com/blog/business-plan-template",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "QR code generator .",
+          "url": "https://www.shopify.com/tools/qr-code-generator",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Enterprise",
+          "url": "https://www.shopify.com/enterprise",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Changelog . Your source for recent updates",
+          "url": "https://changelog.shopify.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Summer ’25 Edition . The latest 150+ product updates",
+          "url": "https://www.shopify.com/editions/summer2025",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Newsroom . All company news and press releases",
+          "url": "https://shopify.com/news",
+          "parent_id": null,
+          "items": []
+        }
+      ]
+    }
+  ]
+}

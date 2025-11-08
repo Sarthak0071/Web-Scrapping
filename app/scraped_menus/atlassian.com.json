@@ -1,0 +1,22 @@
+{
+  "website": "https://www.atlassian.com",
+  "domain": "www.atlassian.com",
+  "scraped_at": "2025-11-07T16:00:58.383573",
+  "menus": [
+    {
+      "title": "Main Navigation",
+      "items": [
+        {
+          "title": "Skip to content",
+          "url": "https://www.atlassian.com#content",
+          "items": [
+            {
+              "title": "Enterprise",
+              "url": "https://www.atlassian.com/enterprise"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

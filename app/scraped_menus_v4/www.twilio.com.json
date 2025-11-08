@@ -1,0 +1,72 @@
+{
+  "website": "https://www.twilio.com",
+  "domain": "www.twilio.com",
+  "scraped_at": "2025-11-07T16:27:13.354207",
+  "menus": [
+    {
+      "title": "Customer Section",
+      "items": [
+        {
+          "title": "Customer Engagement Platform",
+          "url": "https://www.twilio.com/en-us/customer-engagement-platform",
+          "items": []
+        },
+        {
+          "title": "Communications",
+          "url": "https://www.twilio.com/en-us/cpaas",
+          "items": []
+        },
+        {
+          "title": "Customer Data",
+          "url": "https://www.twilio.com/en-us/customer-data-platform",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Twilio Section",
+      "items": [
+        {
+          "title": "Twilio careers",
+          "url": "https://www.twilio.com/en-us/company/jobs",
+          "items": []
+        },
+        {
+          "title": "Twilio.org",
+          "url": "https://www.twilio.org/en-us",
+          "items": []
+        },
+        {
+          "title": "Press and media",
+          "url": "https://www.twilio.com/en-us/press",
+          "items": []
+        },
+        {
+          "title": "Investor relations",
+          "url": "https://investors.twilio.com/",
+          "items": []
+        },
+        {
+          "title": "Legal",
+          "url": "https://www.twilio.com/en-us/legal/tos",
+          "items": []
+        },
+        {
+          "title": "Privacy",
+          "url": "https://www.twilio.com/en-us/legal/privacy",
+          "items": []
+        },
+        {
+          "title": "Security",
+          "url": "https://www.twilio.com/en-us/security",
+          "items": []
+        },
+        {
+          "title": "Sitemap",
+          "url": "https://www.twilio.com/sitemap.xml",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

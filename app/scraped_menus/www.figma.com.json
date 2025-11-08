@@ -1,0 +1,17 @@
+{
+  "website": "https://www.figma.com",
+  "domain": "www.figma.com",
+  "scraped_at": "2025-11-07T16:11:40.367057",
+  "menus": [
+    {
+      "title": "Main Navigation",
+      "items": [
+        {
+          "title": "Pricing",
+          "url": "https://www.figma.com/pricing/",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

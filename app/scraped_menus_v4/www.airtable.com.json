@@ -1,0 +1,198 @@
+{
+  "website": "https://www.airtable.com",
+  "domain": "www.airtable.com",
+  "scraped_at": "2025-11-07T16:27:13.354207",
+  "menus": [
+    {
+      "title": "Airtable Section",
+      "items": [
+        {
+          "title": "Airtable PlatformUnlock the power of a next-gen app-building platform",
+          "url": "https://www.airtable.com/platform",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "DownloadGet Section",
+      "items": [
+        {
+          "title": "DownloadGet the Airtable app for desktop and mobile",
+          "url": "https://www.airtable.com/downloads",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "ProductCentralUnify Section",
+      "items": [
+        {
+          "title": "ProductCentralUnify your product development cycle with Airtable's new end-to-end solution",
+          "url": "https://www.airtable.com/solutions/product",
+          "items": [
+            {
+              "title": "ProductCentralUnify your product development cycle with Airtable's new end-to-end solution",
+              "url": "https://www.airtable.com/solutions/product",
+              "items": []
+            },
+            {
+              "title": "MarketingCreate custom workflows to run campaigns and track successes",
+              "url": "https://www.airtable.com/solutions/marketing",
+              "items": []
+            },
+            {
+              "title": "OperationsBring your data and processes into a single, well-organized place",
+              "url": "https://www.airtable.com/solutions/operations",
+              "items": []
+            },
+            {
+              "title": "Project ManagementKeep track of projects and tasks across departments",
+              "url": "https://www.airtable.com/solutions/project-management",
+              "items": []
+            },
+            {
+              "title": "Human ResourcesManage and streamline processes from hire to retire",
+              "url": "https://www.airtable.com/solutions/hr",
+              "items": []
+            },
+            {
+              "title": "SalesWin loyal customers with smarter workflows and connected data",
+              "url": "https://www.airtable.com/solutions/sales",
+              "items": []
+            },
+            {
+              "title": "FinanceStreamline requests, manage budgets, and automate reporting",
+              "url": "https://www.airtable.com/solutions/finance",
+              "items": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "NEW Section",
+      "items": [
+        {
+          "title": "NEW",
+          "url": "https://www.airtable.com/ai-plays",
+          "items": []
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.airtable.com/articles",
+          "items": []
+        },
+        {
+          "title": "Customer Stories",
+          "url": "https://www.airtable.com/customer-stories",
+          "items": []
+        },
+        {
+          "title": "NEW",
+          "url": "https://www.airtable.com/breakthroughs",
+          "items": []
+        },
+        {
+          "title": "Videos",
+          "url": "https://www.airtable.com/videos",
+          "items": []
+        },
+        {
+          "title": "Events",
+          "url": "https://www.airtable.com/events-webinars",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Airtable Section",
+      "items": [
+        {
+          "title": "Airtable Academy",
+          "url": "https://academy.airtable.com/",
+          "items": []
+        },
+        {
+          "title": "Airtable Community",
+          "url": "https://community.airtable.com/",
+          "items": []
+        },
+        {
+          "title": "How-to guides",
+          "url": "https://www.airtable.com/guides",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Help Section",
+      "items": [
+        {
+          "title": "Help center",
+          "url": "https://support.airtable.com/",
+          "items": []
+        },
+        {
+          "title": "Contact Support",
+          "url": "https://support.airtable.com/docs/contacting-airtable-support",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Marketplace Section",
+      "items": [
+        {
+          "title": "Marketplace",
+          "url": "https://airtable.com/marketplace",
+          "items": []
+        },
+        {
+          "title": "Partners",
+          "url": "https://www.airtable.com/partners",
+          "items": []
+        },
+        {
+          "title": "Services",
+          "url": "https://www.airtable.com/enterprise/services",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Platform Section",
+      "items": [
+        {
+          "title": "Platform",
+          "url": "https://www.airtable.com/platform",
+          "items": []
+        },
+        {
+          "title": "Solutions",
+          "url": "https://www.airtable.com/solutions",
+          "items": []
+        },
+        {
+          "title": "Resources",
+          "url": "https://www.airtable.com/lp/resources",
+          "items": []
+        },
+        {
+          "title": "Enterprise",
+          "url": "https://www.airtable.com/solutions/enterprise",
+          "items": []
+        },
+        {
+          "title": "Pricing",
+          "url": "https://www.airtable.com/pricing",
+          "items": []
+        },
+        {
+          "title": "Book Demo",
+          "url": "https://www.airtable.com/contact-sales",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

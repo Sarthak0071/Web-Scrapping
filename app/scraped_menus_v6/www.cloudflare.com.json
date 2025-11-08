@@ -1,0 +1,117 @@
+{
+  "website": "https://www.cloudflare.com",
+  "domain": "www.cloudflare.com",
+  "scraped_at": "2025-11-07T17:00:00.000000",
+  "menus": [
+    {
+      "title": "Main Menu",
+      "items": [
+        {
+          "title": "English",
+          "url": "https://www.cloudflare.com/",
+          "items": []
+        },
+        {
+          "title": "English (United Kingdom)",
+          "url": "https://www.cloudflare.com/en-gb/",
+          "items": []
+        },
+        {
+          "title": "Deutsch",
+          "url": "https://www.cloudflare.com/de-de/",
+          "items": []
+        },
+        {
+          "title": "Español (Latinoamérica)",
+          "url": "https://www.cloudflare.com/es-la/",
+          "items": []
+        },
+        {
+          "title": "Español (España)",
+          "url": "https://www.cloudflare.com/es-es/",
+          "items": []
+        },
+        {
+          "title": "Français",
+          "url": "https://www.cloudflare.com/fr-fr/",
+          "items": []
+        },
+        {
+          "title": "Italiano",
+          "url": "https://www.cloudflare.com/it-it/",
+          "items": []
+        },
+        {
+          "title": "日本語",
+          "url": "https://www.cloudflare.com/ja-jp/",
+          "items": []
+        },
+        {
+          "title": "한국어",
+          "url": "https://www.cloudflare.com/ko-kr/",
+          "items": []
+        },
+        {
+          "title": "Polski",
+          "url": "https://www.cloudflare.com/pl-pl/",
+          "items": []
+        },
+        {
+          "title": "Português (Brasil)",
+          "url": "https://www.cloudflare.com/pt-br/",
+          "items": []
+        },
+        {
+          "title": "Русский",
+          "url": "https://www.cloudflare.com/ru-ru/",
+          "items": []
+        },
+        {
+          "title": "繁體中文",
+          "url": "https://www.cloudflare.com/zh-tw/",
+          "items": []
+        },
+        {
+          "title": "简体中文",
+          "url": "https://www.cloudflare.com/zh-cn/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Main Menu",
+      "items": [
+        {
+          "title": "Free plans",
+          "url": "https://www.cloudflare.com/personal/",
+          "items": []
+        },
+        {
+          "title": "Small business plans",
+          "url": "https://www.cloudflare.com/small-business/",
+          "items": []
+        },
+        {
+          "title": "For enterprises",
+          "url": "https://www.cloudflare.com/enterprise/",
+          "items": []
+        },
+        {
+          "title": "Get a recommendation",
+          "url": "https://www.cloudflare.com/about-your-website/",
+          "items": []
+        },
+        {
+          "title": "Request a demo",
+          "url": "https://www.cloudflare.com/plans/enterprise/demo/",
+          "items": []
+        },
+        {
+          "title": "Contact sales",
+          "url": "https://www.cloudflare.com/plans/enterprise/contact/",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

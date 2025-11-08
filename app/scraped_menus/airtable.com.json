@@ -1,0 +1,40 @@
+{
+  "website": "https://www.airtable.com",
+  "domain": "www.airtable.com",
+  "scraped_at": "2025-11-07T16:00:27.976551",
+  "menus": [
+    {
+      "title": "Main Navigation",
+      "items": [
+        {
+          "title": "Airtable PlatformUnlock the power of a next-gen app-building platform",
+          "url": "https://www.airtable.com/platform"
+        },
+        {
+          "title": "SlackAdd real-time messaging to your workflows",
+          "url": "https://www.airtable.com/integrations/slack"
+        },
+        {
+          "title": "ProductCentralUnify your product development cycle with Airtable's new end-to-end solution",
+          "url": "https://www.airtable.com/solutions/product"
+        },
+        {
+          "title": "AI PlaysNEWAccelerate, automate, and enhance workflows using Omni and Field Agents",
+          "url": "https://www.airtable.com/ai-plays"
+        },
+        {
+          "title": "Airtable Academy",
+          "url": "https://academy.airtable.com/"
+        },
+        {
+          "title": "Marketplace",
+          "url": "https://airtable.com/marketplace"
+        },
+        {
+          "title": "Explore all resources",
+          "url": "https://www.airtable.com/lp/resources"
+        }
+      ]
+    }
+  ]
+}

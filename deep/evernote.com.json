@@ -1,0 +1,47 @@
+{
+  "website": "https://evernote.com",
+  "domain": "evernote.com",
+  "scraped_at": "2025-11-08 12:36:21",
+  "menus": [
+    {
+      "menu_name": "Navigation",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Download",
+              "description": "",
+              "url": "https://evernote.com/download"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Navigation",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "AI Features",
+              "description": "",
+              "url": "https://evernote.com/features/ai-features"
+            },
+            {
+              "title": "Plans",
+              "description": "",
+              "url": "https://evernote.com/compare-plans"
+            },
+            {
+              "title": "Enterprise",
+              "description": "",
+              "url": "https://evernote.com/enterprise"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

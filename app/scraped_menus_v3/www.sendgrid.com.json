@@ -1,0 +1,247 @@
+{
+  "website": "https://www.sendgrid.com",
+  "domain": "www.sendgrid.com",
+  "scraped_at": "2025-11-07T16:27:13.354207",
+  "menus": [
+    {
+      "title": "Email API",
+      "items": [
+        {
+          "title": "Overview An icon of a right arrow",
+          "url": "https://sendgrid.com/en-us/solutions/email-api",
+          "items": []
+        },
+        {
+          "title": "Why Twilio SendGrid An icon of a right arrow",
+          "url": "https://sendgrid.com/en-us/why-sendgrid",
+          "items": []
+        },
+        {
+          "title": "See all resources An icon of a right arrow",
+          "url": "https://www.twilio.com/en-us/resource-center",
+          "items": []
+        },
+        {
+          "title": "View docs An icon of a right arrow",
+          "url": "https://docs.sendgrid.com/for-developers",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Main Menu",
+      "items": [
+        {
+          "title": "Sign in",
+          "url": "https://login.sendgrid.com/login/identifier",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Get started",
+      "items": [
+        {
+          "title": "Start in 5 Minutes",
+          "url": "https://docs.sendgrid.com/for-developers/sending-email/api-getting-started",
+          "items": []
+        },
+        {
+          "title": "API Reference",
+          "url": "https://docs.sendgrid.com/api-reference/how-to-use-the-sendgrid-v3-api/authentication",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Overview",
+      "items": [
+        {
+          "title": "Calculate Your Email ROI",
+          "url": "https://sendgrid.com/en-us/resource/roi-calculator",
+          "items": []
+        },
+        {
+          "title": "Our Delivery Rates",
+          "url": "https://sendgrid.com/en-us/email-delivery",
+          "items": []
+        },
+        {
+          "title": "Free Plan",
+          "url": "https://sendgrid.com/en-us/free",
+          "items": []
+        },
+        {
+          "title": "Email + SMS, WhatsApp, and More",
+          "url": "https://sendgrid.com/en-us/solutions/multichannel",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Support",
+      "items": [
+        {
+          "title": "Contact support An icon of a right arrow",
+          "url": "https://support.sendgrid.com/",
+          "items": []
+        },
+        {
+          "title": "Sign in",
+          "url": "https://login.sendgrid.com/login/identifier",
+          "items": []
+        },
+        {
+          "title": "Start for free",
+          "url": "https://signup.sendgrid.com/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "OVERVIEW",
+      "items": [
+        {
+          "title": "Email Automation",
+          "url": "https://sendgrid.com/",
+          "items": []
+        },
+        {
+          "title": "Signup Forms",
+          "url": "https://sendgrid.com/",
+          "items": []
+        },
+        {
+          "title": "Email Testing",
+          "url": "https://sendgrid.com/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Email API",
+      "items": [
+        {
+          "title": "SMTP Service",
+          "url": "https://sendgrid.com/en-us/solutions/email-api/smtp-service",
+          "items": []
+        },
+        {
+          "title": "Email Validation",
+          "url": "https://sendgrid.com/en-us/solutions/email-api/email-address-validation-api",
+          "items": []
+        },
+        {
+          "title": "Deliverability Insights",
+          "url": "https://sendgrid.com/en-us/solutions/email-api/deliverability-insights",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Email API",
+      "items": [
+        {
+          "title": "Overview An icon of a right arrow",
+          "url": "https://sendgrid.com/en-us/solutions/email-api",
+          "items": []
+        },
+        {
+          "title": "Why Twilio SendGrid An icon of a right arrow",
+          "url": "https://sendgrid.com/en-us/why-sendgrid",
+          "items": []
+        },
+        {
+          "title": "See all resources An icon of a right arrow",
+          "url": "https://www.twilio.com/en-us/resource-center",
+          "items": []
+        },
+        {
+          "title": "View docs An icon of a right arrow",
+          "url": "https://docs.sendgrid.com/for-developers",
+          "items": []
+        },
+        {
+          "title": "OVERVIEW",
+          "url": "https://sendgrid.com/why-sendgrid/",
+          "items": []
+        },
+        {
+          "title": "Contact support An icon of a right arrow",
+          "url": "https://support.sendgrid.com/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Main Menu",
+      "items": [
+        {
+          "title": "Pricing",
+          "url": "https://sendgrid.com/en-us/pricing",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Products",
+      "items": [
+        {
+          "title": "Email Marketing",
+          "url": "https://sendgrid.com/en-us/solutions/email-marketing",
+          "items": []
+        },
+        {
+          "title": "Email API",
+          "url": "https://sendgrid.com/en-us/solutions/email-api",
+          "items": []
+        },
+        {
+          "title": "Twilio Programmable SMS",
+          "url": "https://www.twilio.com/en-us/messaging/channels/sms",
+          "items": []
+        },
+        {
+          "title": "Expert Services (Twilio Professional Services)",
+          "url": "https://www.twilio.com/en-us/professional-services",
+          "items": []
+        },
+        {
+          "title": "One Platform Solution",
+          "url": "https://sendgrid.com/en-us/solutions",
+          "items": []
+        },
+        {
+          "title": "Pricing",
+          "url": "https://sendgrid.com/en-us/pricing",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "items": [
+        {
+          "title": "Guides",
+          "url": "https://www.twilio.com/en-us/resource-center/guides?page=1&solution=email",
+          "items": []
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.twilio.com/en-us/blog",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Main Menu",
+      "items": [
+        {
+          "title": "Start for free",
+          "url": "https://signup.sendgrid.com/",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

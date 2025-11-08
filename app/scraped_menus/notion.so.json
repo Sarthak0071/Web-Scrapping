@@ -1,0 +1,139 @@
+{
+  "website": "https://www.notion.so",
+  "domain": "www.notion.so",
+  "scraped_at": "2025-11-07T16:00:30.491587",
+  "menus": [
+    {
+      "title": "Notion",
+      "items": [
+        {
+          "title": "Eng & Product",
+          "items": [
+            {
+              "title": "Eng & Product",
+              "url": "https://www.notion.so/product/notion-for-product-development",
+              "category": "Eng & Product"
+            },
+            {
+              "title": "Design",
+              "url": "https://www.notion.so/product/notion-for-design",
+              "category": "Eng & Product"
+            },
+            {
+              "title": "Marketing",
+              "url": "https://www.notion.so/templates/category/marketing",
+              "category": "Eng & Product"
+            },
+            {
+              "title": "IT",
+              "url": "https://www.notion.so/templates/category/ticketing",
+              "category": "Eng & Product"
+            }
+          ]
+        },
+        {
+          "title": "Startups",
+          "items": [
+            {
+              "title": "Startups",
+              "url": "https://www.notion.so/startups",
+              "category": "Startups"
+            },
+            {
+              "title": "SMBs",
+              "url": "https://www.notion.so/teams",
+              "category": "Startups"
+            },
+            {
+              "title": "Enterprise",
+              "url": "https://www.notion.so/enterprise",
+              "category": "Startups"
+            },
+            {
+              "title": "Education",
+              "url": "https://www.notion.so/product/notion-for-education",
+              "category": "Startups"
+            }
+          ]
+        },
+        {
+          "title": "Help center",
+          "items": [
+            {
+              "title": "Help center",
+              "url": "https://www.notion.so/help",
+              "category": "Help center"
+            },
+            {
+              "title": "Customer stories",
+              "url": "https://www.notion.so/customers",
+              "category": "Help center"
+            },
+            {
+              "title": "Blog",
+              "url": "https://www.notion.so/blog",
+              "category": "Help center"
+            },
+            {
+              "title": "Community",
+              "url": "https://www.notion.so/community",
+              "category": "Help center"
+            }
+          ]
+        },
+        {
+          "title": "API",
+          "items": [
+            {
+              "title": "API",
+              "url": "https://developers.notion.com",
+              "category": "API"
+            },
+            {
+              "title": "Templates",
+              "url": "https://www.notion.so/templates",
+              "category": "API"
+            },
+            {
+              "title": "Security",
+              "url": "https://www.notion.so/security",
+              "category": "API"
+            },
+            {
+              "title": "Consultants",
+              "url": "https://www.notion.so/consulting-partner-program",
+              "category": "API"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Main Navigation",
+      "items": [
+        {
+          "title": "Notion – Home",
+          "url": "https://www.notion.so/product",
+          "items": [
+            {
+              "title": "Notion AIBuild, write, automate",
+              "url": "https://www.notion.so/product/ai",
+              "items": [
+                {
+                  "title": "DocsSimple & powerful",
+                  "url": "https://www.notion.so/product/docs",
+                  "items": [
+                    {
+                      "title": "Explore AI use casesNewSee what Notion AI can do",
+                      "url": "https://www.notion.so/product/ai/use-cases"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

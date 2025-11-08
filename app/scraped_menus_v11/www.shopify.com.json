@@ -1,0 +1,268 @@
+{
+  "website": "https://www.shopify.com",
+  "domain": "www.shopify.com",
+  "scraped_at": "2025-11-07T22:00:00.000000",
+  "menus": [
+    {
+      "title": "Main",
+      "items": [
+        {
+          "title": "Start your business . Build your brand",
+          "url": "https://www.shopify.com/start",
+          "items": []
+        },
+        {
+          "title": "Create your website . Online store editor",
+          "url": "https://www.shopify.com/website/builder",
+          "items": []
+        },
+        {
+          "title": "Customize your store . Store themes",
+          "url": "https://themes.shopify.com/",
+          "items": []
+        },
+        {
+          "title": "Find business apps . Shopify app store",
+          "url": "https://apps.shopify.com/",
+          "items": []
+        },
+        {
+          "title": "Own your site domain . Domains & hosting",
+          "url": "https://www.shopify.com/domains",
+          "items": []
+        },
+        {
+          "title": "Explore free business tools . Tools to run your business",
+          "url": "https://www.shopify.com/tools",
+          "items": []
+        },
+        {
+          "title": "Sell your products . Sell online or in person",
+          "url": "https://www.shopify.com/sell",
+          "items": []
+        },
+        {
+          "title": "Check out customers . World-class checkout",
+          "url": "https://www.shopify.com/checkout",
+          "items": []
+        },
+        {
+          "title": "Sell online . Grow your business online",
+          "url": "https://www.shopify.com/online",
+          "items": []
+        },
+        {
+          "title": "Sell across channels . Reach millions of shoppers and boost sales",
+          "url": "https://www.shopify.com/channels",
+          "items": []
+        },
+        {
+          "title": "Sell in person . Point of Sale (POS)",
+          "url": "https://www.shopify.com/pos",
+          "items": []
+        },
+        {
+          "title": "Sell globally . International sales",
+          "url": "https://www.shopify.com/international",
+          "items": []
+        },
+        {
+          "title": "Sell wholesale & direct . Business-to-business (B2B)",
+          "url": "https://www.shopify.com/plus/solutions/b2b-ecommerce",
+          "items": []
+        },
+        {
+          "title": "Accept online payments . Set up forms of payment",
+          "url": "https://www.shopify.com/payments",
+          "items": []
+        },
+        {
+          "title": "Market your business . Reach & retain customers",
+          "url": "https://www.shopify.com/marketing",
+          "items": []
+        },
+        {
+          "title": "Market across social . Social media integrations",
+          "url": "https://www.shopify.com/facebook-instagram",
+          "items": []
+        },
+        {
+          "title": "Chat with customers . Shopify Inbox",
+          "url": "https://www.shopify.com/inbox",
+          "items": []
+        },
+        {
+          "title": "Nurture customers . Shopify Email",
+          "url": "https://www.shopify.com/email-marketing",
+          "items": []
+        },
+        {
+          "title": "Know your audience . Gain customer insights",
+          "url": "https://www.shopify.com/segmentation",
+          "items": []
+        },
+        {
+          "title": "Manage your business . Track sales, orders & analytics",
+          "url": "https://www.shopify.com/manage",
+          "items": []
+        },
+        {
+          "title": "Manage your finances & access funding . Shopify Finance",
+          "url": "https://www.shopify.com/finance",
+          "items": []
+        },
+        {
+          "title": "Measure your performance . Analytics and Reporting",
+          "url": "https://www.shopify.com/analytics",
+          "items": []
+        },
+        {
+          "title": "Ship orders faster . Shopify Shipping",
+          "url": "https://www.shopify.com/shipping",
+          "items": []
+        },
+        {
+          "title": "Manage your stock & orders . Inventory & order management",
+          "url": "https://www.shopify.com/orders",
+          "items": []
+        },
+        {
+          "title": "Outsource fulfillment & returns . Shopify Fulfillment Network",
+          "url": "https://www.shopify.com/fulfillment",
+          "items": []
+        },
+        {
+          "title": "Automate your business . Shopify Flow",
+          "url": "https://www.shopify.com/flow",
+          "items": []
+        },
+        {
+          "title": "Shopify Developers . Build with Shopify's powerful APIs",
+          "url": "https://shopify.dev",
+          "items": []
+        },
+        {
+          "title": "Plus . A commerce solution for growing digital brands",
+          "url": "https://www.shopify.com/plus",
+          "items": []
+        },
+        {
+          "title": "All Products . Explore all Shopify products & features",
+          "url": "https://www.shopify.com/products",
+          "items": []
+        },
+        {
+          "title": "Pricing",
+          "url": "https://www.shopify.com/pricing",
+          "items": []
+        },
+        {
+          "title": "Help and support . Get 24/7 support",
+          "url": "https://help.shopify.com/en/",
+          "items": []
+        },
+        {
+          "title": "How-to guides . Read in-depth business guides",
+          "url": "https://www.shopify.com/blog/topics/guides",
+          "items": []
+        },
+        {
+          "title": "Business courses . Learn from proven experts",
+          "url": "https://www.shopifyacademy.com",
+          "items": []
+        },
+        {
+          "title": "Shopify blog . Business strategy tips",
+          "url": "https://www.shopify.com/blog",
+          "items": []
+        },
+        {
+          "title": "What is Shopify? . How our commerce platform works",
+          "url": "https://www.shopify.com/blog/what-is-shopify",
+          "items": []
+        },
+        {
+          "title": "Shopify Editions . New, innovative Shopify products",
+          "url": "https://www.shopify.com/editions",
+          "items": []
+        },
+        {
+          "title": "Founder stories . Learn from successful merchants",
+          "url": "https://www.shopify.com/blog/topics/founder-stories",
+          "items": []
+        },
+        {
+          "title": "Branding . Build your brand from scratch",
+          "url": "https://www.shopify.com/blog/how-to-build-a-brand",
+          "items": []
+        },
+        {
+          "title": "Marketing . Build a marketing plan",
+          "url": "https://www.shopify.com/blog/marketing-plan",
+          "items": []
+        },
+        {
+          "title": "Ecommerce SEO . Improve your search ranking",
+          "url": "https://www.shopify.com/blog/ecommerce-seo-beginners-guide",
+          "items": []
+        },
+        {
+          "title": "Social media strategy . Turn social into sales",
+          "url": "https://www.shopify.com/blog/topics/social-media-optimization",
+          "items": []
+        },
+        {
+          "title": "Business growth . Scale your business",
+          "url": "https://www.shopify.com/blog/how-to-scale-small-business",
+          "items": []
+        },
+        {
+          "title": "Logo maker .",
+          "url": "https://www.shopify.com/tools/logo-maker",
+          "items": []
+        },
+        {
+          "title": "Stock photography .",
+          "url": "https://www.shopify.com/stock-photos",
+          "items": []
+        },
+        {
+          "title": "Business plan template .",
+          "url": "https://www.shopify.com/blog/business-plan-template",
+          "items": []
+        },
+        {
+          "title": "QR code generator .",
+          "url": "https://www.shopify.com/tools/qr-code-generator",
+          "items": []
+        },
+        {
+          "title": "Enterprise",
+          "url": "https://www.shopify.com/enterprise",
+          "items": []
+        },
+        {
+          "title": "Changelog . Your source for recent updates",
+          "url": "https://changelog.shopify.com",
+          "items": []
+        },
+        {
+          "title": "Summer ’25 Edition . The latest 150+ product updates",
+          "url": "https://www.shopify.com/editions/summer2025",
+          "items": []
+        },
+        {
+          "title": "All Editions . Archive of past Shopify Editions",
+          "url": "https://www.shopify.com/editions",
+          "items": []
+        },
+        {
+          "title": "Newsroom . All company news and press releases",
+          "url": "https://shopify.com/news",
+          "items": []
+        }
+      ]
+    }
+  ],
+  "notes": "HTML-based navigation with advanced hierarchy detection"
+}

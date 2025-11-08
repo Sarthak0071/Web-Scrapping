@@ -1,0 +1,27 @@
+{
+  "website": "https://gumroad.com",
+  "domain": "gumroad.com",
+  "scraped_at": "2025-11-08 12:37:04",
+  "menus": [
+    {
+      "menu_name": "Navigation",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Start selling",
+              "description": "",
+              "url": "https://gumroad.com/users/sign_up"
+            },
+            {
+              "title": "GitHub",
+              "description": "",
+              "url": "https://github.com/antiwork/gumroad"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "website": "https://www.monday.com",
+  "domain": "www.monday.com",
+  "scraped_at": "2025-11-07T16:01:03.804498",
+  "menus": [
+    {
+      "title": "Products",
+      "items": [
+        {
+          "title": "Marketing",
+          "url": "https://www.monday.com/work-management/marketing"
+        },
+        {
+          "title": "Project management",
+          "url": "https://www.monday.com/work-management/pmo"
+        },
+        {
+          "title": "Sales",
+          "url": "https://www.monday.com/crm"
+        },
+        {
+          "title": "Product development",
+          "url": "https://www.monday.com/w/dev"
+        },
+        {
+          "title": "Operations",
+          "url": "https://www.monday.com/operations"
+        },
+        {
+          "title": "IT",
+          "url": "https://www.monday.com/w/service"
+        },
+        {
+          "title": "HR",
+          "url": "https://www.monday.com/use-cases/hr-management-software"
+        },
+        {
+          "title": "Enterprise",
+          "url": "https://www.monday.com/w/enterprise"
+        },
+        {
+          "title": "Small business",
+          "url": "https://www.monday.com/smb"
+        },
+        {
+          "title": "Nonprofit",
+          "url": "https://www.monday.com/nonprofits"
+        },
+        {
+          "title": "Retail",
+          "url": "https://www.monday.com/w/industries/retail"
+        },
+        {
+          "title": "Media",
+          "url": "https://www.monday.com/w/industries/media"
+        },
+        {
+          "title": "Construction",
+          "url": "https://www.monday.com/construction"
+        },
+        {
+          "title": "Government",
+          "url": "https://www.monday.com/w/industries/public-sector"
+        }
+      ]
+    },
+    {
+      "title": "Teams",
+      "items": [
+        {
+          "title": "Dashboards",
+          "url": "https://www.monday.com/features/dashboards"
+        },
+        {
+          "title": "Integrations",
+          "url": "https://www.monday.com/integrations"
+        },
+        {
+          "title": "Automations",
+          "url": "https://www.monday.com/features/automations"
+        },
+        {
+          "title": "AI",
+          "url": "https://www.monday.com/w/ai"
+        },
+        {
+          "title": "Kanban",
+          "url": "https://www.monday.com/features/kanban"
+        },
+        {
+          "title": "Docs",
+          "url": "https://www.monday.com/workdocs"
+        },
+        {
+          "title": "Gantt",
+          "url": "https://www.monday.com/features/gantt"
+        },
+        {
+          "title": "Forms",
+          "url": "https://www.monday.com/features/forms"
+        }
+      ]
+    },
+    {
+      "title": "Features",
+      "items": [
+        {
+          "title": "Help center",
+          "url": "https://www.monday.com/helpcenter/"
+        },
+        {
+          "title": "What's new",
+          "url": "https://www.monday.com/whats-new"
+        },
+        {
+          "title": "Blog",
+          "url": "https://monday.com/blog"
+        },
+        {
+          "title": "Certifications",
+          "url": "https://www.monday.com/academy/view/certification/work-management-core-certification"
+        },
+        {
+          "title": "24/7 support",
+          "url": "https://www.monday.com/helpcenter/contact-support"
+        },
+        {
+          "title": "Partners",
+          "url": "https://www.monday.com/w/partnership"
+        },
+        {
+          "title": "Global events",
+          "url": "https://www.monday.com/p/events-hub/"
+        },
+        {
+          "title": "Community",
+          "url": "https://community.monday.com"
+        },
+        {
+          "title": "App development",
+          "url": "https://www.monday.com/appdeveloper"
+        },
+        {
+          "title": "Template center",
+          "url": "https://www.monday.com/templates"
+        },
+        {
+          "title": "Spaces",
+          "url": "https://mondayspaces.com"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "items": [
+        {
+          "title": "monday MCP",
+          "url": "https://www.monday.com/w/mcp"
+        },
+        {
+          "title": "AI Trust center",
+          "url": "https://www.monday.com/w/ai-trust-center"
+        }
+      ]
+    },
+    {
+      "title": "Main Navigation",
+      "items": [
+        {
+          "title": "Enterprise",
+          "url": "https://www.monday.com/w/enterprise",
+          "items": [
+            {
+              "title": "Products",
+              "items": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

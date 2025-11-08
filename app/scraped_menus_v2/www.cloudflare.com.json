@@ -1,0 +1,1527 @@
+{
+  "website": "https://www.cloudflare.com",
+  "domain": "www.cloudflare.com",
+  "scraped_at": "2025-11-07T16:27:27.928148",
+  "menus": [
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Support",
+          "url": "http://www.support.cloudflare.com",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "English",
+          "url": "https://www.cloudflare.com/",
+          "items": []
+        },
+        {
+          "title": "English (United Kingdom)",
+          "url": "https://www.cloudflare.com/en-gb/",
+          "items": []
+        },
+        {
+          "title": "Deutsch",
+          "url": "https://www.cloudflare.com/de-de/",
+          "items": []
+        },
+        {
+          "title": "Español (Latinoamérica)",
+          "url": "https://www.cloudflare.com/es-la/",
+          "items": []
+        },
+        {
+          "title": "Español (España)",
+          "url": "https://www.cloudflare.com/es-es/",
+          "items": []
+        },
+        {
+          "title": "Français",
+          "url": "https://www.cloudflare.com/fr-fr/",
+          "items": []
+        },
+        {
+          "title": "Italiano",
+          "url": "https://www.cloudflare.com/it-it/",
+          "items": []
+        },
+        {
+          "title": "日本語",
+          "url": "https://www.cloudflare.com/ja-jp/",
+          "items": []
+        },
+        {
+          "title": "한국어",
+          "url": "https://www.cloudflare.com/ko-kr/",
+          "items": []
+        },
+        {
+          "title": "Polski",
+          "url": "https://www.cloudflare.com/pl-pl/",
+          "items": []
+        },
+        {
+          "title": "Português (Brasil)",
+          "url": "https://www.cloudflare.com/pt-br/",
+          "items": []
+        },
+        {
+          "title": "Русский",
+          "url": "https://www.cloudflare.com/ru-ru/",
+          "items": []
+        },
+        {
+          "title": "繁體中文",
+          "url": "https://www.cloudflare.com/zh-tw/",
+          "items": []
+        },
+        {
+          "title": "简体中文",
+          "url": "https://www.cloudflare.com/zh-cn/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Connectivity cloudCloudflare’s connectivity cloud delivers 60+ networking, security, and performance services.",
+          "url": "https://www.cloudflare.com/connectivity-cloud/",
+          "items": []
+        },
+        {
+          "title": "Partner NetworkGrow, innovate and meet customer needs with Cloudflare",
+          "url": "https://www.cloudflare.com/partners/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "EnterpriseFor large and medium organizations",
+          "url": "https://www.cloudflare.com/enterprise/",
+          "items": []
+        },
+        {
+          "title": "Small businessFor small organizations",
+          "url": "https://www.cloudflare.com/small-business/",
+          "items": []
+        },
+        {
+          "title": "PartnerBecome a Cloudflare partner",
+          "url": "https://www.cloudflare.com/partners/",
+          "items": []
+        },
+        {
+          "title": "Partner PortalFind resources and register deals",
+          "url": "https://portal.cloudflarepartners.com/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Modernize applications",
+          "url": "https://www.cloudflare.com/modernize-applications/",
+          "items": []
+        },
+        {
+          "title": "Modernize security",
+          "url": "https://www.cloudflare.com/cybersecurity/",
+          "items": []
+        },
+        {
+          "title": "Modernize networks",
+          "url": "https://www.cloudflare.com/modernize-networks/",
+          "items": []
+        },
+        {
+          "title": "Workspace security",
+          "url": "https://www.cloudflare.com/zero-trust/products/",
+          "items": []
+        },
+        {
+          "title": "Application security",
+          "url": "https://www.cloudflare.com/application-services/products/",
+          "items": []
+        },
+        {
+          "title": "Application performance",
+          "url": "https://www.cloudflare.com/application-services/products/",
+          "items": []
+        },
+        {
+          "title": "Networking and SASE",
+          "url": "https://www.cloudflare.com/network-services/products/",
+          "items": []
+        },
+        {
+          "title": "Artificial Intelligence",
+          "url": "https://www.cloudflare.com/developer-platform/products/#ai-products",
+          "items": []
+        },
+        {
+          "title": "Compute",
+          "url": "https://www.cloudflare.com/developer-platform/products/#compute-products",
+          "items": []
+        },
+        {
+          "title": "Media",
+          "url": "https://www.cloudflare.com/developer-platform/products/#media-products",
+          "items": []
+        },
+        {
+          "title": "Storage & database",
+          "url": "https://www.cloudflare.com/developer-platform/products/#storage-database-products",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Accelerate performance",
+          "url": "https://www.cloudflare.com/application-services/products/cdn/",
+          "items": []
+        },
+        {
+          "title": "Ensure app availability",
+          "url": "https://www.cloudflare.com/performance/ensure-application-availability/",
+          "items": []
+        },
+        {
+          "title": "Optimize web experience",
+          "url": "https://www.cloudflare.com/application-services/products/website-optimization/",
+          "items": []
+        },
+        {
+          "title": "VPN replacement",
+          "url": "https://www.cloudflare.com/zero-trust/solutions/vpn-replacement/",
+          "items": []
+        },
+        {
+          "title": "Phishing protection",
+          "url": "https://www.cloudflare.com/zero-trust/solutions/multi-channel-phishing/",
+          "items": []
+        },
+        {
+          "title": "Secure web apps and APIs",
+          "url": "https://www.cloudflare.com/application-services/products/api-shield/",
+          "items": []
+        },
+        {
+          "title": "Network protection",
+          "url": "https://www.cloudflare.com/network-services/products/magic-transit/",
+          "items": []
+        },
+        {
+          "title": "WAN modernization",
+          "url": "https://www.cloudflare.com/network-services/products/magic-wan/",
+          "items": []
+        },
+        {
+          "title": "Simplify your corporate network",
+          "url": "https://www.cloudflare.com/network-services/products/network-interconnect/",
+          "items": []
+        },
+        {
+          "title": "Zero trust network access",
+          "url": "https://www.cloudflare.com/zero-trust/products/access/",
+          "items": []
+        },
+        {
+          "title": "Secure web gateway",
+          "url": "https://www.cloudflare.com/zero-trust/products/gateway/",
+          "items": []
+        },
+        {
+          "title": "Email security",
+          "url": "https://www.cloudflare.com/zero-trust/products/email-security/",
+          "items": []
+        },
+        {
+          "title": "Cloud access security broker",
+          "url": "https://www.cloudflare.com/zero-trust/products/casb/",
+          "items": []
+        },
+        {
+          "title": "L7 DDoS protection",
+          "url": "https://www.cloudflare.com/ddos/",
+          "items": []
+        },
+        {
+          "title": "Web application firewall",
+          "url": "https://www.cloudflare.com/application-services/products/waf/",
+          "items": []
+        },
+        {
+          "title": "API security",
+          "url": "https://www.cloudflare.com/application-services/products/api-shield/",
+          "items": []
+        },
+        {
+          "title": "Bot management",
+          "url": "https://www.cloudflare.com/application-services/products/bot-management/",
+          "items": []
+        },
+        {
+          "title": "CDN",
+          "url": "https://www.cloudflare.com/application-services/products/cdn/",
+          "items": []
+        },
+        {
+          "title": "DNS",
+          "url": "https://www.cloudflare.com/application-services/products/dns/",
+          "items": []
+        },
+        {
+          "title": "Smart routing",
+          "url": "https://www.cloudflare.com/application-services/products/argo-smart-routing/",
+          "items": []
+        },
+        {
+          "title": "Load balancing",
+          "url": "https://www.cloudflare.com/application-services/products/load-balancing/",
+          "items": []
+        },
+        {
+          "title": "L3/4 DDoS protection",
+          "url": "https://www.cloudflare.com/network-services/products/magic-transit/",
+          "items": []
+        },
+        {
+          "title": "NaaS / SD-WAN",
+          "url": "https://www.cloudflare.com/network-services/products/magic-wan/",
+          "items": []
+        },
+        {
+          "title": "Firewall-as-a-service",
+          "url": "https://www.cloudflare.com/network-services/products/magic-firewall/",
+          "items": []
+        },
+        {
+          "title": "Network Interconnect",
+          "url": "https://www.cloudflare.com/network-services/products/network-interconnect/",
+          "items": []
+        },
+        {
+          "title": "AI GatewayObserve, control AI apps",
+          "url": "https://www.cloudflare.com/developer-platform/products/ai-gateway/",
+          "items": []
+        },
+        {
+          "title": "Workers AIRun ML models on our network",
+          "url": "https://www.cloudflare.com/developer-platform/products/workers-ai/",
+          "items": []
+        },
+        {
+          "title": "ObservabilityLogs, metrics, and traces",
+          "url": "https://www.cloudflare.com/developer-platform/products/workers-observability/",
+          "items": []
+        },
+        {
+          "title": "WorkersBuild, deploy serverless apps",
+          "url": "https://www.cloudflare.com/developer-platform/products/workers/",
+          "items": []
+        },
+        {
+          "title": "ImagesTransform, optimize images",
+          "url": "https://www.cloudflare.com/developer-platform/products/cloudflare-images/",
+          "items": []
+        },
+        {
+          "title": "RealtimeBuild real-time audio/video apps",
+          "url": "https://www.cloudflare.com/developer-platform/products/cloudflare-calls/",
+          "items": []
+        },
+        {
+          "title": "D1Create serverless SQL databases",
+          "url": "https://www.cloudflare.com/developer-platform/products/d1/",
+          "items": []
+        },
+        {
+          "title": "R2Store data without costly egress fees",
+          "url": "https://www.cloudflare.com/developer-platform/products/r2/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Adopt AIBring AI into workforces and digital experiences",
+          "url": "https://www.cloudflare.com/ai-solution/",
+          "items": []
+        },
+        {
+          "title": "AI securitySecure agentic AI and GenAI applications",
+          "url": "https://www.cloudflare.com/ai-security/",
+          "items": []
+        },
+        {
+          "title": "Data complianceStreamline compliance and minimize risk",
+          "url": "https://www.cloudflare.com/data/",
+          "items": []
+        },
+        {
+          "title": "Post-quantum cryptographySafeguard data and meet compliance standards",
+          "url": "https://www.cloudflare.com/pqc/",
+          "items": []
+        },
+        {
+          "title": "Enterprise plans",
+          "url": "https://www.cloudflare.com/plans/enterprise/externa/",
+          "items": []
+        },
+        {
+          "title": "Small business plans",
+          "url": "https://www.cloudflare.com/small-business/#pricing-plans-at-a-glance",
+          "items": []
+        },
+        {
+          "title": "Individual plans",
+          "url": "https://www.cloudflare.com/personal/",
+          "items": []
+        },
+        {
+          "title": "Compare plans",
+          "url": "https://www.cloudflare.com/plans/",
+          "items": []
+        },
+        {
+          "title": "Reference architectureTechnical guides",
+          "url": "https://www.cloudflare.com/architecture/",
+          "items": []
+        },
+        {
+          "title": "Solution + product guidesProduct documentation",
+          "url": "https://www.cloudflare.com/resource-hub/?resourcetype=Solution+%26+Product+Guides",
+          "items": []
+        },
+        {
+          "title": "DocumentationDeveloper documentation",
+          "url": "https://developers.cloudflare.com/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Healthcare",
+          "url": "https://www.cloudflare.com/healthcare/",
+          "items": []
+        },
+        {
+          "title": "Banking",
+          "url": "https://www.cloudflare.com/banking-and-financial-services/",
+          "items": []
+        },
+        {
+          "title": "Retail",
+          "url": "https://www.cloudflare.com/retail/",
+          "items": []
+        },
+        {
+          "title": "Gaming",
+          "url": "https://www.cloudflare.com/gaming/",
+          "items": []
+        },
+        {
+          "title": "Public sector",
+          "url": "https://www.cloudflare.com/public-sector/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Resources",
+          "url": "https://www.cloudflare.com/resource-center/",
+          "items": []
+        },
+        {
+          "title": "Resources",
+          "url": "https://www.cloudflare.com/resource-center/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Product guides",
+          "url": "https://www.cloudflare.com/resource-hub/?resourcetype=Solution+%26+Product+Guides",
+          "items": []
+        },
+        {
+          "title": "Reference architectures",
+          "url": "https://www.cloudflare.com/architecture/",
+          "items": []
+        },
+        {
+          "title": "Analyst reports",
+          "url": "https://www.cloudflare.com/analysts/",
+          "items": []
+        },
+        {
+          "title": "Product guides",
+          "url": "https://www.cloudflare.com/resource-hub/?resourcetype=Solution+%26+Product+Guides",
+          "items": []
+        },
+        {
+          "title": "Reference architectures",
+          "url": "https://www.cloudflare.com/architecture/",
+          "items": []
+        },
+        {
+          "title": "Analyst reports",
+          "url": "https://www.cloudflare.com/analysts/",
+          "items": []
+        },
+        {
+          "title": "Product demos and tours",
+          "url": "https://www.cloudflare.com/lp/app-services-demo-series/",
+          "items": []
+        },
+        {
+          "title": "Find a partnerPowerUP your business - connect with Cloudflare Powered+ partners.",
+          "url": "https://partnerlocator.cloudflare.com/dashboard",
+          "items": []
+        },
+        {
+          "title": "Contact us",
+          "url": "https://dash.cloudflare.com/?to=/:account/support",
+          "items": []
+        },
+        {
+          "title": "Community forum",
+          "url": "https://community.cloudflare.com/",
+          "items": []
+        },
+        {
+          "title": "Lost account access?",
+          "url": "https://developers.cloudflare.com/support/account-management-billing/common-account-questions/login-and-account-issues/",
+          "items": []
+        },
+        {
+          "title": "Developers Discord",
+          "url": "https://discord.com/invite/cloudflaredev",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Events",
+          "url": "https://www.cloudflare.com/events/",
+          "items": []
+        },
+        {
+          "title": "Demos",
+          "url": "https://www.cloudflare.com/product-demos/",
+          "items": []
+        },
+        {
+          "title": "Webinars",
+          "url": "https://www.cloudflare.com/resource-hub/?resourcetype=Webinar",
+          "items": []
+        },
+        {
+          "title": "Workshops",
+          "url": "https://www.cloudflare.com/lp/securitybuildersworkshops/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Request a demo",
+          "url": "https://www.cloudflare.com/plans/enterprise/demo/",
+          "items": []
+        },
+        {
+          "title": "Help me choose",
+          "url": "https://www.cloudflare.com/about-your-website/",
+          "items": []
+        },
+        {
+          "title": "Start building",
+          "url": "https://dash.cloudflare.com/sign-up/workers-and-pages",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Support and success bundlesOptimized Cloudflare experience",
+          "url": "https://www.cloudflare.com/success-offerings/",
+          "items": []
+        },
+        {
+          "title": "Professional servicesExpert-led implementation",
+          "url": "https://www.cloudflare.com/professional-services/",
+          "items": []
+        },
+        {
+          "title": "Technical account managementFocused technical management",
+          "url": "https://www.cloudflare.com/technical-account-management-service/",
+          "items": []
+        },
+        {
+          "title": "Security operations serviceCloudflare monitoring and response",
+          "url": "https://www.cloudflare.com/soc-as-a-service/",
+          "items": []
+        },
+        {
+          "title": "Developer libraryDocumentation and guides",
+          "url": "https://developers.cloudflare.com/",
+          "items": []
+        },
+        {
+          "title": "Application demosExplore what you can build",
+          "url": "https://developers.cloudflare.com/products/",
+          "items": []
+        },
+        {
+          "title": "TutorialsStep-by-step build tutorials",
+          "url": "https://developers.cloudflare.com/workers/tutorials/",
+          "items": []
+        },
+        {
+          "title": "Reference architectureDiagrams and design patterns",
+          "url": "https://developers.cloudflare.com/reference-architecture/",
+          "items": []
+        },
+        {
+          "title": "WorkersBuild and deploy serverless apps",
+          "url": "https://www.cloudflare.com/developer-platform/products/workers/#workers",
+          "items": []
+        },
+        {
+          "title": "Workers KVServerless key-value store for apps",
+          "url": "https://www.cloudflare.com/developer-platform/products/workers-kv/#plan-comparison",
+          "items": []
+        },
+        {
+          "title": "R2Store data without costly egrees fees",
+          "url": "https://www.cloudflare.com/developer-platform/products/r2/#r2-plan-comparison",
+          "items": []
+        },
+        {
+          "title": "Demos + product toursOn-demand product demos",
+          "url": "https://www.cloudflare.com/product-demos/",
+          "items": []
+        },
+        {
+          "title": "Case studiesDriving success with Cloudflare",
+          "url": "https://www.cloudflare.com/case-studies/",
+          "items": []
+        },
+        {
+          "title": "WebinarsInsightful discussions",
+          "url": "https://www.cloudflare.com/resource-hub/?resourcetype=Webinar",
+          "items": []
+        },
+        {
+          "title": "WorkshopsVirtual workshops",
+          "url": "https://www.cloudflare.com/lp/securitybuildersworkshops/",
+          "items": []
+        },
+        {
+          "title": "LibraryHelpful guides, roadmaps, and more",
+          "url": "https://www.cloudflare.com/resource-hub/",
+          "items": []
+        },
+        {
+          "title": "ReportsInsights from Cloudflare’s research",
+          "url": "https://www.cloudflare.com/threat-reports/",
+          "items": []
+        },
+        {
+          "title": "BlogTechnical deep dives and product news",
+          "url": "https://blog.cloudflare.com/",
+          "items": []
+        },
+        {
+          "title": "Learning centerEducational tools and how-to content",
+          "url": "https://www.cloudflare.com/learning/",
+          "items": []
+        },
+        {
+          "title": "theNETExecutive insights for the digital enterprise",
+          "url": "https://www.cloudflare.com/the-net/",
+          "items": []
+        },
+        {
+          "title": "Cloudflare TVInnovative series and events",
+          "url": "https://cloudflare.tv/live",
+          "items": []
+        },
+        {
+          "title": "Cloudforce OneThreat research and operations",
+          "url": "https://www.cloudflare.com/threat-intelligence/",
+          "items": []
+        },
+        {
+          "title": "RadarInternet traffic and security trends",
+          "url": "https://radar.cloudflare.com/",
+          "items": []
+        },
+        {
+          "title": "LeadershipMeet our leaders",
+          "url": "https://cloudflare.net/governance/leadership/default.aspx",
+          "items": []
+        },
+        {
+          "title": "Investor relationsInvestor information",
+          "url": "https://cloudflare.net/",
+          "items": []
+        },
+        {
+          "title": "PressExplore recent news",
+          "url": "https://www.cloudflare.com/press/",
+          "items": []
+        },
+        {
+          "title": "CareersExplore open roles",
+          "url": "https://www.cloudflare.com/careers/",
+          "items": []
+        },
+        {
+          "title": "PrivacyPolicy, data, and protection",
+          "url": "https://www.cloudflare.com/privacypolicy/",
+          "items": []
+        },
+        {
+          "title": "TrustPolicy, process, and safety",
+          "url": "https://www.cloudflare.com/trust-hub/",
+          "items": []
+        },
+        {
+          "title": "ComplianceCertification and regulation",
+          "url": "https://www.cloudflare.com/trust-hub/compliance-resources/",
+          "items": []
+        },
+        {
+          "title": "TransparencyPolicy and disclosures",
+          "url": "https://www.cloudflare.com/transparency/",
+          "items": []
+        },
+        {
+          "title": "HumanitarianProject Galileo",
+          "url": "https://www.cloudflare.com/galileo/",
+          "items": []
+        },
+        {
+          "title": "GovernmentAthenian Project",
+          "url": "https://www.cloudflare.com/athenian/",
+          "items": []
+        },
+        {
+          "title": "ElectionsCloudflare For Campaigns",
+          "url": "https://www.cloudflare.com/campaigns/",
+          "items": []
+        },
+        {
+          "title": "HealthProject Fair Shot",
+          "url": "https://www.cloudflare.com/fair-shot/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Domain registrationBuy and manage domains",
+          "url": "https://www.cloudflare.com/products/registrar/",
+          "items": []
+        },
+        {
+          "title": "1.1.1.1Free DNS resolver",
+          "url": "https://one.one.one.one/",
+          "items": []
+        },
+        {
+          "title": "Explore projectsCustomer stories",
+          "url": "https://www.cloudflare.com/case-studies/?usecase=Deploy+custom+code+at+the+Edge",
+          "items": []
+        },
+        {
+          "title": "AI Demo in 30 secondsQuick guide to get started",
+          "url": "https://playground.ai.cloudflare.com/",
+          "items": []
+        },
+        {
+          "title": "Explore Workers PlaygroundBuild, test, and deploy",
+          "url": "https://workers.cloudflare.com/playground",
+          "items": []
+        },
+        {
+          "title": "Developers DiscordJoin the community",
+          "url": "https://discord.com/invite/cloudflaredev",
+          "items": []
+        },
+        {
+          "title": "Self-serve agency programManage Self-Serve Accounts for your clients",
+          "url": "https://www.cloudflare.com/cloudflare-partners-self-serve-program-open-beta/",
+          "items": []
+        },
+        {
+          "title": "Peer-to-peer portalTraffic insights for your network",
+          "url": "https://www.cloudflare.com/partners/peering-portal/",
+          "items": []
+        },
+        {
+          "title": "Analyst reportsIndustry research reports",
+          "url": "https://www.cloudflare.com/analysts/",
+          "items": []
+        },
+        {
+          "title": "EventsUpcoming regional events",
+          "url": "https://www.cloudflare.com/events/",
+          "items": []
+        },
+        {
+          "title": "Trust, privacy, and complianceCompliance information and policies",
+          "url": "https://www.cloudflare.com/trust-hub/trust-and-safety/",
+          "items": []
+        },
+        {
+          "title": "Global networkGlobal locations and status",
+          "url": "https://www.cloudflare.com/network/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "PowerUP ProgramGrow your business while keeping your customers connected and secure",
+          "url": "https://www.cloudflare.com/partners/power-up-program/",
+          "items": []
+        },
+        {
+          "title": "Technology PartnersExplore our ecosystem of technology partners and integrators",
+          "url": "https://www.cloudflare.com/partners/technology-partners/",
+          "items": []
+        },
+        {
+          "title": "Global System IntegratorsSupport seamless large-scale digital transformation",
+          "url": "https://www.cloudflare.com/partners/global-system-integrators/",
+          "items": []
+        },
+        {
+          "title": "Service ProvidersDiscover our network of valued service providers",
+          "url": "https://www.cloudflare.com/partners/service-providers/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Get help",
+          "url": "https://www.support.cloudflare.com/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Log in",
+          "url": "https://dash.cloudflare.com/login",
+          "items": []
+        },
+        {
+          "title": "Under attack?",
+          "url": "https://www.cloudflare.com/under-attack-hotline/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Start for free",
+          "url": "https://dash.cloudflare.com/sign-up",
+          "items": []
+        },
+        {
+          "title": "Start for free",
+          "url": "https://dash.cloudflare.com/sign-up",
+          "items": []
+        },
+        {
+          "title": "Start building now",
+          "url": "https://www.cloudflare.com/developer-platform/",
+          "items": []
+        },
+        {
+          "title": "Sign up for demo",
+          "url": "https://www.cloudflare.com/zero-trust/interactive-demo/",
+          "items": []
+        },
+        {
+          "title": "Sign up for demo",
+          "url": "https://www.cloudflare.com/lp/app-security-demo-series/",
+          "items": []
+        },
+        {
+          "title": "Learn more",
+          "url": "https://workers.cloudflare.com/",
+          "items": []
+        },
+        {
+          "title": "Show more",
+          "url": "https://www.cloudflare.com/resource-hub/?resourcetype=Solution+%26+Product+Guides",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Learn more",
+          "url": "https://www.cloudflare.com/ai-security/",
+          "items": []
+        },
+        {
+          "title": "Download report",
+          "url": "https://www.cloudflare.com/lp/signals-report-2025/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "view",
+          "url": "https://www.cloudflare.com/terms/",
+          "items": []
+        },
+        {
+          "title": "view",
+          "url": "https://www.cloudflare.com/gdpr/subprocessors/cloudflare-services/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Speak to sales about SASE to modernize your network and secure your workspace.",
+      "items": [
+        {
+          "title": "Learn more",
+          "url": "https://www.cloudflare.com/zero-trust/",
+          "items": []
+        },
+        {
+          "title": "Compare plans",
+          "url": "https://www.cloudflare.com/plans/",
+          "items": []
+        },
+        {
+          "title": "Developer docs",
+          "url": "https://developers.cloudflare.com/",
+          "items": []
+        },
+        {
+          "title": "Learn more",
+          "url": "https://www.cloudflare.com/zero-trust/",
+          "items": []
+        },
+        {
+          "title": "Learn more",
+          "url": "https://www.cloudflare.com/application-services/",
+          "items": []
+        },
+        {
+          "title": "View plans",
+          "url": "https://workers.cloudflare.com/pricing",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Interactive Zero Trust demo",
+          "url": "https://www.cloudflare.com/zero-trust/interactive-demo/",
+          "items": []
+        },
+        {
+          "title": "10-step SASE journey",
+          "url": "https://www.cloudflare.com/lp/10-steps-sase-journey/",
+          "items": []
+        },
+        {
+          "title": "Cloudflare named a Leader in Forrester Wave for WAF for 2025",
+          "url": "https://www.cloudflare.com/lp/forrester-wave-waf-2025/",
+          "items": []
+        },
+        {
+          "title": "Build AI apps quickly",
+          "url": "http://ai.cloudflare.com",
+          "items": []
+        },
+        {
+          "title": "Build AI Agents",
+          "url": "https://agents.cloudflare.com/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Accelerate website performance",
+          "url": "https://www.cloudflare.com/application-services/products/cdn/",
+          "items": []
+        },
+        {
+          "title": "Block bot traffic",
+          "url": "https://www.cloudflare.com/application-services/products/bot-management/",
+          "items": []
+        },
+        {
+          "title": "Optimize video experiences",
+          "url": "https://www.cloudflare.com/developer-platform/products/cloudflare-stream/",
+          "items": []
+        },
+        {
+          "title": "Deploy serverless code",
+          "url": "https://www.cloudflare.com/developer-platform/products/workers/",
+          "items": []
+        },
+        {
+          "title": "Deploy AI on the edge",
+          "url": "https://www.cloudflare.com/developer-platform/products/workers-ai/",
+          "items": []
+        },
+        {
+          "title": "Eliminate egress fee for object storage",
+          "url": "https://www.cloudflare.com/developer-platform/products/r2/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Read report",
+          "url": "https://www.cloudflare.com/lp/gartner-magic-quadrant-cnap-2025/",
+          "items": []
+        },
+        {
+          "title": "Read report",
+          "url": "https://www.cloudflare.com/lp/gartner-magic-quadrant-sase-platforms-2025/",
+          "items": []
+        },
+        {
+          "title": "Learn more",
+          "url": "https://www.cloudflare.com/paypercrawl-signup/",
+          "items": []
+        },
+        {
+          "title": "Register",
+          "url": "https://cloudflare.registration.goldcast.io/webinar/114d812c-d753-4ea9-b90d-d33d613bb30a",
+          "items": []
+        },
+        {
+          "title": "Read",
+          "url": "https://www.cloudflare.com/the-net/application-modernization-strategies-for-cxos/",
+          "items": []
+        },
+        {
+          "title": "Register",
+          "url": "https://cloudflare.registration.goldcast.io/webinar/283e5950-0c7f-459c-b03f-59a0f97379b1",
+          "items": []
+        },
+        {
+          "title": "Read report",
+          "url": "https://www.cloudflare.com/lp/forrester-wave-email-security-2025/",
+          "items": []
+        },
+        {
+          "title": "Read blog",
+          "url": "https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant-2025/",
+          "items": []
+        },
+        {
+          "title": "Read report",
+          "url": "https://www.cloudflare.com/lp/forrester-wave-serverless-2025/",
+          "items": []
+        },
+        {
+          "title": "Read report",
+          "url": "https://www.cloudflare.com/lp/forrester-wave-waf-2025/",
+          "items": []
+        },
+        {
+          "title": "Read",
+          "url": "https://www.cloudflare.com/the-net/security-signals/building-cyber-resiliency/",
+          "items": []
+        },
+        {
+          "title": "Read",
+          "url": "https://www.cloudflare.com/the-net/illuminate/successful-security-team/",
+          "items": []
+        },
+        {
+          "title": "Read",
+          "url": "https://www.cloudflare.com/the-net/building-cyber-resilience/ai-generated-misinformation/",
+          "items": []
+        },
+        {
+          "title": "Read",
+          "url": "https://www.cloudflare.com/the-net/game-on/winning-ai-software/",
+          "items": []
+        },
+        {
+          "title": "Read",
+          "url": "https://www.cloudflare.com/lp/everywhere-security-ebook/",
+          "items": []
+        },
+        {
+          "title": "Read",
+          "url": "https://www.cloudflare.com/lp/3-challenges-of-securing-and-connecting-application-services/",
+          "items": []
+        },
+        {
+          "title": "Read",
+          "url": "https://www.cloudflare.com/resource-hub/?resourcetype=Ebook",
+          "items": []
+        },
+        {
+          "title": "Read",
+          "url": "https://www.cloudflare.com/lp/increase-developer-velocity-with-a-connectivity-cloud/",
+          "items": []
+        },
+        {
+          "title": "Learn more",
+          "url": "https://www.cloudflare.com/connect2025/",
+          "items": []
+        },
+        {
+          "title": "Register",
+          "url": "https://www.cloudflare.com/lp/app-services-demo-series/",
+          "items": []
+        },
+        {
+          "title": "Register",
+          "url": "https://www.cloudflare.com/events/",
+          "items": []
+        },
+        {
+          "title": "Register",
+          "url": "https://www.cloudflare.com/resource-hub/?resourcetype=Webinar",
+          "items": []
+        },
+        {
+          "title": "Register",
+          "url": "https://www.cloudflare.com/lp/securitybuildersworkshops/?utm_medium=display&utm_source=direct&utm_campaign=2025-q2-acq-namer-umbrella-ge-he-general-cloudflare",
+          "items": []
+        },
+        {
+          "title": "Register",
+          "url": "https://www.cloudflare.com/lp/security-leaders-forum/?utm_medium=display&utm_source=direct&utm_campaign=2025-q2-acq-namer-umbrella-ge-he-general-cloudflare",
+          "items": []
+        },
+        {
+          "title": "Learn more",
+          "url": "https://www.cloudflare.com/lp/architectureworkshops/?utm_medium=display&utm_source=direct&utm_campaign=2025-q2-acq-namer-umbrella-ge-he-general-cloudflare",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Start for free",
+          "url": "https://dash.cloudflare.com/sign-up/",
+          "items": []
+        },
+        {
+          "title": "Find the right plan",
+          "url": "https://www.cloudflare.com/about-your-website/",
+          "items": []
+        },
+        {
+          "title": "Contact us",
+          "url": "https://www.cloudflare.com/plans/enterprise/contact/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "+1 (888) 99 FLARE",
+          "url": "tel:18889935273",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Free plans",
+          "url": "https://www.cloudflare.com/personal/",
+          "items": []
+        },
+        {
+          "title": "Small business plans",
+          "url": "https://www.cloudflare.com/small-business/",
+          "items": []
+        },
+        {
+          "title": "For enterprises",
+          "url": "https://www.cloudflare.com/enterprise/",
+          "items": []
+        },
+        {
+          "title": "Get a recommendation",
+          "url": "https://www.cloudflare.com/about-your-website/",
+          "items": []
+        },
+        {
+          "title": "Request a demo",
+          "url": "https://www.cloudflare.com/plans/enterprise/demo/",
+          "items": []
+        },
+        {
+          "title": "Contact sales",
+          "url": "https://www.cloudflare.com/plans/enterprise/contact/",
+          "items": []
+        },
+        {
+          "title": "Connectivity cloud",
+          "url": "https://www.cloudflare.com/connectivity-cloud/",
+          "items": []
+        },
+        {
+          "title": "Application services",
+          "url": "https://www.cloudflare.com/application-services/",
+          "items": []
+        },
+        {
+          "title": "SASE and workspace security",
+          "url": "https://www.cloudflare.com/zero-trust/",
+          "items": []
+        },
+        {
+          "title": "Network services",
+          "url": "https://www.cloudflare.com/network-services/",
+          "items": []
+        },
+        {
+          "title": "Developer platform",
+          "url": "https://www.cloudflare.com/developer-platform/",
+          "items": []
+        },
+        {
+          "title": "Help center",
+          "url": "https://support.cloudflare.com",
+          "items": []
+        },
+        {
+          "title": "Customer support",
+          "url": "https://dash.cloudflare.com/?to=/:account/support",
+          "items": []
+        },
+        {
+          "title": "Community forum",
+          "url": "https://community.cloudflare.com/",
+          "items": []
+        },
+        {
+          "title": "Developers Discord",
+          "url": "https://discord.com/invite/cloudflaredev",
+          "items": []
+        },
+        {
+          "title": "Lost account access?",
+          "url": "https://developers.cloudflare.com/support/account-management-billing/common-account-questions/login-and-account-issues/",
+          "items": []
+        },
+        {
+          "title": "Cloudflare status",
+          "url": "https://cloudflarestatus.com",
+          "items": []
+        },
+        {
+          "title": "Compliance resources",
+          "url": "https://www.cloudflare.com/trust-hub/compliance-resources/",
+          "items": []
+        },
+        {
+          "title": "Trust",
+          "url": "https://www.cloudflare.com/trust-hub/",
+          "items": []
+        },
+        {
+          "title": "GDPR",
+          "url": "https://www.cloudflare.com/trust-hub/gdpr/",
+          "items": []
+        },
+        {
+          "title": "Responsible AI",
+          "url": "https://www.cloudflare.com/trust-hub/responsible-ai/",
+          "items": []
+        },
+        {
+          "title": "Transparency report",
+          "url": "https://www.cloudflare.com/transparency/",
+          "items": []
+        },
+        {
+          "title": "Report abuse",
+          "url": "https://www.cloudflare.com/trust-hub/abuse-approach/",
+          "items": []
+        },
+        {
+          "title": "About Cloudflare",
+          "url": "https://www.cloudflare.com/about-overview/",
+          "items": []
+        },
+        {
+          "title": "Network map",
+          "url": "https://www.cloudflare.com/network/",
+          "items": []
+        },
+        {
+          "title": "Our team",
+          "url": "https://www.cloudflare.com/people/",
+          "items": []
+        },
+        {
+          "title": "Logos & press kit",
+          "url": "https://www.cloudflare.com/press-kit/",
+          "items": []
+        },
+        {
+          "title": "Diversity, equity, & inclusion",
+          "url": "https://www.cloudflare.com/diversity-equity-and-inclusion/",
+          "items": []
+        },
+        {
+          "title": "Impact/ESG",
+          "url": "https://www.cloudflare.com/impact/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Free plans",
+          "url": "https://www.cloudflare.com/personal/",
+          "items": []
+        },
+        {
+          "title": "Small business plans",
+          "url": "https://www.cloudflare.com/small-business/",
+          "items": []
+        },
+        {
+          "title": "For enterprises",
+          "url": "https://www.cloudflare.com/enterprise/",
+          "items": []
+        },
+        {
+          "title": "Get a recommendation",
+          "url": "https://www.cloudflare.com/about-your-website/",
+          "items": []
+        },
+        {
+          "title": "Request a demo",
+          "url": "https://www.cloudflare.com/plans/enterprise/demo/",
+          "items": []
+        },
+        {
+          "title": "Contact sales",
+          "url": "https://www.cloudflare.com/plans/enterprise/contact/",
+          "items": []
+        },
+        {
+          "title": "Connectivity cloud",
+          "url": "https://www.cloudflare.com/connectivity-cloud/",
+          "items": []
+        },
+        {
+          "title": "Application services",
+          "url": "https://www.cloudflare.com/application-services/",
+          "items": []
+        },
+        {
+          "title": "SASE and workspace security",
+          "url": "https://www.cloudflare.com/zero-trust/",
+          "items": []
+        },
+        {
+          "title": "Network services",
+          "url": "https://www.cloudflare.com/network-services/",
+          "items": []
+        },
+        {
+          "title": "Developer platform",
+          "url": "https://www.cloudflare.com/developer-platform/",
+          "items": []
+        },
+        {
+          "title": "Help center",
+          "url": "https://support.cloudflare.com",
+          "items": []
+        },
+        {
+          "title": "Customer support",
+          "url": "https://dash.cloudflare.com/?to=/:account/support",
+          "items": []
+        },
+        {
+          "title": "Community forum",
+          "url": "https://community.cloudflare.com/",
+          "items": []
+        },
+        {
+          "title": "Developers Discord",
+          "url": "https://discord.com/invite/cloudflaredev",
+          "items": []
+        },
+        {
+          "title": "Lost account access?",
+          "url": "https://developers.cloudflare.com/support/account-management-billing/common-account-questions/login-and-account-issues/",
+          "items": []
+        },
+        {
+          "title": "Cloudflare status",
+          "url": "https://cloudflarestatus.com",
+          "items": []
+        },
+        {
+          "title": "Compliance resources",
+          "url": "https://www.cloudflare.com/trust-hub/compliance-resources/",
+          "items": []
+        },
+        {
+          "title": "Trust",
+          "url": "https://www.cloudflare.com/trust-hub/",
+          "items": []
+        },
+        {
+          "title": "GDPR",
+          "url": "https://www.cloudflare.com/trust-hub/gdpr/",
+          "items": []
+        },
+        {
+          "title": "Responsible AI",
+          "url": "https://www.cloudflare.com/trust-hub/responsible-ai/",
+          "items": []
+        },
+        {
+          "title": "Transparency report",
+          "url": "https://www.cloudflare.com/transparency/",
+          "items": []
+        },
+        {
+          "title": "Report abuse",
+          "url": "https://www.cloudflare.com/trust-hub/abuse-approach/",
+          "items": []
+        },
+        {
+          "title": "About Cloudflare",
+          "url": "https://www.cloudflare.com/about-overview/",
+          "items": []
+        },
+        {
+          "title": "Network map",
+          "url": "https://www.cloudflare.com/network/",
+          "items": []
+        },
+        {
+          "title": "Our team",
+          "url": "https://www.cloudflare.com/people/",
+          "items": []
+        },
+        {
+          "title": "Logos & press kit",
+          "url": "https://www.cloudflare.com/press-kit/",
+          "items": []
+        },
+        {
+          "title": "Diversity, equity, & inclusion",
+          "url": "https://www.cloudflare.com/diversity-equity-and-inclusion/",
+          "items": []
+        },
+        {
+          "title": "Impact/ESG",
+          "url": "https://www.cloudflare.com/impact/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Privacy policy",
+          "url": "https://www.cloudflare.com/privacypolicy/",
+          "items": []
+        },
+        {
+          "title": "Terms of use",
+          "url": "https://www.cloudflare.com/website-terms/",
+          "items": []
+        },
+        {
+          "title": "Report security issues",
+          "url": "https://www.cloudflare.com/disclosure/",
+          "items": []
+        },
+        {
+          "title": "Trademark",
+          "url": "https://www.cloudflare.com/trademark/",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

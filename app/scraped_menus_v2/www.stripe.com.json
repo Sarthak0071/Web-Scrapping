@@ -1,0 +1,2417 @@
+{
+  "website": "https://www.stripe.com",
+  "domain": "www.stripe.com",
+  "scraped_at": "2025-11-07T16:27:38.871195",
+  "menus": [
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Stripe logo",
+          "url": "https://stripe.com/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Pricing",
+          "url": "https://stripe.com/pricing",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Contact sales",
+          "url": "https://stripe.com/contact/sales",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Open mobile navigation",
+          "url": "https://stripe.com",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Stripe logo",
+          "url": "https://stripe.com/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Pricing",
+          "url": "https://stripe.com/pricing",
+          "items": []
+        },
+        {
+          "title": "Sign in",
+          "url": "https://dashboard.stripe.com/login",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Payments Payments Online payments",
+          "url": "https://stripe.com/payments",
+          "items": []
+        },
+        {
+          "title": "Terminal Terminal In-person payments",
+          "url": "https://stripe.com/terminal",
+          "items": []
+        },
+        {
+          "title": "Radar Radar Fraud prevention",
+          "url": "https://stripe.com/radar",
+          "items": []
+        },
+        {
+          "title": "Authorization Boost Authorization Boost Acceptance optimizations",
+          "url": "https://stripe.com/authorization-boost",
+          "items": []
+        },
+        {
+          "title": "Connect Connect Payments for platforms",
+          "url": "https://stripe.com/connect",
+          "items": []
+        },
+        {
+          "title": "Financial Accounts Financial Accounts Manage business finances",
+          "url": "https://stripe.com/financial-accounts",
+          "items": []
+        },
+        {
+          "title": "Issuing Issuing Physical and virtual cards",
+          "url": "https://stripe.com/issuing",
+          "items": []
+        },
+        {
+          "title": "Payouts Global Payouts Send money to third parties",
+          "url": "https://stripe.com/payouts",
+          "items": []
+        },
+        {
+          "title": "Capital Capital for platforms Customer financing",
+          "url": "https://stripe.com/capital/platforms",
+          "items": []
+        },
+        {
+          "title": "Billing Billing Subscription management",
+          "url": "https://stripe.com/billing",
+          "items": []
+        },
+        {
+          "title": "Tax Tax Sales tax & VAT automation",
+          "url": "https://stripe.com/tax",
+          "items": []
+        },
+        {
+          "title": "Revenue Recognition Revenue Recognition Accounting automation",
+          "url": "https://stripe.com/revenue-recognition",
+          "items": []
+        },
+        {
+          "title": "Stripe Sigma Stripe Sigma Custom reports",
+          "url": "https://stripe.com/sigma",
+          "items": []
+        },
+        {
+          "title": "Data Pipeline Data sync",
+          "url": "https://stripe.com/data-pipeline",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Payment Links No-code payments",
+          "url": "https://stripe.com/payments/payment-links",
+          "items": []
+        },
+        {
+          "title": "Checkout Prebuilt payment form",
+          "url": "https://stripe.com/payments/checkout",
+          "items": []
+        },
+        {
+          "title": "Elements Flexible UI components",
+          "url": "https://stripe.com/payments/elements",
+          "items": []
+        },
+        {
+          "title": "Usage-based Metered billing",
+          "url": "https://stripe.com/billing/usage-based-billing",
+          "items": []
+        },
+        {
+          "title": "Invoicing One-time or recurring",
+          "url": "https://stripe.com/invoicing",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Payment methods Access to 100+ globally",
+          "url": "https://stripe.com/payments/payment-methods",
+          "items": []
+        },
+        {
+          "title": "Link Accelerated checkout",
+          "url": "https://stripe.com/payments/link",
+          "items": []
+        },
+        {
+          "title": "Financial Connections Linked financial account data",
+          "url": "https://stripe.com/financial-connections",
+          "items": []
+        },
+        {
+          "title": "Identity Online identity verification",
+          "url": "https://stripe.com/identity",
+          "items": []
+        },
+        {
+          "title": "Atlas Startup incorporation",
+          "url": "https://stripe.com/atlas",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Enterprises",
+          "url": "https://stripe.com/enterprise",
+          "items": []
+        },
+        {
+          "title": "Startups",
+          "url": "https://stripe.com/startups",
+          "items": []
+        },
+        {
+          "title": "Crypto",
+          "url": "https://stripe.com/use-cases/crypto",
+          "items": []
+        },
+        {
+          "title": "Ecommerce",
+          "url": "https://stripe.com/use-cases/ecommerce",
+          "items": []
+        },
+        {
+          "title": "Embedded finance",
+          "url": "https://stripe.com/use-cases/embedded-finance",
+          "items": []
+        },
+        {
+          "title": "Finance automation",
+          "url": "https://stripe.com/use-cases/finance-automation",
+          "items": []
+        },
+        {
+          "title": "Global businesses",
+          "url": "https://stripe.com/use-cases/global-businesses",
+          "items": []
+        },
+        {
+          "title": "Marketplaces",
+          "url": "https://stripe.com/use-cases/marketplaces",
+          "items": []
+        },
+        {
+          "title": "Platforms",
+          "url": "https://stripe.com/use-cases/platforms",
+          "items": []
+        },
+        {
+          "title": "SaaS",
+          "url": "https://stripe.com/use-cases/saas",
+          "items": []
+        },
+        {
+          "title": "AI companies",
+          "url": "https://stripe.com/use-cases/ai",
+          "items": []
+        },
+        {
+          "title": "Creator economy",
+          "url": "https://stripe.com/use-cases/creator-economy",
+          "items": []
+        },
+        {
+          "title": "Hospitality, travel, and leisure",
+          "url": "https://stripe.com/industries/travel",
+          "items": []
+        },
+        {
+          "title": "Insurance",
+          "url": "https://stripe.com/industries/insurance",
+          "items": []
+        },
+        {
+          "title": "Media and entertainment",
+          "url": "https://stripe.com/industries/media-entertainment",
+          "items": []
+        },
+        {
+          "title": "Nonprofits",
+          "url": "https://stripe.com/industries/nonprofits",
+          "items": []
+        },
+        {
+          "title": "Retail",
+          "url": "https://stripe.com/industries/retail",
+          "items": []
+        },
+        {
+          "title": "Stripe App Marketplace",
+          "url": "https://marketplace.stripe.com/",
+          "items": []
+        },
+        {
+          "title": "Partners",
+          "url": "https://stripe.com/partners",
+          "items": []
+        },
+        {
+          "title": "Documentation",
+          "url": "https://docs.stripe.com",
+          "items": []
+        },
+        {
+          "title": "API status",
+          "url": "https://status.stripe.com/",
+          "items": []
+        },
+        {
+          "title": "Developer blog",
+          "url": "https://stripe.dev/",
+          "items": []
+        },
+        {
+          "title": "Support center",
+          "url": "https://support.stripe.com/?referrerLocale=en-us",
+          "items": []
+        },
+        {
+          "title": "Managed support plans",
+          "url": "https://stripe.com/support-plans",
+          "items": []
+        },
+        {
+          "title": "Professional services",
+          "url": "https://stripe.com/professional-services",
+          "items": []
+        },
+        {
+          "title": "Contact sales",
+          "url": "https://stripe.com/contact/sales",
+          "items": []
+        },
+        {
+          "title": "Blog",
+          "url": "https://stripe.com/blog",
+          "items": []
+        },
+        {
+          "title": "Customer stories",
+          "url": "https://stripe.com/customers",
+          "items": []
+        },
+        {
+          "title": "Guides",
+          "url": "https://stripe.com/guides",
+          "items": []
+        },
+        {
+          "title": "Sessions conference",
+          "url": "https://stripe.com/sessions",
+          "items": []
+        },
+        {
+          "title": "Jobs",
+          "url": "https://stripe.com/jobs",
+          "items": []
+        },
+        {
+          "title": "Newsroom",
+          "url": "https://stripe.com/newsroom",
+          "items": []
+        },
+        {
+          "title": "Stripe Press",
+          "url": "https://press.stripe.com/",
+          "items": []
+        },
+        {
+          "title": "Become a partner",
+          "url": "https://stripe.com/partners/become-a-partner",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "API reference",
+          "url": "https://docs.stripe.com/api",
+          "items": []
+        },
+        {
+          "title": "Libraries and SDKs",
+          "url": "https://docs.stripe.com/development",
+          "items": []
+        },
+        {
+          "title": "App integrations",
+          "url": "https://marketplace.stripe.com",
+          "items": []
+        },
+        {
+          "title": "Accept online payments",
+          "url": "https://docs.stripe.com/payments",
+          "items": []
+        },
+        {
+          "title": "Implement a prebuilt checkout",
+          "url": "https://docs.stripe.com/payments/checkout",
+          "items": []
+        },
+        {
+          "title": "Build a platform or marketplace",
+          "url": "https://docs.stripe.com/connect",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Start now",
+          "url": "https://stripe.com/register",
+          "items": []
+        },
+        {
+          "title": "Contact sales",
+          "url": "https://stripe.com/contact/sales",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Payments Payments Online payments",
+          "url": "https://stripe.com/payments",
+          "items": []
+        },
+        {
+          "title": "Payment Links No-code payments",
+          "url": "https://stripe.com/payments/payment-links",
+          "items": []
+        },
+        {
+          "title": "Checkout Checkout Prebuilt payment form",
+          "url": "https://stripe.com/payments/checkout",
+          "items": []
+        },
+        {
+          "title": "Elements Elements Flexible UI components",
+          "url": "https://stripe.com/payments/elements",
+          "items": []
+        },
+        {
+          "title": "Payment methods Access to 100+ globally",
+          "url": "https://stripe.com/payments/payment-methods",
+          "items": []
+        },
+        {
+          "title": "Terminal Terminal In-person payments",
+          "url": "https://stripe.com/terminal",
+          "items": []
+        },
+        {
+          "title": "Radar Radar Fraud prevention",
+          "url": "https://stripe.com/radar",
+          "items": []
+        },
+        {
+          "title": "Authorization Authorization Boost Acceptance optimizations",
+          "url": "https://stripe.com/authorization-boost",
+          "items": []
+        },
+        {
+          "title": "Link Accelerated checkout",
+          "url": "https://stripe.com/payments/link",
+          "items": []
+        },
+        {
+          "title": "Billing Billing Subscription management",
+          "url": "https://stripe.com/billing",
+          "items": []
+        },
+        {
+          "title": "Usage based Metered billing",
+          "url": "https://stripe.com/billing/usage-based-billing",
+          "items": []
+        },
+        {
+          "title": "Invoicing Invoicing One-off or recurring",
+          "url": "https://stripe.com/invoicing",
+          "items": []
+        },
+        {
+          "title": "Tax Tax Sales tax & VAT automation",
+          "url": "https://stripe.com/tax",
+          "items": []
+        },
+        {
+          "title": "Revenue Recognition Revenue Recognition Accounting automation",
+          "url": "https://stripe.com/revenue-recognition",
+          "items": []
+        },
+        {
+          "title": "Stripe Sigma Stripe Sigma Custom reports",
+          "url": "https://stripe.com/sigma",
+          "items": []
+        },
+        {
+          "title": "Data Pipeline Data sync",
+          "url": "https://stripe.com/data-pipeline",
+          "items": []
+        },
+        {
+          "title": "Financial Accounts Financial Accounts Manage business finances",
+          "url": "https://stripe.com/financial-accounts",
+          "items": []
+        },
+        {
+          "title": "Issuing Issuing Physical and virtual cards",
+          "url": "https://stripe.com/issuing",
+          "items": []
+        },
+        {
+          "title": "Payouts Global Payouts Send money to third parties",
+          "url": "https://stripe.com/payouts",
+          "items": []
+        },
+        {
+          "title": "Capital Capital Business financing",
+          "url": "https://stripe.com/capital",
+          "items": []
+        },
+        {
+          "title": "Connect Connect Multiparty payments",
+          "url": "https://stripe.com/connect",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "More products",
+      "items": [
+        {
+          "title": "Atlas Startup incorporation",
+          "url": "https://stripe.com/atlas",
+          "items": []
+        },
+        {
+          "title": "Climate Carbon removal",
+          "url": "https://stripe.com/climate",
+          "items": []
+        },
+        {
+          "title": "Identity Online identity verification",
+          "url": "https://stripe.com/identity",
+          "items": []
+        },
+        {
+          "title": "Financial Connections Linked financial account data",
+          "url": "https://stripe.com/financial-connections",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Enterprises",
+          "url": "https://stripe.com/enterprise",
+          "items": []
+        },
+        {
+          "title": "Startups",
+          "url": "https://stripe.com/startups",
+          "items": []
+        },
+        {
+          "title": "Crypto",
+          "url": "https://stripe.com/use-cases/crypto",
+          "items": []
+        },
+        {
+          "title": "Ecommerce",
+          "url": "https://stripe.com/use-cases/ecommerce",
+          "items": []
+        },
+        {
+          "title": "Embedded finance",
+          "url": "https://stripe.com/use-cases/embedded-finance",
+          "items": []
+        },
+        {
+          "title": "Finance automation",
+          "url": "https://stripe.com/use-cases/finance-automation",
+          "items": []
+        },
+        {
+          "title": "Global businesses",
+          "url": "https://stripe.com/use-cases/global-businesses",
+          "items": []
+        },
+        {
+          "title": "Marketplaces",
+          "url": "https://stripe.com/use-cases/marketplaces",
+          "items": []
+        },
+        {
+          "title": "Platforms",
+          "url": "https://stripe.com/use-cases/platforms",
+          "items": []
+        },
+        {
+          "title": "SaaS",
+          "url": "https://stripe.com/use-cases/saas",
+          "items": []
+        },
+        {
+          "title": "AI companies",
+          "url": "https://stripe.com/use-cases/ai",
+          "items": []
+        },
+        {
+          "title": "Creator economy",
+          "url": "https://stripe.com/use-cases/creator-economy",
+          "items": []
+        },
+        {
+          "title": "Hospitality, travel, and leisure",
+          "url": "https://stripe.com/industries/travel",
+          "items": []
+        },
+        {
+          "title": "Insurance",
+          "url": "https://stripe.com/industries/insurance",
+          "items": []
+        },
+        {
+          "title": "Media and entertainment",
+          "url": "https://stripe.com/industries/media-entertainment",
+          "items": []
+        },
+        {
+          "title": "Nonprofits",
+          "url": "https://stripe.com/industries/nonprofits",
+          "items": []
+        },
+        {
+          "title": "Retail",
+          "url": "https://stripe.com/industries/retail",
+          "items": []
+        },
+        {
+          "title": "Stripe App Marketplace",
+          "url": "https://marketplace.stripe.com/",
+          "items": []
+        },
+        {
+          "title": "Partners",
+          "url": "https://stripe.com/partners",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Documentation Start integrating Stripe’s products and tools",
+          "url": "https://docs.stripe.com",
+          "items": []
+        },
+        {
+          "title": "API reference",
+          "url": "https://docs.stripe.com/api",
+          "items": []
+        },
+        {
+          "title": "Libraries and SDKs",
+          "url": "https://docs.stripe.com/development",
+          "items": []
+        },
+        {
+          "title": "App integrations",
+          "url": "https://marketplace.stripe.com/",
+          "items": []
+        },
+        {
+          "title": "Code samples",
+          "url": "https://github.com/stripe-samples",
+          "items": []
+        },
+        {
+          "title": "Stripe Apps",
+          "url": "https://stripe.com/apps",
+          "items": []
+        },
+        {
+          "title": "Accept online payments",
+          "url": "https://docs.stripe.com/payments",
+          "items": []
+        },
+        {
+          "title": "Implement a prebuilt checkout",
+          "url": "https://docs.stripe.com/payments/checkout",
+          "items": []
+        },
+        {
+          "title": "Set up in-person payments",
+          "url": "https://docs.stripe.com/terminal",
+          "items": []
+        },
+        {
+          "title": "Build a platform or marketplace",
+          "url": "https://docs.stripe.com/connect",
+          "items": []
+        },
+        {
+          "title": "Manage subscriptions",
+          "url": "https://docs.stripe.com/billing",
+          "items": []
+        },
+        {
+          "title": "Offer usage-based billing",
+          "url": "https://docs.stripe.com/billing/subscriptions/usage-based ",
+          "items": []
+        },
+        {
+          "title": "API status",
+          "url": "https://status.stripe.com/",
+          "items": []
+        },
+        {
+          "title": "Developer blog",
+          "url": "https://stripe.dev/",
+          "items": []
+        },
+        {
+          "title": "Support center",
+          "url": "https://support.stripe.com/?referrerLocale=en-us",
+          "items": []
+        },
+        {
+          "title": "Managed support plans",
+          "url": "https://stripe.com/support-plans",
+          "items": []
+        },
+        {
+          "title": "Professional services",
+          "url": "https://stripe.com/professional-services",
+          "items": []
+        },
+        {
+          "title": "Contact sales",
+          "url": "https://stripe.com/contact/sales",
+          "items": []
+        },
+        {
+          "title": "Blog",
+          "url": "https://stripe.com/blog",
+          "items": []
+        },
+        {
+          "title": "Customer stories",
+          "url": "https://stripe.com/customers",
+          "items": []
+        },
+        {
+          "title": "Guides",
+          "url": "https://stripe.com/guides",
+          "items": []
+        },
+        {
+          "title": "Sessions conference",
+          "url": "https://stripe.com/sessions",
+          "items": []
+        },
+        {
+          "title": "Jobs",
+          "url": "https://stripe.com/jobs",
+          "items": []
+        },
+        {
+          "title": "Newsroom",
+          "url": "https://stripe.com/newsroom",
+          "items": []
+        },
+        {
+          "title": "Stripe Press",
+          "url": "https://press.stripe.com/",
+          "items": []
+        },
+        {
+          "title": "Become a partner",
+          "url": "https://stripe.com/partners/become-a-partner",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Early-bird registration now open",
+          "url": "https://stripesessions.com/?utm_medium=owned-surfaces&utm_source=7c61&utm_campaign=GLOBAL_406e&utm_content=bd8a&utm_term=2e73d675038b",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Start now",
+          "url": "https://dashboard.stripe.com/register",
+          "items": []
+        },
+        {
+          "title": "Sign up with Google",
+          "url": "https://dashboard.stripe.com/login/oauth/google/init",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Atlas",
+          "url": "https://stripe.com/atlas",
+          "items": []
+        },
+        {
+          "title": "Atlas",
+          "url": "https://stripe.com/atlas",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Billing",
+          "url": "https://stripe.com/billing",
+          "items": []
+        },
+        {
+          "title": "Billing",
+          "url": "https://stripe.com/billing",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Capital",
+          "url": "https://stripe.com/capital",
+          "items": []
+        },
+        {
+          "title": "Capital",
+          "url": "https://stripe.com/capital",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Checkout",
+          "url": "https://stripe.com/payments/checkout",
+          "items": []
+        },
+        {
+          "title": "Checkout",
+          "url": "https://stripe.com/payments/checkout",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Climate",
+          "url": "https://stripe.com/climate",
+          "items": []
+        },
+        {
+          "title": "Climate",
+          "url": "https://stripe.com/climate",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Connect",
+          "url": "https://stripe.com/connect",
+          "items": []
+        },
+        {
+          "title": "Connect",
+          "url": "https://stripe.com/connect",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Elements",
+          "url": "https://stripe.com/payments/elements",
+          "items": []
+        },
+        {
+          "title": "Elements",
+          "url": "https://stripe.com/payments/elements",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Identity",
+          "url": "https://stripe.com/identity",
+          "items": []
+        },
+        {
+          "title": "Identity",
+          "url": "https://stripe.com/identity",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Invoicing",
+          "url": "https://stripe.com/invoicing",
+          "items": []
+        },
+        {
+          "title": "Invoicing",
+          "url": "https://stripe.com/invoicing",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Issuing",
+          "url": "https://stripe.com/issuing",
+          "items": []
+        },
+        {
+          "title": "Issuing",
+          "url": "https://stripe.com/issuing",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Payments",
+          "url": "https://stripe.com/payments",
+          "items": []
+        },
+        {
+          "title": "Payments",
+          "url": "https://stripe.com/payments",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Radar",
+          "url": "https://stripe.com/radar",
+          "items": []
+        },
+        {
+          "title": "Radar",
+          "url": "https://stripe.com/radar",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Sigma",
+          "url": "https://stripe.com/sigma",
+          "items": []
+        },
+        {
+          "title": "Sigma",
+          "url": "https://stripe.com/sigma",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Tax",
+          "url": "https://stripe.com/tax",
+          "items": []
+        },
+        {
+          "title": "Tax",
+          "url": "https://stripe.com/tax",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Terminal",
+          "url": "https://stripe.com/terminal",
+          "items": []
+        },
+        {
+          "title": "Terminal",
+          "url": "https://stripe.com/terminal",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Treasury",
+          "url": "https://stripe.com/financial-accounts",
+          "items": []
+        },
+        {
+          "title": "Treasury",
+          "url": "https://stripe.com/financial-accounts",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Payments",
+          "url": "https://stripe.com/payments",
+          "items": []
+        },
+        {
+          "title": "Payments",
+          "url": "https://stripe.com/payments",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Tax",
+          "url": "https://stripe.com/tax",
+          "items": []
+        },
+        {
+          "title": "Tax",
+          "url": "https://stripe.com/tax",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Radar",
+          "url": "https://stripe.com/radar",
+          "items": []
+        },
+        {
+          "title": "Radar",
+          "url": "https://stripe.com/radar",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Terminal",
+          "url": "https://stripe.com/terminal",
+          "items": []
+        },
+        {
+          "title": "Terminal",
+          "url": "https://stripe.com/terminal",
+          "items": []
+        },
+        {
+          "title": "Terminal",
+          "url": "https://stripe.com/terminal",
+          "items": []
+        },
+        {
+          "title": "Terminal",
+          "url": "https://stripe.com/terminal",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Billing",
+          "url": "https://stripe.com/billing",
+          "items": []
+        },
+        {
+          "title": "Billing",
+          "url": "https://stripe.com/billing",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Invoicing",
+          "url": "https://stripe.com/invoicing",
+          "items": []
+        },
+        {
+          "title": "Invoicing",
+          "url": "https://stripe.com/invoicing",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "RevRec",
+          "url": "https://stripe.com/revenue-recognition",
+          "items": []
+        },
+        {
+          "title": "RevRec",
+          "url": "https://stripe.com/revenue-recognition",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Sigma",
+          "url": "https://stripe.com/sigma",
+          "items": []
+        },
+        {
+          "title": "Sigma",
+          "url": "https://stripe.com/sigma",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Connect",
+          "url": "https://stripe.com/connect",
+          "items": []
+        },
+        {
+          "title": "Connect",
+          "url": "https://stripe.com/connect",
+          "items": []
+        },
+        {
+          "title": "Connect",
+          "url": "https://stripe.com/connect",
+          "items": []
+        },
+        {
+          "title": "Connect",
+          "url": "https://stripe.com/connect",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Payouts",
+          "url": "https://stripe.com/connect/payouts",
+          "items": []
+        },
+        {
+          "title": "Payouts",
+          "url": "https://stripe.com/connect/payouts",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Elements",
+          "url": "https://stripe.com/payments/elements",
+          "items": []
+        },
+        {
+          "title": "Elements",
+          "url": "https://stripe.com/payments/elements",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Issuing",
+          "url": "https://stripe.com/issuing",
+          "items": []
+        },
+        {
+          "title": "Issuing",
+          "url": "https://stripe.com/issuing",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Treasury",
+          "url": "https://stripe.com/financial-accounts",
+          "items": []
+        },
+        {
+          "title": "Treasury",
+          "url": "https://stripe.com/financial-accounts",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Capital",
+          "url": "https://stripe.com/capital",
+          "items": []
+        },
+        {
+          "title": "Capital",
+          "url": "https://stripe.com/capital",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Payments Payments",
+      "items": [
+        {
+          "title": "Start with Payments",
+          "url": "https://stripe.com/payments",
+          "items": []
+        },
+        {
+          "title": "Start with Billing",
+          "url": "https://stripe.com/billing",
+          "items": []
+        },
+        {
+          "title": "Start with Connect",
+          "url": "https://stripe.com/connect",
+          "items": []
+        },
+        {
+          "title": "Start with Issuing",
+          "url": "https://stripe.com/issuing",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Tax",
+          "url": "https://stripe.com/tax",
+          "items": []
+        },
+        {
+          "title": "Radar",
+          "url": "https://stripe.com/radar",
+          "items": []
+        },
+        {
+          "title": "Terminal",
+          "url": "https://stripe.com/terminal",
+          "items": []
+        },
+        {
+          "title": "Invoicing",
+          "url": "https://stripe.com/invoicing",
+          "items": []
+        },
+        {
+          "title": "Usage-based billing",
+          "url": "https://stripe.com/billing/usage-based-billing",
+          "items": []
+        },
+        {
+          "title": "Stripe Sigma",
+          "url": "https://stripe.com/sigma",
+          "items": []
+        },
+        {
+          "title": "Terminal",
+          "url": "https://stripe.com/terminal",
+          "items": []
+        },
+        {
+          "title": "Instant Payouts",
+          "url": "https://stripe.com/connect/payouts",
+          "items": []
+        },
+        {
+          "title": "Payment Elements",
+          "url": "https://stripe.com/payments/elements",
+          "items": []
+        },
+        {
+          "title": "Connect",
+          "url": "https://stripe.com/connect/platforms",
+          "items": []
+        },
+        {
+          "title": "Financial Accounts",
+          "url": "https://stripe.com/financial-accounts",
+          "items": []
+        },
+        {
+          "title": "Capital",
+          "url": "https://stripe.com/capital/platforms",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Stripe services",
+          "url": "https://status.stripe.com/",
+          "items": []
+        },
+        {
+          "title": "professional services",
+          "url": "https://stripe.com/professional-services",
+          "items": []
+        },
+        {
+          "title": "certified partners",
+          "url": "https://stripe.com/partners",
+          "items": []
+        },
+        {
+          "title": "Stripe App Marketplace",
+          "url": "https://marketplace.stripe.com/collections/enterprise",
+          "items": []
+        },
+        {
+          "title": "Squarespace",
+          "url": "https://stripe.com/partners/directory/squarespace",
+          "items": []
+        },
+        {
+          "title": "Lightspeed",
+          "url": "https://stripe.com/partners/directory/lightspeed",
+          "items": []
+        },
+        {
+          "title": "usage-based billing",
+          "url": "https://docs.stripe.com/billing/subscriptions/usage-based/implementation-guide",
+          "items": []
+        },
+        {
+          "title": "in-person payment",
+          "url": "https://docs.stripe.com/no-code/in-person",
+          "items": []
+        },
+        {
+          "title": "payment link",
+          "url": "https://docs.stripe.com/no-code/payment-links",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "AI Stripe supports businesses across the AI ecosystem—from usage-based billing for AI assistants like Perplexity to premium subscriptions for infrastructure providers like OpenAI. Learn more",
+          "url": "https://stripe.com/use-cases/ai",
+          "items": []
+        },
+        {
+          "title": "SaaS Quickly launch and grow recurring revenue with a unified platform for payments, subscriptions, invoicing, tax, accounting, and more. Learn more",
+          "url": "https://stripe.com/use-cases/saas",
+          "items": []
+        },
+        {
+          "title": "Marketplace Get everything you need to onboard service providers, manage multiparty payments, and send payouts, all in one place. Learn more",
+          "url": "https://stripe.com/use-cases/marketplaces",
+          "items": []
+        },
+        {
+          "title": "Embedded finance Distribute financial accounts, commercial cards, and lending to create tailored in-product experiences for your customers. Learn more",
+          "url": "https://stripe.com/use-cases/embedded-finance",
+          "items": []
+        },
+        {
+          "title": "Ecommerce Access an optimized suite of tools to accept payments online and in person from customers around the world. Learn more",
+          "url": "https://stripe.com/use-cases/ecommerce",
+          "items": []
+        },
+        {
+          "title": "Crypto Embed crypto purchases directly into your checkout flow—with fraud prevention and authorization optimization built in. Learn more",
+          "url": "https://stripe.com/use-cases/crypto",
+          "items": []
+        },
+        {
+          "title": "Creator economy Quickly onboard and pay out creators globally with prebuilt UIs, or build your own custom solution. Learn more",
+          "url": "https://stripe.com/use-cases/creator-economy",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Slack logo",
+          "url": "https://stripe.com/customers/slack",
+          "items": []
+        },
+        {
+          "title": "Twilio logo",
+          "url": "https://stripe.com/customers/twilio",
+          "items": []
+        },
+        {
+          "title": "Linear logo",
+          "url": "https://stripe.com/customers/linear",
+          "items": []
+        },
+        {
+          "title": "BloomNation logo",
+          "url": "https://stripe.com/customers/bloomnation",
+          "items": []
+        },
+        {
+          "title": "Instacart logo",
+          "url": "https://stripe.com/customers/instacart",
+          "items": []
+        },
+        {
+          "title": "Deliveroo logo",
+          "url": "https://stripe.com/customers/deliveroo",
+          "items": []
+        },
+        {
+          "title": "Karat logo",
+          "url": "https://stripe.com/customers/karat",
+          "items": []
+        },
+        {
+          "title": "Shopify logo",
+          "url": "https://stripe.com/customers/shopify",
+          "items": []
+        },
+        {
+          "title": "Persona logo",
+          "url": "https://stripe.com/customers/persona",
+          "items": []
+        },
+        {
+          "title": "Dermalogica logo",
+          "url": "https://stripe.com/customers/dermalogica",
+          "items": []
+        },
+        {
+          "title": "Indochino logo",
+          "url": "https://stripe.com/customers/indochino",
+          "items": []
+        },
+        {
+          "title": "BlockchainCom logo",
+          "url": "https://stripe.com/customers/blockchaincom",
+          "items": []
+        },
+        {
+          "title": "Substack logo",
+          "url": "https://stripe.com/customers/substack",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Explore Stripe for enterprises",
+          "url": "https://stripe.com/enterprise",
+          "items": []
+        },
+        {
+          "title": "Read the docs",
+          "url": "https://docs.stripe.com",
+          "items": []
+        },
+        {
+          "title": "See libraries",
+          "url": "https://docs.stripe.com/libraries",
+          "items": []
+        },
+        {
+          "title": "View docs",
+          "url": "https://docs.stripe.com/agents",
+          "items": []
+        },
+        {
+          "title": "Browse App Marketplace",
+          "url": "https://marketplace.stripe.com/",
+          "items": []
+        },
+        {
+          "title": "Learn about Apps",
+          "url": "https://stripe.com/apps",
+          "items": []
+        },
+        {
+          "title": "Start now",
+          "url": "https://dashboard.stripe.com/register",
+          "items": []
+        },
+        {
+          "title": "Contact sales",
+          "url": "https://stripe.com/contact/sales",
+          "items": []
+        },
+        {
+          "title": "Pricing details",
+          "url": "https://stripe.com/pricing",
+          "items": []
+        },
+        {
+          "title": "API reference",
+          "url": "https://docs.stripe.com/api",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "BMW logo Read story Learn why BMW chose Stripe to power ecommerce and payments",
+          "url": "https://stripe.com/us/newsroom/news/bmw-and-stripe",
+          "items": []
+        },
+        {
+          "title": "Amazon logo Read story See how Amazon simplified cross-border payments with Stripe",
+          "url": "https://stripe.com/us/customers/amazon",
+          "items": []
+        },
+        {
+          "title": "Maersk logo Read story See how Maersk tapped into new technology to make it easier to ship around the world",
+          "url": "https://stripe.com/us/newsroom/stories/maersk-and-stripe",
+          "items": []
+        },
+        {
+          "title": "Twilio logo Read story See how Twilio increased authorization rates by 10% with Stripe",
+          "url": "https://stripe.com/us/customers/twilio",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Learn about Atlas",
+          "url": "https://stripe.com/atlas",
+          "items": []
+        },
+        {
+          "title": "Start with Checkout",
+          "url": "https://stripe.com/checkout",
+          "items": []
+        },
+        {
+          "title": "Try Payment Links",
+          "url": "https://stripe.com/payments/payment-links",
+          "items": []
+        },
+        {
+          "title": "Explore billing",
+          "url": "https://stripe.com/billing",
+          "items": []
+        },
+        {
+          "title": "See directory",
+          "url": "https://stripe.com/partners/directory",
+          "items": []
+        },
+        {
+          "title": "View partners",
+          "url": "https://stripe.com/partners/directory",
+          "items": []
+        },
+        {
+          "title": "Explore no-code",
+          "url": "https://docs.stripe.com/no-code",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Stripe logo",
+          "url": "https://stripe.com/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "English",
+          "url": "https://stripe.com/au",
+          "items": []
+        },
+        {
+          "title": "Deutsch",
+          "url": "https://stripe.com/at",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-at",
+          "items": []
+        },
+        {
+          "title": "Nederlands",
+          "url": "https://stripe.com/nl-be",
+          "items": []
+        },
+        {
+          "title": "Français",
+          "url": "https://stripe.com/fr-be",
+          "items": []
+        },
+        {
+          "title": "Deutsch",
+          "url": "https://stripe.com/de-be",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-be",
+          "items": []
+        },
+        {
+          "title": "Português",
+          "url": "https://stripe.com/br",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-br",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-bg",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-ca",
+          "items": []
+        },
+        {
+          "title": "Français",
+          "url": "https://stripe.com/fr-ca",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-hr",
+          "items": []
+        },
+        {
+          "title": "Italiano",
+          "url": "https://stripe.com/it-hr",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-cy",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-cz",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-dk",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-ee",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-fi",
+          "items": []
+        },
+        {
+          "title": "Svenska",
+          "url": "https://stripe.com/sv-fi",
+          "items": []
+        },
+        {
+          "title": "Français",
+          "url": "https://stripe.com/fr",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-fr",
+          "items": []
+        },
+        {
+          "title": "Deutsch",
+          "url": "https://stripe.com/de",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-de",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-gi",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-gr",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-hk",
+          "items": []
+        },
+        {
+          "title": "简体中文",
+          "url": "https://stripe.com/zh-hk",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-hu",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/in",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/ie",
+          "items": []
+        },
+        {
+          "title": "Italiano",
+          "url": "https://stripe.com/it",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-it",
+          "items": []
+        },
+        {
+          "title": "日本語",
+          "url": "https://stripe.com/jp",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-jp",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-lv",
+          "items": []
+        },
+        {
+          "title": "Deutsch",
+          "url": "https://stripe.com/de-li",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-li",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-lt",
+          "items": []
+        },
+        {
+          "title": "Français",
+          "url": "https://stripe.com/fr-lu",
+          "items": []
+        },
+        {
+          "title": "Deutsch",
+          "url": "https://stripe.com/de-lu",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-lu",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-my",
+          "items": []
+        },
+        {
+          "title": "简体中文",
+          "url": "https://stripe.com/zh-my",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-mt",
+          "items": []
+        },
+        {
+          "title": "Español",
+          "url": "https://stripe.com/mx",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-mx",
+          "items": []
+        },
+        {
+          "title": "Nederlands",
+          "url": "https://stripe.com/nl",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-nl",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/nz",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-no",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-pl",
+          "items": []
+        },
+        {
+          "title": "Português",
+          "url": "https://stripe.com/pt-pt",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-pt",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-ro",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-sg",
+          "items": []
+        },
+        {
+          "title": "简体中文",
+          "url": "https://stripe.com/zh-sg",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-sk",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-si",
+          "items": []
+        },
+        {
+          "title": "Italiano",
+          "url": "https://stripe.com/it-si",
+          "items": []
+        },
+        {
+          "title": "Español",
+          "url": "https://stripe.com/es",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-es",
+          "items": []
+        },
+        {
+          "title": "Svenska",
+          "url": "https://stripe.com/se",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-se",
+          "items": []
+        },
+        {
+          "title": "Deutsch",
+          "url": "https://stripe.com/de-ch",
+          "items": []
+        },
+        {
+          "title": "Français",
+          "url": "https://stripe.com/fr-ch",
+          "items": []
+        },
+        {
+          "title": "Italiano",
+          "url": "https://stripe.com/it-ch",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-ch",
+          "items": []
+        },
+        {
+          "title": "ไทย",
+          "url": "https://stripe.com/th",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/en-th",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/ae",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/gb",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://stripe.com/us",
+          "items": []
+        },
+        {
+          "title": "Español",
+          "url": "https://stripe.com/es-us",
+          "items": []
+        },
+        {
+          "title": "简体中文",
+          "url": "https://stripe.com/zh-us",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Pricing",
+          "url": "https://stripe.com/pricing",
+          "items": []
+        },
+        {
+          "title": "Atlas",
+          "url": "https://stripe.com/atlas",
+          "items": []
+        },
+        {
+          "title": "Authorization Boost",
+          "url": "https://stripe.com/authorization-boost",
+          "items": []
+        },
+        {
+          "title": "Billing",
+          "url": "https://stripe.com/billing",
+          "items": []
+        },
+        {
+          "title": "Capital",
+          "url": "https://stripe.com/capital/platforms",
+          "items": []
+        },
+        {
+          "title": "Checkout",
+          "url": "https://stripe.com/payments/checkout",
+          "items": []
+        },
+        {
+          "title": "Climate",
+          "url": "https://stripe.com/climate",
+          "items": []
+        },
+        {
+          "title": "Connect",
+          "url": "https://stripe.com/connect",
+          "items": []
+        },
+        {
+          "title": "Data Pipeline",
+          "url": "https://stripe.com/data-pipeline",
+          "items": []
+        },
+        {
+          "title": "Elements",
+          "url": "https://stripe.com/payments/elements",
+          "items": []
+        },
+        {
+          "title": "Financial Accounts",
+          "url": "https://stripe.com/financial-accounts",
+          "items": []
+        },
+        {
+          "title": "Financial Connections",
+          "url": "https://stripe.com/financial-connections",
+          "items": []
+        },
+        {
+          "title": "Identity",
+          "url": "https://stripe.com/identity",
+          "items": []
+        },
+        {
+          "title": "Invoicing",
+          "url": "https://stripe.com/invoicing",
+          "items": []
+        },
+        {
+          "title": "Issuing",
+          "url": "https://stripe.com/issuing",
+          "items": []
+        },
+        {
+          "title": "Link",
+          "url": "https://stripe.com/payments/link",
+          "items": []
+        },
+        {
+          "title": "Payments",
+          "url": "https://stripe.com/payments",
+          "items": []
+        },
+        {
+          "title": "Payment Links",
+          "url": "https://stripe.com/payments/payment-links",
+          "items": []
+        },
+        {
+          "title": "Payouts",
+          "url": "https://stripe.com/connect/payouts",
+          "items": []
+        },
+        {
+          "title": "Radar",
+          "url": "https://stripe.com/radar",
+          "items": []
+        },
+        {
+          "title": "Revenue Recognition",
+          "url": "https://stripe.com/revenue-recognition",
+          "items": []
+        },
+        {
+          "title": "Stripe Sigma",
+          "url": "https://stripe.com/sigma",
+          "items": []
+        },
+        {
+          "title": "Tax",
+          "url": "https://stripe.com/tax",
+          "items": []
+        },
+        {
+          "title": "Terminal",
+          "url": "https://stripe.com/terminal",
+          "items": []
+        },
+        {
+          "title": "Enterprises",
+          "url": "https://stripe.com/enterprise",
+          "items": []
+        },
+        {
+          "title": "Startups",
+          "url": "https://stripe.com/startups",
+          "items": []
+        },
+        {
+          "title": "Crypto",
+          "url": "https://stripe.com/use-cases/crypto",
+          "items": []
+        },
+        {
+          "title": "Ecommerce",
+          "url": "https://stripe.com/use-cases/ecommerce",
+          "items": []
+        },
+        {
+          "title": "Embedded finance",
+          "url": "https://stripe.com/use-cases/embedded-finance",
+          "items": []
+        },
+        {
+          "title": "Finance automation",
+          "url": "https://stripe.com/use-cases/finance-automation",
+          "items": []
+        },
+        {
+          "title": "Global businesses",
+          "url": "https://stripe.com/use-cases/global-businesses",
+          "items": []
+        },
+        {
+          "title": "Marketplaces",
+          "url": "https://stripe.com/use-cases/marketplaces",
+          "items": []
+        },
+        {
+          "title": "Platforms",
+          "url": "https://stripe.com/use-cases/platforms",
+          "items": []
+        },
+        {
+          "title": "SaaS",
+          "url": "https://stripe.com/use-cases/saas",
+          "items": []
+        },
+        {
+          "title": "AI companies",
+          "url": "https://stripe.com/use-cases/ai",
+          "items": []
+        },
+        {
+          "title": "Creator economy",
+          "url": "https://stripe.com/use-cases/creator-economy",
+          "items": []
+        },
+        {
+          "title": "Hospitality, travel, and leisure",
+          "url": "https://stripe.com/industries/travel",
+          "items": []
+        },
+        {
+          "title": "Insurance",
+          "url": "https://stripe.com/industries/insurance",
+          "items": []
+        },
+        {
+          "title": "Media and entertainment",
+          "url": "https://stripe.com/industries/media-entertainment",
+          "items": []
+        },
+        {
+          "title": "Nonprofits",
+          "url": "https://stripe.com/industries/nonprofits",
+          "items": []
+        },
+        {
+          "title": "Retail",
+          "url": "https://stripe.com/industries/retail",
+          "items": []
+        },
+        {
+          "title": "Stripe App Marketplace",
+          "url": "https://marketplace.stripe.com/",
+          "items": []
+        },
+        {
+          "title": "Partner ecosystem",
+          "url": "https://stripe.com/partners",
+          "items": []
+        },
+        {
+          "title": "Professional services",
+          "url": "https://stripe.com/professional-services",
+          "items": []
+        },
+        {
+          "title": "Documentation",
+          "url": "https://docs.stripe.com/",
+          "items": []
+        },
+        {
+          "title": "API reference",
+          "url": "https://docs.stripe.com/api",
+          "items": []
+        },
+        {
+          "title": "API status",
+          "url": "https://status.stripe.com/",
+          "items": []
+        },
+        {
+          "title": "API changelog",
+          "url": "https://docs.stripe.com/changelog",
+          "items": []
+        },
+        {
+          "title": "Libraries and SDKs",
+          "url": "https://docs.stripe.com/development",
+          "items": []
+        },
+        {
+          "title": "Developer blog",
+          "url": "https://stripe.dev/",
+          "items": []
+        },
+        {
+          "title": "Guides",
+          "url": "https://stripe.com/guides",
+          "items": []
+        },
+        {
+          "title": "Customer stories",
+          "url": "https://stripe.com/customers",
+          "items": []
+        },
+        {
+          "title": "Blog",
+          "url": "https://stripe.com/blog",
+          "items": []
+        },
+        {
+          "title": "Sessions annual conference",
+          "url": "https://stripe.com/sessions",
+          "items": []
+        },
+        {
+          "title": "Privacy & terms",
+          "url": "https://stripe.com/privacy",
+          "items": []
+        },
+        {
+          "title": "Prohibited & restricted businesses",
+          "url": "https://stripe.com/legal/restricted-businesses",
+          "items": []
+        },
+        {
+          "title": "Licenses",
+          "url": "https://stripe.com/spc/licenses",
+          "items": []
+        },
+        {
+          "title": "Sitemap",
+          "url": "https://stripe.com/sitemap",
+          "items": []
+        },
+        {
+          "title": "Cookie settings",
+          "url": "https://stripe.com/cookie-settings",
+          "items": []
+        },
+        {
+          "title": "Your privacy choices",
+          "url": "https://privacy.stripe.com/",
+          "items": []
+        },
+        {
+          "title": "More resources",
+          "url": "https://stripe.com/resources/more",
+          "items": []
+        },
+        {
+          "title": "Jobs",
+          "url": "https://stripe.com/jobs",
+          "items": []
+        },
+        {
+          "title": "Newsroom",
+          "url": "https://stripe.com/newsroom",
+          "items": []
+        },
+        {
+          "title": "Stripe Press",
+          "url": "https://press.stripe.com/",
+          "items": []
+        },
+        {
+          "title": "Contact sales",
+          "url": "https://stripe.com/contact/sales",
+          "items": []
+        },
+        {
+          "title": "Get support",
+          "url": "https://support.stripe.com/?referrerLocale=en-us",
+          "items": []
+        },
+        {
+          "title": "Managed support plans",
+          "url": "https://stripe.com/support-plans",
+          "items": []
+        },
+        {
+          "title": "Sign in",
+          "url": "https://dashboard.stripe.com/login",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Start now",
+          "url": "https://dashboard.stripe.com/register",
+          "items": []
+        },
+        {
+          "title": "Contact sales",
+          "url": "https://stripe.com/contact/sales",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

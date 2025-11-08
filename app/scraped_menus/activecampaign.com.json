@@ -1,0 +1,276 @@
+{
+  "website": "https://www.activecampaign.com",
+  "domain": "www.activecampaign.com",
+  "scraped_at": "2025-11-07T16:00:17.908763",
+  "menus": [
+    {
+      "title": "Platform",
+      "items": [
+        {
+          "title": "PlatformPlatform",
+          "url": "https://www.activecampaign.com/platform"
+        },
+        {
+          "title": "Active Intelligence",
+          "url": "https://www.activecampaign.com/platform/active-intelligence"
+        },
+        {
+          "title": "Marketing Automation",
+          "url": "https://www.activecampaign.com/platform/marketing-automation"
+        },
+        {
+          "title": "CRM",
+          "url": "https://www.activecampaign.com/platform/sales-crm"
+        },
+        {
+          "title": "Content Creation",
+          "url": "https://www.activecampaign.com/platform/content-creation"
+        },
+        {
+          "title": "Analytics & Reporting",
+          "url": "https://www.activecampaign.com/platform/analytics-and-reporting"
+        },
+        {
+          "title": "Take a tour",
+          "url": "https://www.activecampaign.com/tours"
+        },
+        {
+          "title": "Email Marketing",
+          "url": "https://www.activecampaign.com/platform/email-marketing"
+        },
+        {
+          "title": "WhatsApp Messaging",
+          "url": "https://www.activecampaign.com/platform/whatsapp-messaging"
+        },
+        {
+          "title": "Transactional Email",
+          "url": "https://www.activecampaign.com/platform/transactional-email"
+        },
+        {
+          "title": "SMS Marketing",
+          "url": "https://www.activecampaign.com/platform/sms-marketing"
+        },
+        {
+          "title": "Landing Pages",
+          "url": "https://www.activecampaign.com/platform/landing-pages"
+        },
+        {
+          "title": "Connect Integrations",
+          "url": "https://www.activecampaign.com/apps"
+        },
+        {
+          "title": "MCP Server",
+          "url": "https://www.activecampaign.com/lp/mcp"
+        },
+        {
+          "title": "Hire a Certified Consultant",
+          "url": "https://www.activecampaign.com/consultants"
+        },
+        {
+          "title": "Become an ActiveCampaign Partner",
+          "url": "https://www.activecampaign.com/partner"
+        },
+        {
+          "title": "Explore Services",
+          "url": "https://www.activecampaign.com/services"
+        },
+        {
+          "title": "Join our Community",
+          "url": "https://community.activecampaign.com/"
+        },
+        {
+          "title": "Autonomous MarketingNew",
+          "url": "https://www.activecampaign.com/platform/autonomous-marketing"
+        },
+        {
+          "title": "What’s New",
+          "url": "https://www.activecampaign.com/product-updates"
+        }
+      ]
+    },
+    {
+      "title": "Use Cases",
+      "items": [
+        {
+          "title": "Use CasesUse Cases",
+          "url": "https://www.activecampaign.com/use-cases"
+        },
+        {
+          "title": "AI Agents",
+          "url": "https://www.activecampaign.com/use-cases/ai-agents"
+        },
+        {
+          "title": "Nurture Your Business",
+          "url": "https://www.activecampaign.com/use-cases/nurture-your-business"
+        },
+        {
+          "title": "Engage Customers",
+          "url": "https://www.activecampaign.com/use-cases/engage-potential-customers"
+        },
+        {
+          "title": "Improve Deliverability",
+          "url": "https://www.activecampaign.com/use-cases/improve-deliverability"
+        },
+        {
+          "title": "Grow Your Customer Base",
+          "url": "https://www.activecampaign.com/use-cases/grow-your-customer-base"
+        },
+        {
+          "title": "Personalize at Scale",
+          "url": "https://www.activecampaign.com/use-cases/personalize-at-scale"
+        },
+        {
+          "title": "Orchestrate Cross-Channel Campaigns",
+          "url": "https://www.activecampaign.com/use-cases/orchestrate-cross-channel-campaigns"
+        },
+        {
+          "title": "Manage Your Audience",
+          "url": "https://www.activecampaign.com/use-cases/manage-your-audience"
+        },
+        {
+          "title": "Align Your Multi-Location Strategy",
+          "url": "https://www.activecampaign.com/franchise/multilocation"
+        },
+        {
+          "title": "SaaS & Technology",
+          "url": "https://www.activecampaign.com/industry/saas-and-technology"
+        },
+        {
+          "title": "Ecommerce & Retail",
+          "url": "https://www.activecampaign.com/industry/ecommerce"
+        },
+        {
+          "title": "Franchise & Multi-Location",
+          "url": "https://www.activecampaign.com/franchise"
+        },
+        {
+          "title": "Healthcare",
+          "url": "https://www.activecampaign.com/industry/healthcare"
+        },
+        {
+          "title": "Education & Online Courses",
+          "url": "https://www.activecampaign.com/industry/online-learning"
+        },
+        {
+          "title": "Travel & Hospitality",
+          "url": "https://www.activecampaign.com/industry/travel-and-hospitality"
+        },
+        {
+          "title": "Creators & Influencers",
+          "url": "https://www.activecampaign.com/industry/creators-and-influencers"
+        },
+        {
+          "title": "All Industries",
+          "url": "https://www.activecampaign.com/solutions"
+        },
+        {
+          "title": "Agencies",
+          "url": "https://www.activecampaign.com/use-cases/agencies"
+        },
+        {
+          "title": "Marketers",
+          "url": "https://www.activecampaign.com/use-cases/marketers"
+        },
+        {
+          "title": "Developers",
+          "url": "https://developers.activecampaign.com/"
+        }
+      ]
+    },
+    {
+      "title": "Learn",
+      "items": [
+        {
+          "title": "LearnLearn",
+          "url": "https://www.activecampaign.com/learn"
+        },
+        {
+          "title": "Articles",
+          "url": "https://www.activecampaign.com/blog"
+        },
+        {
+          "title": "Reports",
+          "url": "https://www.activecampaign.com/reports"
+        },
+        {
+          "title": "Case Studies",
+          "url": "https://www.activecampaign.com/customers"
+        },
+        {
+          "title": "Events & Training",
+          "url": "https://www.activecampaign.com/events"
+        },
+        {
+          "title": "Templates",
+          "url": "https://www.activecampaign.com/templates"
+        },
+        {
+          "title": "Franchise Marketers Reported…",
+          "url": "https://www.activecampaign.com/reports/franchise-marketing"
+        },
+        {
+          "title": "How AI gives Marketers Back One-third…",
+          "url": "https://www.activecampaign.com/reports/13-hours-back-each-week"
+        },
+        {
+          "title": "Connect with ActiveCampaign Across the Globe",
+          "url": "https://www.activecampaign.com/community"
+        },
+        {
+          "title": "Help Docs",
+          "url": "https://help.activecampaign.com/hc/en-us"
+        },
+        {
+          "title": "The Future of Unit…",
+          "url": "https://www.activecampaign.com/lp/the-future-of-unit-sales-webinar"
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "Demo",
+          "url": "https://www.activecampaign.com/enterprise/demo/"
+        },
+        {
+          "title": "Português",
+          "url": "https://www.activecampaign.com/br"
+        },
+        {
+          "title": "Français",
+          "url": "https://www.activecampaign.com/fr"
+        },
+        {
+          "title": "Italiano",
+          "url": "https://www.activecampaign.com/it"
+        },
+        {
+          "title": "Deutsch",
+          "url": "https://www.activecampaign.com/de"
+        },
+        {
+          "title": "Español",
+          "url": "https://www.activecampaign.com/es"
+        },
+        {
+          "title": "Search",
+          "url": "https://www.activecampaign.com/search"
+        }
+      ]
+    },
+    {
+      "title": "Main Navigation",
+      "items": [
+        {
+          "title": "Platform",
+          "url": "https://www.activecampaign.com/platform"
+        },
+        {
+          "title": "Português",
+          "url": "https://www.activecampaign.com/br"
+        }
+      ]
+    }
+  ]
+}

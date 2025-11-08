@@ -1,0 +1,653 @@
+{
+  "website": "https://www.airtable.com",
+  "domain": "www.airtable.com",
+  "scraped_at": "2025-11-07T16:27:13.354207",
+  "menus": [
+    {
+      "title": "Footer navigation",
+      "items": [
+        {
+          "title": "Platform",
+          "url": "https://www.airtable.com/platform",
+          "items": []
+        },
+        {
+          "title": "Solutions",
+          "url": "https://www.airtable.com/solutions",
+          "items": []
+        },
+        {
+          "title": "Resources",
+          "url": "https://www.airtable.com/lp/resources",
+          "items": []
+        },
+        {
+          "title": "Enterprise",
+          "url": "https://www.airtable.com/solutions/enterprise",
+          "items": []
+        },
+        {
+          "title": "Pricing",
+          "url": "https://www.airtable.com/pricing",
+          "items": []
+        },
+        {
+          "title": "Book Demo",
+          "url": "https://www.airtable.com/contact-sales",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Main Menu",
+      "items": [
+        {
+          "title": "Marketplace",
+          "url": "https://airtable.com/marketplace",
+          "items": []
+        },
+        {
+          "title": "Partners",
+          "url": "https://www.airtable.com/partners",
+          "items": []
+        },
+        {
+          "title": "Services",
+          "url": "https://www.airtable.com/enterprise/services",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "The Airtable Platform",
+      "items": [
+        {
+          "title": "Explore the platform",
+          "url": "https://www.airtable.com/platform",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "More money, fewer problems",
+      "items": [
+        {
+          "title": "ProductCentralUnify your product development cycle with Airtable's new end-to-end solution",
+          "url": "https://www.airtable.com/solutions/product",
+          "items": [
+            {
+              "title": "ProductCentralUnify your product development cycle with Airtable's new end-to-end solution",
+              "url": "https://www.airtable.com/solutions/product",
+              "items": []
+            },
+            {
+              "title": "MarketingCreate custom workflows to run campaigns and track successes",
+              "url": "https://www.airtable.com/solutions/marketing",
+              "items": []
+            },
+            {
+              "title": "OperationsBring your data and processes into a single, well-organized place",
+              "url": "https://www.airtable.com/solutions/operations",
+              "items": []
+            },
+            {
+              "title": "Project ManagementKeep track of projects and tasks across departments",
+              "url": "https://www.airtable.com/solutions/project-management",
+              "items": []
+            },
+            {
+              "title": "Human ResourcesManage and streamline processes from hire to retire",
+              "url": "https://www.airtable.com/solutions/hr",
+              "items": []
+            },
+            {
+              "title": "SalesWin loyal customers with smarter workflows and connected data",
+              "url": "https://www.airtable.com/solutions/sales",
+              "items": []
+            },
+            {
+              "title": "FinanceStreamline requests, manage budgets, and automate reporting",
+              "url": "https://www.airtable.com/solutions/finance",
+              "items": []
+            }
+          ]
+        },
+        {
+          "title": "Learn more",
+          "url": "https://www.airtable.com/customer-stories/code-and-theory",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Main Menu",
+      "items": [
+        {
+          "title": "Help center",
+          "url": "https://support.airtable.com/",
+          "items": []
+        },
+        {
+          "title": "Contact Support",
+          "url": "https://support.airtable.com/docs/contacting-airtable-support",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "utility links",
+      "items": [
+        {
+          "title": "Security",
+          "url": "https://www.airtable.com/security",
+          "items": []
+        },
+        {
+          "title": "API",
+          "url": "https://airtable.com/api",
+          "items": []
+        },
+        {
+          "title": "Sitemap",
+          "url": "https://www.airtable.com/sitemap",
+          "items": []
+        },
+        {
+          "title": "Privacy",
+          "url": "https://www.airtable.com/privacy",
+          "items": []
+        },
+        {
+          "title": "Terms",
+          "url": "https://www.airtable.com/terms-and-policies",
+          "items": []
+        },
+        {
+          "title": "Do Not Sell/Share My Info",
+          "url": "https://www.airtable.com/privacy-choices",
+          "items": []
+        },
+        {
+          "title": "Cookie Preferences",
+          "url": "https://www.airtable.com/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Main Menu",
+      "items": [
+        {
+          "title": "Airtable PlatformUnlock the power of a next-gen app-building platform",
+          "url": "https://www.airtable.com/platform",
+          "items": []
+        },
+        {
+          "title": "AI App BuildingNEWEnable teams to build custom business apps—no code needed",
+          "url": "https://www.airtable.com/platform/app-building",
+          "items": []
+        },
+        {
+          "title": "AI AgentsNEWDeploy thousands of agents inside your apps",
+          "url": "https://www.airtable.com/platform/ai-agents",
+          "items": []
+        },
+        {
+          "title": "PortalsCollaborate seamlessly with guest users outside your organization",
+          "url": "https://www.airtable.com/platform/portals",
+          "items": []
+        },
+        {
+          "title": "ScaleBuild apps on top of massive data sets with 100M records",
+          "url": "https://www.airtable.com/platform/hyperdb",
+          "items": []
+        },
+        {
+          "title": "AutomationsAchieve more in less time via automations",
+          "url": "https://www.airtable.com/platform/automations",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Main Menu",
+      "items": [
+        {
+          "title": "Project ManagementNew",
+          "url": "https://www.airtable.com/templates/project-management/expnPwND0WA2x7nhJ",
+          "items": []
+        },
+        {
+          "title": "Content Calendar",
+          "url": "https://www.airtable.com/templates/content-calendar/exp3FNmOkdHZvprXB",
+          "items": []
+        },
+        {
+          "title": "Event Planning",
+          "url": "https://www.airtable.com/templates/event-planning/exppdJtYjEgfmd6Sq",
+          "items": []
+        },
+        {
+          "title": "Product Roadmap",
+          "url": "https://www.airtable.com/templates/product-roadmap/exphVKuL99S35ZsMi",
+          "items": []
+        },
+        {
+          "title": "Organizational Chart",
+          "url": "https://www.airtable.com/templates/corporate-organizational-chart/expgMvC4WkxpKviHn",
+          "items": []
+        },
+        {
+          "title": "Resource AllocationNew",
+          "url": "https://www.airtable.com/templates/resource-allocation/expMLg1OTd4pKVxCU ",
+          "items": []
+        },
+        {
+          "title": "Social Media Calendar",
+          "url": "https://www.airtable.com/templates/social-media-calendar/expgEkxMmWRqpa43k",
+          "items": []
+        },
+        {
+          "title": "Marketing Campaign Tracker",
+          "url": "https://www.airtable.com/templates/marketing-campaign-tracking/expNoL0sYUbOogSCm",
+          "items": []
+        },
+        {
+          "title": "Product Launch",
+          "url": "https://www.airtable.com/templates/product-launch/expbtFa3nsLpIQfgk",
+          "items": []
+        },
+        {
+          "title": "Content Strategy",
+          "url": "https://www.airtable.com/templates/content-strategy/exp1nfqhaFgeAyk2f",
+          "items": []
+        },
+        {
+          "title": "Product Strategy",
+          "url": "https://www.airtable.com/templates/product-strategy/expbov1cc8Qb05egC",
+          "items": []
+        },
+        {
+          "title": "Inventory Tracker",
+          "url": "https://www.airtable.com/templates/inventory-tracker/expDrHGuyjSQlrKTq",
+          "items": []
+        },
+        {
+          "title": "Product Catalog",
+          "url": "https://www.airtable.com/templates/product-catalog-and-orders/expZvMLT9L6c4yeBX",
+          "items": []
+        },
+        {
+          "title": "See all templates",
+          "url": "https://www.airtable.com/templates",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "More money, fewer problems",
+      "items": [
+        {
+          "title": "Learn more",
+          "url": "https://www.airtable.com/customer-stories/code-and-theory",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Stay one step ahead of the trends",
+      "items": [
+        {
+          "title": "Explore all resources",
+          "url": "https://www.airtable.com/lp/resources",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Main Menu",
+      "items": [
+        {
+          "title": "Reports",
+          "url": "https://www.airtable.com/lp/resources?filter=reports",
+          "items": []
+        },
+        {
+          "title": "eBooks",
+          "url": "https://www.airtable.com/lp/resources?filter=ebooks",
+          "items": []
+        },
+        {
+          "title": "Webinars",
+          "url": "https://www.airtable.com/lp/resources?filter=webinars",
+          "items": []
+        },
+        {
+          "title": "Quick Reads",
+          "url": "https://www.airtable.com/lp/resources?filter=quick-reads",
+          "items": []
+        },
+        {
+          "title": "Demos",
+          "url": "https://www.airtable.com/lp/resources?filter=demos",
+          "items": []
+        },
+        {
+          "title": "See all resources",
+          "url": "https://www.airtable.com/lp/resources",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Main Menu",
+      "items": [
+        {
+          "title": "AutomationsAchieve more in less time via automations",
+          "url": "https://www.airtable.com/platform/automations",
+          "items": []
+        },
+        {
+          "title": "DatabasesUse relational databases to connect data from apps, workflows, and tools",
+          "url": "https://www.airtable.com/platform/connected-data",
+          "items": []
+        },
+        {
+          "title": "InterfacesCreate custom interfaces from your data",
+          "url": "https://www.airtable.com/platform/interface-designer",
+          "items": []
+        },
+        {
+          "title": "ReportingMeasure, analyze, and share insights",
+          "url": "https://www.airtable.com/platform/reporting",
+          "items": []
+        },
+        {
+          "title": "ViewsTailor data visualizations to your teams’ needs",
+          "url": "https://www.airtable.com/platform/views",
+          "items": []
+        },
+        {
+          "title": "Governance and SecurityCentrally manage security, permissions and data protection",
+          "url": "https://www.airtable.com/platform/governance",
+          "items": []
+        },
+        {
+          "title": "Airtable AIEmbed AI throughout end-to-end workflows",
+          "url": "https://www.airtable.com/platform/ai",
+          "items": []
+        },
+        {
+          "title": "What's NewSee Airtable's latest product updates",
+          "url": "https://www.airtable.com/whatsnew",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Main Menu",
+      "items": [
+        {
+          "title": "SlackAdd real-time messaging to your workflows",
+          "url": "https://www.airtable.com/integrations/slack",
+          "items": []
+        },
+        {
+          "title": "DownloadGet the Airtable app for desktop and mobile",
+          "url": "https://www.airtable.com/downloads",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Main Menu",
+      "items": [
+        {
+          "title": "Dev CommunityShare ideas and find solutions from peers",
+          "url": "https://community.airtable.com/t5/development-apis/bd-p/development",
+          "items": []
+        },
+        {
+          "title": "API DocsBuild with the Airtable API",
+          "url": "https://airtable.com/developers/web/api/introduction",
+          "items": []
+        },
+        {
+          "title": "Custom ExtensionsCreate real-time, interactive extensions",
+          "url": "https://airtable.com/developers/apps",
+          "items": []
+        },
+        {
+          "title": "ScriptingBuild something custom with scripts",
+          "url": "https://airtable.com/developers/scripting",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "The Airtable Platform",
+      "items": [
+        {
+          "title": "Airtable PlatformUnlock the power of a next-gen app-building platform",
+          "url": "https://www.airtable.com/platform",
+          "items": []
+        },
+        {
+          "title": "AI App BuildingNEWEnable teams to build custom business apps—no code needed",
+          "url": "https://www.airtable.com/platform/app-building",
+          "items": []
+        },
+        {
+          "title": "AI AgentsNEWDeploy thousands of agents inside your apps",
+          "url": "https://www.airtable.com/platform/ai-agents",
+          "items": []
+        },
+        {
+          "title": "PortalsCollaborate seamlessly with guest users outside your organization",
+          "url": "https://www.airtable.com/platform/portals",
+          "items": []
+        },
+        {
+          "title": "ScaleBuild apps on top of massive data sets with 100M records",
+          "url": "https://www.airtable.com/platform/hyperdb",
+          "items": []
+        },
+        {
+          "title": "AutomationsAchieve more in less time via automations",
+          "url": "https://www.airtable.com/platform/automations",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Main Menu",
+      "items": [
+        {
+          "title": "Airtable Academy",
+          "url": "https://academy.airtable.com/",
+          "items": []
+        },
+        {
+          "title": "Airtable Community",
+          "url": "https://community.airtable.com/",
+          "items": []
+        },
+        {
+          "title": "Dev CommunityShare ideas and find solutions from peers",
+          "url": "https://community.airtable.com/t5/development-apis/bd-p/development",
+          "items": []
+        },
+        {
+          "title": "How-to guides",
+          "url": "https://www.airtable.com/guides",
+          "items": []
+        },
+        {
+          "title": "Help center",
+          "url": "https://support.airtable.com/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Stay one step ahead of the trends",
+      "items": [
+        {
+          "title": "AI PlaysNEWAccelerate, automate, and enhance workflows using Omni and Field Agents",
+          "url": "https://www.airtable.com/ai-plays",
+          "items": []
+        },
+        {
+          "title": "Reports",
+          "url": "https://www.airtable.com/lp/resources?filter=reports",
+          "items": []
+        },
+        {
+          "title": "Project ManagementNew",
+          "url": "https://www.airtable.com/templates/project-management/expnPwND0WA2x7nhJ",
+          "items": []
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.airtable.com/articles",
+          "items": []
+        },
+        {
+          "title": "Customer Stories",
+          "url": "https://www.airtable.com/customer-stories",
+          "items": []
+        },
+        {
+          "title": "Builders & BreakthroughsNEW",
+          "url": "https://www.airtable.com/breakthroughs",
+          "items": []
+        },
+        {
+          "title": "Videos",
+          "url": "https://www.airtable.com/videos",
+          "items": []
+        },
+        {
+          "title": "Events",
+          "url": "https://www.airtable.com/events-webinars",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Main Menu",
+      "items": [
+        {
+          "title": "Platform",
+          "url": "https://www.airtable.com/platform",
+          "items": []
+        },
+        {
+          "title": "Solutions",
+          "url": "https://www.airtable.com/solutions",
+          "items": []
+        },
+        {
+          "title": "Resources",
+          "url": "https://www.airtable.com/lp/resources",
+          "items": []
+        },
+        {
+          "title": "Enterprise",
+          "url": "https://www.airtable.com/solutions/enterprise",
+          "items": []
+        },
+        {
+          "title": "Pricing",
+          "url": "https://www.airtable.com/pricing",
+          "items": []
+        },
+        {
+          "title": "Book Demo",
+          "url": "https://www.airtable.com/contact-sales",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Main Menu",
+      "items": [
+        {
+          "title": "SlackAdd real-time messaging to your workflows",
+          "url": "https://www.airtable.com/integrations/slack",
+          "items": []
+        },
+        {
+          "title": "Google DriveSync information and build workflows",
+          "url": "https://www.airtable.com/integrations/google-drive",
+          "items": []
+        },
+        {
+          "title": "SalesforceLeverage CRM data across teams and tools",
+          "url": "https://www.airtable.com/integrations/salesforce",
+          "items": []
+        },
+        {
+          "title": "JiraGenerate tickets and sync work from Airtable",
+          "url": "https://www.airtable.com/integrations/jira",
+          "items": []
+        },
+        {
+          "title": "ZendeskSimplify and streamline workflows",
+          "url": "https://www.airtable.com/integrations/zendesk",
+          "items": []
+        },
+        {
+          "title": "See all integrations",
+          "url": "https://www.airtable.com/integrations",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Main Menu",
+      "items": [
+        {
+          "title": "AI PlaysNEWAccelerate, automate, and enhance workflows using Omni and Field Agents",
+          "url": "https://www.airtable.com/ai-plays",
+          "items": []
+        },
+        {
+          "title": "Reports",
+          "url": "https://www.airtable.com/lp/resources?filter=reports",
+          "items": []
+        },
+        {
+          "title": "Project ManagementNew",
+          "url": "https://www.airtable.com/templates/project-management/expnPwND0WA2x7nhJ",
+          "items": []
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.airtable.com/articles",
+          "items": []
+        },
+        {
+          "title": "Customer Stories",
+          "url": "https://www.airtable.com/customer-stories",
+          "items": []
+        },
+        {
+          "title": "Builders & BreakthroughsNEW",
+          "url": "https://www.airtable.com/breakthroughs",
+          "items": []
+        },
+        {
+          "title": "Videos",
+          "url": "https://www.airtable.com/videos",
+          "items": []
+        },
+        {
+          "title": "Events",
+          "url": "https://www.airtable.com/events-webinars",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "website": "https://www.stripe.com",
+  "domain": "www.stripe.com",
+  "scraped_at": "2025-11-07T21:00:00.000000",
+  "menus": [
+    {
+      "title": "Navigation Menu",
+      "items": [
+        {
+          "title": "Pricing",
+          "url": "https://stripe.com/pricing",
+          "items": []
+        },
+        {
+          "title": "Sign in",
+          "url": "https://dashboard.stripe.com/login",
+          "items": []
+        }
+      ]
+    }
+  ],
+  "notes": "HTML-based navigation with hierarchy detection"
+}

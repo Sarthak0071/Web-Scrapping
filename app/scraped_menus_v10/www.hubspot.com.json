@@ -1,0 +1,113 @@
+{
+  "website": "https://www.hubspot.com",
+  "domain": "www.hubspot.com",
+  "scraped_at": "2025-11-07T21:00:00.000000",
+  "menus": [
+    {
+      "title": "Utility Navigation",
+      "items": [
+        {
+          "title": "Customer Support",
+          "url": "https://help.hubspot.com",
+          "items": []
+        },
+        {
+          "title": "Contact Sales",
+          "url": "https://offers.hubspot.com/contact-sales",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Popular Features",
+      "items": [
+        {
+          "title": "All Products and Features",
+          "url": "https://www.hubspot.com/products",
+          "items": []
+        },
+        {
+          "title": "Free Meeting Scheduler App",
+          "url": "https://www.hubspot.com/products/sales/schedule-meeting",
+          "items": []
+        },
+        {
+          "title": "Breeze AI Tools",
+          "url": "https://www.hubspot.com/products/artificial-intelligence",
+          "items": []
+        },
+        {
+          "title": "Email Tracking Software",
+          "url": "https://www.hubspot.com/products/sales/email-tracking",
+          "items": []
+        },
+        {
+          "title": "AI Content Writer",
+          "url": "https://www.hubspot.com/products/cms/ai-content-writer",
+          "items": []
+        },
+        {
+          "title": "AI Website Generator",
+          "url": "https://www.hubspot.com/products/cms/ai-website-generator",
+          "items": []
+        },
+        {
+          "title": "Email Marketing Software",
+          "url": "https://www.hubspot.com/products/marketing/email",
+          "items": []
+        },
+        {
+          "title": "Lead Management Software",
+          "url": "https://www.hubspot.com/products/crm/lead-management",
+          "items": []
+        },
+        {
+          "title": "AI Email Writer",
+          "url": "https://www.hubspot.com/products/marketing/ai-email-writer",
+          "items": []
+        },
+        {
+          "title": "Free Website Builder",
+          "url": "https://www.hubspot.com/products/cms/drag-and-drop-website-builder",
+          "items": []
+        },
+        {
+          "title": "Sales Email Templates",
+          "url": "https://www.hubspot.com/products/sales/email-templates-sales",
+          "items": []
+        },
+        {
+          "title": "Free Online Form Builder",
+          "url": "https://www.hubspot.com/products/marketing/forms",
+          "items": []
+        },
+        {
+          "title": "Free Chatbot Builder",
+          "url": "https://www.hubspot.com/products/crm/chatbot-builder",
+          "items": []
+        },
+        {
+          "title": "Free Live Chat Software",
+          "url": "https://www.hubspot.com/products/crm/live-chat",
+          "items": []
+        },
+        {
+          "title": "Marketing Analytics",
+          "url": "https://www.hubspot.com/products/marketing/analytics",
+          "items": []
+        },
+        {
+          "title": "Free Landing Page Builder",
+          "url": "https://www.hubspot.com/products/marketing/landing-pages",
+          "items": []
+        },
+        {
+          "title": "Free Web Hosting",
+          "url": "https://www.hubspot.com/products/cms/web-hosting",
+          "items": []
+        }
+      ]
+    }
+  ],
+  "notes": "HTML-based navigation with hierarchy detection"
+}

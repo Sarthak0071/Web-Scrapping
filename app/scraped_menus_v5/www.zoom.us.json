@@ -1,0 +1,122 @@
+{
+  "website": "https://www.zoom.us",
+  "domain": "www.zoom.us",
+  "scraped_at": "2025-11-07T16:27:13.354207",
+  "menus": [
+    {
+      "title": "Main Navigation",
+      "items": [
+        {
+          "title": "Pricing",
+          "url": "https://zoom.us/pricing",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Pricing Menu",
+      "items": [
+        {
+          "title": "Pricing",
+          "url": "https://zoom.us/pricing",
+          "items": []
+        },
+        {
+          "title": "Support Support",
+          "url": "https://support.zoom.com/hc/en",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Deutsch Menu",
+      "items": [
+        {
+          "title": "Deutsch",
+          "url": "https://www.zoom.com/de/",
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://www.zoom.com/en",
+          "items": []
+        },
+        {
+          "title": "Español",
+          "url": "https://www.zoom.com/es",
+          "items": []
+        },
+        {
+          "title": "Français",
+          "url": "https://www.zoom.com/fr/",
+          "items": []
+        },
+        {
+          "title": "Indonesia",
+          "url": "https://www.zoom.com/id/",
+          "items": []
+        },
+        {
+          "title": "Italiano",
+          "url": "https://www.zoom.com/it/",
+          "items": []
+        },
+        {
+          "title": "日本語",
+          "url": "https://www.zoom.com/ja/",
+          "items": []
+        },
+        {
+          "title": "한국어",
+          "url": "https://www.zoom.com/ko/",
+          "items": []
+        },
+        {
+          "title": "Nederlands",
+          "url": "https://www.zoom.com/nl/",
+          "items": []
+        },
+        {
+          "title": "Polski",
+          "url": "https://www.zoom.com/pl/",
+          "items": []
+        },
+        {
+          "title": "Português",
+          "url": "https://www.zoom.com/pt/",
+          "items": []
+        },
+        {
+          "title": "Русский",
+          "url": "https://www.zoom.com/ru/",
+          "items": []
+        },
+        {
+          "title": "Svenska",
+          "url": "https://www.zoom.com/sv/",
+          "items": []
+        },
+        {
+          "title": "Türkçe",
+          "url": "https://www.zoom.com/tr/",
+          "items": []
+        },
+        {
+          "title": "Tiếng Việt",
+          "url": "https://www.zoom.com/vi/",
+          "items": []
+        },
+        {
+          "title": "中文（简体，中国）",
+          "url": "https://www.zoom.com/zh-cn/",
+          "items": []
+        },
+        {
+          "title": "中文（繁體，台灣）",
+          "url": "https://www.zoom.com/zh-tw/",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "website": "https://www.trello.com",
+  "domain": "www.trello.com",
+  "scraped_at": "2025-11-07T16:01:06.813549",
+  "menus": [
+    {
+      "title": "Navigation",
+      "items": [
+        {
+          "title": "Inbox",
+          "url": "https://www.trello.com/inbox"
+        },
+        {
+          "title": "Planner",
+          "url": "https://www.trello.com/planner"
+        },
+        {
+          "title": "Automation",
+          "url": "https://www.trello.com/butler-automation"
+        },
+        {
+          "title": "Power-Ups",
+          "url": "https://www.trello.com/power-ups"
+        },
+        {
+          "title": "Templates",
+          "url": "https://www.trello.com/templates"
+        },
+        {
+          "title": "Integrations",
+          "url": "https://www.trello.com/integrations"
+        },
+        {
+          "title": "Check out Trello",
+          "url": "https://www.trello.com/tour"
+        },
+        {
+          "title": "Marketing teams",
+          "url": "https://www.trello.com/teams/marketing"
+        },
+        {
+          "title": "Product management",
+          "url": "https://www.trello.com/teams/product"
+        },
+        {
+          "title": "Engineering teams",
+          "url": "https://www.trello.com/teams/engineering"
+        },
+        {
+          "title": "Design teams",
+          "url": "https://www.trello.com/teams/design"
+        },
+        {
+          "title": "Startups",
+          "url": "https://www.trello.com/teams/startups"
+        },
+        {
+          "title": "Remote teams",
+          "url": "https://www.trello.com/teams/remote-team-management"
+        },
+        {
+          "title": "Standard",
+          "url": "https://www.trello.com/standard"
+        },
+        {
+          "title": "Premium",
+          "url": "https://www.trello.com/premium"
+        },
+        {
+          "title": "Enterprise",
+          "url": "https://www.trello.com/enterprise"
+        },
+        {
+          "title": "View Trello pricing",
+          "url": "https://www.trello.com/pricing"
+        },
+        {
+          "title": "Trello guide",
+          "url": "https://www.trello.com/guide"
+        },
+        {
+          "title": "Remote work guide",
+          "url": "https://www.trello.com/guide/remote-work"
+        },
+        {
+          "title": "Webinars",
+          "url": "https://www.trello.com/webinars"
+        },
+        {
+          "title": "Customer stories",
+          "url": "https://www.trello.com/customers"
+        },
+        {
+          "title": "Developers",
+          "url": "https://developer.atlassian.com/cloud/trello/"
+        },
+        {
+          "title": "Help resources",
+          "url": "https://support.atlassian.com/trello/"
+        },
+        {
+          "title": "Check out the Trello blog",
+          "url": "https://www.atlassian.com/blog/trello"
+        }
+      ]
+    }
+  ]
+}

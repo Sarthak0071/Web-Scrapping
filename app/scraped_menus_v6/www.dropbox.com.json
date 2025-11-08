@@ -1,0 +1,77 @@
+{
+  "website": "https://www.dropbox.com",
+  "domain": "www.dropbox.com",
+  "scraped_at": "2025-11-07T17:00:00.000000",
+  "menus": [
+    {
+      "title": "Teams",
+      "items": [
+        {
+          "title": "Enterprise",
+          "url": "https://www.dropbox.com/enterprise",
+          "items": []
+        },
+        {
+          "title": "Pricing",
+          "url": "https://www.dropbox.com/plans",
+          "items": []
+        },
+        {
+          "title": "Contact sales",
+          "url": "https://www.dropbox.com/contact-sales",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Dropbox",
+      "items": [
+        {
+          "title": "Desktop app",
+          "url": "https://www.dropbox.com/desktop",
+          "items": []
+        },
+        {
+          "title": "Mobile app",
+          "url": "https://www.dropbox.com/mobile?trigger=on",
+          "items": []
+        },
+        {
+          "title": "Integrations",
+          "url": "https://www.dropbox.com/app-integrations",
+          "items": []
+        },
+        {
+          "title": "Features",
+          "url": "https://www.dropbox.com/features",
+          "items": []
+        },
+        {
+          "title": "Solutions",
+          "url": "https://www.dropbox.com/business/solutions",
+          "items": []
+        },
+        {
+          "title": "Security",
+          "url": "https://www.dropbox.com/features/security",
+          "items": []
+        },
+        {
+          "title": "Early access",
+          "url": "https://www.dropbox.com/early-access",
+          "items": []
+        },
+        {
+          "title": "Templates",
+          "url": "https://www.dropbox.com/templates",
+          "items": []
+        },
+        {
+          "title": "Free tools",
+          "url": "https://www.dropbox.com/tools",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

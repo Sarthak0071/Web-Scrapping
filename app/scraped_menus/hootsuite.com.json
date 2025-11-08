@@ -1,0 +1,32 @@
+{
+  "website": "https://hootsuite.com",
+  "domain": "hootsuite.com",
+  "scraped_at": "2025-11-07T16:00:15.698844",
+  "menus": [
+    {
+      "title": "Main Navigation",
+      "items": [
+        {
+          "title": "Publish and schedule",
+          "url": "https://hootsuite.com/platform/publishing"
+        },
+        {
+          "title": "Integrations",
+          "url": "https://hootsuite.com/platform/integrations"
+        },
+        {
+          "title": "Small business",
+          "url": "https://hootsuite.com/industries/smb"
+        },
+        {
+          "title": "Social media trendsnew",
+          "url": "https://hootsuite.com/research/social-trends"
+        },
+        {
+          "title": "Enterprise",
+          "url": "https://hootsuite.com/plans/enterprise"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "website": "https://www.stripe.com",
+  "domain": "www.stripe.com",
+  "scraped_at": "2025-11-07T16:00:40.074029",
+  "menus": [
+    {
+      "title": "Main Navigation",
+      "items": [
+        {
+          "title": "Products",
+          "items": []
+        },
+        {
+          "title": "Solutions",
+          "items": []
+        },
+        {
+          "title": "Developers",
+          "items": []
+        },
+        {
+          "title": "Resources",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

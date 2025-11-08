@@ -1,0 +1,138 @@
+{
+  "website": "https://www.airtable.com",
+  "domain": "www.airtable.com",
+  "scraped_at": "2025-11-07T21:00:00.000000",
+  "menus": [
+    {
+      "title": "Navigation Menu",
+      "items": [
+        {
+          "title": "Airtable Platform Unlock the power of a next-gen app-building platform",
+          "url": "https://www.airtable.com/platform",
+          "items": []
+        },
+        {
+          "title": "AI App Building NEW Enable teams to build custom business apps—no code needed",
+          "url": "https://www.airtable.com/platform/app-building",
+          "items": []
+        },
+        {
+          "title": "AI Agents NEW Deploy thousands of agents inside your apps",
+          "url": "https://www.airtable.com/platform/ai-agents",
+          "items": []
+        },
+        {
+          "title": "Portals Collaborate seamlessly with guest users outside your organization",
+          "url": "https://www.airtable.com/platform/portals",
+          "items": []
+        },
+        {
+          "title": "Scale Build apps on top of massive data sets with 100M records",
+          "url": "https://www.airtable.com/platform/hyperdb",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "More money, fewer problems",
+      "items": [
+        {
+          "title": "ProductCentral Unify your product development cycle with Airtable's new end-to-end solution",
+          "url": "https://www.airtable.com/solutions/product",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Navigation Menu",
+      "items": [
+        {
+          "title": "AI Plays NEW Accelerate, automate, and enhance workflows using Omni and Field Agents",
+          "url": "https://www.airtable.com/ai-plays",
+          "items": []
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.airtable.com/articles",
+          "items": []
+        },
+        {
+          "title": "Customer Stories",
+          "url": "https://www.airtable.com/customer-stories",
+          "items": []
+        },
+        {
+          "title": "Builders & Breakthroughs NEW",
+          "url": "https://www.airtable.com/breakthroughs",
+          "items": []
+        },
+        {
+          "title": "Videos",
+          "url": "https://www.airtable.com/videos",
+          "items": []
+        },
+        {
+          "title": "Events",
+          "url": "https://www.airtable.com/events-webinars",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Navigation Menu",
+      "items": [
+        {
+          "title": "Airtable Academy",
+          "url": "https://academy.airtable.com/",
+          "items": []
+        },
+        {
+          "title": "Airtable Community",
+          "url": "https://community.airtable.com/",
+          "items": []
+        },
+        {
+          "title": "How-to guides",
+          "url": "https://www.airtable.com/guides",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Footer navigation",
+      "items": [
+        {
+          "title": "Platform",
+          "url": "https://www.airtable.com/platform",
+          "items": []
+        },
+        {
+          "title": "Solutions",
+          "url": "https://www.airtable.com/solutions",
+          "items": []
+        },
+        {
+          "title": "Resources",
+          "url": "https://www.airtable.com/lp/resources",
+          "items": []
+        },
+        {
+          "title": "Enterprise",
+          "url": "https://www.airtable.com/solutions/enterprise",
+          "items": []
+        },
+        {
+          "title": "Pricing",
+          "url": "https://www.airtable.com/pricing",
+          "items": []
+        },
+        {
+          "title": "Book Demo",
+          "url": "https://www.airtable.com/contact-sales",
+          "items": []
+        }
+      ]
+    }
+  ],
+  "notes": "HTML-based navigation with hierarchy detection"
+}

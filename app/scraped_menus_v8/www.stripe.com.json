@@ -1,0 +1,462 @@
+{
+  "website": "https://www.stripe.com",
+  "domain": "www.stripe.com",
+  "scraped_at": "2025-11-07T19:00:00.000000",
+  "menus": [
+    {
+      "title": "Main Menu",
+      "items": [
+        {
+          "title": "Stripe logo",
+          "url": "https://stripe.com/",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Pricing",
+          "url": "https://stripe.com/pricing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Contact sales",
+          "url": "https://stripe.com/contact/sales",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Open mobile navigation",
+          "url": "https://stripe.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Sign in",
+          "url": "https://dashboard.stripe.com/login",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Payments Payments Online payments",
+          "url": "https://stripe.com/payments",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Payment Links No-code payments",
+          "url": "https://stripe.com/payments/payment-links",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Checkout Prebuilt payment form",
+          "url": "https://stripe.com/payments/checkout",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Elements Flexible UI components",
+          "url": "https://stripe.com/payments/elements",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Terminal Terminal In-person payments",
+          "url": "https://stripe.com/terminal",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Radar Radar Fraud prevention",
+          "url": "https://stripe.com/radar",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Authorization Boost Authorization Boost Acceptance optimizations",
+          "url": "https://stripe.com/authorization-boost",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Connect Connect Payments for platforms",
+          "url": "https://stripe.com/connect",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Financial Accounts Financial Accounts Manage business finances",
+          "url": "https://stripe.com/financial-accounts",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Issuing Issuing Physical and virtual cards",
+          "url": "https://stripe.com/issuing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Payouts Global Payouts Send money to third parties",
+          "url": "https://stripe.com/payouts",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Capital Capital for platforms Customer financing",
+          "url": "https://stripe.com/capital/platforms",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Billing Billing Subscription management",
+          "url": "https://stripe.com/billing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Usage-based Metered billing",
+          "url": "https://stripe.com/billing/usage-based-billing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Invoicing One-time or recurring",
+          "url": "https://stripe.com/invoicing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Tax Tax Sales tax & VAT automation",
+          "url": "https://stripe.com/tax",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Revenue Recognition Revenue Recognition Accounting automation",
+          "url": "https://stripe.com/revenue-recognition",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Stripe Sigma Stripe Sigma Custom reports",
+          "url": "https://stripe.com/sigma",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Data Pipeline Data sync",
+          "url": "https://stripe.com/data-pipeline",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Payment methods Access to 100+ globally",
+          "url": "https://stripe.com/payments/payment-methods",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Link Accelerated checkout",
+          "url": "https://stripe.com/payments/link",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Financial Connections Linked financial account data",
+          "url": "https://stripe.com/financial-connections",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Identity Online identity verification",
+          "url": "https://stripe.com/identity",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Atlas Startup incorporation",
+          "url": "https://stripe.com/atlas",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Enterprises",
+          "url": "https://stripe.com/enterprise",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Startups",
+          "url": "https://stripe.com/startups",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Crypto",
+          "url": "https://stripe.com/use-cases/crypto",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Ecommerce",
+          "url": "https://stripe.com/use-cases/ecommerce",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Embedded finance",
+          "url": "https://stripe.com/use-cases/embedded-finance",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Finance automation",
+          "url": "https://stripe.com/use-cases/finance-automation",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Global businesses",
+          "url": "https://stripe.com/use-cases/global-businesses",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Marketplaces",
+          "url": "https://stripe.com/use-cases/marketplaces",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Platforms",
+          "url": "https://stripe.com/use-cases/platforms",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "SaaS",
+          "url": "https://stripe.com/use-cases/saas",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "AI companies",
+          "url": "https://stripe.com/use-cases/ai",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Creator economy",
+          "url": "https://stripe.com/use-cases/creator-economy",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Hospitality, travel, and leisure",
+          "url": "https://stripe.com/industries/travel",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Insurance",
+          "url": "https://stripe.com/industries/insurance",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Media and entertainment",
+          "url": "https://stripe.com/industries/media-entertainment",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Nonprofits",
+          "url": "https://stripe.com/industries/nonprofits",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Retail",
+          "url": "https://stripe.com/industries/retail",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Stripe App Marketplace",
+          "url": "https://marketplace.stripe.com/",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Partners",
+          "url": "https://stripe.com/partners",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Documentation",
+          "url": "https://docs.stripe.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "API reference",
+          "url": "https://docs.stripe.com/api",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Libraries and SDKs",
+          "url": "https://docs.stripe.com/development",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "App integrations",
+          "url": "https://marketplace.stripe.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Accept online payments",
+          "url": "https://docs.stripe.com/payments",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Implement a prebuilt checkout",
+          "url": "https://docs.stripe.com/payments/checkout",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Build a platform or marketplace",
+          "url": "https://docs.stripe.com/connect",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "API status",
+          "url": "https://status.stripe.com/",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Developer blog",
+          "url": "https://stripe.dev/",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Support center",
+          "url": "https://support.stripe.com/?referrerLocale=en-us",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Managed support plans",
+          "url": "https://stripe.com/support-plans",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Professional services",
+          "url": "https://stripe.com/professional-services",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Blog",
+          "url": "https://stripe.com/blog",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Customer stories",
+          "url": "https://stripe.com/customers",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Guides",
+          "url": "https://stripe.com/guides",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Sessions conference",
+          "url": "https://stripe.com/sessions",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Jobs",
+          "url": "https://stripe.com/jobs",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Newsroom",
+          "url": "https://stripe.com/newsroom",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Stripe Press",
+          "url": "https://press.stripe.com/",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Become a partner",
+          "url": "https://stripe.com/partners/become-a-partner",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Start now",
+          "url": "https://stripe.com/register",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Climate Carbon removal",
+          "url": "https://stripe.com/climate",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Code samples",
+          "url": "https://github.com/stripe-samples",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Stripe Apps",
+          "url": "https://stripe.com/apps",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Set up in-person payments",
+          "url": "https://docs.stripe.com/terminal",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Manage subscriptions",
+          "url": "https://docs.stripe.com/billing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Offer usage-based billing",
+          "url": " https://docs.stripe.com/billing/subscriptions/usage-based ",
+          "parent_id": null,
+          "items": []
+        }
+      ]
+    }
+  ]
+}

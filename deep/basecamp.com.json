@@ -1,0 +1,42 @@
+{
+  "website": "https://basecamp.com",
+  "domain": "basecamp.com",
+  "scraped_at": "2025-11-08 12:33:11",
+  "menus": [
+    {
+      "menu_name": "Navigation",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Basecamp",
+              "description": "",
+              "url": "https://basecamp.com/"
+            },
+            {
+              "title": "Real world results",
+              "description": "",
+              "url": "https://basecamp.com/customers"
+            },
+            {
+              "title": "Features",
+              "description": "",
+              "url": "https://basecamp.com/#features"
+            },
+            {
+              "title": "Paths",
+              "description": "",
+              "url": "https://basecamp.com/paths"
+            },
+            {
+              "title": "Pricing",
+              "description": "",
+              "url": "https://basecamp.com/pricing"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "website": "https://www.cloudflare.com",
+  "domain": "www.cloudflare.com",
+  "scraped_at": "2025-11-07T16:00:50.883402",
+  "menus": [
+    {
+      "title": "Main Navigation",
+      "items": [
+        {
+          "title": "Cloudflare’s connectivity cloud delivers 60+ networking, security, and performance services.",
+          "url": "https://www.cloudflare.com/connectivity-cloud/",
+          "items": [
+            {
+              "title": "Workspace security",
+              "url": "https://www.cloudflare.com/zero-trust/products/",
+              "items": [
+                {
+                  "title": "Buy and manage domains",
+                  "url": "https://www.cloudflare.com/products/registrar/",
+                  "items": [
+                    {
+                      "title": "Resources",
+                      "url": "https://www.cloudflare.com/resource-center/"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Documentation and guides",
+              "url": "https://developers.cloudflare.com/",
+              "items": [
+                {
+                  "title": "Customer stories",
+                  "url": "https://www.cloudflare.com/case-studies/?usecase=Deploy+custom+code+at+the+Edge"
+                }
+              ]
+            },
+            {
+              "title": "Grow, innovate and meet customer needs with Cloudflare",
+              "url": "https://www.cloudflare.com/partners/",
+              "items": [
+                {
+                  "title": "Manage Self-Serve Accounts for your clients",
+                  "url": "https://www.cloudflare.com/cloudflare-partners-self-serve-program-open-beta/"
+                }
+              ]
+            },
+            {
+              "title": "On-demand product demos",
+              "url": "https://www.cloudflare.com/product-demos/",
+              "items": [
+                {
+                  "title": "Industry research reports",
+                  "url": "https://www.cloudflare.com/analysts/"
+                }
+              ]
+            },
+            {
+              "title": "Meet our leaders",
+              "url": "https://cloudflare.net/governance/leadership/default.aspx",
+              "items": [
+                {
+                  "title": "Global locations and status",
+                  "url": "https://www.cloudflare.com/network/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

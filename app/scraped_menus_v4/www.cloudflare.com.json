@@ -1,0 +1,42 @@
+{
+  "website": "https://www.cloudflare.com",
+  "domain": "www.cloudflare.com",
+  "scraped_at": "2025-11-07T16:27:13.354207",
+  "menus": [
+    {
+      "title": "Free Section",
+      "items": [
+        {
+          "title": "Free plans",
+          "url": "https://www.cloudflare.com/personal/",
+          "items": []
+        },
+        {
+          "title": "Small business plans",
+          "url": "https://www.cloudflare.com/small-business/",
+          "items": []
+        },
+        {
+          "title": "For enterprises",
+          "url": "https://www.cloudflare.com/enterprise/",
+          "items": []
+        },
+        {
+          "title": "Get a recommendation",
+          "url": "https://www.cloudflare.com/about-your-website/",
+          "items": []
+        },
+        {
+          "title": "Request a demo",
+          "url": "https://www.cloudflare.com/plans/enterprise/demo/",
+          "items": []
+        },
+        {
+          "title": "Contact sales",
+          "url": "https://www.cloudflare.com/plans/enterprise/contact/",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

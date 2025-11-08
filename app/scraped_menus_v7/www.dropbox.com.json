@@ -1,0 +1,252 @@
+{
+  "website": "https://www.dropbox.com",
+  "domain": "www.dropbox.com",
+  "scraped_at": "2025-11-07T18:00:00.000000",
+  "menus": [
+    {
+      "title": "Menu-div-N/A",
+      "items": [
+        {
+          "title": "Desktop app",
+          "url": "https://www.dropbox.com/desktop",
+          "items": []
+        },
+        {
+          "title": "Mobile app",
+          "url": "https://www.dropbox.com/mobile?trigger=on",
+          "items": []
+        },
+        {
+          "title": "Integrations",
+          "url": "https://www.dropbox.com/app-integrations",
+          "items": []
+        },
+        {
+          "title": "Features",
+          "url": "https://www.dropbox.com/features",
+          "items": []
+        },
+        {
+          "title": "Solutions",
+          "url": "https://www.dropbox.com/business/solutions",
+          "items": []
+        },
+        {
+          "title": "Security",
+          "url": "https://www.dropbox.com/features/security",
+          "items": []
+        },
+        {
+          "title": "Early access",
+          "url": "https://www.dropbox.com/early-access",
+          "items": []
+        },
+        {
+          "title": "Templates",
+          "url": "https://www.dropbox.com/templates",
+          "items": []
+        },
+        {
+          "title": "Free tools",
+          "url": "https://www.dropbox.com/tools",
+          "items": []
+        },
+        {
+          "title": "Plus",
+          "url": "https://www.dropbox.com/plus",
+          "items": []
+        },
+        {
+          "title": "Professional",
+          "url": "https://www.dropbox.com/pro",
+          "items": []
+        },
+        {
+          "title": "Business",
+          "url": "https://www.dropbox.com/business",
+          "items": []
+        },
+        {
+          "title": "Enterprise",
+          "url": "https://www.dropbox.com/enterprise",
+          "items": []
+        },
+        {
+          "title": "Dash",
+          "url": "https://dash.dropbox.com",
+          "items": []
+        },
+        {
+          "title": "Reclaim.ai",
+          "url": "https://app.reclaim.ai/signup?utm_medium=referral&utm_source=dbx-footer-referral&utm_campaign=dbx-footer-signup&utm_term=dbx-footer",
+          "items": []
+        },
+        {
+          "title": "Dropbox Sign",
+          "url": "https://sign.dropbox.com/",
+          "items": []
+        },
+        {
+          "title": "DocSend",
+          "url": "https://www.docsend.com/?utm_medium=Referral&utm_source=Dropbox%20Web%20Referral&utm_campaign=dbx-footer",
+          "items": []
+        },
+        {
+          "title": "Plans",
+          "url": "https://www.dropbox.com/plans?trigger=nr",
+          "items": []
+        },
+        {
+          "title": "Product updates",
+          "url": "https://www.dropbox.com/product-updates",
+          "items": []
+        },
+        {
+          "title": "Send large files",
+          "url": "https://www.dropbox.com/features/share/send-large-files",
+          "items": []
+        },
+        {
+          "title": "Send long videos",
+          "url": "https://www.dropbox.com/features/share/send-long-videos",
+          "items": []
+        },
+        {
+          "title": "Cloud photo storage",
+          "url": "https://www.dropbox.com/features/cloud-storage/photos",
+          "items": []
+        },
+        {
+          "title": "Secure file transfer",
+          "url": "https://www.dropbox.com/features/share/file-transfer",
+          "items": []
+        },
+        {
+          "title": "Cloud backup",
+          "url": "https://www.dropbox.com/features/cloud-storage/file-backup",
+          "items": []
+        },
+        {
+          "title": "Edit PDFs",
+          "url": "https://www.dropbox.com/features/productivity/pdf-editor",
+          "items": []
+        },
+        {
+          "title": "Electronic signatures",
+          "url": "https://www.dropbox.com/features/productivity/electronic-signature",
+          "items": []
+        },
+        {
+          "title": "Convert to PDF",
+          "url": "https://www.dropbox.com/features/productivity/convert-to-pdf",
+          "items": []
+        },
+        {
+          "title": "Help center",
+          "url": "https://help.dropbox.com/",
+          "items": []
+        },
+        {
+          "title": "Contact us",
+          "url": "https://www.dropbox.com/contact",
+          "items": []
+        },
+        {
+          "title": "Privacy & terms",
+          "url": "https://www.dropbox.com/terms",
+          "items": []
+        },
+        {
+          "title": "Cookie policy",
+          "url": "https://help.dropbox.com/accounts-billing/security/cookies",
+          "items": []
+        },
+        {
+          "title": "Cookies & CCPA preferences",
+          "url": "https://www.dropbox.com/#manage-cookies",
+          "items": []
+        },
+        {
+          "title": "AI principles",
+          "url": "https://www.dropbox.com/ai-principles",
+          "items": []
+        },
+        {
+          "title": "Sitemap",
+          "url": "https://experience.dropbox.com/sitemap",
+          "items": []
+        },
+        {
+          "title": "Learning resources",
+          "url": "https://learn.dropbox.com",
+          "items": []
+        },
+        {
+          "title": "Blog",
+          "url": "https://blog.dropbox.com/",
+          "items": []
+        },
+        {
+          "title": "Events",
+          "url": "https://events.dropbox.com",
+          "items": []
+        },
+        {
+          "title": "Customer stories",
+          "url": "https://www.dropbox.com/customers",
+          "items": []
+        },
+        {
+          "title": "Resources library",
+          "url": "https://www.dropbox.com/resources",
+          "items": []
+        },
+        {
+          "title": "Developers",
+          "url": "https://www.dropbox.com/developers",
+          "items": []
+        },
+        {
+          "title": "Community forums",
+          "url": "https://www.dropboxforum.com/",
+          "items": []
+        },
+        {
+          "title": "Referrals",
+          "url": "https://www.dropbox.com/refer",
+          "items": []
+        },
+        {
+          "title": "Reseller partners",
+          "url": "https://www.dropbox.com/business/partners",
+          "items": []
+        },
+        {
+          "title": "Find a partner",
+          "url": "https://experience.dropbox.com/partner-locator",
+          "items": []
+        },
+        {
+          "title": "About us",
+          "url": "https://www.dropbox.com/about",
+          "items": []
+        },
+        {
+          "title": "Jobs",
+          "url": "https://jobs.dropbox.com",
+          "items": []
+        },
+        {
+          "title": "Investor relations",
+          "url": "https://dropbox.gcs-web.com/",
+          "items": []
+        },
+        {
+          "title": "Our impact",
+          "url": "https://www.dropbox.com/impact",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

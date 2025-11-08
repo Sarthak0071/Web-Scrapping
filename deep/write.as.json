@@ -1,0 +1,77 @@
+{
+  "website": "https://write.as",
+  "domain": "write.as",
+  "scraped_at": "2025-11-08 12:36:54",
+  "menus": [
+    {
+      "menu_name": "Navigation",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Start a blog",
+              "description": "",
+              "url": "https://write.as/start"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Studio",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Snap.asShare beautifully simple photos and galleries.",
+              "description": "",
+              "url": "https://snap.as"
+            },
+            {
+              "title": "Submit.asAccept writing submissions, no signup required.",
+              "description": "",
+              "url": "https://submit.as"
+            },
+            {
+              "title": "Remark.asStart a conversation around your blog.",
+              "description": "",
+              "url": "https://remark.as"
+            },
+            {
+              "title": "Musing Studio",
+              "description": "",
+              "url": "https://musing.studio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Navigation",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "About",
+              "description": "",
+              "url": "https://write.as/about"
+            },
+            {
+              "title": "Pricing",
+              "description": "",
+              "url": "https://write.as/pricing"
+            },
+            {
+              "title": "Read",
+              "description": "",
+              "url": "https://read.write.as"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

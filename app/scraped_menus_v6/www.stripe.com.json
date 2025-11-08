@@ -1,0 +1,17 @@
+{
+  "website": "https://www.stripe.com",
+  "domain": "www.stripe.com",
+  "scraped_at": "2025-11-07T17:00:00.000000",
+  "menus": [
+    {
+      "title": "Stripe logo",
+      "items": [
+        {
+          "title": "Pricing",
+          "url": "https://stripe.com/pricing",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "website": "https://www.twilio.com",
+  "domain": "www.twilio.com",
+  "scraped_at": "2025-11-07 15:09:38",
+  "menus": [
+    {
+      "menu_name": "English",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "An icon of a checkmark",
+              "description": "",
+              "url": "https://www.twilio.com/en-us"
+            },
+            {
+              "title": "French",
+              "description": "",
+              "url": "https://www.twilio.com/fr-fr"
+            },
+            {
+              "title": "German",
+              "description": "",
+              "url": "https://www.twilio.com/de-de"
+            },
+            {
+              "title": "Japanese",
+              "description": "",
+              "url": "https://www.twilio.com/ja-jp"
+            },
+            {
+              "title": "Portuguese",
+              "description": "",
+              "url": "https://www.twilio.com/pt-br"
+            },
+            {
+              "title": "Spanish",
+              "description": "",
+              "url": "https://www.twilio.com/es-mx"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

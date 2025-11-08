@@ -1,0 +1,22 @@
+{
+  "website": "https://www.monday.com",
+  "domain": "www.monday.com",
+  "scraped_at": "2025-11-07T16:11:29.834996",
+  "menus": [
+    {
+      "title": "Main Navigation",
+      "items": [
+        {
+          "title": "Enterprise",
+          "url": "https://www.monday.com/w/enterprise",
+          "items": []
+        },
+        {
+          "title": "Pricing",
+          "url": "https://www.monday.com/pricing",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "website": "https://www.cloudflare.com",
+  "domain": "www.cloudflare.com",
+  "scraped_at": "2025-11-07T18:00:00.000000",
+  "menus": [
+    {
+      "title": "Menu-div-N/A",
+      "items": [
+        {
+          "title": "Free plans",
+          "url": "https://www.cloudflare.com/personal/",
+          "items": []
+        },
+        {
+          "title": "Small business plans",
+          "url": "https://www.cloudflare.com/small-business/",
+          "items": []
+        },
+        {
+          "title": "For enterprises",
+          "url": "https://www.cloudflare.com/enterprise/",
+          "items": []
+        },
+        {
+          "title": "Get a recommendation",
+          "url": "https://www.cloudflare.com/about-your-website/",
+          "items": []
+        },
+        {
+          "title": "Request a demo",
+          "url": "https://www.cloudflare.com/plans/enterprise/demo/",
+          "items": []
+        },
+        {
+          "title": "Contact sales",
+          "url": "https://www.cloudflare.com/plans/enterprise/contact/",
+          "items": []
+        },
+        {
+          "title": "Connectivity cloud",
+          "url": "https://www.cloudflare.com/connectivity-cloud/",
+          "items": []
+        },
+        {
+          "title": "Application services",
+          "url": "https://www.cloudflare.com/application-services/",
+          "items": []
+        },
+        {
+          "title": "SASE and workspace security",
+          "url": "https://www.cloudflare.com/zero-trust/",
+          "items": []
+        },
+        {
+          "title": "Network services",
+          "url": "https://www.cloudflare.com/network-services/",
+          "items": []
+        },
+        {
+          "title": "Developer platform",
+          "url": "https://www.cloudflare.com/developer-platform/",
+          "items": []
+        },
+        {
+          "title": "Help center",
+          "url": "https://support.cloudflare.com",
+          "items": []
+        },
+        {
+          "title": "Customer support",
+          "url": "https://dash.cloudflare.com/?to=/:account/support",
+          "items": []
+        },
+        {
+          "title": "Community forum",
+          "url": "https://community.cloudflare.com/",
+          "items": []
+        },
+        {
+          "title": "Developers Discord",
+          "url": "https://discord.com/invite/cloudflaredev",
+          "items": []
+        },
+        {
+          "title": "Lost account access?",
+          "url": "https://developers.cloudflare.com/support/account-management-billing/common-account-questions/login-and-account-issues/",
+          "items": []
+        },
+        {
+          "title": "Cloudflare status",
+          "url": "https://cloudflarestatus.com",
+          "items": []
+        },
+        {
+          "title": "Compliance resources",
+          "url": "https://www.cloudflare.com/trust-hub/compliance-resources/",
+          "items": []
+        },
+        {
+          "title": "Trust",
+          "url": "https://www.cloudflare.com/trust-hub/",
+          "items": []
+        },
+        {
+          "title": "GDPR",
+          "url": "https://www.cloudflare.com/trust-hub/gdpr/",
+          "items": []
+        },
+        {
+          "title": "Responsible AI",
+          "url": "https://www.cloudflare.com/trust-hub/responsible-ai/",
+          "items": []
+        },
+        {
+          "title": "Transparency report",
+          "url": "https://www.cloudflare.com/transparency/",
+          "items": []
+        },
+        {
+          "title": "Report abuse",
+          "url": "https://www.cloudflare.com/trust-hub/abuse-approach/",
+          "items": []
+        },
+        {
+          "title": "About Cloudflare",
+          "url": "https://www.cloudflare.com/about-overview/",
+          "items": []
+        },
+        {
+          "title": "Network map",
+          "url": "https://www.cloudflare.com/network/",
+          "items": []
+        },
+        {
+          "title": "Our team",
+          "url": "https://www.cloudflare.com/people/",
+          "items": []
+        },
+        {
+          "title": "Logos & press kit",
+          "url": "https://www.cloudflare.com/press-kit/",
+          "items": []
+        },
+        {
+          "title": "Diversity, equity, & inclusion",
+          "url": "https://www.cloudflare.com/diversity-equity-and-inclusion/",
+          "items": []
+        },
+        {
+          "title": "Impact/ESG",
+          "url": "https://www.cloudflare.com/impact/",
+          "items": []
+        },
+        {
+          "title": "Privacy policy",
+          "url": "https://www.cloudflare.com/privacypolicy/",
+          "items": []
+        },
+        {
+          "title": "Terms of use",
+          "url": "https://www.cloudflare.com/website-terms/",
+          "items": []
+        },
+        {
+          "title": "Report security issues",
+          "url": "https://www.cloudflare.com/disclosure/",
+          "items": []
+        },
+        {
+          "title": "Trademark",
+          "url": "https://www.cloudflare.com/trademark/",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "website": "https://www.stripe.com",
+  "domain": "www.stripe.com",
+  "scraped_at": "2025-11-07T16:11:13.559818",
+  "menus": [
+    {
+      "title": "Main Navigation",
+      "items": [
+        {
+          "title": "Pricing",
+          "url": "https://www.stripe.com/pricing",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "website": "https://www.hubspot.com",
+  "domain": "www.hubspot.com",
+  "scraped_at": "2025-11-07T16:11:38.670805",
+  "menus": [
+    {
+      "title": "Main Navigation",
+      "items": [
+        {
+          "title": "日本語",
+          "url": "https://www.hubspot.jp",
+          "items": [
+            {
+              "title": "日本語",
+              "url": "https://www.hubspot.jp",
+              "items": []
+            },
+            {
+              "title": "Deutsch",
+              "url": "https://www.hubspot.de",
+              "items": []
+            },
+            {
+              "title": "English",
+              "url": "https://www.hubspot.com",
+              "items": []
+            },
+            {
+              "title": "Español",
+              "url": "https://www.hubspot.es",
+              "items": []
+            },
+            {
+              "title": "Português",
+              "url": "https://br.hubspot.com",
+              "items": []
+            },
+            {
+              "title": "Français",
+              "url": "https://www.hubspot.fr",
+              "items": []
+            }
+          ]
+        },
+        {
+          "title": "Deutsch",
+          "url": "https://www.hubspot.de",
+          "items": [
+            {
+              "title": "English",
+              "url": "https://www.hubspot.com",
+              "items": []
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "url": "https://www.hubspot.com",
+          "items": [
+            {
+              "title": "Español",
+              "url": "https://www.hubspot.es",
+              "items": []
+            }
+          ]
+        },
+        {
+          "title": "Español",
+          "url": "https://www.hubspot.es",
+          "items": [
+            {
+              "title": "Português",
+              "url": "https://br.hubspot.com",
+              "items": []
+            }
+          ]
+        },
+        {
+          "title": "Português",
+          "url": "https://br.hubspot.com",
+          "items": [
+            {
+              "title": "Français",
+              "url": "https://www.hubspot.fr",
+              "items": []
+            }
+          ]
+        },
+        {
+          "title": "Français",
+          "url": "https://www.hubspot.fr",
+          "items": []
+        },
+        {
+          "title": "About Us",
+          "url": "https://www.hubspot.com//www.hubspot.com/our-story",
+          "items": []
+        },
+        {
+          "title": "Investor Relations",
+          "url": "https://www.hubspot.com//ir.hubspot.com",
+          "items": [
+            {
+              "title": "Management Team",
+              "url": "https://www.hubspot.com//www.hubspot.com/company/management",
+              "items": []
+            }
+          ]
+        },
+        {
+          "title": "Management Team",
+          "url": "https://www.hubspot.com//www.hubspot.com/company/management",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

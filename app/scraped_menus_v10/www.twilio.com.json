@@ -1,0 +1,28 @@
+{
+  "website": "https://www.twilio.com",
+  "domain": "www.twilio.com",
+  "scraped_at": "2025-11-07T21:00:00.000000",
+  "menus": [
+    {
+      "title": "Navigation Menu",
+      "items": [
+        {
+          "title": "Customer Engagement Platform An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/customer-engagement-platform",
+          "items": []
+        },
+        {
+          "title": "Communications An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/cpaas",
+          "items": []
+        },
+        {
+          "title": "Customer Data An icon of a right chevron",
+          "url": "https://www.twilio.com/en-us/customer-data-platform",
+          "items": []
+        }
+      ]
+    }
+  ],
+  "notes": "HTML-based navigation with hierarchy detection"
+}

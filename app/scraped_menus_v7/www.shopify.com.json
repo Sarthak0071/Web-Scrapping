@@ -1,0 +1,202 @@
+{
+  "website": "https://www.shopify.com",
+  "domain": "www.shopify.com",
+  "scraped_at": "2025-11-07T18:00:00.000000",
+  "menus": [
+    {
+      "title": "Shopify",
+      "items": [
+        {
+          "title": "About",
+          "url": "https://www.shopify.com/about",
+          "items": []
+        },
+        {
+          "title": "Careers",
+          "url": "https://www.shopify.com/careers",
+          "items": []
+        },
+        {
+          "title": "Investors",
+          "url": "https://shopifyinvestors.com/home/default.aspx",
+          "items": []
+        },
+        {
+          "title": "Press and Media",
+          "url": "https://www.shopify.com/news",
+          "items": []
+        },
+        {
+          "title": "Partners",
+          "url": "https://www.shopify.com/partners",
+          "items": []
+        },
+        {
+          "title": "Affiliates",
+          "url": "https://www.shopify.com/affiliates",
+          "items": []
+        },
+        {
+          "title": "Legal",
+          "url": "https://www.shopify.com/legal",
+          "items": []
+        },
+        {
+          "title": "Service status",
+          "url": "https://www.shopifystatus.com/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Support",
+      "items": [
+        {
+          "title": "Merchant Support",
+          "url": "https://help.shopify.com/en/questions",
+          "items": []
+        },
+        {
+          "title": "Shopify Help Center",
+          "url": "https://help.shopify.com/en/",
+          "items": []
+        },
+        {
+          "title": "Hire a Partner",
+          "url": "https://www.shopify.com/partners/directory",
+          "items": []
+        },
+        {
+          "title": "Shopify Academy",
+          "url": "https://www.shopifyacademy.com/?itcat=brochure&itterm=global-footer",
+          "items": []
+        },
+        {
+          "title": "Shopify Community",
+          "url": "https://community.shopify.com/?utm_campaign=footer&utm_content=en&utm_medium=web&utm_source=shopify",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Developers",
+      "items": [
+        {
+          "title": "Shopify.dev",
+          "url": "https://shopify.dev",
+          "items": []
+        },
+        {
+          "title": "API Documentation",
+          "url": "https://shopify.dev/api",
+          "items": []
+        },
+        {
+          "title": "Dev Degree",
+          "url": "https://devdegree.ca",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Products",
+      "items": [
+        {
+          "title": "Shop",
+          "url": "https://shop.app",
+          "items": []
+        },
+        {
+          "title": "Shop Pay",
+          "url": "https://www.shopify.com/shop-pay",
+          "items": []
+        },
+        {
+          "title": "Shopify Plus",
+          "url": "https://www.shopify.com/plus",
+          "items": []
+        },
+        {
+          "title": "Shopify Fulfillment Network",
+          "url": "https://www.shopify.com/fulfillment",
+          "items": []
+        },
+        {
+          "title": "Shopify for Enterprise",
+          "url": "https://www.shopify.com/enterprise",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Global Impact",
+      "items": [
+        {
+          "title": "Sustainability",
+          "url": "https://www.shopify.com/climate",
+          "items": []
+        },
+        {
+          "title": "Build Black",
+          "url": "https://operationhope.org/initiatives/1-million-black-businesses/",
+          "items": []
+        },
+        {
+          "title": "Accessibility",
+          "url": "https://www.shopify.com/accessibility",
+          "items": []
+        },
+        {
+          "title": "Research",
+          "url": "https://www.shopify.com/plus/commerce-trends",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Solutions",
+      "items": [
+        {
+          "title": "Online Store Builder",
+          "url": "https://www.shopify.com/online",
+          "items": []
+        },
+        {
+          "title": "Website Builder",
+          "url": "https://www.shopify.com/website/builder",
+          "items": []
+        },
+        {
+          "title": "Ecommerce Website",
+          "url": "https://www.shopify.com/tour/ecommerce-website",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Choose a region & language",
+      "items": [
+        {
+          "title": "Terms of service",
+          "url": "https://www.shopify.com/legal/terms",
+          "items": []
+        },
+        {
+          "title": "Privacy policy",
+          "url": "https://www.shopify.com/legal/privacy",
+          "items": []
+        },
+        {
+          "title": "Sitemap",
+          "url": "https://www.shopify.com/sitemap",
+          "items": []
+        },
+        {
+          "title": "Privacy Choices",
+          "url": "https://privacy.shopify.com/en",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "website": "https://www.wordpress.com",
+  "domain": "www.wordpress.com",
+  "scraped_at": "2025-11-07T16:08:59.654228",
+  "menus": [
+    {
+      "title": "Main Navigation",
+      "items": [
+        {
+          "title": "Products",
+          "url": "#",
+          "items": [
+            {
+              "title": "Get started",
+              "url": "https://wordpress.com/setup/onboarding/?ref=logged-out-homepage-lp",
+              "items": []
+            }
+          ]
+        },
+        {
+          "title": "Features",
+          "url": "#",
+          "items": [
+            {
+              "title": "Get started",
+              "url": "https://wordpress.com/setup/onboarding/?ref=logged-out-homepage-lp",
+              "items": []
+            }
+          ]
+        },
+        {
+          "title": "Resources",
+          "url": "#",
+          "items": [
+            {
+              "title": "Get started",
+              "url": "https://wordpress.com/setup/onboarding/?ref=logged-out-homepage-lp",
+              "items": []
+            }
+          ]
+        },
+        {
+          "title": "Menu",
+          "url": "#",
+          "items": [
+            {
+              "title": "WordPress Hosting",
+              "url": "https://wordpress.com/hosting/",
+              "items": []
+            },
+            {
+              "title": "WordPress for Agencies",
+              "url": "https://wordpress.com/for-agencies/",
+              "items": []
+            },
+            {
+              "title": "Become an Affiliate",
+              "url": "https://wordpress.com/affiliates/",
+              "items": []
+            },
+            {
+              "title": "Domain Names",
+              "url": "https://wordpress.com/domains/",
+              "items": []
+            },
+            {
+              "title": "AI Website Builder",
+              "url": "https://wordpress.com/ai-website-builder/?ref=topnav",
+              "items": []
+            },
+            {
+              "title": "Website Builder",
+              "url": "https://wordpress.com/website-builder/",
+              "items": []
+            },
+            {
+              "title": "Create a Blog",
+              "url": "https://wordpress.com/create-blog/",
+              "items": []
+            },
+            {
+              "title": "Newsletter",
+              "url": "https://wordpress.com/newsletter/",
+              "items": []
+            },
+            {
+              "title": "Professional Email",
+              "url": "https://wordpress.com/professional-email/",
+              "items": []
+            },
+            {
+              "title": "Website Design Services",
+              "url": "https://wordpress.com/website-design-service/",
+              "items": []
+            },
+            {
+              "title": "Commerce",
+              "url": "https://wordpress.com/ecommerce/",
+              "items": []
+            },
+            {
+              "title": "WordPress Studio",
+              "url": "https://developer.wordpress.com/studio/",
+              "items": []
+            },
+            {
+              "title": "Enterprise WordPress",
+              "url": "https://wpvip.com/wordpress-vip-agile-content-platform?utm_source=WordPresscom&utm_medium=automattic_referral&utm_campaign=top_nav",
+              "items": []
+            }
+          ]
+        },
+        {
+          "title": "Plans & Pricing",
+          "url": "https://wordpress.com/pricing/",
+          "items": []
+        },
+        {
+          "title": "Get started",
+          "url": "https://wordpress.com/setup/onboarding/?ref=logged-out-homepage-lp",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

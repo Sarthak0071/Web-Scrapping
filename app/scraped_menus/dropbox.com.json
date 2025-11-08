@@ -1,0 +1,16 @@
+{
+  "website": "https://www.dropbox.com",
+  "domain": "www.dropbox.com",
+  "scraped_at": "2025-11-07T16:00:33.782096",
+  "menus": [
+    {
+      "title": "Main Navigation",
+      "items": [
+        {
+          "title": "Dropbox",
+          "url": "https://www.dropbox.com/dropbox"
+        }
+      ]
+    }
+  ]
+}

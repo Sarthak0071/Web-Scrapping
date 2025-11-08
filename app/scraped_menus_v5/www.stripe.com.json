@@ -1,0 +1,57 @@
+{
+  "website": "https://www.stripe.com",
+  "domain": "www.stripe.com",
+  "scraped_at": "2025-11-07T16:27:13.354207",
+  "menus": [
+    {
+      "title": "Pricing Menu",
+      "items": [
+        {
+          "title": "Pricing",
+          "url": "https://stripe.com/pricing",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Pricing Menu",
+      "items": [
+        {
+          "title": "Pricing",
+          "url": "https://stripe.com/pricing",
+          "items": []
+        },
+        {
+          "title": "Sign in",
+          "url": "https://dashboard.stripe.com/login",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "API status Menu",
+      "items": [
+        {
+          "title": "API status",
+          "url": "https://status.stripe.com/",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Jobs Menu",
+      "items": [
+        {
+          "title": "Jobs",
+          "url": "https://stripe.com/jobs",
+          "items": []
+        },
+        {
+          "title": "Newsroom",
+          "url": "https://stripe.com/newsroom",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

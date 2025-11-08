@@ -1,0 +1,192 @@
+{
+  "website": "https://www.dropbox.com",
+  "domain": "www.dropbox.com",
+  "scraped_at": "2025-11-07T19:00:00.000000",
+  "menus": [
+    {
+      "title": "Main Menu",
+      "items": [
+        {
+          "title": "Dropbox Store, share, and access files across devices",
+          "url": "https://www.dropbox.com/dropbox",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Replay Review and approve videos faster",
+          "url": "https://www.dropbox.com/replay",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Backup Automatically back up your devices",
+          "url": "https://www.dropbox.com/backup",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Reclaim.ai Schedule habits, tasks, and meetings with AI",
+          "url": "https://app.reclaim.ai/signup?utm_medium=referral&utm_source=dbx-header-referral&utm_campaign=dbx-header-signup&utm_term=dbx-header",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Dash Find, organize, and protect company content",
+          "url": "https://dash.dropbox.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "DocSend Send documents securely and track activity",
+          "url": "https://www.dropbox.com/docsend",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Sign Request and add signatures to documents",
+          "url": "https://www.dropbox.com/sign",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Early access Preview new product experiences",
+          "url": "https://www.dropbox.com/early-access",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Sales",
+          "url": "https://www.dropbox.com/business/solutions/sales",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Marketing",
+          "url": "https://www.dropbox.com/business/solutions/marketing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "HR",
+          "url": "https://www.dropbox.com/business/solutions/human-resources",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "IT",
+          "url": "https://www.dropbox.com/business/solutions/it",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Creatives",
+          "url": "https://www.dropbox.com/business/solutions/creatives",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Cloud storage",
+          "url": "https://www.dropbox.com/features/cloud-storage",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Send large files",
+          "url": "https://www.dropbox.com/features/share/send-large-files",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Signing documents",
+          "url": "https://www.dropbox.com/features/productivity/electronic-signature",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Sharing files",
+          "url": "https://www.dropbox.com/features/share",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Construction",
+          "url": "https://www.dropbox.com/business/solutions/construction",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Technology",
+          "url": "https://www.dropbox.com/business/solutions/technology",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Manufacturing",
+          "url": "https://www.dropbox.com/business/solutions/manufacturing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Media",
+          "url": "https://www.dropbox.com/business/solutions/media",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Professional services",
+          "url": "https://www.dropbox.com/business/solutions/professional-services",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Education",
+          "url": "https://www.dropbox.com/education",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Enterprise",
+          "url": "https://www.dropbox.com/enterprise",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Pricing",
+          "url": "https://www.dropbox.com/plans",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Contact sales",
+          "url": "https://www.dropbox.com/contact-sales",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Desktop app",
+          "url": "https://www.dropbox.com/desktop",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Mobile app",
+          "url": "https://www.dropbox.com/mobile",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Sign up",
+          "url": "https://www.dropbox.com/register",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Log in",
+          "url": "https://www.dropbox.com/login",
+          "parent_id": null,
+          "items": []
+        }
+      ]
+    }
+  ]
+}

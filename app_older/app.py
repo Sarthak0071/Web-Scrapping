@@ -6,9 +6,37 @@ from urllib.parse import urljoin, urlparse
 import time
 
 # List of websites to scrape
-URLS = ['https://buffer.com', 'https://mailchimp.com', 'https://hootsuite.com', 'https://www.activecampaign.com',
-        'https://www.hubspot.com', 'https://www.asana.com', 'https://www.slack.com', 'https://www.shopify.com',
-        'https://www.squarespace.com', 'https://www.figma.com', 'https://www.airtable.com']
+URLS = [
+    # SaaS & Marketing Tools (HTML-based menus)
+    'https://buffer.com',
+    'https://mailchimp.com', 
+    'https://hootsuite.com',
+    'https://www.activecampaign.com',
+    'https://www.hubspot.com',
+    
+    # Productivity Tools (HTML menus)
+    'https://www.airtable.com',
+    'https://www.notion.so',
+    'https://www.dropbox.com',
+    'https://www.zoom.us',
+    
+    # Developer Tools (HTML menus)
+    'https://www.stripe.com',
+    'https://www.twilio.com',
+    'https://www.sendgrid.com',
+    'https://www.cloudflare.com',
+    
+    # CMS & Website Builders (HTML menus)
+    'https://www.wordpress.com',
+    
+    # More HTML-loaded sites to add:
+    'https://www.shopify.com',
+    'https://www.atlassian.com',
+    'https://www.monday.com',
+    'https://www.trello.com',
+    
+    # Add more HTML-based sites here (avoid Canva, Figma, Wix - they use heavy JS)
+]
 
 # Browser headers for requests
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}

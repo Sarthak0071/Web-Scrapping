@@ -1,0 +1,116 @@
+{
+  "website": "https://www.dropbox.com",
+  "domain": "www.dropbox.com",
+  "scraped_at": "2025-11-07T16:11:09.414878",
+  "menus": [
+    {
+      "title": "Main Navigation",
+      "items": [
+        {
+          "title": "DropboxStore, share, and access files across devices",
+          "url": "https://www.dropbox.com/dropbox",
+          "items": [
+            {
+              "title": "DropboxStore, share, and access files across devices",
+              "url": "https://www.dropbox.com/dropbox",
+              "items": [
+                {
+                  "title": "DropboxStore, share, and access files across devices",
+                  "url": "https://www.dropbox.com/dropbox",
+                  "items": []
+                },
+                {
+                  "title": "ReplayReview and approve videos faster",
+                  "url": "https://www.dropbox.com/replay",
+                  "items": []
+                },
+                {
+                  "title": "BackupAutomatically back up your devices",
+                  "url": "https://www.dropbox.com/backup",
+                  "items": []
+                }
+              ]
+            },
+            {
+              "title": "ReplayReview and approve videos faster",
+              "url": "https://www.dropbox.com/replay",
+              "items": []
+            },
+            {
+              "title": "BackupAutomatically back up your devices",
+              "url": "https://www.dropbox.com/backup",
+              "items": []
+            },
+            {
+              "title": "DashFind, organize, and protect company content",
+              "url": "https://dash.dropbox.com",
+              "items": []
+            },
+            {
+              "title": "SignRequest and add signatures to documents",
+              "url": "https://www.dropbox.com/sign",
+              "items": []
+            },
+            {
+              "title": "Early accessPreview new product experiences",
+              "url": "https://www.dropbox.com/early-access",
+              "items": []
+            },
+            {
+              "title": "DropboxStore, share, and access files across devices",
+              "url": "https://www.dropbox.com/dropbox",
+              "items": []
+            },
+            {
+              "title": "ReplayReview and approve videos faster",
+              "url": "https://www.dropbox.com/replay",
+              "items": []
+            },
+            {
+              "title": "BackupAutomatically back up your devices",
+              "url": "https://www.dropbox.com/backup",
+              "items": []
+            }
+          ]
+        },
+        {
+          "title": "ReplayReview and approve videos faster",
+          "url": "https://www.dropbox.com/replay",
+          "items": [
+            {
+              "title": "BackupAutomatically back up your devices",
+              "url": "https://www.dropbox.com/backup",
+              "items": []
+            }
+          ]
+        },
+        {
+          "title": "BackupAutomatically back up your devices",
+          "url": "https://www.dropbox.com/backup",
+          "items": []
+        },
+        {
+          "title": "DashFind, organize, and protect company content",
+          "url": "https://dash.dropbox.com",
+          "items": []
+        },
+        {
+          "title": "SignRequest and add signatures to documents",
+          "url": "https://www.dropbox.com/sign",
+          "items": [
+            {
+              "title": "Early accessPreview new product experiences",
+              "url": "https://www.dropbox.com/early-access",
+              "items": []
+            }
+          ]
+        },
+        {
+          "title": "Early accessPreview new product experiences",
+          "url": "https://www.dropbox.com/early-access",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

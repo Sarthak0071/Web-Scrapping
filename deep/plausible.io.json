@@ -1,0 +1,122 @@
+{
+  "website": "https://www.plausible.io",
+  "domain": "www.plausible.io",
+  "scraped_at": "2025-11-08 12:32:43",
+  "menus": [
+    {
+      "menu_name": "Navigation",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "For startups",
+              "description": "",
+              "url": "https://www.plausible.io/for-ecommerce-saas"
+            },
+            {
+              "title": "For agencies",
+              "description": "",
+              "url": "https://www.plausible.io/for-freelancers-agencies"
+            },
+            {
+              "title": "For creators",
+              "description": "",
+              "url": "https://www.plausible.io/for-bloggers-creators"
+            },
+            {
+              "title": "White label",
+              "description": "",
+              "url": "https://www.plausible.io/white-label-web-analytics"
+            },
+            {
+              "title": "vs Google Analytics",
+              "description": "",
+              "url": "https://www.plausible.io/vs-google-analytics"
+            },
+            {
+              "title": "vs Matomo",
+              "description": "",
+              "url": "https://www.plausible.io/vs-matomo"
+            },
+            {
+              "title": "vs Cloudflare",
+              "description": "",
+              "url": "https://www.plausible.io/vs-cloudflare-web-analytics"
+            },
+            {
+              "title": "Twitter",
+              "description": "",
+              "url": "https://twitter.com/PlausibleHQ"
+            },
+            {
+              "title": "Mastodon",
+              "description": "",
+              "url": "https://fosstodon.org/@plausible"
+            },
+            {
+              "title": "LinkedIn",
+              "description": "",
+              "url": "https://www.linkedin.com/company/plausible-analytics/"
+            },
+            {
+              "title": "Pricing",
+              "description": "",
+              "url": "https://www.plausible.io/#pricing"
+            },
+            {
+              "title": "My dashboard",
+              "description": "",
+              "url": "https://www.plausible.io/sites"
+            },
+            {
+              "title": "- Simple metrics",
+              "description": "",
+              "url": "https://www.plausible.io/simple-web-analytics"
+            },
+            {
+              "title": "- Lightweight script",
+              "description": "",
+              "url": "https://www.plausible.io/lightweight-web-analytics"
+            },
+            {
+              "title": "- GDPR/CCPA Compliant",
+              "description": "",
+              "url": "https://www.plausible.io/data-policy"
+            },
+            {
+              "title": "- Open source",
+              "description": "",
+              "url": "https://www.plausible.io/open-source-website-analytics"
+            },
+            {
+              "title": "- Blog",
+              "description": "",
+              "url": "https://www.plausible.io/blog"
+            },
+            {
+              "title": "- Documentation",
+              "description": "",
+              "url": "https://plausible.io/docs"
+            },
+            {
+              "title": "- GitHub Repo",
+              "description": "",
+              "url": "https://github.com/plausible/analytics"
+            },
+            {
+              "title": "- Public Roadmap",
+              "description": "",
+              "url": "https://plausible.io/roadmap"
+            },
+            {
+              "title": "- Forum",
+              "description": "",
+              "url": "https://plausible.io/forum"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

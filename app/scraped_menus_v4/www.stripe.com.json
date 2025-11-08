@@ -1,0 +1,42 @@
+{
+  "website": "https://www.stripe.com",
+  "domain": "www.stripe.com",
+  "scraped_at": "2025-11-07T16:27:13.354207",
+  "menus": [
+    {
+      "title": "Pricing Section",
+      "items": [
+        {
+          "title": "Pricing",
+          "url": "https://stripe.com/pricing",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Stripe logo",
+      "items": [
+        {
+          "title": "Open mobile navigation",
+          "url": "https://stripe.com",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Pricing Section",
+      "items": [
+        {
+          "title": "Pricing",
+          "url": "https://stripe.com/pricing",
+          "items": []
+        },
+        {
+          "title": "Sign in",
+          "url": "https://dashboard.stripe.com/login",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

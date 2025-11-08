@@ -1,0 +1,27 @@
+{
+  "website": "https://carrd.co",
+  "domain": "carrd.co",
+  "scraped_at": "2025-11-08 12:33:18",
+  "menus": [
+    {
+      "menu_name": "Navigation",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Carrd",
+              "description": "",
+              "url": "https://carrd.co/"
+            },
+            {
+              "title": "Menu",
+              "description": "",
+              "url": "https://carrd.co#menu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

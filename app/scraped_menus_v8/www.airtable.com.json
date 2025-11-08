@@ -1,0 +1,767 @@
+{
+  "website": "https://www.airtable.com",
+  "domain": "www.airtable.com",
+  "scraped_at": "2025-11-07T19:00:00.000000",
+  "menus": [
+    {
+      "title": "Main Menu",
+      "items": [
+        {
+          "title": "Airtable home or view your bases",
+          "url": "https://www.airtable.com/",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Airtable Platform Unlock the power of a next-gen app-building platform",
+          "url": "https://www.airtable.com/platform",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "AI App Building NEW Enable teams to build custom business apps—no code needed",
+          "url": "https://www.airtable.com/platform/app-building",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "AI Agents NEW Deploy thousands of agents inside your apps",
+          "url": "https://www.airtable.com/platform/ai-agents",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Portals Collaborate seamlessly with guest users outside your organization",
+          "url": "https://www.airtable.com/platform/portals",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Scale Build apps on top of massive data sets with 100M records",
+          "url": "https://www.airtable.com/platform/hyperdb",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Automations Achieve more in less time via automations",
+          "url": "https://www.airtable.com/platform/automations",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Databases Use relational databases to connect data from apps, workflows, and tools",
+          "url": "https://www.airtable.com/platform/connected-data",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Interfaces Create custom interfaces from your data",
+          "url": "https://www.airtable.com/platform/interface-designer",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Reporting Measure, analyze, and share insights",
+          "url": "https://www.airtable.com/platform/reporting",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Views Tailor data visualizations to your teams’ needs",
+          "url": "https://www.airtable.com/platform/views",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Governance and Security Centrally manage security, permissions and data protection",
+          "url": "https://www.airtable.com/platform/governance",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Airtable AI Embed AI throughout end-to-end workflows",
+          "url": "https://www.airtable.com/platform/ai",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "What's New See Airtable's latest product updates",
+          "url": "https://www.airtable.com/whatsnew",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Slack Add real-time messaging to your workflows",
+          "url": "https://www.airtable.com/integrations/slack",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Google Drive Sync information and build workflows",
+          "url": "https://www.airtable.com/integrations/google-drive",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Salesforce Leverage CRM data across teams and tools",
+          "url": "https://www.airtable.com/integrations/salesforce",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Jira Generate tickets and sync work from Airtable",
+          "url": "https://www.airtable.com/integrations/jira",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Zendesk Simplify and streamline workflows",
+          "url": "https://www.airtable.com/integrations/zendesk",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "See all integrations",
+          "url": "https://www.airtable.com/integrations",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Download Get the Airtable app for desktop and mobile",
+          "url": "https://www.airtable.com/downloads",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "ProductCentral Unify your product development cycle with Airtable's new end-to-end solution",
+          "url": "https://www.airtable.com/solutions/product",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Marketing Create custom workflows to run campaigns and track successes",
+          "url": "https://www.airtable.com/solutions/marketing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Operations Bring your data and processes into a single, well-organized place",
+          "url": "https://www.airtable.com/solutions/operations",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Project Management Keep track of projects and tasks across departments",
+          "url": "https://www.airtable.com/solutions/project-management",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Human Resources Manage and streamline processes from hire to retire",
+          "url": "https://www.airtable.com/solutions/hr",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Sales Win loyal customers with smarter workflows and connected data",
+          "url": "https://www.airtable.com/solutions/sales",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Finance Streamline requests, manage budgets, and automate reporting",
+          "url": "https://www.airtable.com/solutions/finance",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Learn more",
+          "url": "https://www.airtable.com/customer-stories/code-and-theory",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "AI Plays NEW Accelerate, automate, and enhance workflows using Omni and Field Agents",
+          "url": "https://www.airtable.com/ai-plays",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Reports",
+          "url": "https://www.airtable.com/lp/resources?filter=reports",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "eBooks",
+          "url": "https://www.airtable.com/lp/resources?filter=ebooks",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Webinars",
+          "url": "https://www.airtable.com/lp/resources?filter=webinars",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Quick Reads",
+          "url": "https://www.airtable.com/lp/resources?filter=quick-reads",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Demos",
+          "url": "https://www.airtable.com/lp/resources?filter=demos",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "See all resources",
+          "url": "https://www.airtable.com/lp/resources",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Project Management New",
+          "url": "https://www.airtable.com/templates/project-management/expnPwND0WA2x7nhJ",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Content Calendar",
+          "url": "https://www.airtable.com/templates/content-calendar/exp3FNmOkdHZvprXB",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Event Planning",
+          "url": "https://www.airtable.com/templates/event-planning/exppdJtYjEgfmd6Sq",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Product Roadmap",
+          "url": "https://www.airtable.com/templates/product-roadmap/exphVKuL99S35ZsMi",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Organizational Chart",
+          "url": "https://www.airtable.com/templates/corporate-organizational-chart/expgMvC4WkxpKviHn",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Resource Allocation New",
+          "url": "https://www.airtable.com/templates/resource-allocation/expMLg1OTd4pKVxCU ",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Social Media Calendar",
+          "url": "https://www.airtable.com/templates/social-media-calendar/expgEkxMmWRqpa43k",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Marketing Campaign Tracker",
+          "url": "https://www.airtable.com/templates/marketing-campaign-tracking/expNoL0sYUbOogSCm",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Product Launch",
+          "url": "https://www.airtable.com/templates/product-launch/expbtFa3nsLpIQfgk",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Content Strategy",
+          "url": "https://www.airtable.com/templates/content-strategy/exp1nfqhaFgeAyk2f",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Product Strategy",
+          "url": "https://www.airtable.com/templates/product-strategy/expbov1cc8Qb05egC",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Inventory Tracker",
+          "url": "https://www.airtable.com/templates/inventory-tracker/expDrHGuyjSQlrKTq",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Product Catalog",
+          "url": "https://www.airtable.com/templates/product-catalog-and-orders/expZvMLT9L6c4yeBX",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "See all templates",
+          "url": "https://www.airtable.com/templates",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.airtable.com/articles",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Customer Stories",
+          "url": "https://www.airtable.com/customer-stories",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Builders & Breakthroughs NEW",
+          "url": "https://www.airtable.com/breakthroughs",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Videos",
+          "url": "https://www.airtable.com/videos",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Events",
+          "url": "https://www.airtable.com/events-webinars",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Airtable Academy",
+          "url": "https://academy.airtable.com/",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Airtable Community",
+          "url": "https://community.airtable.com/",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Dev Community Share ideas and find solutions from peers",
+          "url": "https://community.airtable.com/t5/development-apis/bd-p/development",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "API Docs Build with the Airtable API",
+          "url": "https://airtable.com/developers/web/api/introduction",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Custom Extensions Create real-time, interactive extensions",
+          "url": "https://airtable.com/developers/apps",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Scripting Build something custom with scripts",
+          "url": "https://airtable.com/developers/scripting",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "How-to guides",
+          "url": "https://www.airtable.com/guides",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Help center",
+          "url": "https://support.airtable.com/",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Contact Support",
+          "url": "https://support.airtable.com/docs/contacting-airtable-support",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Marketplace",
+          "url": "https://airtable.com/marketplace",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Partners",
+          "url": "https://www.airtable.com/partners",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Services",
+          "url": "https://www.airtable.com/enterprise/services",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Enterprise",
+          "url": "https://www.airtable.com/solutions/enterprise",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Pricing",
+          "url": "https://airtable.com/pricing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Book demo",
+          "url": "https://www.airtable.com/contact-sales",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Sign in",
+          "url": "https://airtable.com/login",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Sign up for free Sign up",
+          "url": "https://airtable.com/signup",
+          "parent_id": null,
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Footer navigation",
+      "items": [
+        {
+          "title": "Airtable home",
+          "url": "https://www.airtable.com/",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Platform",
+          "url": "https://www.airtable.com/platform",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Solutions",
+          "url": "https://www.airtable.com/solutions",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Resources",
+          "url": "https://www.airtable.com/lp/resources",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Enterprise",
+          "url": "https://www.airtable.com/solutions/enterprise",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Pricing",
+          "url": "https://www.airtable.com/pricing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Book Demo",
+          "url": "https://www.airtable.com/contact-sales",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Facebook",
+          "url": "https://facebook.com/airtableapp",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Linkedin",
+          "url": "https://linkedin.com/company/airtable",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/airtable",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Instagram",
+          "url": "https://instagram.com/airtable",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Youtube",
+          "url": "https://www.youtube.com/c/AirtableApp",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "AI App Building",
+          "url": "https://www.airtable.com/platform/app-building",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "AI Agents",
+          "url": "https://www.airtable.com/platform/ai-agents",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Portals",
+          "url": "https://airtable.com/platform/portals",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Scale",
+          "url": "https://www.airtable.com/platform/hyperdb",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Automations",
+          "url": "https://www.airtable.com/platform/automations",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "See more",
+          "url": "https://www.airtable.com/",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Databases",
+          "url": "https://www.airtable.com/platform/connected-data",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Interfaces",
+          "url": "https://www.airtable.com/platform/interface-designer",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Reporting",
+          "url": "https://www.airtable.com/platform/reporting",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Views",
+          "url": "https://www.airtable.com/platform/views",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Governance & Security",
+          "url": "https://www.airtable.com/platform/governance",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Airtable AI",
+          "url": "https://www.airtable.com/platform/ai",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "What's New",
+          "url": "https://www.airtable.com/whatsnew",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Product Central",
+          "url": "https://www.airtable.com/solutions/product",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Marketing",
+          "url": "https://www.airtable.com/solutions/marketing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Operations",
+          "url": "https://www.airtable.com/solutions/operations",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Project Management",
+          "url": "https://www.airtable.com/solutions/project-management",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Human Resources",
+          "url": "https://www.airtable.com/solutions/hr",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Sales",
+          "url": "https://www.airtable.com/solutions/sales",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Finance",
+          "url": "https://www.airtable.com/solutions/finance",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Content Operations",
+          "url": "https://www.airtable.com/solutions/content-operations",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "AI Plays",
+          "url": "https://www.airtable.com/ai-plays",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Templates",
+          "url": "https://airtable.com/templates",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.airtable.com/articles",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Customer Stories",
+          "url": "https://www.airtable.com/customer-stories",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Videos",
+          "url": "https://www.airtable.com/videos",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Events",
+          "url": "https://www.airtable.com/events-webinars",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Marketplace",
+          "url": "https://www.airtable.com/marketplace",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Partners",
+          "url": "https://www.airtable.com/partners",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Services",
+          "url": "https://www.airtable.com/services",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Airtable Academy",
+          "url": "https://academy.airtable.com/",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Airtable Community",
+          "url": "https://community.airtable.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Developer Docs",
+          "url": "https://www.airtable.com/developers",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "How-to guides",
+          "url": "https://www.airtable.com/guides",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Help center",
+          "url": "https://support.airtable.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Contact support",
+          "url": "https://support.airtable.com/docs/contacting-airtable-support",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Try Airtable for free",
+          "url": "https://www.airtable.com/signup",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "About",
+          "url": "https://www.airtable.com/about",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Careers",
+          "url": "https://www.airtable.com/careers",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Status",
+          "url": "https://status.airtable.com/",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Newsroom",
+          "url": "https://www.airtable.com/newsroom",
+          "parent_id": null,
+          "items": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "website": "https://www.hubspot.com",
+  "domain": "www.hubspot.com",
+  "scraped_at": "2025-11-07T16:00:24.315639",
+  "menus": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "title": "Investor Relations",
+          "url": "https://ir.hubspot.com"
+        },
+        {
+          "title": "Management Team",
+          "url": "https://www.hubspot.com/company/management"
+        }
+      ]
+    },
+    {
+      "title": "Menu",
+      "items": [
+        {
+          "title": "The HubSpot Customer Platform",
+          "items": [
+            {
+              "title": "Free HubSpot CRM",
+              "url": "https://www.hubspot.com/products/crm",
+              "category": "The HubSpot Customer Platform"
+            },
+            {
+              "title": "Overview of all products",
+              "url": "https://www.hubspot.com/products/get-started",
+              "category": "The HubSpot Customer Platform"
+            },
+            {
+              "title": "Free and premium plans",
+              "url": "https://www.hubspot.com/products/marketing",
+              "category": "The HubSpot Customer Platform"
+            },
+            {
+              "title": "Free and premium plans",
+              "url": "https://www.hubspot.com/products/sales",
+              "category": "The HubSpot Customer Platform"
+            },
+            {
+              "title": "Free and premium plans",
+              "url": "https://www.hubspot.com/products/service",
+              "category": "The HubSpot Customer Platform"
+            },
+            {
+              "title": "Free and premium plans",
+              "url": "https://www.hubspot.com/products/content",
+              "category": "The HubSpot Customer Platform"
+            },
+            {
+              "title": "Free and premium plans",
+              "url": "https://www.hubspot.com/products/data",
+              "category": "The HubSpot Customer Platform"
+            },
+            {
+              "title": "Free and premium plans",
+              "url": "https://www.hubspot.com/products/commerce",
+              "category": "The HubSpot Customer Platform"
+            },
+            {
+              "title": "Meet your AI growth team",
+              "url": "https://www.hubspot.com/products/artificial-intelligence/breeze-ai-agents",
+              "category": "The HubSpot Customer Platform"
+            }
+          ]
+        },
+        {
+          "title": "Marketing",
+          "items": [
+            {
+              "title": "Generate leads",
+              "url": "https://www.hubspot.com/use-case/generate-leads",
+              "category": "Marketing"
+            },
+            {
+              "title": "Automate marketing",
+              "url": "https://www.hubspot.com/use-case/automate-marketing",
+              "category": "Marketing"
+            },
+            {
+              "title": "Build pipeline",
+              "url": "https://www.hubspot.com/use-case/build-sales-pipeline",
+              "category": "Marketing"
+            },
+            {
+              "title": "Close deals",
+              "url": "https://www.hubspot.com/use-case/close-more-deals",
+              "category": "Marketing"
+            },
+            {
+              "title": "Scale support",
+              "url": "https://www.hubspot.com/use-case/scale-customer-service-support",
+              "category": "Marketing"
+            },
+            {
+              "title": "Drive retention",
+              "url": "https://www.hubspot.com/use-case/drive-customer-satisfaction",
+              "category": "Marketing"
+            },
+            {
+              "title": "Create content",
+              "url": "https://www.hubspot.com/use-case/create-content-for-customer-journey",
+              "category": "Marketing"
+            },
+            {
+              "title": "Manage content",
+              "url": "https://www.hubspot.com/use-case/manage-content",
+              "category": "Marketing"
+            },
+            {
+              "title": "Find and reach customers",
+              "url": "https://www.hubspot.com/use-case/find-and-reach-customers",
+              "category": "Marketing"
+            },
+            {
+              "title": "Grow sales and get paid",
+              "url": "https://www.hubspot.com/use-case/grow-sales-and-get-paid-faster",
+              "category": "Marketing"
+            },
+            {
+              "title": "Organize customer data",
+              "url": "https://www.hubspot.com/use-case/understand-and-organize-customer-data",
+              "category": "Marketing"
+            },
+            {
+              "title": "Resolve customer queries 24/7",
+              "url": "https://www.hubspot.com/products/artificial-intelligence/ai-customer-service-agent",
+              "category": "Marketing"
+            },
+            {
+              "title": "Automate sales prospecting",
+              "url": "https://www.hubspot.com/products/sales/ai-prospecting-agent",
+              "category": "Marketing"
+            },
+            {
+              "title": "Accelerate content creation",
+              "url": "https://www.hubspot.com/products/content/content-ai-agent",
+              "category": "Marketing"
+            },
+            {
+              "title": "Explore product updates",
+              "url": "https://www.hubspot.com/spotlight",
+              "category": "Marketing"
+            }
+          ]
+        },
+        {
+          "title": "Featured Links",
+          "items": [
+            {
+              "title": "What's New in HubSpot",
+              "url": "https://www.hubspot.com/new",
+              "category": "Featured Links"
+            },
+            {
+              "title": "Why Choose HubSpot?",
+              "url": "https://www.hubspot.com/why-choose-hubspot",
+              "category": "Featured Links"
+            },
+            {
+              "title": "Annual Diversity Report",
+              "url": "https://www.hubspot.com/diversity/report",
+              "category": "Featured Links"
+            },
+            {
+              "title": "INBOUND Event",
+              "url": "https://www.inbound.com",
+              "category": "Featured Links"
+            },
+            {
+              "title": "HubSpot Community",
+              "url": "https://community.hubspot.com",
+              "category": "Featured Links"
+            },
+            {
+              "title": "HubSpot User Groups",
+              "url": "https://www.hubspot.com/hubspot-user-groups",
+              "category": "Featured Links"
+            },
+            {
+              "title": "Solutions Partner Program",
+              "url": "https://www.hubspot.com/partners/solutions",
+              "category": "Featured Links"
+            },
+            {
+              "title": "App Partner Program",
+              "url": "https://www.hubspot.com/partners/app",
+              "category": "Featured Links"
+            },
+            {
+              "title": "Affiliate Partner Program",
+              "url": "https://www.hubspot.com/partners/affiliates",
+              "category": "Featured Links"
+            },
+            {
+              "title": "Education Partner Program",
+              "url": "https://academy.hubspot.com/education-partner-program",
+              "category": "Featured Links"
+            },
+            {
+              "title": "Startup Partner Program",
+              "url": "https://www.hubspot.com/startups/partners",
+              "category": "Featured Links"
+            },
+            {
+              "title": "The Loop Marketing Playbook",
+              "url": "https://www.hubspot.com/loop-marketing",
+              "category": "Featured Links"
+            },
+            {
+              "title": "What Is Inbound Marketing?",
+              "url": "https://www.hubspot.com/inbound-marketing",
+              "category": "Featured Links"
+            },
+            {
+              "title": "HubSpot Blogs",
+              "url": "https://blog.hubspot.com",
+              "category": "Featured Links"
+            },
+            {
+              "title": "Free Courses & Certifications",
+              "url": "https://academy.hubspot.com",
+              "category": "Featured Links"
+            },
+            {
+              "title": "Ebooks, Guides & More",
+              "url": "https://www.hubspot.com/resources",
+              "category": "Featured Links"
+            },
+            {
+              "title": "HubSpot Knowledge Base",
+              "url": "https://knowledge.hubspot.com",
+              "category": "Featured Links"
+            },
+            {
+              "title": "Website Templates",
+              "url": "https://ecosystem.hubspot.com/marketplace/templates",
+              "category": "Featured Links"
+            },
+            {
+              "title": "Developer Tools",
+              "url": "https://developers.hubspot.com",
+              "category": "Featured Links"
+            },
+            {
+              "title": "Onboarding",
+              "url": "https://www.hubspot.com/services/onboarding",
+              "category": "Featured Links"
+            },
+            {
+              "title": "Customer Training",
+              "url": "https://www.hubspot.com/services/professional/classroom-training",
+              "category": "Featured Links"
+            },
+            {
+              "title": "Migration",
+              "url": "https://www.hubspot.com/services/professional/migrations",
+              "category": "Featured Links"
+            },
+            {
+              "title": "Strategic Consulting",
+              "url": "https://www.hubspot.com/services/professional/inbound-consulting",
+              "category": "Featured Links"
+            },
+            {
+              "title": "Technical Consulting",
+              "url": "https://www.hubspot.com/services/professional/technical-consulting",
+              "category": "Featured Links"
+            },
+            {
+              "title": "Hire a Solutions Partner",
+              "url": "https://ecosystem.hubspot.com/marketplace/solutions",
+              "category": "Featured Links"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Products",
+      "items": [
+        {
+          "title": "Smart CRMAI-powered, flexible CRM software",
+          "url": "https://www.hubspot.com/products/crm/ai-crm"
+        },
+        {
+          "title": "Small Business BundleThe Starter edition of each product, built for startups and small businesses",
+          "url": "https://www.hubspot.com/products/crm/starter"
+        },
+        {
+          "title": "BreezeHubSpot's AI that powers the entire customer platform",
+          "url": "https://www.hubspot.com/products/artificial-intelligence"
+        },
+        {
+          "title": "HubSpot MarketplaceConnect your favorite apps to HubSpot",
+          "url": "https://ecosystem.hubspot.com/marketplace/apps"
+        }
+      ]
+    },
+    {
+      "title": "Main Navigation",
+      "items": [
+        {
+          "title": "日本語",
+          "url": "https://www.hubspot.jp",
+          "items": [
+            {
+              "title": "Deutsch",
+              "url": "https://www.hubspot.de"
+            },
+            {
+              "title": "Español",
+              "url": "https://www.hubspot.es"
+            },
+            {
+              "title": "Português",
+              "url": "https://br.hubspot.com"
+            },
+            {
+              "title": "Français",
+              "url": "https://www.hubspot.fr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

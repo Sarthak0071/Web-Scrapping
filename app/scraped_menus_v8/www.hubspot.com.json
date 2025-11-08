@@ -1,0 +1,976 @@
+{
+  "website": "https://www.hubspot.com",
+  "domain": "www.hubspot.com",
+  "scraped_at": "2025-11-07T19:00:00.000000",
+  "menus": [
+    {
+      "title": "Main Menu",
+      "items": [
+        {
+          "title": "Skip to content",
+          "url": "https://www.hubspot.com/#global-nav-main-content",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "日本語",
+          "url": "https://www.hubspot.jp",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Deutsch",
+          "url": "https://www.hubspot.de",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://www.hubspot.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Español",
+          "url": "https://www.hubspot.es",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Português",
+          "url": "https://br.hubspot.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Français",
+          "url": "https://www.hubspot.fr",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Customer Support",
+          "url": "https://help.hubspot.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Contact Sales",
+          "url": "https://offers.hubspot.com/contact-sales",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Log in",
+          "url": "https://app.hubspot.com/login",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "About Us",
+          "url": "https://www.hubspot.com/our-story",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Careers",
+          "url": "https://www.hubspot.com/careers",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://www.hubspot.com/company/contact",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Investor Relations",
+          "url": "https://ir.hubspot.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Management Team",
+          "url": "https://www.hubspot.com/company/management",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Free HubSpot CRM",
+          "url": "https://www.hubspot.com/products/crm",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Overview of all products",
+          "url": "https://www.hubspot.com/products/get-started",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Free and premium plans",
+          "url": "https://www.hubspot.com/products/marketing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Free and premium plans",
+          "url": "https://www.hubspot.com/products/sales",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Free and premium plans",
+          "url": "https://www.hubspot.com/products/service",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Free and premium plans",
+          "url": "https://www.hubspot.com/products/content",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Free and premium plans",
+          "url": "https://www.hubspot.com/products/data",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Free and premium plans",
+          "url": "https://www.hubspot.com/products/commerce",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Learn more",
+          "url": "https://www.hubspot.com/products/crm/ai-crm",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Learn more",
+          "url": "https://www.hubspot.com/products/crm/starter",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "See all AI features",
+          "url": "https://www.hubspot.com/products/artificial-intelligence",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Meet your AI growth team",
+          "url": "https://www.hubspot.com/products/artificial-intelligence/breeze-ai-agents",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "See all integrations",
+          "url": "https://ecosystem.hubspot.com/marketplace/apps",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Generate leads",
+          "url": "https://www.hubspot.com/use-case/generate-leads",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Automate marketing",
+          "url": "https://www.hubspot.com/use-case/automate-marketing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Build pipeline",
+          "url": "https://www.hubspot.com/use-case/build-sales-pipeline",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Close deals",
+          "url": "https://www.hubspot.com/use-case/close-more-deals",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Scale support",
+          "url": "https://www.hubspot.com/use-case/scale-customer-service-support",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Drive retention",
+          "url": "https://www.hubspot.com/use-case/drive-customer-satisfaction",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Create content",
+          "url": "https://www.hubspot.com/use-case/create-content-for-customer-journey",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Manage content",
+          "url": "https://www.hubspot.com/use-case/manage-content",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Find and reach customers",
+          "url": "https://www.hubspot.com/use-case/find-and-reach-customers",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Grow sales and get paid",
+          "url": "https://www.hubspot.com/use-case/grow-sales-and-get-paid-faster",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Organize customer data",
+          "url": "https://www.hubspot.com/use-case/understand-and-organize-customer-data",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Resolve customer queries 24/7",
+          "url": "https://www.hubspot.com/products/artificial-intelligence/ai-customer-service-agent",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Automate sales prospecting",
+          "url": "https://www.hubspot.com/products/sales/ai-prospecting-agent",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Accelerate content creation",
+          "url": "https://www.hubspot.com/products/content/content-ai-agent",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Learn more",
+          "url": "https://www.hubspot.com/products/crm/enterprise",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Learn more",
+          "url": "https://www.hubspot.com/why-choose-hubspot",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "See all case studies",
+          "url": "https://www.hubspot.com/case-studies",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Explore product updates",
+          "url": "https://www.hubspot.com/spotlight",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Pricing",
+          "url": "https://www.hubspot.com/pricing/marketing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "What's New in HubSpot",
+          "url": "https://www.hubspot.com/new",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Annual Diversity Report",
+          "url": "https://www.hubspot.com/diversity/report",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "INBOUND Event",
+          "url": "https://www.inbound.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "HubSpot Community",
+          "url": "https://community.hubspot.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "HubSpot User Groups",
+          "url": "https://www.hubspot.com/hubspot-user-groups",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Solutions Partner Program",
+          "url": "https://www.hubspot.com/partners/solutions",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "App Partner Program",
+          "url": "https://www.hubspot.com/partners/app",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Affiliate Partner Program",
+          "url": "https://www.hubspot.com/partners/affiliates",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Education Partner Program",
+          "url": "https://academy.hubspot.com/education-partner-program",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Startup Partner Program",
+          "url": "https://www.hubspot.com/startups/partners",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "The Loop Marketing Playbook",
+          "url": "https://www.hubspot.com/loop-marketing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "What Is Inbound Marketing?",
+          "url": "https://www.hubspot.com/inbound-marketing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "HubSpot Blogs",
+          "url": "https://blog.hubspot.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Free Courses & Certifications",
+          "url": "https://academy.hubspot.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Ebooks, Guides & More",
+          "url": "https://www.hubspot.com/resources",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "HubSpot Knowledge Base",
+          "url": "https://knowledge.hubspot.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Website Templates",
+          "url": "https://ecosystem.hubspot.com/marketplace/templates",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Developer Tools",
+          "url": "https://developers.hubspot.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Onboarding",
+          "url": "https://www.hubspot.com/services/onboarding",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Customer Training",
+          "url": "https://www.hubspot.com/services/professional/classroom-training",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Migration",
+          "url": "https://www.hubspot.com/services/professional/migrations",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Strategic Consulting",
+          "url": "https://www.hubspot.com/services/professional/inbound-consulting",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Technical Consulting",
+          "url": "https://www.hubspot.com/services/professional/technical-consulting",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Hire a Solutions Partner",
+          "url": "https://ecosystem.hubspot.com/marketplace/solutions",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Get a demo of HubSpot's premium software",
+          "url": "https://offers.hubspot.com/crm-platform-demo?hubs_signup-url=www.hubspot.com&hubs_signup-cta=homepage-hp-nav",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Get started free with HubSpot's free tools",
+          "url": "https://app.hubspot.com/signup-hubspot/crm?hubs_signup-url=www.hubspot.com&hubs_signup-cta=homepage-hp-nav2",
+          "parent_id": null,
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Utility Navigation",
+      "items": [
+        {
+          "title": "日本語",
+          "url": "https://www.hubspot.jp",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Deutsch",
+          "url": "https://www.hubspot.de",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://www.hubspot.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Español",
+          "url": "https://www.hubspot.es",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Português",
+          "url": "https://br.hubspot.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Français",
+          "url": "https://www.hubspot.fr",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Customer Support",
+          "url": "https://help.hubspot.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Contact Sales",
+          "url": "https://offers.hubspot.com/contact-sales",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Log in",
+          "url": "https://app.hubspot.com/login",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "About Us",
+          "url": "https://www.hubspot.com/our-story",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Careers",
+          "url": "https://www.hubspot.com/careers",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://www.hubspot.com/company/contact",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Investor Relations",
+          "url": "https://ir.hubspot.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Management Team",
+          "url": "https://www.hubspot.com/company/management",
+          "parent_id": null,
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Primary Navigation",
+      "items": [
+        {
+          "title": "Free HubSpot CRM",
+          "url": "https://www.hubspot.com/products/crm",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Overview of all products",
+          "url": "https://www.hubspot.com/products/get-started",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Free and premium plans",
+          "url": "https://www.hubspot.com/products/marketing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Free and premium plans",
+          "url": "https://www.hubspot.com/products/sales",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Free and premium plans",
+          "url": "https://www.hubspot.com/products/service",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Free and premium plans",
+          "url": "https://www.hubspot.com/products/content",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Free and premium plans",
+          "url": "https://www.hubspot.com/products/data",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Free and premium plans",
+          "url": "https://www.hubspot.com/products/commerce",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Learn more",
+          "url": "https://www.hubspot.com/products/crm/ai-crm",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Learn more",
+          "url": "https://www.hubspot.com/products/crm/starter",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "See all AI features",
+          "url": "https://www.hubspot.com/products/artificial-intelligence",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Meet your AI growth team",
+          "url": "https://www.hubspot.com/products/artificial-intelligence/breeze-ai-agents",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "See all integrations",
+          "url": "https://ecosystem.hubspot.com/marketplace/apps",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Generate leads",
+          "url": "https://www.hubspot.com/use-case/generate-leads",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Automate marketing",
+          "url": "https://www.hubspot.com/use-case/automate-marketing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Build pipeline",
+          "url": "https://www.hubspot.com/use-case/build-sales-pipeline",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Close deals",
+          "url": "https://www.hubspot.com/use-case/close-more-deals",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Scale support",
+          "url": "https://www.hubspot.com/use-case/scale-customer-service-support",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Drive retention",
+          "url": "https://www.hubspot.com/use-case/drive-customer-satisfaction",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Create content",
+          "url": "https://www.hubspot.com/use-case/create-content-for-customer-journey",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Manage content",
+          "url": "https://www.hubspot.com/use-case/manage-content",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Find and reach customers",
+          "url": "https://www.hubspot.com/use-case/find-and-reach-customers",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Grow sales and get paid",
+          "url": "https://www.hubspot.com/use-case/grow-sales-and-get-paid-faster",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Organize customer data",
+          "url": "https://www.hubspot.com/use-case/understand-and-organize-customer-data",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Resolve customer queries 24/7",
+          "url": "https://www.hubspot.com/products/artificial-intelligence/ai-customer-service-agent",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Automate sales prospecting",
+          "url": "https://www.hubspot.com/products/sales/ai-prospecting-agent",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Accelerate content creation",
+          "url": "https://www.hubspot.com/products/content/content-ai-agent",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Learn more",
+          "url": "https://www.hubspot.com/products/crm/enterprise",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Learn more",
+          "url": "https://www.hubspot.com/why-choose-hubspot",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "See all case studies",
+          "url": "https://www.hubspot.com/case-studies",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Explore product updates",
+          "url": "https://www.hubspot.com/spotlight",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Pricing",
+          "url": "https://www.hubspot.com/pricing/marketing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "What's New in HubSpot",
+          "url": "https://www.hubspot.com/new",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Annual Diversity Report",
+          "url": "https://www.hubspot.com/diversity/report",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "INBOUND Event",
+          "url": "https://www.inbound.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "HubSpot Community",
+          "url": "https://community.hubspot.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "HubSpot User Groups",
+          "url": "https://www.hubspot.com/hubspot-user-groups",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Solutions Partner Program",
+          "url": "https://www.hubspot.com/partners/solutions",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "App Partner Program",
+          "url": "https://www.hubspot.com/partners/app",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Affiliate Partner Program",
+          "url": "https://www.hubspot.com/partners/affiliates",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Education Partner Program",
+          "url": "https://academy.hubspot.com/education-partner-program",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Startup Partner Program",
+          "url": "https://www.hubspot.com/startups/partners",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "The Loop Marketing Playbook",
+          "url": "https://www.hubspot.com/loop-marketing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "What Is Inbound Marketing?",
+          "url": "https://www.hubspot.com/inbound-marketing",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "HubSpot Blogs",
+          "url": "https://blog.hubspot.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Free Courses & Certifications",
+          "url": "https://academy.hubspot.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Ebooks, Guides & More",
+          "url": "https://www.hubspot.com/resources",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "HubSpot Knowledge Base",
+          "url": "https://knowledge.hubspot.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Website Templates",
+          "url": "https://ecosystem.hubspot.com/marketplace/templates",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Developer Tools",
+          "url": "https://developers.hubspot.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Onboarding",
+          "url": "https://www.hubspot.com/services/onboarding",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Customer Training",
+          "url": "https://www.hubspot.com/services/professional/classroom-training",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Migration",
+          "url": "https://www.hubspot.com/services/professional/migrations",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Strategic Consulting",
+          "url": "https://www.hubspot.com/services/professional/inbound-consulting",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Technical Consulting",
+          "url": "https://www.hubspot.com/services/professional/technical-consulting",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Hire a Solutions Partner",
+          "url": "https://ecosystem.hubspot.com/marketplace/solutions",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "About Us",
+          "url": "https://www.hubspot.com/our-story",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Careers",
+          "url": "https://www.hubspot.com/careers",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://www.hubspot.com/company/contact",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Investor Relations",
+          "url": "https://ir.hubspot.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Management Team",
+          "url": "https://www.hubspot.com/company/management",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Get a demo of HubSpot's premium software",
+          "url": "https://offers.hubspot.com/crm-platform-demo?hubs_signup-url=www.hubspot.com&hubs_signup-cta=homepage-hp-nav",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Get started free with HubSpot's free tools",
+          "url": "https://app.hubspot.com/signup-hubspot/crm?hubs_signup-url=www.hubspot.com&hubs_signup-cta=homepage-hp-nav2",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Log in",
+          "url": "https://app.hubspot.com/login",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "日本語",
+          "url": "https://www.hubspot.jp",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Deutsch",
+          "url": "https://www.hubspot.de",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "English",
+          "url": "https://www.hubspot.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Español",
+          "url": "https://www.hubspot.es",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Português",
+          "url": "https://br.hubspot.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Français",
+          "url": "https://www.hubspot.fr",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Customer Support",
+          "url": "https://help.hubspot.com",
+          "parent_id": null,
+          "items": []
+        },
+        {
+          "title": "Contact Sales",
+          "url": "https://offers.hubspot.com/contact-sales",
+          "parent_id": null,
+          "items": []
+        }
+      ]
+    }
+  ]
+}

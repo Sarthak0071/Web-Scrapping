@@ -1,0 +1,199 @@
+{
+  "website": "https://www.shopify.com",
+  "domain": "www.shopify.com",
+  "scraped_at": "2025-11-07T16:00:55.945945",
+  "menus": [
+    {
+      "title": "USA|English",
+      "items": [
+        {
+          "title": "Español",
+          "url": "https://www.shopify.com/ar?country=ar&lang=es"
+        },
+        {
+          "title": "Deutsch",
+          "url": "https://www.shopify.com/at?country=at&lang=de"
+        },
+        {
+          "title": "Russian",
+          "url": "https://www.shopify.com/by?country=by&lang=ru"
+        },
+        {
+          "title": "Nederlands",
+          "url": "https://www.shopify.com/be?country=be&lang=nl"
+        },
+        {
+          "title": "German",
+          "url": "https://www.shopify.com/be-de?country=be&lang=de"
+        },
+        {
+          "title": "Français",
+          "url": "https://www.shopify.com/be-fr?country=be&lang=fr"
+        },
+        {
+          "title": "Português",
+          "url": "https://www.shopify.com/br?country=br&lang=pt"
+        },
+        {
+          "title": "Bulgarian",
+          "url": "https://www.shopify.com/bg?country=bg&lang=bg"
+        },
+        {
+          "title": "Français",
+          "url": "https://www.shopify.com/ca-fr?country=ca&lang=fr"
+        },
+        {
+          "title": "Español",
+          "url": "https://www.shopify.com/cl?country=cl&lang=es"
+        },
+        {
+          "title": "Español",
+          "url": "https://www.shopify.com/co?country=co&lang=es"
+        },
+        {
+          "title": "Čeština",
+          "url": "https://www.shopify.com/cz?country=cz&lang=cs"
+        },
+        {
+          "title": "Dansk",
+          "url": "https://www.shopify.com/dk?country=dk&lang=da"
+        },
+        {
+          "title": "Suomi",
+          "url": "https://www.shopify.com/fi?country=fi&lang=fi"
+        },
+        {
+          "title": "Français",
+          "url": "https://www.shopify.com/fr?country=fr&lang=fr"
+        },
+        {
+          "title": "Deutsch",
+          "url": "https://www.shopify.com/de?country=de&lang=de"
+        },
+        {
+          "title": "Greek",
+          "url": "https://www.shopify.com/gr?country=gr&lang=el"
+        },
+        {
+          "title": "繁體中文",
+          "url": "https://www.shopify.com/hk?country=hk&lang=zh"
+        },
+        {
+          "title": "Hungarian",
+          "url": "https://www.shopify.com/hu?country=hu&lang=hu"
+        },
+        {
+          "title": "Hindi",
+          "url": "https://www.shopify.com/in-hi?country=in&lang=hi"
+        },
+        {
+          "title": "Indonesian",
+          "url": "https://www.shopify.com/id-id?country=id&lang=id"
+        },
+        {
+          "title": "Italiano",
+          "url": "https://www.shopify.com/it?country=it&lang=it"
+        },
+        {
+          "title": "日本語",
+          "url": "https://www.shopify.com/jp?country=jp&lang=ja"
+        },
+        {
+          "title": "한국어",
+          "url": "https://www.shopify.com/kr?country=kr&lang=ko"
+        },
+        {
+          "title": "Lithuanian",
+          "url": "https://www.shopify.com/lt?country=lt&lang=lt"
+        },
+        {
+          "title": "Español",
+          "url": "https://www.shopify.com/mx?country=mx&lang=es"
+        },
+        {
+          "title": "Nederlands",
+          "url": "https://www.shopify.com/nl?country=nl&lang=nl"
+        },
+        {
+          "title": "Norge",
+          "url": "https://www.shopify.com/no?country=no&lang=nb"
+        },
+        {
+          "title": "Español",
+          "url": "https://www.shopify.com/pe?country=pe&lang=es"
+        },
+        {
+          "title": "Polski",
+          "url": "https://www.shopify.com/pl?country=pl&lang=pl"
+        },
+        {
+          "title": "Português",
+          "url": "https://www.shopify.com/pt?country=pt&lang=pt"
+        },
+        {
+          "title": "Romanian",
+          "url": "https://www.shopify.com/ro?country=ro&lang=ro"
+        },
+        {
+          "title": "Español",
+          "url": "https://www.shopify.com/es-es?country=es&lang=es"
+        },
+        {
+          "title": "Svenska",
+          "url": "https://www.shopify.com/se?country=se&lang=sv"
+        },
+        {
+          "title": "Deutsch",
+          "url": "https://www.shopify.com/ch?country=ch&lang=de"
+        },
+        {
+          "title": "繁體中文",
+          "url": "https://www.shopify.com/tw?country=tw&lang=zh"
+        },
+        {
+          "title": "ไทย",
+          "url": "https://www.shopify.com/th?country=th&lang=th"
+        },
+        {
+          "title": "Türkçe",
+          "url": "https://www.shopify.com/tr?country=tr&lang=tr"
+        },
+        {
+          "title": "Español (Intl.)",
+          "url": "https://www.shopify.com/es?country=us&lang=es"
+        },
+        {
+          "title": "简体中文",
+          "url": "https://www.shopify.com/zh?country=us&lang=zh"
+        }
+      ]
+    },
+    {
+      "title": "Main Navigation",
+      "items": [
+        {
+          "title": "Start your business.",
+          "url": "https://www.shopify.com/start",
+          "items": [
+            {
+              "title": "External source: Shopify Developers . Build with Shopify's powerful APIs",
+              "url": "https://shopify.dev"
+            }
+          ]
+        },
+        {
+          "title": "External source: Help and support . Get 24/7 support",
+          "url": "https://help.shopify.com/en/"
+        },
+        {
+          "title": "Enterprise",
+          "url": "https://www.shopify.com/enterprise"
+        },
+        {
+          "title": "External source: Changelog . Your source for recent updates",
+          "url": "https://changelog.shopify.com"
+        }
+      ]
+    }
+  ]
+}

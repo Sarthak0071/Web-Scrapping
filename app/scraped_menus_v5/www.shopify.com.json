@@ -1,0 +1,67 @@
+{
+  "website": "https://www.shopify.com",
+  "domain": "www.shopify.com",
+  "scraped_at": "2025-11-07T16:27:13.354207",
+  "menus": [
+    {
+      "title": "Main",
+      "items": [
+        {
+          "title": "Pricing",
+          "url": "https://www.shopify.com/pricing",
+          "items": []
+        },
+        {
+          "title": "Enterprise",
+          "url": "https://www.shopify.com/enterprise",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Shopify",
+      "items": [
+        {
+          "title": "About",
+          "url": "https://www.shopify.com/about",
+          "items": []
+        },
+        {
+          "title": "Careers",
+          "url": "https://www.shopify.com/careers",
+          "items": []
+        },
+        {
+          "title": "Investors",
+          "url": "https://shopifyinvestors.com/home/default.aspx",
+          "items": []
+        },
+        {
+          "title": "Press and Media",
+          "url": "https://www.shopify.com/news",
+          "items": []
+        },
+        {
+          "title": "Partners",
+          "url": "https://www.shopify.com/partners",
+          "items": []
+        },
+        {
+          "title": "Affiliates",
+          "url": "https://www.shopify.com/affiliates",
+          "items": []
+        },
+        {
+          "title": "Legal",
+          "url": "https://www.shopify.com/legal",
+          "items": []
+        },
+        {
+          "title": "Service status",
+          "url": "https://www.shopifystatus.com/",
+          "items": []
+        }
+      ]
+    }
+  ]
+}
