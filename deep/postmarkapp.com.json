@@ -1,7 +1,7 @@
 {
   "website": "https://postmarkapp.com",
   "domain": "postmarkapp.com",
-  "scraped_at": "2025-11-08 12:36:39",
+  "scraped_at": "2025-11-08 13:58:47",
   "menus": [
     {
       "menu_name": "Product",
@@ -87,7 +87,7 @@
           ]
         },
         {
-          "section_title": "Postmark vs.",
+          "section_title": "Postmark vs",
           "items": [
             {
               "title": "SendGrid",
@@ -113,12 +113,17 @@
               "title": "Mandrill",
               "description": "",
               "url": "https://postmarkapp.com/compare/mandrill-alternative"
-            },
-            {
-              "title": "Pricing",
-              "description": "",
-              "url": "https://postmarkapp.com/pricing"
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Resources",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
             {
               "title": "Blog",
               "description": "",
@@ -158,17 +163,7 @@
               "title": "Podcast",
               "description": "",
               "url": "https://postmarkapp.com/podcast"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "menu_name": "Resources",
-      "sections": [
-        {
-          "section_title": null,
-          "items": [
+            },
             {
               "title": "Labs",
               "description": "",
@@ -225,54 +220,14 @@
           "section_title": null,
           "items": [
             {
-              "title": "Why Postmark?",
+              "title": "Why Postmark",
               "description": "",
               "url": "https://postmarkapp.com/why"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "menu_name": "Navigation",
-      "sections": [
-        {
-          "section_title": null,
-          "items": [
-            {
-              "title": "Webhooks",
-              "description": "",
-              "url": "https://postmarkapp.com/email-webhooks"
             },
             {
-              "title": "Security",
+              "title": "Pricing",
               "description": "",
-              "url": "https://postmarkapp.com/security"
-            },
-            {
-              "title": "Email Experts",
-              "description": "",
-              "url": "https://postmarkapp.com/email-experts"
-            },
-            {
-              "title": "Rebound",
-              "description": "",
-              "url": "https://postmarkapp.com/rebound"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "menu_name": "Navigation",
-      "sections": [
-        {
-          "section_title": null,
-          "items": [
-            {
-              "title": "More",
-              "description": "",
-              "url": "https://postmarkapp.com/developer/integration/official-libraries"
+              "url": "https://postmarkapp.com/pricing"
             }
           ]
         }

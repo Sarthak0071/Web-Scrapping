@@ -1,7 +1,7 @@
 {
   "website": "https://www.getresponse.com",
   "domain": "www.getresponse.com",
-  "scraped_at": "2025-11-08 12:36:00",
+  "scraped_at": "2025-11-08 13:58:07",
   "menus": [
     {
       "menu_name": "Navigation",
@@ -9,6 +9,136 @@
         {
           "section_title": null,
           "items": [
+            {
+              "title": "Grow your list",
+              "description": "",
+              "url": "https://www.getresponse.com/solutions/lead-generation-software"
+            },
+            {
+              "title": "Landing pages",
+              "description": "",
+              "url": "https://www.getresponse.com/features/landing-page-creator"
+            },
+            {
+              "title": "Website builder",
+              "description": "",
+              "url": "https://www.getresponse.com/features/website-builder"
+            },
+            {
+              "title": "Conversion funnel",
+              "description": "",
+              "url": "https://www.getresponse.com/features/conversion-funnel"
+            },
+            {
+              "title": "Communicate",
+              "description": "",
+              "url": "https://www.getresponse.com/solutions/customer-engagement"
+            },
+            {
+              "title": "Email marketing",
+              "description": "",
+              "url": "https://www.getresponse.com/features/email-marketing"
+            },
+            {
+              "title": "Autoresponders",
+              "description": "",
+              "url": "https://www.getresponse.com/features/email-marketing/autoresponder"
+            },
+            {
+              "title": "Marketing automation",
+              "description": "",
+              "url": "https://www.getresponse.com/features/marketing-automation"
+            },
+            {
+              "title": "Web push notifications",
+              "description": "",
+              "url": "https://www.getresponse.com/features/web-push-notifications"
+            },
+            {
+              "title": "SMS marketing",
+              "description": "",
+              "url": "https://www.getresponse.com/features/sms-text-automation"
+            },
+            {
+              "title": "Promote and sell",
+              "description": "",
+              "url": "https://www.getresponse.com/solutions/ecommerce-marketing"
+            },
+            {
+              "title": "Ecommerce integrations",
+              "description": "",
+              "url": "https://www.getresponse.com/solutions/ecommerce-marketing#one-click-integrations"
+            },
+            {
+              "title": "Popup creator",
+              "description": "",
+              "url": "https://www.getresponse.com/features/popup-creator"
+            },
+            {
+              "title": "AI recommendations",
+              "description": "",
+              "url": "https://www.getresponse.com/features/product-recommendations"
+            },
+            {
+              "title": "Paid ads",
+              "description": "",
+              "url": "https://www.getresponse.com/features/paid-ads"
+            },
+            {
+              "title": "Monetize your knowledge",
+              "description": "",
+              "url": "https://www.getresponse.com/solutions/selling-knowledge"
+            },
+            {
+              "title": "Course creator",
+              "description": "",
+              "url": "https://www.getresponse.com/features/course-creator"
+            },
+            {
+              "title": "Premium newsletters",
+              "description": "",
+              "url": "https://www.getresponse.com/solutions/selling-knowledge#toolkit"
+            },
+            {
+              "title": "Creator's profile",
+              "description": "",
+              "url": "https://www.getresponse.com/features/course-creator#knowledge"
+            },
+            {
+              "title": "Webinars",
+              "description": "",
+              "url": "https://www.getresponse.com/features/webinar-software"
+            },
+            {
+              "title": "What’s new",
+              "description": "",
+              "url": "https://www.getresponse.com/about/whats-new"
+            },
+            {
+              "title": "Affiliate program",
+              "description": "",
+              "url": "https://www.getresponse.com/affiliate-programs"
+            },
+            {
+              "title": "All features",
+              "description": "",
+              "url": "https://www.getresponse.com/features"
+            },
+            {
+              "title": "170+ integrations",
+              "description": "",
+              "url": "https://www.getresponse.com/integrations"
+            },
+            {
+              "title": "Move to GetResponse",
+              "description": "",
+              "url": "https://www.getresponse.com/move-to-getresponse"
+            },
+            {
+              "title": "READ THE STORIES",
+              "description": "",
+              "url": "https://www.getresponse.com/customers"
+            },
             {
               "title": "Search",
               "description": "",
@@ -23,6 +153,11 @@
               "title": "Pricing",
               "description": "",
               "url": "https://www.getresponse.com/pricing"
+            },
+            {
+              "title": "Book a demo",
+              "description": "",
+              "url": "https://www.getresponse.com/max/book-a-demo"
             }
           ]
         }

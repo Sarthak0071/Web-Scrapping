@@ -1,26 +1,26 @@
 {
   "website": "https://ghost.org",
   "domain": "ghost.org",
-  "scraped_at": "2025-11-08 12:36:51",
+  "scraped_at": "2025-11-08 13:59:06",
   "menus": [
     {
-      "menu_name": "Product",
+      "menu_name": "Navigation",
       "sections": [
         {
           "section_title": null,
           "items": [
             {
-              "title": "For CreatorsYouTubers, bloggers, podcasters, musicians & artists",
+              "title": "For CreatorsJoin thousands of creators using Ghost to share their work",
               "description": "",
               "url": "https://ghost.org/creators/"
             },
             {
-              "title": "For PublishersWriters, journalists, local news and new media outlets",
+              "title": "For PublishersThe platform for independent publishers",
               "description": "",
               "url": "https://ghost.org/publishers/"
             },
             {
-              "title": "For BusinessModern brands & companies with ambitious content marketing",
+              "title": "For BusinessContent marketing for modern business",
               "description": "",
               "url": "https://ghost.org/business/"
             },
@@ -28,126 +28,6 @@
               "title": "For DevelopersSource code, documentation, guides and tutorials",
               "description": "",
               "url": "https://docs.ghost.org/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "menu_name": "Resources",
-      "sections": [
-        {
-          "section_title": null,
-          "items": [
-            {
-              "title": "MarketplaceProfessional themes, custom integrations and qualified experts",
-              "description": "",
-              "url": "https://ghost.org/marketplace/"
-            },
-            {
-              "title": "Start hereNewA huge library of guides, stories, interviews and tips for success",
-              "description": "",
-              "url": "https://ghost.org/resources/"
-            },
-            {
-              "title": "ThemesHundreds of beautifully designed publication templates",
-              "description": "",
-              "url": "https://ghost.org/themes/"
-            },
-            {
-              "title": "Help centerGet help with product features and answers to common questions.",
-              "description": "",
-              "url": "https://ghost.org/help/"
-            },
-            {
-              "title": "module-fourIntegrationsConnect thousands of apps and services with your website",
-              "description": "",
-              "url": "https://ghost.org/integrations/"
-            },
-            {
-              "title": "Product updatesAll the latest changes and improvements to Ghost",
-              "description": "",
-              "url": "https://ghost.org/changelog/"
-            },
-            {
-              "title": "ExpertsGet help building your site from certified Ghost developers",
-              "description": "",
-              "url": "https://ghost.org/experts/"
-            },
-            {
-              "title": "About usLearn more about the people behind the platform (We're hiring!)",
-              "description": "",
-              "url": "https://ghost.org/about/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "menu_name": "Navigation",
-      "sections": [
-        {
-          "section_title": null,
-          "items": [
-            {
-              "title": "Explore",
-              "description": "",
-              "url": "https://explore.ghost.org"
-            },
-            {
-              "title": "Pricing",
-              "description": "",
-              "url": "https://ghost.org/pricing/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "menu_name": "Navigation",
-      "sections": [
-        {
-          "section_title": null,
-          "items": [
-            {
-              "title": "Explore",
-              "description": "",
-              "url": "https://ghost.org/explore/"
-            },
-            {
-              "title": "Careers",
-              "description": "",
-              "url": "https://careers.ghost.org/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "menu_name": "Navigation",
-      "sections": [
-        {
-          "section_title": null,
-          "items": [
-            {
-              "title": "Terms",
-              "description": "",
-              "url": "https://ghost.org/terms/"
-            },
-            {
-              "title": "Privacy",
-              "description": "",
-              "url": "https://ghost.org/privacy/"
-            },
-            {
-              "title": "Contact",
-              "description": "",
-              "url": "https://ghost.org/contact/"
-            },
-            {
-              "title": "Ghost Foundation © 2025",
-              "description": "",
-              "url": "https://ghost.org/"
             }
           ]
         }

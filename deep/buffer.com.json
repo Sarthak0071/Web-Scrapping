@@ -1,7 +1,7 @@
 {
   "website": "https://buffer.com/",
   "domain": "buffer.com",
-  "scraped_at": "2025-11-08 12:33:24",
+  "scraped_at": "2025-11-08 13:59:38",
   "menus": [
     {
       "menu_name": "Features",
@@ -50,34 +50,19 @@
           "section_title": null,
           "items": [
             {
+              "title": "Buffer",
+              "description": "",
+              "url": "https://buffer.com/"
+            },
+            {
               "title": "Bluesky",
               "description": "",
               "url": "https://buffer.com/bluesky?cta=bufferSite-globalNav-channels-bluesky-1"
             },
             {
-              "title": "Facebook",
-              "description": "",
-              "url": "https://buffer.com/facebook?cta=bufferSite-globalNav-channels-facebook-1"
-            },
-            {
               "title": "Google Business Profile",
               "description": "",
               "url": "https://buffer.com/google-business-profile?cta=bufferSite-globalNav-channels-googleBusinessProfile-1"
-            },
-            {
-              "title": "Instagram",
-              "description": "",
-              "url": "https://buffer.com/instagram?cta=bufferSite-globalNav-channels-instagram-1"
-            },
-            {
-              "title": "LinkedIn",
-              "description": "",
-              "url": "https://buffer.com/linkedin?cta=bufferSite-globalNav-channels-linkedin-1"
-            },
-            {
-              "title": "Mastodon",
-              "description": "",
-              "url": "https://buffer.com/mastodon?cta=bufferSite-globalNav-channels-mastodon-1"
             },
             {
               "title": "Pinterest",
@@ -88,21 +73,6 @@
               "title": "Threads",
               "description": "",
               "url": "https://buffer.com/threads?cta=bufferSite-globalNav-channels-threads-1"
-            },
-            {
-              "title": "TikTok",
-              "description": "",
-              "url": "https://buffer.com/tiktok?cta=bufferSite-globalNav-channels-tiktok-1"
-            },
-            {
-              "title": "X (Twitter)",
-              "description": "",
-              "url": "https://buffer.com/x?cta=bufferSite-globalNav-channels-x-1"
-            },
-            {
-              "title": "YouTube",
-              "description": "",
-              "url": "https://buffer.com/youtube?cta=bufferSite-globalNav-channels-youtube-1"
             },
             {
               "title": "BlogReal-life stories and resources on growing an engaged audience",
@@ -118,6 +88,11 @@
               "title": "Free ToolsEasy-to-use tools to grow your presence across social media",
               "description": "",
               "url": "https://buffer.com/free-tools"
+            },
+            {
+              "title": "Social Media InsightsData-driven benchmarks, trends, and tips to grow smarter on social",
+              "description": "",
+              "url": "https://buffer.com/insights"
             },
             {
               "title": "Our CommunityLearn, connect, and grow with creators around the world",

@@ -1,7 +1,7 @@
 {
   "website": "https://carrd.co",
   "domain": "carrd.co",
-  "scraped_at": "2025-11-08 12:33:18",
+  "scraped_at": "2025-11-08 13:59:33",
   "menus": [
     {
       "menu_name": "Navigation",
@@ -10,14 +10,24 @@
           "section_title": null,
           "items": [
             {
-              "title": "Carrd",
+              "title": "DocumentationGet answers and instructions",
               "description": "",
-              "url": "https://carrd.co/"
+              "url": "https://carrd.co/docs"
             },
             {
-              "title": "Menu",
+              "title": "ChangelogLearn what's new (and changed",
               "description": "",
-              "url": "https://carrd.co#menu"
+              "url": "https://carrd.co/docs/general/changelog"
+            },
+            {
+              "title": "Go Pro!Upgrade your Carrd experience",
+              "description": "",
+              "url": "https://carrd.co/pro"
+            },
+            {
+              "title": "ContactSend your questions and comments",
+              "description": "",
+              "url": "https://carrd.co/contact"
             }
           ]
         }

@@ -1,18 +1,88 @@
 {
   "website": "https://www.airtable.com",
   "domain": "www.airtable.com",
-  "scraped_at": "2025-11-08 12:36:12",
+  "scraped_at": "2025-11-08 13:58:20",
   "menus": [
     {
-      "menu_name": "Navigation",
+      "menu_name": "Platform FeaturesLearn about automations, interfaces, and more",
       "sections": [
         {
           "section_title": null,
           "items": [
             {
-              "title": "Airtable home or view your bases",
+              "title": "AutomationsAchieve more in less time via automations",
               "description": "",
-              "url": "https://www.airtable.com/"
+              "url": "https://www.airtable.com/platform/automations"
+            },
+            {
+              "title": "DatabasesUse relational databases to connect data from apps, workflows, and tools",
+              "description": "",
+              "url": "https://www.airtable.com/platform/connected-data"
+            },
+            {
+              "title": "InterfacesCreate custom interfaces from your data",
+              "description": "",
+              "url": "https://www.airtable.com/platform/interface-designer"
+            },
+            {
+              "title": "ReportingMeasure, analyze, and share insights",
+              "description": "",
+              "url": "https://www.airtable.com/platform/reporting"
+            },
+            {
+              "title": "ViewsTailor data visualizations to your teams’ needs",
+              "description": "",
+              "url": "https://www.airtable.com/platform/views"
+            },
+            {
+              "title": "Governance and SecurityCentrally manage security, permissions and data protection",
+              "description": "",
+              "url": "https://www.airtable.com/platform/governance"
+            },
+            {
+              "title": "Airtable AIEmbed AI throughout end-to-end workflows",
+              "description": "",
+              "url": "https://www.airtable.com/platform/ai"
+            },
+            {
+              "title": "What's NewSee Airtable's latest product updates",
+              "description": "",
+              "url": "https://www.airtable.com/whatsnew"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "IntegrationsIntegrate with tools like Slack, Google Drive, and Salesforce",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "SlackAdd real-time messaging to your workflows",
+              "description": "",
+              "url": "https://www.airtable.com/integrations/slack"
+            },
+            {
+              "title": "Google DriveSync information and build workflows",
+              "description": "",
+              "url": "https://www.airtable.com/integrations/google-drive"
+            },
+            {
+              "title": "SalesforceLeverage CRM data across teams and tools",
+              "description": "",
+              "url": "https://www.airtable.com/integrations/salesforce"
+            },
+            {
+              "title": "JiraGenerate tickets and sync work from Airtable",
+              "description": "",
+              "url": "https://www.airtable.com/integrations/jira"
+            },
+            {
+              "title": "ZendeskSimplify and streamline workflows",
+              "description": "",
+              "url": "https://www.airtable.com/integrations/zendesk"
             }
           ]
         }
@@ -25,29 +95,34 @@
           "section_title": null,
           "items": [
             {
-              "title": "Blog",
+              "title": "Airtable PlatformUnlock the power of a next-gen app-building platform",
               "description": "",
-              "url": "https://www.airtable.com/articles"
+              "url": "https://www.airtable.com/platform"
             },
             {
-              "title": "Customer Stories",
+              "title": "AI App BuildingNEWEnable teams to build custom business apps—no code needed",
               "description": "",
-              "url": "https://www.airtable.com/customer-stories"
+              "url": "https://www.airtable.com/platform/app-building"
             },
             {
-              "title": "Builders & BreakthroughsNEW",
+              "title": "AI AgentsNEWDeploy thousands of agents inside your apps",
               "description": "",
-              "url": "https://www.airtable.com/breakthroughs"
+              "url": "https://www.airtable.com/platform/ai-agents"
             },
             {
-              "title": "Videos",
+              "title": "PortalsCollaborate seamlessly with guest users outside your organization",
               "description": "",
-              "url": "https://www.airtable.com/videos"
+              "url": "https://www.airtable.com/platform/portals"
             },
             {
-              "title": "Events",
+              "title": "ScaleBuild apps on top of massive data sets with 100M records",
               "description": "",
-              "url": "https://www.airtable.com/events-webinars"
+              "url": "https://www.airtable.com/platform/hyperdb"
+            },
+            {
+              "title": "DownloadGet the Airtable app for desktop and mobile",
+              "description": "",
+              "url": "https://www.airtable.com/downloads"
             }
           ]
         }

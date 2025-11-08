@@ -1,19 +1,14 @@
 {
   "website": "https://mailchimp.com",
   "domain": "mailchimp.com",
-  "scraped_at": "2025-11-08 12:35:54",
+  "scraped_at": "2025-11-08 13:58:01",
   "menus": [
     {
-      "menu_name": "Navigation",
+      "menu_name": "Solutions and Services",
       "sections": [
         {
-          "section_title": null,
+          "section_title": "Solutions and Services",
           "items": [
-            {
-              "title": "See what’s new",
-              "description": "",
-              "url": "https://mailchimp.com/whats-new/"
-            },
             {
               "title": "Email marketingSend personalized emails that convert",
               "description": "",
@@ -65,10 +60,15 @@
               "url": "https://mailchimp.com/solutions/lead-generation-platform/"
             },
             {
-              "title": "See all featuresSee all our product offerings in one place",
+              "title": "See what’s new",
               "description": "",
-              "url": "https://mailchimp.com/features/"
-            },
+              "url": "https://mailchimp.com/whats-new/"
+            }
+          ]
+        },
+        {
+          "section_title": "For your industry",
+          "items": [
             {
               "title": "E-commerce and retail",
               "description": "",
@@ -93,7 +93,12 @@
               "title": "Developers",
               "description": "",
               "url": "https://mailchimp.com/developer/"
-            },
+            }
+          ]
+        },
+        {
+          "section_title": "Professional Services",
+          "items": [
             {
               "title": "Hire an Expert",
               "description": "",
@@ -108,12 +113,17 @@
               "title": "Customer success",
               "description": "",
               "url": "https://mailchimp.com/services/customer-success-management/"
-            },
-            {
-              "title": "See 300+ Integrations",
-              "description": "",
-              "url": "https://mailchimp.com/integrations/"
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Integrations",
+      "sections": [
+        {
+          "section_title": "Most Popular",
+          "items": [
             {
               "title": "Shopify",
               "description": "",
@@ -160,20 +170,15 @@
               "url": "https://mailchimp.com/integrations/salesforce/"
             },
             {
-              "title": "LinkedIn",
-              "description": "",
-              "url": "https://mailchimp.com/integrations/linkedin-lead-gen-forms/"
-            },
-            {
               "title": "Wordpress",
               "description": "",
               "url": "https://mailchimp.com/integrations/wordpress/"
-            },
-            {
-              "title": "Facebook",
-              "description": "",
-              "url": "https://mailchimp.com/integrations/facebook/"
-            },
+            }
+          ]
+        },
+        {
+          "section_title": "Your Tech Stack",
+          "items": [
             {
               "title": "E-commerce",
               "description": "",
@@ -220,6 +225,16 @@
               "url": "https://mailchimp.com/integrations/?categories=Content"
             },
             {
+              "title": "See 300+ Integrations",
+              "description": "",
+              "url": "https://mailchimp.com/integrations/"
+            }
+          ]
+        },
+        {
+          "section_title": "For Developers",
+          "items": [
+            {
               "title": "Getting started",
               "description": "",
               "url": "https://mailchimp.com/developer/marketing/docs/fundamentals/"
@@ -238,12 +253,17 @@
               "title": "Webhooks",
               "description": "",
               "url": "https://mailchimp.com/developer/marketing/guides/sync-audience-data-webhooks/"
-            },
-            {
-              "title": "See all resources",
-              "description": "",
-              "url": "https://mailchimp.com/resources/"
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Resources",
+      "sections": [
+        {
+          "section_title": "Learn with Mailchimp",
+          "items": [
             {
               "title": "E-commerce",
               "description": "",
@@ -278,12 +298,22 @@
               "title": "Social media",
               "description": "",
               "url": "https://mailchimp.com/resources/social-media/"
-            },
+            }
+          ]
+        },
+        {
+          "section_title": "Mailchimp Presents",
+          "items": [
             {
               "title": "Podcasts",
               "description": "",
               "url": "https://mailchimp.com/presents/"
-            },
+            }
+          ]
+        },
+        {
+          "section_title": "For Developers",
+          "items": [
             {
               "title": "Transactional API",
               "description": "",
@@ -313,7 +343,17 @@
               "title": "Events",
               "description": "",
               "url": "https://mailchimp.com/events/"
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Navigation",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
             {
               "title": "Switch to Mailchimp",
               "description": "",
@@ -330,64 +370,9 @@
               "url": "https://mailchimp.com/search/"
             },
             {
-              "title": "ENEnglish",
-              "description": "",
-              "url": "https://mailchimp.com/"
-            },
-            {
-              "title": "ESEspañol",
-              "description": "",
-              "url": "https://mailchimp.com/es/"
-            },
-            {
-              "title": "FRFrançais",
-              "description": "",
-              "url": "https://mailchimp.com/fr/"
-            },
-            {
-              "title": "BRPortuguês",
-              "description": "",
-              "url": "https://mailchimp.com/pt-br/"
-            },
-            {
-              "title": "DEDeutsch",
-              "description": "",
-              "url": "https://mailchimp.com/de/"
-            },
-            {
-              "title": "ITItaliano",
-              "description": "",
-              "url": "https://mailchimp.com/it/"
-            },
-            {
-              "title": "Sales:+1 (800) 315-5939",
+              "title": "Contact Sales:+1 (800) 315-5939",
               "description": "",
               "url": "tel:+18003155939"
-            },
-            {
-              "title": "Audience",
-              "description": "",
-              "url": "https://admin.mailchimp.com/audience/contacts/?ref=plums_nav"
-            },
-            {
-              "title": "Campaigns",
-              "description": "",
-              "url": "https://admin.mailchimp.com/campaigns/?ref=plums_nav"
-            },
-            {
-              "title": "Account",
-              "description": "",
-              "url": "https://admin.mailchimp.com/account/?ref=plums_nav"
-            },
-            {
-              "title": "Log Out",
-              "description": "",
-              "url": "https://admin.mailchimp.com/login/out/?ref=plums_nav"
-            },
-            {
-              "title": "Mailchimp Home",
-              "description": "",
-              "url": "https://admin.mailchimp.com/?ref=plums_nav"
             }
           ]
         }

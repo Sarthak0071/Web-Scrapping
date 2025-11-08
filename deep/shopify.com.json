@@ -1,10 +1,10 @@
 {
   "website": "https://www.shopify.com",
   "domain": "www.shopify.com",
-  "scraped_at": "2025-11-08 12:36:59",
+  "scraped_at": "2025-11-08 13:59:14",
   "menus": [
     {
-      "menu_name": "Navigation",
+      "menu_name": "Solutions",
       "sections": [
         {
           "section_title": null,
@@ -38,7 +38,12 @@
               "title": "Explore free business tools.Tools to run your business",
               "description": "",
               "url": "https://www.shopify.com/tools"
-            },
+            }
+          ]
+        },
+        {
+          "section_title": null,
+          "items": [
             {
               "title": "Sell your products.Sell online or in person",
               "description": "",
@@ -60,7 +65,7 @@
               "url": "https://www.shopify.com/channels"
             },
             {
-              "title": "Sell in person.Point of Sale (POS)",
+              "title": "Sell in person.Point of Sale (POS",
               "description": "",
               "url": "https://www.shopify.com/pos"
             },
@@ -70,7 +75,7 @@
               "url": "https://www.shopify.com/international"
             },
             {
-              "title": "Sell wholesale & direct.Business-to-business (B2B)",
+              "title": "Sell wholesale & direct.Business-to-business (B2B",
               "description": "",
               "url": "https://www.shopify.com/plus/solutions/b2b-ecommerce"
             },
@@ -78,7 +83,12 @@
               "title": "Accept online payments.Set up forms of payment",
               "description": "",
               "url": "https://www.shopify.com/payments"
-            },
+            }
+          ]
+        },
+        {
+          "section_title": null,
+          "items": [
             {
               "title": "Market your business.Reach & retain customers",
               "description": "",
@@ -103,7 +113,12 @@
               "title": "Know your audience.Gain customer insights",
               "description": "",
               "url": "https://www.shopify.com/segmentation"
-            },
+            }
+          ]
+        },
+        {
+          "section_title": null,
+          "items": [
             {
               "title": "Manage your business.Track sales, orders & analytics",
               "description": "",
@@ -138,7 +153,12 @@
               "title": "Automate your business.Shopify Flow",
               "description": "",
               "url": "https://www.shopify.com/flow"
-            },
+            }
+          ]
+        },
+        {
+          "section_title": null,
+          "items": [
             {
               "title": "Shopify Developers.Build with Shopify's powerful APIs",
               "description": "",
@@ -148,17 +168,17 @@
               "title": "Plus.A commerce solution for growing digital brands",
               "description": "",
               "url": "https://www.shopify.com/plus"
-            },
-            {
-              "title": "All Products.Explore all Shopify products & features",
-              "description": "",
-              "url": "https://www.shopify.com/products"
-            },
-            {
-              "title": "Pricing",
-              "description": "",
-              "url": "https://www.shopify.com/pricing"
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Resources",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
             {
               "title": "Help and support.Get 24/7 support",
               "description": "",
@@ -178,14 +198,19 @@
               "title": "Shopify blog.Business strategy tips",
               "description": "",
               "url": "https://www.shopify.com/blog"
-            },
+            }
+          ]
+        },
+        {
+          "section_title": null,
+          "items": [
             {
               "title": "What is Shopify?.How our commerce platform works",
               "description": "",
               "url": "https://www.shopify.com/blog/what-is-shopify"
             },
             {
-              "title": "Shopify Editions.New, innovative Shopify products",
+              "title": "Shopify Editions., innovative Shopify products",
               "description": "",
               "url": "https://www.shopify.com/editions"
             },
@@ -218,32 +243,42 @@
               "title": "Business growth.Scale your business",
               "description": "",
               "url": "https://www.shopify.com/blog/how-to-scale-small-business"
-            },
+            }
+          ]
+        },
+        {
+          "section_title": null,
+          "items": [
             {
-              "title": "Logo maker.",
+              "title": "Logo maker",
               "description": "",
               "url": "https://www.shopify.com/tools/logo-maker"
             },
             {
-              "title": "Stock photography.",
+              "title": "Stock photography",
               "description": "",
               "url": "https://www.shopify.com/stock-photos"
             },
             {
-              "title": "Business plan template.",
+              "title": "Business plan template",
               "description": "",
               "url": "https://www.shopify.com/blog/business-plan-template"
             },
             {
-              "title": "QR code generator.",
+              "title": "QR code generator",
               "description": "",
               "url": "https://www.shopify.com/tools/qr-code-generator"
-            },
-            {
-              "title": "Enterprise",
-              "description": "",
-              "url": "https://www.shopify.com/enterprise"
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "What’s new",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
             {
               "title": "Changelog.Your source for recent updates",
               "description": "",
@@ -258,6 +293,26 @@
               "title": "Newsroom.All company news and press releases",
               "description": "",
               "url": "https://shopify.com/news"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Navigation",
+      "sections": [
+        {
+          "section_title": null,
+          "items": [
+            {
+              "title": "Pricing",
+              "description": "",
+              "url": "https://www.shopify.com/pricing"
+            },
+            {
+              "title": "Enterprise",
+              "description": "",
+              "url": "https://www.shopify.com/enterprise"
             },
             {
               "title": "Start for free",

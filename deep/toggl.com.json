@@ -1,7 +1,7 @@
 {
   "website": "https://toggl.com",
   "domain": "toggl.com",
-  "scraped_at": "2025-11-08 12:36:27",
+  "scraped_at": "2025-11-08 13:58:36",
   "menus": [
     {
       "menu_name": "Navigation",
@@ -9,21 +9,6 @@
         {
           "section_title": null,
           "items": [
-            {
-              "title": "Blog",
-              "description": "",
-              "url": "https://toggl.com/blog/"
-            },
-            {
-              "title": "About us",
-              "description": "",
-              "url": "https://toggl.com/about/"
-            },
-            {
-              "title": "Careers",
-              "description": "",
-              "url": "https://toggl.com/jobs/"
-            },
             {
               "title": "Enterprise",
               "description": "",
