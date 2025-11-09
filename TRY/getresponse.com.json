@@ -1,0 +1,197 @@
+{
+  "website": "https://www.getresponse.com",
+  "domain": "www.getresponse.com",
+  "scraped_at": "2025-11-09 12:25:48",
+  "menus": [
+    {
+      "menu_name": "Product",
+      "children": [
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "Grow your list",
+              "url": "https://www.getresponse.com/solutions/lead-generation-software"
+            },
+            {
+              "title": "Signup forms",
+              "url": "https://www.getresponse.com/features/list-building/form-builder"
+            },
+            {
+              "title": "Landing pages",
+              "url": "https://www.getresponse.com/features/landing-page-creator"
+            },
+            {
+              "title": "Website builder",
+              "url": "https://www.getresponse.com/features/website-builder"
+            },
+            {
+              "title": "Conversion funnel",
+              "url": "https://www.getresponse.com/features/conversion-funnel"
+            },
+            {
+              "title": "Communicate",
+              "url": "https://www.getresponse.com/solutions/customer-engagement"
+            },
+            {
+              "title": "Email marketing",
+              "url": "https://www.getresponse.com/features/email-marketing"
+            },
+            {
+              "title": "Autoresponders",
+              "url": "https://www.getresponse.com/features/email-marketing/autoresponder"
+            },
+            {
+              "title": "Marketing automation",
+              "url": "https://www.getresponse.com/features/marketing-automation"
+            },
+            {
+              "title": "Web push notifications",
+              "url": "https://www.getresponse.com/features/web-push-notifications"
+            },
+            {
+              "title": "SMS marketing",
+              "url": "https://www.getresponse.com/features/sms-text-automation"
+            },
+            {
+              "title": "Promote and sell",
+              "url": "https://www.getresponse.com/solutions/ecommerce-marketing"
+            },
+            {
+              "title": "Ecommerce integrations",
+              "url": "https://www.getresponse.com/solutions/ecommerce-marketing#one-click-integrations"
+            },
+            {
+              "title": "Popup creator",
+              "url": "https://www.getresponse.com/features/popup-creator"
+            },
+            {
+              "title": "AI recommendations",
+              "url": "https://www.getresponse.com/features/product-recommendations"
+            },
+            {
+              "title": "Paid ads",
+              "url": "https://www.getresponse.com/features/paid-ads"
+            },
+            {
+              "title": "Monetize your knowledge",
+              "url": "https://www.getresponse.com/solutions/selling-knowledge"
+            },
+            {
+              "title": "Course creator",
+              "url": "https://www.getresponse.com/features/course-creator"
+            },
+            {
+              "title": "Premium newsletters",
+              "url": "https://www.getresponse.com/solutions/selling-knowledge#toolkit"
+            },
+            {
+              "title": "Creator's profile",
+              "url": "https://www.getresponse.com/features/course-creator#knowledge"
+            },
+            {
+              "title": "Webinars",
+              "url": "https://www.getresponse.com/features/webinar-software"
+            },
+            {
+              "title": "What’s new",
+              "url": "https://www.getresponse.com/about/whats-new"
+            },
+            {
+              "title": "Affiliate program",
+              "url": "https://www.getresponse.com/affiliate-programs"
+            },
+            {
+              "title": "GetResponse free trial",
+              "url": "https://www.getresponse.com/pricing/trial"
+            },
+            {
+              "title": "All features",
+              "url": "https://www.getresponse.com/features"
+            },
+            {
+              "title": "170+ integrations",
+              "url": "https://www.getresponse.com/integrations"
+            },
+            {
+              "title": "Move to GetResponse",
+              "url": "https://www.getresponse.com/move-to-getresponse"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Resources",
+      "children": [
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "Blog",
+              "url": "https://www.getresponse.com/blog"
+            },
+            {
+              "title": "Resources",
+              "url": "https://www.getresponse.com/resources"
+            },
+            {
+              "title": "Webinars Library",
+              "url": "https://www.getresponse.com/webinar-library"
+            },
+            {
+              "title": "Customer Success Team",
+              "url": "https://www.getresponse.com/features/support"
+            },
+            {
+              "title": "Help Center",
+              "url": "https://www.getresponse.com/help"
+            },
+            {
+              "title": "API Docs",
+              "url": "https://apidocs.getresponse.com/v3"
+            },
+            {
+              "title": "READ THE STORIES›",
+              "url": "https://www.getresponse.com/customers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Navigation",
+      "children": [
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "Search",
+              "url": "https://www.getresponse.com/search"
+            },
+            {
+              "title": "Enterprise",
+              "url": "https://www.getresponse.com/max"
+            },
+            {
+              "title": "Pricing",
+              "url": "https://www.getresponse.com/pricing"
+            },
+            {
+              "title": "Log in",
+              "url": "https://app.getresponse.com/login?lang=en"
+            },
+            {
+              "title": "Book a demo",
+              "url": "https://www.getresponse.com/max/book-a-demo"
+            },
+            {
+              "title": "Sign up free",
+              "url": "https://www.getresponse.com/start-free?pageinfo=homepage"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

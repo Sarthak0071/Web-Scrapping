@@ -1,0 +1,21 @@
+{
+  "website": "https://www.trello.com",
+  "domain": "www.trello.com",
+  "scraped_at": "2025-11-09 12:27:01",
+  "menus": [
+    {
+      "menu_name": "Navigation",
+      "children": [
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "Pricing",
+              "url": "https://www.trello.com/pricing"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

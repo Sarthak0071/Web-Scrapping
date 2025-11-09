@@ -1,0 +1,33 @@
+{
+  "website": "https://www.mailgun.com",
+  "domain": "www.mailgun.com",
+  "scraped_at": "2025-11-09 12:26:32",
+  "menus": [
+    {
+      "menu_name": "Navigation",
+      "children": [
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "Log in",
+              "url": "https://login.mailgun.com/login/"
+            },
+            {
+              "title": "Start for free",
+              "url": "https://signup.mailgun.com/new/signup"
+            },
+            {
+              "title": "Contact sales",
+              "url": "https://www.mailgun.com/contact/sales/"
+            },
+            {
+              "title": "Start for free",
+              "url": "https://signup.mailgun.com/new/signup"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

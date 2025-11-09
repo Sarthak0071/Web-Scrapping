@@ -537,16 +537,26 @@ from urllib.parse import urljoin, urlparse
 from collections import defaultdict
 
 URLS = [
-    'https://mailchimp.com', 'https://www.constantcontact.com', 'https://www.getresponse.com',
-    'https://www.aweber.com', 'https://sendinblue.com', 'https://www.campaignmonitor.com',
-    'https://www.airtable.com', 'https://www.dropbox.com', 'https://todoist.com',
-    'https://evernote.com', 'https://www.rescuetime.com', 'https://toggl.com',
-    'https://www.twilio.com', 'https://www.sendgrid.com', 'https://postmarkapp.com',
-    'https://www.mailgun.com', 'https://www.plausible.io', 'https://umami.is',
-    'https://www.wordpress.com', 'https://ghost.org', 'https://write.as', 'https://neocities.org',
-    'https://www.shopify.com', 'https://bigcartel.com', 'https://gumroad.com', 'https://payhip.com',
-    'https://www.trello.com', 'https://basecamp.com', 'https://www.teuxdeux.com',
-    'https://carrd.co', 'https://typedream.com', 'https://buffer.com/'
+    'https://mailchimp.com',
+    'https://www.getresponse.com',
+    'https://www.aweber.com',
+    'https://www.airtable.com',
+    'https://todoist.com',
+    'https://evernote.com',
+    'https://www.rescuetime.com',
+    'https://toggl.com',
+    'https://www.sendgrid.com',
+    'https://postmarkapp.com',
+    'https://www.plausible.io',
+    'https://www.wordpress.com',
+    'https://ghost.org',
+    'https://neocities.org',
+    'https://www.shopify.com',
+    'https://bigcartel.com',
+    'https://www.trello.com',
+    'https://www.teuxdeux.com',
+    'https://typedream.com',
+    'https://buffer.com/'
 ]
 
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}

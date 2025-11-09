@@ -1,0 +1,25 @@
+{
+  "website": "https://www.campaignmonitor.com",
+  "domain": "www.campaignmonitor.com",
+  "scraped_at": "2025-11-09 12:25:58",
+  "menus": [
+    {
+      "menu_name": "Navigation",
+      "children": [
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "Try it free",
+              "url": "https://www.campaignmonitor.com/signup/?sv=home"
+            },
+            {
+              "title": "Log in",
+              "url": "https://login.createsend.com/l"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

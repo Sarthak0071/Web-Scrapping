@@ -1,0 +1,21 @@
+{
+  "website": "https://basecamp.com",
+  "domain": "basecamp.com",
+  "scraped_at": "2025-11-09 12:27:04",
+  "menus": [
+    {
+      "menu_name": "Navigation",
+      "children": [
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "books on how to run a business",
+              "url": "https://basecamp.com/books"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

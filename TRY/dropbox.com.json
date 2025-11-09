@@ -1,0 +1,165 @@
+{
+  "website": "https://www.dropbox.com",
+  "domain": "www.dropbox.com",
+  "scraped_at": "2025-11-09 12:26:06",
+  "menus": [
+    {
+      "menu_name": "Navigation",
+      "children": [
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "Sales",
+              "url": "https://www.dropbox.com/business/solutions/sales"
+            },
+            {
+              "title": "Marketing",
+              "url": "https://www.dropbox.com/business/solutions/marketing"
+            },
+            {
+              "title": "HR",
+              "url": "https://www.dropbox.com/business/solutions/human-resources"
+            },
+            {
+              "title": "IT",
+              "url": "https://www.dropbox.com/business/solutions/it"
+            },
+            {
+              "title": "Creatives",
+              "url": "https://www.dropbox.com/business/solutions/creatives"
+            },
+            {
+              "title": "Cloud storage",
+              "url": "https://www.dropbox.com/features/cloud-storage"
+            },
+            {
+              "title": "Send large files",
+              "url": "https://www.dropbox.com/features/share/send-large-files"
+            },
+            {
+              "title": "Video review",
+              "url": "https://www.dropbox.com/replay"
+            },
+            {
+              "title": "Signing documents",
+              "url": "https://www.dropbox.com/features/productivity/electronic-signature"
+            },
+            {
+              "title": "Sharing files",
+              "url": "https://www.dropbox.com/features/share"
+            },
+            {
+              "title": "Construction",
+              "url": "https://www.dropbox.com/business/solutions/construction"
+            },
+            {
+              "title": "Technology",
+              "url": "https://www.dropbox.com/business/solutions/technology"
+            },
+            {
+              "title": "Manufacturing",
+              "url": "https://www.dropbox.com/business/solutions/manufacturing"
+            },
+            {
+              "title": "Media",
+              "url": "https://www.dropbox.com/business/solutions/media"
+            },
+            {
+              "title": "Professional services",
+              "url": "https://www.dropbox.com/business/solutions/professional-services"
+            },
+            {
+              "title": "Education",
+              "url": "https://www.dropbox.com/education"
+            },
+            {
+              "title": "Desktop app",
+              "url": "https://www.dropbox.com/desktop"
+            },
+            {
+              "title": "Mobile app",
+              "url": "https://www.dropbox.com/mobile"
+            },
+            {
+              "title": "Get started",
+              "url": "https://www.dropbox.com/plans"
+            },
+            {
+              "title": "Sales",
+              "url": "https://www.dropbox.com/business/solutions/sales"
+            },
+            {
+              "title": "Marketing",
+              "url": "https://www.dropbox.com/business/solutions/marketing"
+            },
+            {
+              "title": "HR",
+              "url": "https://www.dropbox.com/business/solutions/human-resources"
+            },
+            {
+              "title": "IT",
+              "url": "https://www.dropbox.com/business/solutions/it"
+            },
+            {
+              "title": "Creatives",
+              "url": "https://www.dropbox.com/business/solutions/creatives"
+            },
+            {
+              "title": "Cloud storage",
+              "url": "https://www.dropbox.com/features/cloud-storage"
+            },
+            {
+              "title": "Send large files",
+              "url": "https://www.dropbox.com/features/share/send-large-files"
+            },
+            {
+              "title": "Video review",
+              "url": "https://www.dropbox.com/replay"
+            },
+            {
+              "title": "Signing documents",
+              "url": "https://www.dropbox.com/features/productivity/electronic-signature"
+            },
+            {
+              "title": "Sharing files",
+              "url": "https://www.dropbox.com/features/share"
+            },
+            {
+              "title": "Construction",
+              "url": "https://www.dropbox.com/business/solutions/construction"
+            },
+            {
+              "title": "Technology",
+              "url": "https://www.dropbox.com/business/solutions/technology"
+            },
+            {
+              "title": "Manufacturing",
+              "url": "https://www.dropbox.com/business/solutions/manufacturing"
+            },
+            {
+              "title": "Media",
+              "url": "https://www.dropbox.com/business/solutions/media"
+            },
+            {
+              "title": "Professional services",
+              "url": "https://www.dropbox.com/business/solutions/professional-services"
+            },
+            {
+              "title": "Education",
+              "url": "https://www.dropbox.com/education"
+            },
+            {
+              "title": "Desktop app",
+              "url": "https://www.dropbox.com/desktop"
+            },
+            {
+              "title": "Mobile app",
+              "url": "https://www.dropbox.com/mobile"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,654 @@
+{
+  "website": "https://mailchimp.com",
+  "domain": "mailchimp.com",
+  "scraped_at": "2025-11-09 12:25:43",
+  "menus": [
+    {
+      "menu_name": "Solutions and Services",
+      "children": [
+        {
+          "section": "Solutions and Services",
+          "items": [
+            {
+              "title": "Email marketingSend personalized emails that convert",
+              "url": "https://mailchimp.com/solutions/email-marketing-platform/"
+            },
+            {
+              "title": "WebsitesCreate your branded web presence",
+              "url": "https://mailchimp.com/solutions/website-builder/"
+            },
+            {
+              "title": "Social media marketingAmplify the conversation across multiple channels",
+              "url": "https://mailchimp.com/solutions/social-media-marketing-tools/"
+            },
+            {
+              "title": "TemplatesCustomize pre-designed layouts",
+              "url": "https://mailchimp.com/solutions/digital-marketing-templates/"
+            },
+            {
+              "title": "Marketing automationDeliver the right message at the right time",
+              "url": "https://mailchimp.com/solutions/marketing-automation-tools/"
+            },
+            {
+              "title": "Reporting and analyticsTrack sales & campaign performance",
+              "url": "https://mailchimp.com/solutions/analytics-reporting-tools/"
+            },
+            {
+              "title": "Audience managementTarget and segment customers",
+              "url": "https://mailchimp.com/solutions/audience-segmentation-tools/"
+            },
+            {
+              "title": "AI marketing toolsSay hello to your AI growth assistant",
+              "url": "https://mailchimp.com/solutions/ai-tools/"
+            },
+            {
+              "title": "Content creation toolsBuild content that captivates and converts",
+              "url": "https://mailchimp.com/solutions/content-creation-tools/"
+            },
+            {
+              "title": "Lead generation platformGrow your audience with high-quality leads",
+              "url": "https://mailchimp.com/solutions/lead-generation-platform/"
+            },
+            {
+              "title": "See all featuresSee all our product offerings in one place",
+              "url": "https://mailchimp.com/features/"
+            },
+            {
+              "title": "See what’s new",
+              "url": "https://mailchimp.com/whats-new/"
+            }
+          ]
+        },
+        {
+          "section": "For your industry",
+          "items": [
+            {
+              "title": "E-commerce and retail",
+              "url": "https://mailchimp.com/solutions/ecommerce-marketing-tools/"
+            },
+            {
+              "title": "Mobile and web apps",
+              "url": "https://mailchimp.com/solutions/mobile-app-marketing-tools/"
+            },
+            {
+              "title": "Start-ups",
+              "url": "https://mailchimp.com/solutions/marketing-tools-startups/"
+            },
+            {
+              "title": "Agencies and freelancers",
+              "url": "https://mailchimp.com/andco/"
+            },
+            {
+              "title": "Developers",
+              "url": "https://mailchimp.com/developer/"
+            }
+          ]
+        },
+        {
+          "section": "Professional Services",
+          "items": [
+            {
+              "title": "Hire an Expert",
+              "url": "https://mailchimp.com/experts/"
+            },
+            {
+              "title": "Personalized onboarding",
+              "url": "https://mailchimp.com/services/onboarding/"
+            },
+            {
+              "title": "Customer success",
+              "url": "https://mailchimp.com/services/customer-success-management/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Integrations",
+      "children": [
+        {
+          "section": "Most Popular",
+          "items": [
+            {
+              "title": "Shopify",
+              "url": "https://mailchimp.com/integrations/shopify-mailchimp/"
+            },
+            {
+              "title": "WooCommerce",
+              "url": "https://mailchimp.com/integrations/woocommerce-mailchimp/"
+            },
+            {
+              "title": "Canva",
+              "url": "https://mailchimp.com/integrations/canva/"
+            },
+            {
+              "title": "Zapier",
+              "url": "https://mailchimp.com/integrations/zapier/"
+            },
+            {
+              "title": "Square",
+              "url": "https://mailchimp.com/integrations/square/"
+            },
+            {
+              "title": "Wix",
+              "url": "https://mailchimp.com/integrations/wix/"
+            },
+            {
+              "title": "Squarespace",
+              "url": "https://mailchimp.com/integrations/squarespace-commerce/"
+            },
+            {
+              "title": "Stripe",
+              "url": "https://mailchimp.com/integrations/stripe/"
+            },
+            {
+              "title": "Salesforce",
+              "url": "https://mailchimp.com/integrations/salesforce/"
+            },
+            {
+              "title": "LinkedIn",
+              "url": "https://mailchimp.com/integrations/linkedin-lead-gen-forms/"
+            },
+            {
+              "title": "Wordpress",
+              "url": "https://mailchimp.com/integrations/wordpress/"
+            },
+            {
+              "title": "Facebook",
+              "url": "https://mailchimp.com/integrations/facebook/"
+            }
+          ]
+        },
+        {
+          "section": "Your Tech Stack",
+          "items": [
+            {
+              "title": "E-commerce",
+              "url": "https://mailchimp.com/integrations/?categories=E-commerce"
+            },
+            {
+              "title": "Analytics",
+              "url": "https://mailchimp.com/integrations/?categories=Analytics"
+            },
+            {
+              "title": "Booking & Scheduling",
+              "url": "https://mailchimp.com/integrations/?categories=Booking+%26+Scheduling"
+            },
+            {
+              "title": "Loyalty",
+              "url": "https://mailchimp.com/integrations/?categories=Loyalty"
+            },
+            {
+              "title": "Subscription management",
+              "url": "https://mailchimp.com/integrations/?categories=Subscription+Management"
+            },
+            {
+              "title": "Customer service",
+              "url": "https://mailchimp.com/integrations/?categories=Customer+Service"
+            },
+            {
+              "title": "Forms & Surveys",
+              "url": "https://mailchimp.com/integrations/?categories=Forms+%26+Surveys"
+            },
+            {
+              "title": "Developer tools",
+              "url": "https://mailchimp.com/integrations/?categories=Developer+Tools"
+            },
+            {
+              "title": "Content",
+              "url": "https://mailchimp.com/integrations/?categories=Content"
+            },
+            {
+              "title": "See 300+ Integrations",
+              "url": "https://mailchimp.com/integrations/"
+            }
+          ]
+        },
+        {
+          "section": "For Developers",
+          "items": [
+            {
+              "title": "Getting started",
+              "url": "https://mailchimp.com/developer/marketing/docs/fundamentals/"
+            },
+            {
+              "title": "Developer guides",
+              "url": "https://mailchimp.com/developer/marketing/guides/quick-start/"
+            },
+            {
+              "title": "API docs",
+              "url": "https://mailchimp.com/developer/marketing/api/"
+            },
+            {
+              "title": "Webhooks",
+              "url": "https://mailchimp.com/developer/marketing/guides/sync-audience-data-webhooks/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Resources",
+      "children": [
+        {
+          "section": "Learn with Mailchimp",
+          "items": [
+            {
+              "title": "E-commerce",
+              "url": "https://mailchimp.com/resources/e-commerce/"
+            },
+            {
+              "title": "Digital content",
+              "url": "https://mailchimp.com/resources/digital-content/"
+            },
+            {
+              "title": "Marketing automations",
+              "url": "https://mailchimp.com/resources/marketing-automations/"
+            },
+            {
+              "title": "Audience management",
+              "url": "https://mailchimp.com/resources/crm/"
+            },
+            {
+              "title": "Websites",
+              "url": "https://mailchimp.com/resources/free-marketing-features-overview/"
+            },
+            {
+              "title": "Email marketing",
+              "url": "https://mailchimp.com/resources/email/"
+            },
+            {
+              "title": "Social media",
+              "url": "https://mailchimp.com/resources/social-media/"
+            }
+          ]
+        },
+        {
+          "section": "Mailchimp Presents",
+          "items": [
+            {
+              "title": "Podcasts",
+              "url": "https://mailchimp.com/presents/"
+            },
+            {
+              "title": "Series",
+              "url": "https://mailchimp.com/presents/"
+            },
+            {
+              "title": "Films",
+              "url": "https://mailchimp.com/presents/"
+            }
+          ]
+        },
+        {
+          "section": "For Developers",
+          "items": [
+            {
+              "title": "Marketing API",
+              "url": "https://mailchimp.com/developer/marketing/guides/quick-start/"
+            },
+            {
+              "title": "Transactional API",
+              "url": "https://mailchimp.com/developer/guides/transactional-api-quick-start/"
+            },
+            {
+              "title": "Release notes",
+              "url": "https://mailchimp.com/developer/release-notes/"
+            },
+            {
+              "title": "Transactional email",
+              "url": "https://mailchimp.com/features/transactional-email/"
+            },
+            {
+              "title": "See all resources",
+              "url": "https://mailchimp.com/resources/"
+            },
+            {
+              "title": "Help Center",
+              "url": "https://mailchimp.com/help/"
+            },
+            {
+              "title": "Case Studies",
+              "url": "https://mailchimp.com/case-studies/"
+            },
+            {
+              "title": "Events",
+              "url": "https://mailchimp.com/events/"
+            }
+          ]
+        },
+        {
+          "section": "Professional Services",
+          "items": [
+            {
+              "title": "Hire an Expert",
+              "url": "https://mailchimp.com/experts/"
+            },
+            {
+              "title": "Personalized onboarding",
+              "url": "https://mailchimp.com/services/onboarding/"
+            },
+            {
+              "title": "Customer success",
+              "url": "https://mailchimp.com/services/customer-success-management/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Hi, %s",
+      "children": [
+        {
+          "section": "Account",
+          "items": [
+            {
+              "title": "Audience",
+              "url": "https://admin.mailchimp.com/audience/contacts/?ref=plums_nav"
+            },
+            {
+              "title": "Campaigns",
+              "url": "https://admin.mailchimp.com/campaigns/?ref=plums_nav"
+            },
+            {
+              "title": "Log Out",
+              "url": "https://admin.mailchimp.com/login/out/?ref=plums_nav"
+            },
+            {
+              "title": "Mailchimp Home",
+              "url": "https://admin.mailchimp.com/?ref=plums_nav"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "For your industry",
+      "children": [
+        {
+          "section": "For your industry",
+          "items": [
+            {
+              "title": "E-commerce and retail",
+              "url": "https://mailchimp.com/solutions/ecommerce-marketing-tools/"
+            },
+            {
+              "title": "Mobile and web apps",
+              "url": "https://mailchimp.com/solutions/mobile-app-marketing-tools/"
+            },
+            {
+              "title": "Start-ups",
+              "url": "https://mailchimp.com/solutions/marketing-tools-startups/"
+            },
+            {
+              "title": "Agencies and freelancers",
+              "url": "https://mailchimp.com/andco/"
+            },
+            {
+              "title": "Developers",
+              "url": "https://mailchimp.com/developer/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Professional Services",
+      "children": [
+        {
+          "section": "Professional Services",
+          "items": [
+            {
+              "title": "Hire an Expert",
+              "url": "https://mailchimp.com/experts/"
+            },
+            {
+              "title": "Personalized onboarding",
+              "url": "https://mailchimp.com/services/onboarding/"
+            },
+            {
+              "title": "Customer success",
+              "url": "https://mailchimp.com/services/customer-success-management/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Most Popular",
+      "children": [
+        {
+          "section": "Most Popular",
+          "items": [
+            {
+              "title": "Shopify",
+              "url": "https://mailchimp.com/integrations/shopify-mailchimp/"
+            },
+            {
+              "title": "WooCommerce",
+              "url": "https://mailchimp.com/integrations/woocommerce-mailchimp/"
+            },
+            {
+              "title": "Canva",
+              "url": "https://mailchimp.com/integrations/canva/"
+            },
+            {
+              "title": "Zapier",
+              "url": "https://mailchimp.com/integrations/zapier/"
+            },
+            {
+              "title": "Square",
+              "url": "https://mailchimp.com/integrations/square/"
+            },
+            {
+              "title": "Wix",
+              "url": "https://mailchimp.com/integrations/wix/"
+            },
+            {
+              "title": "Squarespace",
+              "url": "https://mailchimp.com/integrations/squarespace-commerce/"
+            },
+            {
+              "title": "Stripe",
+              "url": "https://mailchimp.com/integrations/stripe/"
+            },
+            {
+              "title": "Salesforce",
+              "url": "https://mailchimp.com/integrations/salesforce/"
+            },
+            {
+              "title": "LinkedIn",
+              "url": "https://mailchimp.com/integrations/linkedin-lead-gen-forms/"
+            },
+            {
+              "title": "Wordpress",
+              "url": "https://mailchimp.com/integrations/wordpress/"
+            },
+            {
+              "title": "Facebook",
+              "url": "https://mailchimp.com/integrations/facebook/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Your Tech Stack",
+      "children": [
+        {
+          "section": "Your Tech Stack",
+          "items": [
+            {
+              "title": "E-commerce",
+              "url": "https://mailchimp.com/integrations/?categories=E-commerce"
+            },
+            {
+              "title": "Analytics",
+              "url": "https://mailchimp.com/integrations/?categories=Analytics"
+            },
+            {
+              "title": "Booking & Scheduling",
+              "url": "https://mailchimp.com/integrations/?categories=Booking+%26+Scheduling"
+            },
+            {
+              "title": "Loyalty",
+              "url": "https://mailchimp.com/integrations/?categories=Loyalty"
+            },
+            {
+              "title": "Subscription management",
+              "url": "https://mailchimp.com/integrations/?categories=Subscription+Management"
+            },
+            {
+              "title": "Customer service",
+              "url": "https://mailchimp.com/integrations/?categories=Customer+Service"
+            },
+            {
+              "title": "Forms & Surveys",
+              "url": "https://mailchimp.com/integrations/?categories=Forms+%26+Surveys"
+            },
+            {
+              "title": "Developer tools",
+              "url": "https://mailchimp.com/integrations/?categories=Developer+Tools"
+            },
+            {
+              "title": "Content",
+              "url": "https://mailchimp.com/integrations/?categories=Content"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "For Developers",
+      "children": [
+        {
+          "section": "For Developers",
+          "items": [
+            {
+              "title": "Getting started",
+              "url": "https://mailchimp.com/developer/marketing/docs/fundamentals/"
+            },
+            {
+              "title": "Developer guides",
+              "url": "https://mailchimp.com/developer/marketing/guides/quick-start/"
+            },
+            {
+              "title": "API docs",
+              "url": "https://mailchimp.com/developer/marketing/api/"
+            },
+            {
+              "title": "Webhooks",
+              "url": "https://mailchimp.com/developer/marketing/guides/sync-audience-data-webhooks/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Learn with Mailchimp",
+      "children": [
+        {
+          "section": "Learn with Mailchimp",
+          "items": [
+            {
+              "title": "E-commerce",
+              "url": "https://mailchimp.com/resources/e-commerce/"
+            },
+            {
+              "title": "Digital content",
+              "url": "https://mailchimp.com/resources/digital-content/"
+            },
+            {
+              "title": "Marketing automations",
+              "url": "https://mailchimp.com/resources/marketing-automations/"
+            },
+            {
+              "title": "Audience management",
+              "url": "https://mailchimp.com/resources/crm/"
+            },
+            {
+              "title": "Websites",
+              "url": "https://mailchimp.com/resources/free-marketing-features-overview/"
+            },
+            {
+              "title": "Email marketing",
+              "url": "https://mailchimp.com/resources/email/"
+            },
+            {
+              "title": "Social media",
+              "url": "https://mailchimp.com/resources/social-media/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Mailchimp Presents",
+      "children": [
+        {
+          "section": "Mailchimp Presents",
+          "items": [
+            {
+              "title": "Podcasts",
+              "url": "https://mailchimp.com/presents/"
+            },
+            {
+              "title": "Series",
+              "url": "https://mailchimp.com/presents/"
+            },
+            {
+              "title": "Films",
+              "url": "https://mailchimp.com/presents/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_name": "Navigation",
+      "children": [
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "Switch to Mailchimp",
+              "url": "https://mailchimp.com/switch-to-mailchimp/"
+            },
+            {
+              "title": "Pricing",
+              "url": "https://mailchimp.com/pricing/marketing/"
+            },
+            {
+              "title": "Search",
+              "url": "https://mailchimp.com/search/"
+            },
+            {
+              "title": "Contact Sales:+1 (800) 315-5939",
+              "url": "tel:+18003155939"
+            },
+            {
+              "title": "Log In",
+              "url": "https://login.mailchimp.com?locale=en"
+            },
+            {
+              "title": "Sign Up",
+              "url": "https://mailchimp.com/pricing/marketing/"
+            },
+            {
+              "title": "Log In",
+              "url": "https://login.mailchimp.com?locale=en"
+            },
+            {
+              "title": "Log In",
+              "url": "https://login.mailchimp.com?locale=en"
+            },
+            {
+              "title": "Sign Up",
+              "url": "https://mailchimp.com/pricing/marketing/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

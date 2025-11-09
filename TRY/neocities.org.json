@@ -1,0 +1,41 @@
+{
+  "website": "https://neocities.org",
+  "domain": "neocities.org",
+  "scraped_at": "2025-11-09 12:26:50",
+  "menus": [
+    {
+      "menu_name": "Navigation",
+      "children": [
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "Neocities",
+              "url": "https://neocities.org/"
+            },
+            {
+              "title": "Websites",
+              "url": "https://neocities.org/browse"
+            },
+            {
+              "title": "Activity",
+              "url": "https://neocities.org/activity"
+            },
+            {
+              "title": "Learn",
+              "url": "https://neocities.org/tutorials"
+            },
+            {
+              "title": "Support Us",
+              "url": "https://neocities.org/supporter"
+            },
+            {
+              "title": "Sign In",
+              "url": "https://neocities.org/signin"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

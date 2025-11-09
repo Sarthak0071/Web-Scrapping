@@ -1,0 +1,20 @@
+{
+  "url": "https://gumroad.com",
+  "reason": "Low internal: 0%",
+  "menus": [
+    {
+      "menu_name": "Navigation",
+      "children": [
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "GitHub",
+              "url": "https://github.com/antiwork/gumroad"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "website": "https://www.shopify.com",
+  "domain": "www.shopify.com",
+  "scraped_at": "2025-11-09 12:26:52",
+  "menus": [
+    {
+      "menu_name": "Navigation",
+      "children": [
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "Start your business.Build your brand",
+              "url": "https://www.shopify.com/start"
+            },
+            {
+              "title": "Create your website.Online store editor",
+              "url": "https://www.shopify.com/website/builder"
+            },
+            {
+              "title": "Customize your store.Store themes",
+              "url": "https://themes.shopify.com/"
+            },
+            {
+              "title": "Find business apps.Shopify app store",
+              "url": "https://apps.shopify.com/"
+            },
+            {
+              "title": "Own your site domain.Domains & hosting",
+              "url": "https://www.shopify.com/domains"
+            },
+            {
+              "title": "Explore free business tools.Tools to run your business",
+              "url": "https://www.shopify.com/tools"
+            },
+            {
+              "title": "Sell your products.Sell online or in person",
+              "url": "https://www.shopify.com/sell"
+            },
+            {
+              "title": "Check out customers.World-class checkout",
+              "url": "https://www.shopify.com/checkout"
+            },
+            {
+              "title": "Sell online.Grow your business online",
+              "url": "https://www.shopify.com/online"
+            },
+            {
+              "title": "Sell across channels.Reach millions of shoppers and boost sales",
+              "url": "https://www.shopify.com/channels"
+            },
+            {
+              "title": "Sell in person.Point of Sale (POS)",
+              "url": "https://www.shopify.com/pos"
+            },
+            {
+              "title": "Sell globally.International sales",
+              "url": "https://www.shopify.com/international"
+            },
+            {
+              "title": "Sell wholesale & direct.Business-to-business (B2B)",
+              "url": "https://www.shopify.com/plus/solutions/b2b-ecommerce"
+            },
+            {
+              "title": "Accept online payments.Set up forms of payment",
+              "url": "https://www.shopify.com/payments"
+            },
+            {
+              "title": "Market your business.Reach & retain customers",
+              "url": "https://www.shopify.com/marketing"
+            },
+            {
+              "title": "Market across social.Social media integrations",
+              "url": "https://www.shopify.com/facebook-instagram"
+            },
+            {
+              "title": "Chat with customers.Shopify Inbox",
+              "url": "https://www.shopify.com/inbox"
+            },
+            {
+              "title": "Nurture customers.Shopify Email",
+              "url": "https://www.shopify.com/email-marketing"
+            },
+            {
+              "title": "Know your audience.Gain customer insights",
+              "url": "https://www.shopify.com/segmentation"
+            },
+            {
+              "title": "Manage your business.Track sales, orders & analytics",
+              "url": "https://www.shopify.com/manage"
+            },
+            {
+              "title": "Manage your finances & access funding.Shopify Finance",
+              "url": "https://www.shopify.com/finance"
+            },
+            {
+              "title": "Measure your performance.Analytics and Reporting",
+              "url": "https://www.shopify.com/analytics"
+            },
+            {
+              "title": "Ship orders faster.Shopify Shipping",
+              "url": "https://www.shopify.com/shipping"
+            },
+            {
+              "title": "Manage your stock & orders.Inventory & order management",
+              "url": "https://www.shopify.com/orders"
+            },
+            {
+              "title": "Outsource fulfillment & returns.Shopify Fulfillment Network",
+              "url": "https://www.shopify.com/fulfillment"
+            },
+            {
+              "title": "Automate your business.Shopify Flow",
+              "url": "https://www.shopify.com/flow"
+            },
+            {
+              "title": "Help and support.Get 24/7 support",
+              "url": "https://help.shopify.com/en/"
+            },
+            {
+              "title": "How-to guides.Read in-depth business guides",
+              "url": "https://www.shopify.com/blog/topics/guides"
+            },
+            {
+              "title": "Business courses.Learn from proven experts",
+              "url": "https://www.shopifyacademy.com"
+            },
+            {
+              "title": "Shopify blog.Business strategy tips",
+              "url": "https://www.shopify.com/blog"
+            },
+            {
+              "title": "What is Shopify?.How our commerce platform works",
+              "url": "https://www.shopify.com/blog/what-is-shopify"
+            },
+            {
+              "title": "Shopify Editions.New, innovative Shopify products",
+              "url": "https://www.shopify.com/editions"
+            },
+            {
+              "title": "Founder stories.Learn from successful merchants",
+              "url": "https://www.shopify.com/blog/topics/founder-stories"
+            },
+            {
+              "title": "Branding.Build your brand from scratch",
+              "url": "https://www.shopify.com/blog/how-to-build-a-brand"
+            },
+            {
+              "title": "Marketing.Build a marketing plan",
+              "url": "https://www.shopify.com/blog/marketing-plan"
+            },
+            {
+              "title": "Ecommerce SEO.Improve your search ranking",
+              "url": "https://www.shopify.com/blog/ecommerce-seo-beginners-guide"
+            },
+            {
+              "title": "Social media strategy.Turn social into sales",
+              "url": "https://www.shopify.com/blog/topics/social-media-optimization"
+            },
+            {
+              "title": "Business growth.Scale your business",
+              "url": "https://www.shopify.com/blog/how-to-scale-small-business"
+            },
+            {
+              "title": "Logo maker.",
+              "url": "https://www.shopify.com/tools/logo-maker"
+            },
+            {
+              "title": "Stock photography.",
+              "url": "https://www.shopify.com/stock-photos"
+            },
+            {
+              "title": "Business plan template.",
+              "url": "https://www.shopify.com/blog/business-plan-template"
+            },
+            {
+              "title": "QR code generator.",
+              "url": "https://www.shopify.com/tools/qr-code-generator"
+            },
+            {
+              "title": "Changelog.Your source for recent updates",
+              "url": "https://changelog.shopify.com"
+            },
+            {
+              "title": "Summer ’25 Edition.The latest 150+ product updates",
+              "url": "https://www.shopify.com/editions/summer2025"
+            },
+            {
+              "title": "All Editions.Archive of past Shopify Editions",
+              "url": "https://www.shopify.com/editions"
+            },
+            {
+              "title": "Newsroom.All company news and press releases",
+              "url": "https://shopify.com/news"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

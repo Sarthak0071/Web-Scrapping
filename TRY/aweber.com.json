@@ -1,0 +1,45 @@
+{
+  "website": "https://www.aweber.com",
+  "domain": "www.aweber.com",
+  "scraped_at": "2025-11-09 12:25:52",
+  "menus": [
+    {
+      "menu_name": "Navigation",
+      "children": [
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "✦ Newsletter Assistant",
+              "url": "https://www.aweber.com/newsletter-assistant.htm"
+            },
+            {
+              "title": "Features",
+              "url": "https://www.aweber.com/email-marketing-features.htm"
+            },
+            {
+              "title": "Pricing",
+              "url": "https://www.aweber.com/pricing.htm"
+            },
+            {
+              "title": "Blog",
+              "url": "https://blog.aweber.com"
+            },
+            {
+              "title": "Sign in",
+              "url": "https://www.aweber.com/login.htm"
+            },
+            {
+              "title": "My account",
+              "url": "https://www.aweber.com/users/"
+            },
+            {
+              "title": "Get AWeber Free",
+              "url": "https://www.aweber.com/free.htm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

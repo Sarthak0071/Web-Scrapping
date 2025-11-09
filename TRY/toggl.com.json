@@ -1,0 +1,41 @@
+{
+  "website": "https://toggl.com",
+  "domain": "toggl.com",
+  "scraped_at": "2025-11-09 12:26:19",
+  "menus": [
+    {
+      "menu_name": "Navigation",
+      "children": [
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "Enterprise",
+              "url": "https://toggl.com/track/enterprise/"
+            },
+            {
+              "title": "Pricing",
+              "url": "https://toggl.com/track/pricing/"
+            },
+            {
+              "title": "Book a demo",
+              "url": "https://toggl.com/track/demo-request/"
+            },
+            {
+              "title": "Enterprise",
+              "url": "https://toggl.com/track/enterprise/"
+            },
+            {
+              "title": "Pricing",
+              "url": "https://toggl.com/track/pricing/"
+            },
+            {
+              "title": "Book a demo",
+              "url": "https://toggl.com/track/demo-request/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
