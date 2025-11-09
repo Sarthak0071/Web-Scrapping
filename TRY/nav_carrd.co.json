@@ -1,0 +1,94 @@
+{
+  "website": "https://carrd.co/",
+  "domain": "carrd.co",
+  "scraped_at": "2025-11-09 17:36:32",
+  "navigation": [
+    {
+      "type": "dropdown",
+      "title": "Menu",
+      "children": [
+        {
+          "type": "section",
+          "title": "Log In",
+          "children": [
+            {
+              "type": "link",
+              "title": "Log InLog in to an existing account",
+              "url": "https://carrd.co/login"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Sign Up",
+          "children": [
+            {
+              "type": "link",
+              "title": "Sign UpCreate a free Carrd account",
+              "url": "https://carrd.co/signup"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Documentation",
+          "children": [
+            {
+              "type": "link",
+              "title": "DocumentationGet answers and instructions",
+              "url": "https://carrd.co/docs"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Changelog",
+          "children": [
+            {
+              "type": "link",
+              "title": "ChangelogLearn what's new (and changed)",
+              "url": "https://carrd.co/docs/general/changelog"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Go Pro!",
+          "children": [
+            {
+              "type": "link",
+              "title": "Go Pro!Upgrade your Carrd experience",
+              "url": "https://carrd.co/pro"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Contact",
+          "children": [
+            {
+              "type": "link",
+              "title": "ContactSend your questions and comments",
+              "url": "https://carrd.co/contact"
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "title": "Close",
+          "url": "https://carrd.co/#menu"
+        }
+      ]
+    },
+    {
+      "type": "link",
+      "title": "Carrd",
+      "url": "https://carrd.co/"
+    }
+  ],
+  "metadata": {
+    "total_links": 8,
+    "top_level_items": 2,
+    "max_depth": 3
+  }
+}

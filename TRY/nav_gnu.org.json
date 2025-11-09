@@ -1,0 +1,103 @@
+{
+  "website": "https://www.gnu.org",
+  "domain": "www.gnu.org",
+  "scraped_at": "2025-11-09 17:37:21",
+  "navigation": [
+    {
+      "type": "dropdown",
+      "title": "Site navigation",
+      "children": [
+        {
+          "type": "link",
+          "title": "ABOUT GNU",
+          "url": "https://www.gnu.org/gnu/gnu.html"
+        },
+        {
+          "type": "link",
+          "title": "PHILOSOPHY",
+          "url": "https://www.gnu.org/philosophy/philosophy.html"
+        },
+        {
+          "type": "link",
+          "title": "LICENSES",
+          "url": "https://www.gnu.org/licenses/licenses.html"
+        },
+        {
+          "type": "link",
+          "title": "EDUCATION",
+          "url": "https://www.gnu.org/education/education.html"
+        },
+        {
+          "type": "link",
+          "title": "SOFTWARE",
+          "url": "https://www.gnu.org/software/software.html"
+        },
+        {
+          "type": "link",
+          "title": "DISTROS",
+          "url": "https://www.gnu.org/distros/distros.html"
+        },
+        {
+          "type": "link",
+          "title": "DOCS",
+          "url": "https://www.gnu.org/doc/doc.html"
+        },
+        {
+          "type": "link",
+          "title": "MALWARE",
+          "url": "https://www.gnu.org/proprietary/proprietary.html"
+        },
+        {
+          "type": "link",
+          "title": "HELP GNU",
+          "url": "https://www.gnu.org/help/help.html"
+        },
+        {
+          "type": "link",
+          "title": "AUDIO & VIDEO",
+          "url": "https://www.gnu.org/audio-video/audio-video.html"
+        },
+        {
+          "type": "link",
+          "title": "GNU ART",
+          "url": "https://www.gnu.org/graphics/graphics.html"
+        },
+        {
+          "type": "link",
+          "title": "FUN",
+          "url": "https://www.gnu.org/fun/humor.html"
+        },
+        {
+          "type": "link",
+          "title": "GNU'S WHO?",
+          "url": "https://www.gnu.org/people/people.html"
+        },
+        {
+          "type": "link",
+          "title": "SOFTWARE DIRECTORY",
+          "url": "https://directory.fsf.org"
+        },
+        {
+          "type": "link",
+          "title": "HARDWARE",
+          "url": "https://h-node.org/"
+        },
+        {
+          "type": "link",
+          "title": "SITEMAP",
+          "url": "https://www.gnu.org/server/sitemap.html"
+        },
+        {
+          "type": "link",
+          "title": "Site navigation",
+          "url": "https://www.gnu.org#navigation"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "total_links": 17,
+    "top_level_items": 1,
+    "max_depth": 2
+  }
+}

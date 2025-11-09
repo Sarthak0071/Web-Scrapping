@@ -1,0 +1,93 @@
+{
+  "website": "https://typedream.com",
+  "domain": "typedream.com",
+  "scraped_at": "2025-11-09 17:36:28",
+  "navigation": [
+    {
+      "type": "link",
+      "title": "SitesBuild your dream website",
+      "url": "https://typedream.com/sites"
+    },
+    {
+      "type": "link",
+      "title": "Link in bioBring all your online presence into one!",
+      "url": "https://typedream.com/linkinbio"
+    },
+    {
+      "type": "link",
+      "title": "FormsCreate forms to capture leads, surveys, and more",
+      "url": "https://typedream.com/form"
+    },
+    {
+      "type": "link",
+      "title": "BlogConnect your database and display contents",
+      "url": "https://typedream.com/blogs"
+    },
+    {
+      "type": "link",
+      "title": "ProductsSell your digital products",
+      "url": "https://typedream.com/products"
+    },
+    {
+      "type": "link",
+      "title": "EmailsAnnounce new products or offer deals to audience",
+      "url": "https://typedream.com/emails"
+    },
+    {
+      "type": "link",
+      "title": "Templates",
+      "url": "https://typedream.com/templates"
+    },
+    {
+      "type": "link",
+      "title": "Showcase",
+      "url": "https://typedream.com/showcases"
+    },
+    {
+      "type": "link",
+      "title": "Guide & tutorialsStart using Typedream to build your site",
+      "url": "https://typedream.com/docs"
+    },
+    {
+      "type": "link",
+      "title": "IntegrationsIntegrate external tools to your website",
+      "url": "https://typedream.com/docs/integration"
+    },
+    {
+      "type": "link",
+      "title": "ChangelogA weekly update on new features & bug fixes",
+      "url": "https://typedream.com/changelog"
+    },
+    {
+      "type": "link",
+      "title": "BlogDiscover insights from Typedream team",
+      "url": "https://typedream.com/blog"
+    },
+    {
+      "type": "link",
+      "title": "AssetsElevate your website with asset-packs and tools",
+      "url": "https://typedream.com/assets"
+    },
+    {
+      "type": "link",
+      "title": "PodcastAn unfiltered journal of our thoughts as a founder",
+      "url": "https://podcasters.spotify.com/pod/show/typedream"
+    },
+    {
+      "type": "link",
+      "title": "Pricing",
+      "url": "https://typedream.com/pricing"
+    },
+    {
+      "type": "link",
+      "title": "Login",
+      "url": "https://build.typedream.com/login",
+      "is_cta": true
+    }
+  ],
+  "metadata": {
+    "total_links": 16,
+    "top_level_items": 16,
+    "max_depth": 1
+  }
+}

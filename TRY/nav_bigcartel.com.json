@@ -1,0 +1,43 @@
+{
+  "website": "https://bigcartel.com",
+  "domain": "bigcartel.com",
+  "scraped_at": "2025-11-09 17:36:22",
+  "navigation": [
+    {
+      "type": "link",
+      "title": "How it works",
+      "url": "https://bigcartel.com/product/how-it-works"
+    },
+    {
+      "type": "link",
+      "title": "Pricing",
+      "url": "https://bigcartel.com/product/pricing"
+    },
+    {
+      "type": "link",
+      "title": "Templates",
+      "url": "https://bigcartel.com/product/templates"
+    },
+    {
+      "type": "link",
+      "title": "Help center",
+      "url": "https://bigcartel.com/resources/help"
+    },
+    {
+      "type": "link",
+      "title": "Blog",
+      "url": "https://bigcartel.com/resources/blog"
+    },
+    {
+      "type": "link",
+      "title": "Log in",
+      "url": "https://my.bigcartel.com/login",
+      "is_cta": true
+    }
+  ],
+  "metadata": {
+    "total_links": 6,
+    "top_level_items": 6,
+    "max_depth": 1
+  }
+}

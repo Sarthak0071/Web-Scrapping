@@ -1,0 +1,52 @@
+{
+  "website": "https://gumroad.com/",
+  "domain": "gumroad.com",
+  "scraped_at": "2025-11-09 17:36:32",
+  "navigation": [
+    {
+      "type": "link",
+      "title": "GitHub",
+      "url": "https://github.com/antiwork/gumroad"
+    },
+    {
+      "type": "link",
+      "title": "Discover",
+      "url": "https://gumroad.com/discover"
+    },
+    {
+      "type": "link",
+      "title": "Blog",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "type": "link",
+      "title": "Pricing",
+      "url": "https://gumroad.com/pricing"
+    },
+    {
+      "type": "link",
+      "title": "Features",
+      "url": "https://gumroad.com/features"
+    },
+    {
+      "type": "link",
+      "title": "About",
+      "url": "https://gumroad.com/about"
+    },
+    {
+      "type": "link",
+      "title": "Log in",
+      "url": "https://gumroad.com/users/sign_in"
+    },
+    {
+      "type": "link",
+      "title": "Start selling",
+      "url": "https://gumroad.com/users/sign_up"
+    }
+  ],
+  "metadata": {
+    "total_links": 8,
+    "top_level_items": 8,
+    "max_depth": 1
+  }
+}
