@@ -1,47 +1,202 @@
 {
   "website": "https://www.aweber.com",
   "domain": "www.aweber.com",
-  "scraped_at": "2025-11-08 13:58:11",
-  "menus": [
+  "scraped_at": "2025-11-09 14:29:57",
+  "navigation": [
     {
-      "menu_name": "Navigation",
-      "sections": [
+      "type": "dropdown",
+      "title": "Features",
+      "children": [
         {
-          "section_title": null,
-          "items": [
-            {
-              "title": "Newsletter Assistant",
-              "description": "",
-              "url": "https://www.aweber.com/newsletter-assistant.htm"
-            },
-            {
-              "title": "Features",
-              "description": "",
-              "url": "https://www.aweber.com/email-marketing-features.htm"
-            },
-            {
-              "title": "Pricing",
-              "description": "",
-              "url": "https://www.aweber.com/pricing.htm"
-            },
-            {
-              "title": "Blog",
-              "description": "",
-              "url": "https://blog.aweber.com"
-            },
-            {
-              "title": "My account",
-              "description": "",
-              "url": "https://www.aweber.com/users/"
-            },
-            {
-              "title": "Get AWeber Free",
-              "description": "",
-              "url": "https://www.aweber.com/free.htm"
-            }
-          ]
+          "type": "link",
+          "title": "Email marketing",
+          "url": "https://www.aweber.com/email-marketing-features.htm"
+        },
+        {
+          "type": "link",
+          "title": "Email automation",
+          "url": "https://www.aweber.com/email-automation.htm"
+        },
+        {
+          "type": "link",
+          "title": "Landing page builder",
+          "url": "https://www.aweber.com/landing-page-builder.htm"
+        },
+        {
+          "type": "link",
+          "title": "Ecommerce",
+          "url": "https://www.aweber.com/aweber-for-ecommerce.htm"
+        },
+        {
+          "type": "link",
+          "title": "Web push notifications",
+          "url": "https://www.aweber.com/web-push-notifications.htm"
+        },
+        {
+          "type": "link",
+          "title": "Sign up form builder",
+          "url": "https://www.aweber.com/sign-up-forms.htm",
+          "is_cta": true
+        },
+        {
+          "type": "link",
+          "title": "AI Writing Assistant",
+          "url": "https://www.aweber.com/ai-email-writer.htm"
+        },
+        {
+          "type": "link",
+          "title": "Link in Bio page",
+          "url": "https://www.aweber.com/link-in-bio.htm"
         }
       ]
+    },
+    {
+      "type": "dropdown",
+      "title": "Support",
+      "children": [
+        {
+          "type": "link",
+          "title": "Contact Customer Solutions 24/7",
+          "url": "https://www.aweber.com/contact-us.htm"
+        },
+        {
+          "type": "link",
+          "title": "AWeber Community",
+          "url": "https://community.aweber.com/?utm_source=website&utm_medium=header"
+        },
+        {
+          "type": "link",
+          "title": "Free account migration service",
+          "url": "https://www.aweber.com/migration.htm"
+        },
+        {
+          "type": "link",
+          "title": "Knowledge base",
+          "url": "https://help.aweber.com/"
+        },
+        {
+          "type": "link",
+          "title": "Video tutorials",
+          "url": "https://www.youtube.com/user/emailmarketing"
+        }
+      ]
+    },
+    {
+      "type": "dropdown",
+      "title": "Resources",
+      "children": [
+        {
+          "type": "link",
+          "title": "Virtual Events",
+          "url": "https://www.aweber.com/events/index.htm"
+        },
+        {
+          "type": "link",
+          "title": "Landing Page Template Gallery",
+          "url": "https://www.aweber.com/templates/landing-pages/"
+        },
+        {
+          "type": "link",
+          "title": "Pre-written email campaigns",
+          "url": "https://www.aweber.com/campaign-marketplace.htm"
+        },
+        {
+          "type": "link",
+          "title": "AWeber Certified Experts",
+          "url": "https://www.aweber.com/certified-experts/"
+        },
+        {
+          "type": "link",
+          "title": "App integrations",
+          "url": "https://www.aweber.com/integrations/"
+        },
+        {
+          "type": "link",
+          "title": "Customer referral program",
+          "url": "https://www.aweber.com/advocates.htm"
+        },
+        {
+          "type": "link",
+          "title": "Customer success stories",
+          "url": "https://www.aweber.com/successstories.htm"
+        },
+        {
+          "type": "link",
+          "title": "Marketing Glossary",
+          "url": "https://blog.aweber.com/marketing-glossary"
+        },
+        {
+          "type": "link",
+          "title": "24/7 Email Marketing Master Class",
+          "url": "https://aweber.thinkific.com/courses/24-7-email-marketing-master-class"
+        }
+      ]
+    },
+    {
+      "type": "link",
+      "title": "Newsletter Assistant",
+      "url": "https://www.aweber.com/newsletter-assistant.htm"
+    },
+    {
+      "type": "link",
+      "title": "Pricing",
+      "url": "https://www.aweber.com/pricing.htm"
+    },
+    {
+      "type": "link",
+      "title": "Blog",
+      "url": "https://blog.aweber.com"
+    },
+    {
+      "type": "link",
+      "title": "Sign in",
+      "url": "https://www.aweber.com/login.htm"
+    },
+    {
+      "type": "link",
+      "title": "My account",
+      "url": "https://www.aweber.com/users/"
+    },
+    {
+      "type": "link",
+      "title": "Get AWeber Free",
+      "url": "https://www.aweber.com/free.htm",
+      "is_cta": true
+    },
+    {
+      "type": "link",
+      "title": "High volume pricing",
+      "url": "https://www.aweber.com/large-account-pricing.htm"
+    },
+    {
+      "type": "link",
+      "title": "Bloggers",
+      "url": "https://www.aweber.com/bloggers.htm"
+    },
+    {
+      "type": "link",
+      "title": "Coaches",
+      "url": "https://www.aweber.com/coaching.htm"
+    },
+    {
+      "type": "link",
+      "title": "Etsy shops",
+      "url": "https://www.aweber.com/etsy.htm"
+    },
+    {
+      "type": "link",
+      "title": "Newsletters",
+      "url": "https://www.aweber.com/email-newsletters.htm"
+    },
+    {
+      "type": "link",
+      "title": "YouTubers",
+      "url": "https://www.aweber.com/youtuber.htm"
     }
-  ]
+  ],
+  "metadata": {
+    "total_links": 34,
+    "top_level_items": 15,
+    "max_depth": 2
+  }
 }

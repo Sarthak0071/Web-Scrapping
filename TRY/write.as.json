@@ -1,101 +1,53 @@
 {
   "website": "https://write.as",
   "domain": "write.as",
-  "scraped_at": "2025-11-09 12:26:47",
-  "menus": [
+  "scraped_at": "2025-11-09 13:28:04",
+  "navigation": [
     {
-      "menu_name": "Navigation",
-      "children": [
+      "type": "dropdown",
+      "name": "Studio",
+      "sections": [
         {
           "section": null,
           "items": [
             {
-              "title": "Start writing",
-              "url": "https://write.as/new"
+              "title": "Write.as Start a minimal blog. Keep your privacy.",
+              "url": "https://write.as/"
             },
             {
-              "title": "sign up",
-              "url": "https://write.as/start"
+              "title": "Snap.as Share beautifully simple photos and galleries.",
+              "url": "https://snap.as/"
             },
             {
-              "title": "View your posts",
-              "url": "https://write.as/pad/posts"
+              "title": "Submit.as Accept writing submissions, no signup required.",
+              "url": "https://submit.as/"
             },
             {
-              "title": "Starting a newsletter →",
-              "url": "https://write.as/letters"
-            },
-            {
-              "title": "Enabling eBook downloads →",
-              "url": "https://write.as/extend/ebook-preview"
-            },
-            {
-              "title": "Joining the fediverse →",
-              "url": "https://howto.write.as/enabling-federation"
-            },
-            {
-              "title": "Read this blog →",
-              "url": "https://write.as/matt/"
-            },
-            {
-              "title": "Try it out →",
-              "url": "https://write.as/new"
-            },
-            {
-              "title": "WriteFreely",
-              "url": "https://writefreely.org"
-            },
-            {
-              "title": "privacy",
-              "url": "https://write.as/privacy"
-            },
-            {
-              "title": "Write anonymously",
-              "url": "https://write.as/new"
-            },
-            {
-              "title": "identities",
-              "url": "https://write.as/blog/identities"
-            },
-            {
-              "title": "Start free 14-day trial",
-              "url": "https://write.as/start/pro"
-            },
-            {
-              "title": "five years",
-              "url": "https://write.as/5years"
-            },
-            {
-              "title": "Start free 30-day trial",
-              "url": "https://write.as/start/team"
+              "title": "Remark.as Start a conversation around your blog.",
+              "url": "https://remark.as/"
             },
             {
               "title": "Musing Studio",
-              "url": "https://musing.studio"
+              "url": "https://musing.studio/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dropdown",
+      "name": "Write.as Start a minimal blog. Keep your privacy.",
+      "sections": [
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "Start a blog",
+              "url": "https://write.as/start"
             },
             {
-              "title": "Submit.as",
-              "url": "https://submit.as"
-            },
-            {
-              "title": "Snap.as",
-              "url": "https://snap.as"
-            },
-            {
-              "title": "Remark.as",
-              "url": "https://remark.as"
-            },
-            {
-              "title": "our company",
-              "url": "https://write.as/about/company"
-            },
-            {
-              "title": "our principles",
-              "url": "https://write.as/principles"
-            },
-            {
-              "title": "our blog",
-              "url": "https://write.as/blog/"
+              "title": "Log in",
+              "url": "https://write.as/login"
             }
           ]
         }

@@ -1,41 +1,37 @@
 {
   "website": "https://neocities.org",
   "domain": "neocities.org",
-  "scraped_at": "2025-11-09 12:26:50",
-  "menus": [
+  "scraped_at": "2025-11-09 13:28:06",
+  "navigation": [
     {
-      "menu_name": "Navigation",
-      "children": [
-        {
-          "section": null,
-          "items": [
-            {
-              "title": "Neocities",
-              "url": "https://neocities.org/"
-            },
-            {
-              "title": "Websites",
-              "url": "https://neocities.org/browse"
-            },
-            {
-              "title": "Activity",
-              "url": "https://neocities.org/activity"
-            },
-            {
-              "title": "Learn",
-              "url": "https://neocities.org/tutorials"
-            },
-            {
-              "title": "Support Us",
-              "url": "https://neocities.org/supporter"
-            },
-            {
-              "title": "Sign In",
-              "url": "https://neocities.org/signin"
-            }
-          ]
-        }
-      ]
+      "type": "link",
+      "name": "Neocities",
+      "url": "https://neocities.org/"
+    },
+    {
+      "type": "link",
+      "name": "Websites",
+      "url": "https://neocities.org/browse"
+    },
+    {
+      "type": "link",
+      "name": "Activity",
+      "url": "https://neocities.org/activity"
+    },
+    {
+      "type": "link",
+      "name": "Learn",
+      "url": "https://neocities.org/tutorials"
+    },
+    {
+      "type": "link",
+      "name": "Support Us",
+      "url": "https://neocities.org/supporter"
+    },
+    {
+      "type": "link",
+      "name": "Sign In",
+      "url": "https://neocities.org/signin"
     }
   ]
 }

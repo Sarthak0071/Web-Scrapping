@@ -1,41 +1,47 @@
 {
   "website": "https://www.teuxdeux.com",
   "domain": "www.teuxdeux.com",
-  "scraped_at": "2025-11-09 12:27:08",
-  "menus": [
+  "scraped_at": "2025-11-09 13:28:26",
+  "navigation": [
     {
-      "menu_name": "Navigation",
-      "children": [
-        {
-          "section": null,
-          "items": [
-            {
-              "title": "TeuxDeux",
-              "url": "https://www.teuxdeux.com/"
-            },
-            {
-              "title": "Purpose",
-              "url": "https://www.teuxdeux.com/purpose"
-            },
-            {
-              "title": "Pricing",
-              "url": "https://www.teuxdeux.com/pricing"
-            },
-            {
-              "title": "Blog",
-              "url": "https://www.teuxdeux.com/blog"
-            },
-            {
-              "title": "Download for iOS",
-              "url": "https://apps.apple.com/au/app/teuxdeux/id384291782"
-            },
-            {
-              "title": "Download for Android",
-              "url": "https://play.google.com/store/apps/details?id=com.teuxdeux.twa&utm_source=teuxdeuxdotcom"
-            }
-          ]
-        }
-      ]
+      "type": "link",
+      "name": "TeuxDeux",
+      "url": "https://www.teuxdeux.com/"
+    },
+    {
+      "type": "link",
+      "name": "Purpose",
+      "url": "https://www.teuxdeux.com/purpose"
+    },
+    {
+      "type": "link",
+      "name": "Pricing",
+      "url": "https://www.teuxdeux.com/pricing"
+    },
+    {
+      "type": "link",
+      "name": "Blog",
+      "url": "https://www.teuxdeux.com/blog"
+    },
+    {
+      "type": "link",
+      "name": "Download for iOS",
+      "url": "https://apps.apple.com/au/app/teuxdeux/id384291782"
+    },
+    {
+      "type": "link",
+      "name": "Download for Android",
+      "url": "https://play.google.com/store/apps/details"
+    },
+    {
+      "type": "link",
+      "name": "Log In",
+      "url": "https://www.teuxdeux.com/login"
+    },
+    {
+      "type": "link",
+      "name": "Try for free",
+      "url": "https://www.teuxdeux.com/signup"
     }
   ]
 }

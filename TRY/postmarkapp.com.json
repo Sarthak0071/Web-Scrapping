@@ -1,11 +1,12 @@
 {
   "website": "https://postmarkapp.com",
   "domain": "postmarkapp.com",
-  "scraped_at": "2025-11-09 12:26:30",
-  "menus": [
+  "scraped_at": "2025-11-09 13:27:48",
+  "navigation": [
     {
-      "menu_name": "Product",
-      "children": [
+      "type": "dropdown",
+      "name": "Product",
+      "sections": [
         {
           "section": "Features",
           "items": [
@@ -100,8 +101,9 @@
       ]
     },
     {
-      "menu_name": "Resources",
-      "children": [
+      "type": "dropdown",
+      "name": "Resources",
+      "sections": [
         {
           "section": null,
           "items": [
@@ -143,7 +145,7 @@
             },
             {
               "title": "DMARC Digests",
-              "url": "https://dmarcdigests.com"
+              "url": "https://dmarcdigests.com/"
             },
             {
               "title": "Glossary",
@@ -154,8 +156,9 @@
       ]
     },
     {
-      "menu_name": "Help",
-      "children": [
+      "type": "dropdown",
+      "name": "Help",
+      "sections": [
         {
           "section": null,
           "items": [
@@ -180,30 +183,19 @@
       ]
     },
     {
-      "menu_name": "Navigation",
-      "children": [
-        {
-          "section": null,
-          "items": [
-            {
-              "title": "Why Postmark?",
-              "url": "https://postmarkapp.com/why"
-            },
-            {
-              "title": "Pricing",
-              "url": "https://postmarkapp.com/pricing"
-            },
-            {
-              "title": "Log in",
-              "url": "https://account.postmarkapp.com/login"
-            },
-            {
-              "title": "Start free trial",
-              "url": "https://account.postmarkapp.com/sign_up"
-            }
-          ]
-        }
-      ]
+      "type": "link",
+      "name": "Why Postmark?",
+      "url": "https://postmarkapp.com/why"
+    },
+    {
+      "type": "link",
+      "name": "Pricing",
+      "url": "https://postmarkapp.com/pricing"
+    },
+    {
+      "type": "link",
+      "name": "Log in",
+      "url": "https://account.postmarkapp.com/login"
     }
   ]
 }

@@ -1,47 +1,53 @@
 {
   "website": "https://www.teuxdeux.com",
   "domain": "www.teuxdeux.com",
-  "scraped_at": "2025-11-08 13:59:30",
-  "menus": [
+  "scraped_at": "2025-11-09 14:30:37",
+  "navigation": [
     {
-      "menu_name": "Navigation",
-      "sections": [
-        {
-          "section_title": null,
-          "items": [
-            {
-              "title": "TeuxDeux",
-              "description": "",
-              "url": "https://www.teuxdeux.com/"
-            },
-            {
-              "title": "Purpose",
-              "description": "",
-              "url": "https://www.teuxdeux.com/purpose"
-            },
-            {
-              "title": "Pricing",
-              "description": "",
-              "url": "https://www.teuxdeux.com/pricing"
-            },
-            {
-              "title": "Blog",
-              "description": "",
-              "url": "https://www.teuxdeux.com/blog"
-            },
-            {
-              "title": "Download for iOS",
-              "description": "",
-              "url": "https://apps.apple.com/au/app/teuxdeux/id384291782"
-            },
-            {
-              "title": "Download for Android",
-              "description": "",
-              "url": "https://play.google.com/store/apps/details?id=com.teuxdeux.twa&utm_source=teuxdeuxdotcom"
-            }
-          ]
-        }
-      ]
+      "type": "link",
+      "title": "TeuxDeux",
+      "url": "https://www.teuxdeux.com/"
+    },
+    {
+      "type": "link",
+      "title": "Purpose",
+      "url": "https://www.teuxdeux.com/purpose"
+    },
+    {
+      "type": "link",
+      "title": "Pricing",
+      "url": "https://www.teuxdeux.com/pricing"
+    },
+    {
+      "type": "link",
+      "title": "Blog",
+      "url": "https://www.teuxdeux.com/blog"
+    },
+    {
+      "type": "link",
+      "title": "Download for iOS",
+      "url": "https://apps.apple.com/au/app/teuxdeux/id384291782"
+    },
+    {
+      "type": "link",
+      "title": "Download for Android",
+      "url": "https://play.google.com/store/apps/details?id=com.teuxdeux.twa&utm_source=teuxdeuxdotcom"
+    },
+    {
+      "type": "link",
+      "title": "Log In",
+      "url": "https://www.teuxdeux.com/login"
+    },
+    {
+      "type": "link",
+      "title": "Try for free",
+      "url": "https://www.teuxdeux.com/signup",
+      "is_cta": true
     }
-  ]
+  ],
+  "metadata": {
+    "total_links": 8,
+    "top_level_items": 8,
+    "max_depth": 1
+  }
 }

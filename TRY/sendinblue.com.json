@@ -1,41 +1,42 @@
 {
   "website": "https://sendinblue.com",
   "domain": "sendinblue.com",
-  "scraped_at": "2025-11-09 12:25:56",
-  "menus": [
+  "scraped_at": "2025-11-09 13:27:13",
+  "navigation": [
     {
-      "menu_name": "Platform",
-      "children": [
+      "type": "dropdown",
+      "name": "Platform",
+      "sections": [
         {
           "section": "Marketing",
           "items": [
             {
               "title": "MarketingIncrease conversions with email, SMS, WhatsApp and marketing automation",
-              "url": "https://www.brevo.com/products/marketing-platform/"
+              "url": "https://www.brevo.com/products/marketing-platform"
             },
             {
               "title": "Email marketing",
-              "url": "https://www.brevo.com/features/email-marketing/"
+              "url": "https://www.brevo.com/features/email-marketing"
             },
             {
               "title": "SMS & WhatsApp",
-              "url": "https://www.brevo.com/features/sms-marketing/"
+              "url": "https://www.brevo.com/features/sms-marketing"
             },
             {
               "title": "Wallet",
-              "url": "https://www.brevo.com/features/wallet/"
+              "url": "https://www.brevo.com/features/wallet"
             },
             {
               "title": "Web & mobile push",
-              "url": "https://www.brevo.com/features/push/"
+              "url": "https://www.brevo.com/features/push"
             },
             {
               "title": "Automation",
-              "url": "https://www.brevo.com/features/automation/"
+              "url": "https://www.brevo.com/features/automation"
             },
             {
               "title": "Forms",
-              "url": "https://www.brevo.com/features/signup-forms/"
+              "url": "https://www.brevo.com/features/signup-forms"
             }
           ]
         },
@@ -44,27 +45,27 @@
           "items": [
             {
               "title": "Sales ManagementEasily manage your pipeline and accelerate revenue growth across the entire sales cycle",
-              "url": "https://www.brevo.com/products/sales-platform/"
+              "url": "https://www.brevo.com/products/sales-platform"
             },
             {
               "title": "Sales pipelines",
-              "url": "https://www.brevo.com/features/deal-pipelines/"
+              "url": "https://www.brevo.com/features/deal-pipelines"
             },
             {
               "title": "360 customer view",
-              "url": "https://www.brevo.com/features/360-customer-view/"
+              "url": "https://www.brevo.com/features/360-customer-view"
             },
             {
               "title": "Inbox",
-              "url": "https://www.brevo.com/features/inbox/"
+              "url": "https://www.brevo.com/features/inbox"
             },
             {
               "title": "Meetings",
-              "url": "https://www.brevo.com/features/meetings/"
+              "url": "https://www.brevo.com/features/meetings"
             },
             {
               "title": "Phone",
-              "url": "https://www.brevo.com/features/phone/"
+              "url": "https://www.brevo.com/features/phone"
             }
           ]
         },
@@ -73,27 +74,7 @@
           "items": [
             {
               "title": "Brevo Data PlatformUnify, manage and sync customer data to accelerate your time-to-value",
-              "url": "https://www.brevo.com/products/customer-data-platform/"
-            },
-            {
-              "title": "Data sources unification",
-              "url": "https://www.brevo.com/products/customer-data-platform/"
-            },
-            {
-              "title": "Multi table data model",
-              "url": "https://www.brevo.com/products/customer-data-platform/"
-            },
-            {
-              "title": "Data preparation",
-              "url": "https://www.brevo.com/products/customer-data-platform/"
-            },
-            {
-              "title": "Scoring library",
-              "url": "https://www.brevo.com/products/customer-data-platform/"
-            },
-            {
-              "title": "Data analytics",
-              "url": "https://www.brevo.com/products/customer-data-platform/"
+              "url": "https://www.brevo.com/products/customer-data-platform"
             }
           ]
         },
@@ -102,7 +83,7 @@
           "items": [
             {
               "title": "LoyaltyBoost retention and increase customer lifetime value with a fully integrated loyalty program",
-              "url": "https://www.brevo.com/products/loyalty/"
+              "url": "https://www.brevo.com/products/loyalty"
             }
           ]
         },
@@ -111,7 +92,7 @@
           "items": [
             {
               "title": "Transactional MessagingDeliver individual messages at scale and on time with our powerful API",
-              "url": "https://www.brevo.com/products/transactional-email/"
+              "url": "https://www.brevo.com/products/transactional-email"
             }
           ]
         },
@@ -120,19 +101,19 @@
           "items": [
             {
               "title": "Live Chat & ChatbotTurn conversations into revenue opportunities with chat and cloud-based phone",
-              "url": "https://www.brevo.com/products/conversations/"
+              "url": "https://www.brevo.com/products/conversations"
             },
             {
-              "title": "EnterprisePowerful marketing solution with priority support",
-              "url": "https://www.brevo.com/solutions/enterprise/"
+              "title": "Enterprise Powerful marketing solution with priority support",
+              "url": "https://www.brevo.com/solutions/enterprise"
             },
             {
               "title": "Brevo AIBoost your productivity with our AI features",
-              "url": "https://www.brevo.com/features/ai/"
+              "url": "https://www.brevo.com/features/ai"
             },
             {
               "title": "IntegrationsExplore 150+ digital tools that Brevo integrates with",
-              "url": "https://www.brevo.com/plugins/"
+              "url": "https://www.brevo.com/plugins"
             },
             {
               "title": "DevelopersFind developer guides, API docs, SDKs and code recipes",
@@ -143,42 +124,43 @@
       ]
     },
     {
-      "menu_name": "Resources",
-      "children": [
+      "type": "dropdown",
+      "name": "Resources",
+      "sections": [
         {
           "section": null,
           "items": [
             {
               "title": "Blog",
-              "url": "https://www.brevo.com/blog/"
+              "url": "https://www.brevo.com/blog"
             },
             {
               "title": "Ebooks & webinars",
-              "url": "https://www.brevo.com/resources/"
+              "url": "https://www.brevo.com/resources"
             },
             {
               "title": "Email templates",
-              "url": "https://www.brevo.com/features/email-templates/"
+              "url": "https://www.brevo.com/features/email-templates"
             },
             {
               "title": "Email marketing platforms",
-              "url": "https://www.brevo.com/blog/best-email-marketing-services/"
+              "url": "https://www.brevo.com/blog/best-email-marketing-services"
             },
             {
               "title": "Mailchimp alternatives",
-              "url": "https://www.brevo.com/blog/mailchimp-alternatives/"
+              "url": "https://www.brevo.com/blog/mailchimp-alternatives"
             },
             {
               "title": "Case studies",
-              "url": "https://www.brevo.com/success-stories/"
+              "url": "https://www.brevo.com/success-stories"
             },
             {
               "title": "Small business",
-              "url": "https://www.brevo.com/solutions/small-business/"
+              "url": "https://www.brevo.com/solutions/small-business"
             },
             {
               "title": "Retail & ecommerce",
-              "url": "https://www.brevo.com/solutions/retail-and-ecommerce/"
+              "url": "https://www.brevo.com/solutions/retail-and-ecommerce"
             },
             {
               "title": "Customer success",
@@ -186,7 +168,7 @@
             },
             {
               "title": "Events",
-              "url": "https://www.brevo.com/events/"
+              "url": "https://www.brevo.com/events"
             },
             {
               "title": "Community",
@@ -194,15 +176,11 @@
             },
             {
               "title": "Product updates",
-              "url": "https://www.brevo.com/releases/"
+              "url": "https://www.brevo.com/releases"
             },
             {
               "title": "Partner programs",
-              "url": "https://www.brevo.com/partners/"
-            },
-            {
-              "title": "Integrations",
-              "url": "https://www.brevo.com/plugins/"
+              "url": "https://www.brevo.com/partners"
             },
             {
               "title": "Help center",
@@ -210,15 +188,11 @@
             },
             {
               "title": "Contact us",
-              "url": "https://www.brevo.com/contact/"
-            },
-            {
-              "title": "API docs",
-              "url": "https://developers.brevo.com/"
+              "url": "https://www.brevo.com/contact"
             },
             {
               "title": "Hire an expert",
-              "url": "https://www.brevo.com/expert-directory/"
+              "url": "https://www.brevo.com/expert-directory"
             },
             {
               "title": "Platform status",
@@ -229,18 +203,9 @@
       ]
     },
     {
-      "menu_name": "Navigation",
-      "children": [
-        {
-          "section": null,
-          "items": [
-            {
-              "title": "Pricing",
-              "url": "https://www.brevo.com/pricing/"
-            }
-          ]
-        }
-      ]
+      "type": "link",
+      "name": "Pricing",
+      "url": "https://www.brevo.com/pricing"
     }
   ]
 }

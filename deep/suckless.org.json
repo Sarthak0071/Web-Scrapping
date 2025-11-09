@@ -1,0 +1,82 @@
+{
+  "website": "https://suckless.org",
+  "domain": "suckless.org",
+  "scraped_at": "2025-11-09 14:31:58",
+  "navigation": [
+    {
+      "type": "link",
+      "title": "about",
+      "url": "https://suckless.org/"
+    },
+    {
+      "type": "link",
+      "title": "coding style",
+      "url": "https://suckless.org/coding_style/"
+    },
+    {
+      "type": "link",
+      "title": "community",
+      "url": "https://suckless.org/community/"
+    },
+    {
+      "type": "link",
+      "title": "conferences",
+      "url": "https://suckless.org/conferences/"
+    },
+    {
+      "type": "link",
+      "title": "donations",
+      "url": "https://suckless.org/donations/"
+    },
+    {
+      "type": "link",
+      "title": "faq",
+      "url": "https://suckless.org/faq/"
+    },
+    {
+      "type": "link",
+      "title": "hacking",
+      "url": "https://suckless.org/hacking/"
+    },
+    {
+      "type": "link",
+      "title": "other projects",
+      "url": "https://suckless.org/other_projects/"
+    },
+    {
+      "type": "link",
+      "title": "people",
+      "url": "https://suckless.org/people/"
+    },
+    {
+      "type": "link",
+      "title": "philosophy",
+      "url": "https://suckless.org/philosophy/"
+    },
+    {
+      "type": "link",
+      "title": "project ideas",
+      "url": "https://suckless.org/project_ideas/"
+    },
+    {
+      "type": "link",
+      "title": "rocks",
+      "url": "https://suckless.org/rocks/"
+    },
+    {
+      "type": "link",
+      "title": "sucks",
+      "url": "https://suckless.org/sucks/"
+    },
+    {
+      "type": "link",
+      "title": "wiki",
+      "url": "https://suckless.org/wiki/"
+    }
+  ],
+  "metadata": {
+    "total_links": 14,
+    "top_level_items": 14,
+    "max_depth": 1
+  }
+}

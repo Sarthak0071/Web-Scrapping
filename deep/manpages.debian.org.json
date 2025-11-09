@@ -1,0 +1,37 @@
+{
+  "website": "https://manpages.debian.org",
+  "domain": "manpages.debian.org",
+  "scraped_at": "2025-11-09 14:31:00",
+  "navigation": [
+    {
+      "type": "link",
+      "title": "MANPAGES",
+      "url": "https://manpages.debian.org/"
+    },
+    {
+      "type": "link",
+      "title": "Skip Quicknav",
+      "url": "https://manpages.debian.org#content"
+    },
+    {
+      "type": "link",
+      "title": "About Manpages",
+      "url": "https://manpages.debian.org/about.html"
+    },
+    {
+      "type": "link",
+      "title": "FAQ",
+      "url": "https://manpages.debian.org/faq.html"
+    },
+    {
+      "type": "link",
+      "title": "Service Information",
+      "url": "https://wiki.debian.org/manpages.debian.org"
+    }
+  ],
+  "metadata": {
+    "total_links": 5,
+    "top_level_items": 5,
+    "max_depth": 1
+  }
+}

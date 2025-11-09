@@ -1,0 +1,77 @@
+{
+  "website": "https://ghost.org",
+  "domain": "ghost.org",
+  "scraped_at": "2025-11-09 13:28:01",
+  "navigation": [
+    {
+      "type": "dropdown",
+      "name": "For CreatorsJoin thousands of creators using Ghost to share their work",
+      "sections": [
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "For CreatorsYouTubers, bloggers, podcasters, musicians & artists",
+              "url": "https://ghost.org/creators"
+            },
+            {
+              "title": "For PublishersWriters, journalists, local news and new media outlets",
+              "url": "https://ghost.org/publishers"
+            },
+            {
+              "title": "For BusinessModern brands & companies with ambitious content marketing",
+              "url": "https://ghost.org/business"
+            },
+            {
+              "title": "For DevelopersSource code, documentation, guides and tutorials",
+              "url": "https://docs.ghost.org/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dropdown",
+      "name": "For DevelopersSource code, documentation, guides and tutorials",
+      "sections": [
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "MarketplaceProfessional themes, custom integrations and qualified experts",
+              "url": "https://ghost.org/marketplace"
+            },
+            {
+              "title": "Start here NewA huge library of guides, stories, interviews and tips for success",
+              "url": "https://ghost.org/resources"
+            },
+            {
+              "title": "ThemesHundreds of beautifully designed publication templates",
+              "url": "https://ghost.org/themes"
+            },
+            {
+              "title": "Help centerGet help with product features and answers to common questions.",
+              "url": "https://ghost.org/help"
+            },
+            {
+              "title": "module-fourIntegrationsConnect thousands of apps and services with your website",
+              "url": "https://ghost.org/integrations"
+            },
+            {
+              "title": "Product updatesAll the latest changes and improvements to Ghost",
+              "url": "https://ghost.org/changelog"
+            },
+            {
+              "title": "ExpertsGet help building your site from certified Ghost developers",
+              "url": "https://ghost.org/experts"
+            },
+            {
+              "title": "About usLearn more about the people behind the platform (We're hiring!)",
+              "url": "https://ghost.org/about"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

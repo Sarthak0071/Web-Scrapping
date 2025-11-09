@@ -1,11 +1,12 @@
 {
   "website": "https://todoist.com",
   "domain": "todoist.com",
-  "scraped_at": "2025-11-09 12:26:10",
-  "menus": [
+  "scraped_at": "2025-11-09 13:27:27",
+  "navigation": [
     {
-      "menu_name": "Made For",
-      "children": [
+      "type": "dropdown",
+      "name": "Made For",
+      "sections": [
         {
           "section": null,
           "items": [
@@ -34,8 +35,9 @@
       ]
     },
     {
-      "menu_name": "Resources",
-      "children": [
+      "type": "dropdown",
+      "name": "Resources",
+      "sections": [
         {
           "section": null,
           "items": [
@@ -76,26 +78,33 @@
       ]
     },
     {
-      "menu_name": "Navigation",
-      "children": [
+      "type": "dropdown",
+      "name": "Start for free",
+      "sections": [
         {
-          "section": null,
+          "section": "Clarity, finally.",
           "items": [
             {
-              "title": "Pricing",
-              "url": "https://todoist.com/pricing"
-            },
-            {
-              "title": "Log in",
-              "url": "https://app.todoist.com/auth/login?locale=en"
+              "title": "Start for free",
+              "url": "https://app.todoist.com/auth/signup"
             },
             {
               "title": "Start for free",
-              "url": "https://app.todoist.com/auth/signup?locale=en"
+              "url": "https://www.todoist.com/downloads"
             }
           ]
         }
       ]
+    },
+    {
+      "type": "link",
+      "name": "Pricing",
+      "url": "https://todoist.com/pricing"
+    },
+    {
+      "type": "link",
+      "name": "Log in",
+      "url": "https://app.todoist.com/auth/login"
     }
   ]
 }

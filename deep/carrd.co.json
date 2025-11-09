@@ -1,37 +1,43 @@
 {
-  "website": "https://carrd.co",
+  "website": "https://carrd.co/",
   "domain": "carrd.co",
-  "scraped_at": "2025-11-08 13:59:33",
-  "menus": [
+  "scraped_at": "2025-11-09 14:30:52",
+  "navigation": [
     {
-      "menu_name": "Navigation",
-      "sections": [
-        {
-          "section_title": null,
-          "items": [
-            {
-              "title": "DocumentationGet answers and instructions",
-              "description": "",
-              "url": "https://carrd.co/docs"
-            },
-            {
-              "title": "ChangelogLearn what's new (and changed",
-              "description": "",
-              "url": "https://carrd.co/docs/general/changelog"
-            },
-            {
-              "title": "Go Pro!Upgrade your Carrd experience",
-              "description": "",
-              "url": "https://carrd.co/pro"
-            },
-            {
-              "title": "ContactSend your questions and comments",
-              "description": "",
-              "url": "https://carrd.co/contact"
-            }
-          ]
-        }
-      ]
+      "type": "link",
+      "title": "Log InLog in to an existing account",
+      "url": "https://carrd.co/login"
+    },
+    {
+      "type": "link",
+      "title": "Sign UpCreate a free Carrd account",
+      "url": "https://carrd.co/signup",
+      "is_cta": true
+    },
+    {
+      "type": "link",
+      "title": "DocumentationGet answers and instructions",
+      "url": "https://carrd.co/docs"
+    },
+    {
+      "type": "link",
+      "title": "ChangelogLearn what's new (and changed",
+      "url": "https://carrd.co/docs/general/changelog"
+    },
+    {
+      "type": "link",
+      "title": "Go Pro!Upgrade your Carrd experience",
+      "url": "https://carrd.co/pro"
+    },
+    {
+      "type": "link",
+      "title": "ContactSend your questions and comments",
+      "url": "https://carrd.co/contact"
     }
-  ]
+  ],
+  "metadata": {
+    "total_links": 6,
+    "top_level_items": 6,
+    "max_depth": 1
+  }
 }

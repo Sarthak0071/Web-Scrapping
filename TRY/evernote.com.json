@@ -1,11 +1,12 @@
 {
   "website": "https://evernote.com",
   "domain": "evernote.com",
-  "scraped_at": "2025-11-09 12:26:12",
-  "menus": [
+  "scraped_at": "2025-11-09 13:27:30",
+  "navigation": [
     {
-      "menu_name": "Navigation",
-      "children": [
+      "type": "dropdown",
+      "name": "Explore",
+      "sections": [
         {
           "section": null,
           "items": [
@@ -16,14 +17,6 @@
             {
               "title": "Note Taking",
               "url": "https://evernote.com/features/notes-app"
-            },
-            {
-              "title": "Self organizing",
-              "url": "https://evernote.com/personal"
-            },
-            {
-              "title": "Productivity",
-              "url": "https://evernote.com/professional"
             },
             {
               "title": "Collaboration",
@@ -54,52 +47,75 @@
               "url": "https://evernote.com/features/calendar"
             },
             {
+              "title": "Self organizing",
+              "url": "https://evernote.com/personal"
+            },
+            {
+              "title": "Productivity",
+              "url": "https://evernote.com/professional"
+            },
+            {
               "title": "AI Transcribe",
-              "url": "https://evernote.com/ai-transcribe?t_s=marketing_website"
-            },
-            {
-              "title": "AI Rewrite",
-              "url": "https://evernote.com/ai-rewrite?t_s=marketing_website"
-            },
-            {
-              "title": "AI Text To Speech",
-              "url": "https://evernote.com/ai-text-to-voice?t_s=marketing_website"
-            },
-            {
-              "title": "AI Meeting Note Taker",
-              "url": "https://evernote.com/ai-transcribe/meeting?t_s=marketing_website"
-            },
-            {
-              "title": "AI Diagrams",
-              "url": "https://evernote.com/ai-diagrams?t_s=marketing_website"
-            },
-            {
-              "title": "AI Detector",
-              "url": "https://evernote.com/ai-detector?t_s=marketing_website"
+              "url": "https://evernote.com/ai-transcribe"
             },
             {
               "title": "PDF Editor",
-              "url": "https://evernote.com/pdf-editor?t_s=marketing_website"
+              "url": "https://evernote.com/pdf-editor"
             },
             {
               "title": "PDF Converter",
-              "url": "https://evernote.com/pdf-convert?t_s=marketing_website"
+              "url": "https://evernote.com/pdf-convert"
+            },
+            {
+              "title": "AI Rewrite",
+              "url": "https://evernote.com/ai-rewrite"
+            },
+            {
+              "title": "AI Text To Speech",
+              "url": "https://evernote.com/ai-text-to-voice"
+            },
+            {
+              "title": "AI Meeting Note Taker",
+              "url": "https://evernote.com/ai-transcribe/meeting"
             },
             {
               "title": "Online Notepad",
-              "url": "https://evernote.com/online-notepad?t_s=marketing_website"
+              "url": "https://evernote.com/online-notepad"
+            },
+            {
+              "title": "AI Diagrams",
+              "url": "https://evernote.com/ai-diagrams"
+            },
+            {
+              "title": "AI Detector",
+              "url": "https://evernote.com/ai-detector"
             },
             {
               "title": "Word Counter",
-              "url": "https://evernote.com/word-counter?t_s=marketing_website"
+              "url": "https://evernote.com/word-counter"
             },
             {
               "title": "Citation Generator",
-              "url": "https://evernote.com/citation-generator?t_s=marketing_website"
+              "url": "https://evernote.com/citation-generator"
             }
           ]
         }
       ]
+    },
+    {
+      "type": "link",
+      "name": "AI Features",
+      "url": "https://evernote.com/features/ai-features"
+    },
+    {
+      "type": "link",
+      "name": "Plans",
+      "url": "https://evernote.com/compare-plans"
+    },
+    {
+      "type": "link",
+      "name": "Enterprise",
+      "url": "https://evernote.com/enterprise"
     }
   ]
 }

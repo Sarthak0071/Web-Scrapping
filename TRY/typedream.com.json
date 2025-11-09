@@ -1,26 +1,15 @@
 {
   "website": "https://typedream.com",
   "domain": "typedream.com",
-  "scraped_at": "2025-11-09 12:27:13",
-  "menus": [
+  "scraped_at": "2025-11-09 13:28:31",
+  "navigation": [
     {
-      "menu_name": "Features",
-      "children": [
+      "type": "dropdown",
+      "name": "SitesBuild your dream website",
+      "sections": [
         {
           "section": null,
           "items": [
-            {
-              "title": "SitesBuild your dream website",
-              "url": "https://typedream.com/sites"
-            },
-            {
-              "title": "Link in bioBring all your online presence into one!",
-              "url": "https://typedream.com/linkinbio"
-            },
-            {
-              "title": "FormsCreate forms to capture leads, surveys, and more",
-              "url": "https://typedream.com/form"
-            },
             {
               "title": "BlogConnect your database and display contents",
               "url": "https://typedream.com/blogs"
@@ -38,23 +27,12 @@
       ]
     },
     {
-      "menu_name": "Resources",
-      "children": [
+      "type": "dropdown",
+      "name": "Guide & tutorialsStart using Typedream to build your site",
+      "sections": [
         {
           "section": null,
           "items": [
-            {
-              "title": "Guide & tutorialsStart using Typedream to build your site",
-              "url": "https://typedream.com/docs"
-            },
-            {
-              "title": "IntegrationsIntegrate external tools to your website",
-              "url": "https://typedream.com/docs/integration"
-            },
-            {
-              "title": "ChangelogA weekly update on new features & bug fixes",
-              "url": "https://typedream.com/changelog"
-            },
             {
               "title": "BlogDiscover insights from Typedream team",
               "url": "https://typedream.com/blog"
@@ -72,30 +50,44 @@
       ]
     },
     {
-      "menu_name": "Navigation",
-      "children": [
-        {
-          "section": null,
-          "items": [
-            {
-              "title": "Templates",
-              "url": "https://typedream.com/templates"
-            },
-            {
-              "title": "Showcase",
-              "url": "https://typedream.com/showcases"
-            },
-            {
-              "title": "Pricing",
-              "url": "https://typedream.com/pricing"
-            },
-            {
-              "title": "Login",
-              "url": "https://build.typedream.com/login"
-            }
-          ]
-        }
-      ]
+      "type": "link",
+      "name": "Link in bioBring all your online presence into one!",
+      "url": "https://typedream.com/linkinbio"
+    },
+    {
+      "type": "link",
+      "name": "FormsCreate forms to capture leads, surveys, and more",
+      "url": "https://typedream.com/form"
+    },
+    {
+      "type": "link",
+      "name": "Templates",
+      "url": "https://typedream.com/templates"
+    },
+    {
+      "type": "link",
+      "name": "Showcase",
+      "url": "https://typedream.com/showcases"
+    },
+    {
+      "type": "link",
+      "name": "IntegrationsIntegrate external tools to your website",
+      "url": "https://typedream.com/docs/integration"
+    },
+    {
+      "type": "link",
+      "name": "ChangelogA weekly update on new features & bug fixes",
+      "url": "https://typedream.com/changelog"
+    },
+    {
+      "type": "link",
+      "name": "Pricing",
+      "url": "https://typedream.com/pricing"
+    },
+    {
+      "type": "link",
+      "name": "Login",
+      "url": "https://build.typedream.com/login"
     }
   ]
 }

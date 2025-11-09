@@ -1,29 +1,202 @@
 {
   "website": "https://www.mailgun.com",
   "domain": "www.mailgun.com",
-  "scraped_at": "2025-11-09 12:26:32",
-  "menus": [
+  "scraped_at": "2025-11-09 13:27:51",
+  "navigation": [
     {
-      "menu_name": "Navigation",
-      "children": [
+      "type": "dropdown",
+      "name": "Sinch Email",
+      "sections": [
         {
           "section": null,
           "items": [
             {
-              "title": "Log in",
-              "url": "https://login.mailgun.com/login/"
+              "title": "Mailjet",
+              "url": "https://www.mailjet.com/"
             },
             {
-              "title": "Start for free",
-              "url": "https://signup.mailgun.com/new/signup"
+              "title": "Email on Acid",
+              "url": "https://www.emailonacid.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dropdown",
+      "name": "About",
+      "sections": [
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "Company",
+              "url": "https://www.mailgun.com/about"
             },
             {
-              "title": "Contact sales",
-              "url": "https://www.mailgun.com/contact/sales/"
+              "title": "Partners",
+              "url": "https://www.mailgun.com/industries/martech"
             },
             {
-              "title": "Start for free",
-              "url": "https://signup.mailgun.com/new/signup"
+              "title": "Careers",
+              "url": "https://www.mailgun.com/about/jobs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dropdown",
+      "name": "Help",
+      "sections": [
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "Contact Support",
+              "url": "https://www.mailgun.com/contact/support"
+            },
+            {
+              "title": "Help Center",
+              "url": "https://help.mailgun.com/hc/en-us"
+            },
+            {
+              "title": "Documentation",
+              "url": "https://documentation.mailgun.com/"
+            },
+            {
+              "title": "SDKs",
+              "url": "https://documentation.mailgun.com/docs/mailgun/sdk/introduction"
+            },
+            {
+              "title": "Status",
+              "url": "https://status.mailgun.com/"
+            },
+            {
+              "title": "Security Portal",
+              "url": "https://trust.sinch.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dropdown",
+      "name": "English",
+      "sections": [
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "English",
+              "url": "https://www.mailgun.com/"
+            },
+            {
+              "title": "Français",
+              "url": "https://www.mailgun.com/fr"
+            },
+            {
+              "title": "Deutsch",
+              "url": "https://www.mailgun.com/de"
+            },
+            {
+              "title": "Español",
+              "url": "https://www.mailgun.com/es"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dropdown",
+      "name": "Search",
+      "sections": [
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "Learn",
+              "url": "https://www.mailgun.com/resources"
+            },
+            {
+              "title": "Blog",
+              "url": "https://www.mailgun.com/blog"
+            },
+            {
+              "title": "Guides",
+              "url": "https://www.mailgun.com/resources/guides"
+            },
+            {
+              "title": "Research reports",
+              "url": "https://www.mailgun.com/resources/research"
+            },
+            {
+              "title": "Podcasts",
+              "url": "https://www.mailgun.com/resources/podcasts"
+            },
+            {
+              "title": "Videos",
+              "url": "https://www.mailgun.com/resources/videos"
+            }
+          ]
+        },
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "Release Notes: Keep up with what's new in the Mailgun platform. Read more",
+              "url": "https://www.mailgun.com/releases"
+            }
+          ]
+        },
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "2025 State of Email Deliverability Research Report Read more",
+              "url": "https://www.mailgun.com/state-of-email-deliverability"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dropdown",
+      "name": "Email on Acid",
+      "sections": [
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "Send Email API & SMTP services to send, receive, and track emails",
+              "url": "https://www.mailgun.com/products/send"
+            }
+          ]
+        },
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "Optimize Tools and services to improve your email deliverability",
+              "url": "https://www.mailgun.com/products/optimize"
+            }
+          ]
+        },
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "Validate Clean your email list via API or bulk list upload",
+              "url": "https://www.mailgun.com/products/validate"
+            }
+          ]
+        },
+        {
+          "section": null,
+          "items": [
+            {
+              "title": "Inspect Preview and test your emails before campaigns launch",
+              "url": "https://www.mailgun.com/products/inspect"
             }
           ]
         }

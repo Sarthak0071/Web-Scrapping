@@ -1,29 +1,17 @@
 {
   "website": "https://www.wordpress.com",
   "domain": "www.wordpress.com",
-  "scraped_at": "2025-11-09 12:26:40",
-  "menus": [
+  "scraped_at": "2025-11-09 13:27:58",
+  "navigation": [
     {
-      "menu_name": "Navigation",
-      "children": [
-        {
-          "section": null,
-          "items": [
-            {
-              "title": "Plans & Pricing",
-              "url": "https://wordpress.com/pricing/"
-            },
-            {
-              "title": "Log in",
-              "url": "https://wordpress.com/log-in/"
-            },
-            {
-              "title": "Get started",
-              "url": "https://wordpress.com/setup/onboarding/?ref=logged-out-homepage-lp"
-            }
-          ]
-        }
-      ]
+      "type": "link",
+      "name": "Log in",
+      "url": "https://wordpress.com/log-in"
+    },
+    {
+      "type": "link",
+      "name": "Get started",
+      "url": "https://wordpress.com/setup/onboarding"
     }
   ]
 }

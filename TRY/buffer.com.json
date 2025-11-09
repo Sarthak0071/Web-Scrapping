@@ -1,229 +1,58 @@
 {
   "website": "https://buffer.com/",
   "domain": "buffer.com",
-  "scraped_at": "2025-11-09 12:27:15",
-  "menus": [
+  "scraped_at": "2025-11-09 13:28:34",
+  "navigation": [
     {
-      "menu_name": "Features",
-      "children": [
+      "type": "dropdown",
+      "name": "Bluesky",
+      "sections": [
         {
           "section": null,
           "items": [
-            {
-              "title": "CreateBuild your own library of content ideas",
-              "url": "https://buffer.com/create?cta=bufferSite-globalNav-tools-create-1"
-            },
-            {
-              "title": "PublishPlan and schedule your content across social media platforms",
-              "url": "https://buffer.com/publish?cta=bufferSite-globalNav-tools-publish-1"
-            },
-            {
-              "title": "AnalyzeMeasure performance and turn insights into growth",
-              "url": "https://buffer.com/analyze?cta=bufferSite-globalNav-tools-analyze-1"
-            },
-            {
-              "title": "EngageEasily engage with your community",
-              "url": "https://buffer.com/engage?cta=bufferSite-globalNav-tools-engage-1"
-            },
-            {
-              "title": "CollaborateWork together seamlessly, from planning to publishing",
-              "url": "https://buffer.com/collaborate?cta=bufferSite-globalNav-tools-collaborate-1"
-            },
-            {
-              "title": "Start PageBuild a custom link-in-bio page in minutes",
-              "url": "https://buffer.com/start-page?cta=bufferSite-globalNav-tools-startPage-1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "menu_name": "Channels",
-      "children": [
-        {
-          "section": null,
-          "items": [
-            {
-              "title": "CreateBuild your own library of content ideas",
-              "url": "https://buffer.com/create?cta=bufferSite-globalNav-tools-create-1"
-            },
-            {
-              "title": "PublishPlan and schedule your content across social media platforms",
-              "url": "https://buffer.com/publish?cta=bufferSite-globalNav-tools-publish-1"
-            },
-            {
-              "title": "AnalyzeMeasure performance and turn insights into growth",
-              "url": "https://buffer.com/analyze?cta=bufferSite-globalNav-tools-analyze-1"
-            },
-            {
-              "title": "EngageEasily engage with your community",
-              "url": "https://buffer.com/engage?cta=bufferSite-globalNav-tools-engage-1"
-            },
-            {
-              "title": "CollaborateWork together seamlessly, from planning to publishing",
-              "url": "https://buffer.com/collaborate?cta=bufferSite-globalNav-tools-collaborate-1"
-            },
-            {
-              "title": "Start PageBuild a custom link-in-bio page in minutes",
-              "url": "https://buffer.com/start-page?cta=bufferSite-globalNav-tools-startPage-1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "menu_name": "Resources",
-      "children": [
-        {
-          "section": null,
-          "items": [
-            {
-              "title": "CreateBuild your own library of content ideas",
-              "url": "https://buffer.com/create?cta=bufferSite-globalNav-tools-create-1"
-            },
-            {
-              "title": "PublishPlan and schedule your content across social media platforms",
-              "url": "https://buffer.com/publish?cta=bufferSite-globalNav-tools-publish-1"
-            },
-            {
-              "title": "AnalyzeMeasure performance and turn insights into growth",
-              "url": "https://buffer.com/analyze?cta=bufferSite-globalNav-tools-analyze-1"
-            },
-            {
-              "title": "EngageEasily engage with your community",
-              "url": "https://buffer.com/engage?cta=bufferSite-globalNav-tools-engage-1"
-            },
-            {
-              "title": "CollaborateWork together seamlessly, from planning to publishing",
-              "url": "https://buffer.com/collaborate?cta=bufferSite-globalNav-tools-collaborate-1"
-            },
-            {
-              "title": "Start PageBuild a custom link-in-bio page in minutes",
-              "url": "https://buffer.com/start-page?cta=bufferSite-globalNav-tools-startPage-1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "menu_name": "Pricing",
-      "children": [
-        {
-          "section": null,
-          "items": [
-            {
-              "title": "CreateBuild your own library of content ideas",
-              "url": "https://buffer.com/create?cta=bufferSite-globalNav-tools-create-1"
-            },
-            {
-              "title": "PublishPlan and schedule your content across social media platforms",
-              "url": "https://buffer.com/publish?cta=bufferSite-globalNav-tools-publish-1"
-            },
-            {
-              "title": "AnalyzeMeasure performance and turn insights into growth",
-              "url": "https://buffer.com/analyze?cta=bufferSite-globalNav-tools-analyze-1"
-            },
-            {
-              "title": "EngageEasily engage with your community",
-              "url": "https://buffer.com/engage?cta=bufferSite-globalNav-tools-engage-1"
-            },
-            {
-              "title": "CollaborateWork together seamlessly, from planning to publishing",
-              "url": "https://buffer.com/collaborate?cta=bufferSite-globalNav-tools-collaborate-1"
-            },
-            {
-              "title": "Start PageBuild a custom link-in-bio page in minutes",
-              "url": "https://buffer.com/start-page?cta=bufferSite-globalNav-tools-startPage-1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "menu_name": "Navigation",
-      "children": [
-        {
-          "section": null,
-          "items": [
-            {
-              "title": "Buffer",
-              "url": "https://buffer.com/"
-            },
             {
               "title": "Bluesky",
-              "url": "https://buffer.com/bluesky?cta=bufferSite-globalNav-channels-bluesky-1"
+              "url": "https://buffer.com/bluesky"
             },
             {
               "title": "Facebook",
-              "url": "https://buffer.com/facebook?cta=bufferSite-globalNav-channels-facebook-1"
+              "url": "https://buffer.com/facebook"
             },
             {
               "title": "Google Business Profile",
-              "url": "https://buffer.com/google-business-profile?cta=bufferSite-globalNav-channels-googleBusinessProfile-1"
+              "url": "https://buffer.com/google-business-profile"
             },
             {
               "title": "Instagram",
-              "url": "https://buffer.com/instagram?cta=bufferSite-globalNav-channels-instagram-1"
+              "url": "https://buffer.com/instagram"
             },
             {
               "title": "LinkedIn",
-              "url": "https://buffer.com/linkedin?cta=bufferSite-globalNav-channels-linkedin-1"
+              "url": "https://buffer.com/linkedin"
             },
             {
               "title": "Mastodon",
-              "url": "https://buffer.com/mastodon?cta=bufferSite-globalNav-channels-mastodon-1"
+              "url": "https://buffer.com/mastodon"
             },
             {
               "title": "Pinterest",
-              "url": "https://buffer.com/pinterest?cta=bufferSite-globalNav-channels-pinterest-1"
+              "url": "https://buffer.com/pinterest"
             },
             {
               "title": "Threads",
-              "url": "https://buffer.com/threads?cta=bufferSite-globalNav-channels-threads-1"
+              "url": "https://buffer.com/threads"
             },
             {
               "title": "TikTok",
-              "url": "https://buffer.com/tiktok?cta=bufferSite-globalNav-channels-tiktok-1"
+              "url": "https://buffer.com/tiktok"
             },
             {
               "title": "X (Twitter)",
-              "url": "https://buffer.com/x?cta=bufferSite-globalNav-channels-x-1"
+              "url": "https://buffer.com/x"
             },
             {
               "title": "YouTube",
-              "url": "https://buffer.com/youtube?cta=bufferSite-globalNav-channels-youtube-1"
-            },
-            {
-              "title": "BlogReal-life stories and resources on growing an engaged audience",
-              "url": "https://buffer.com/resources/"
-            },
-            {
-              "title": "TemplatesPlug-and-play content templates to jump-start your planning",
-              "url": "https://buffer.com/templates"
-            },
-            {
-              "title": "Free ToolsEasy-to-use tools to grow your presence across social media",
-              "url": "https://buffer.com/free-tools"
-            },
-            {
-              "title": "Social Media InsightsData-driven benchmarks, trends, and tips to grow smarter on social",
-              "url": "https://buffer.com/insights"
-            },
-            {
-              "title": "Our CommunityLearn, connect, and grow with creators around the world",
-              "url": "https://buffer.com/our-community"
-            },
-            {
-              "title": "SupportHelp articles and tutorials to get the most out of Buffer",
-              "url": "https://support.buffer.com/"
-            },
-            {
-              "title": "Log in",
-              "url": "https://login.buffer.com/login?plan=free&cycle=year&cta=bufferSite-globalNav-login-1"
-            },
-            {
-              "title": "Get started now",
-              "url": "https://login.buffer.com/signup?product=buffer&plan=free&cycle=year&cta=bufferSite-globalNav-signup-1"
+              "url": "https://buffer.com/youtube"
             }
           ]
         }

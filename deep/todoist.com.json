@@ -1,112 +1,104 @@
 {
   "website": "https://todoist.com",
   "domain": "todoist.com",
-  "scraped_at": "2025-11-08 13:58:27",
-  "menus": [
+  "scraped_at": "2025-11-09 14:30:01",
+  "navigation": [
     {
-      "menu_name": "Made For",
-      "sections": [
+      "type": "dropdown",
+      "title": "Made For",
+      "children": [
         {
-          "section_title": null,
-          "items": [
-            {
-              "title": "Task Management",
-              "description": "",
-              "url": "https://todoist.com/task-management"
-            },
-            {
-              "title": "Project Management",
-              "description": "",
-              "url": "https://todoist.com/project-management"
-            },
-            {
-              "title": "Time Management",
-              "description": "",
-              "url": "https://todoist.com/time-management"
-            },
-            {
-              "title": "Habit Forming",
-              "description": "",
-              "url": "https://todoist.com/habit-forming"
-            },
-            {
-              "title": "Teamwork",
-              "description": "",
-              "url": "https://todoist.com/teamwork"
-            }
-          ]
+          "type": "link",
+          "title": "Task Management",
+          "url": "https://todoist.com/task-management"
+        },
+        {
+          "type": "link",
+          "title": "Project Management",
+          "url": "https://todoist.com/project-management"
+        },
+        {
+          "type": "link",
+          "title": "Time Management",
+          "url": "https://todoist.com/time-management"
+        },
+        {
+          "type": "link",
+          "title": "Habit Forming",
+          "url": "https://todoist.com/habit-forming"
+        },
+        {
+          "type": "link",
+          "title": "Teamwork",
+          "url": "https://todoist.com/teamwork"
         }
       ]
     },
     {
-      "menu_name": "Resources",
-      "sections": [
+      "type": "dropdown",
+      "title": "Resources",
+      "children": [
         {
-          "section_title": null,
-          "items": [
-            {
-              "title": "Integrations",
-              "description": "",
-              "url": "https://todoist.com/integrations"
-            },
-            {
-              "title": "Templates",
-              "description": "",
-              "url": "https://todoist.com/templates"
-            },
-            {
-              "title": "Getting Started",
-              "description": "",
-              "url": "https://todoist.com/help/articles/get-started-with-todoist-OgNNJR"
-            },
-            {
-              "title": "Help Center",
-              "description": "",
-              "url": "https://todoist.com/help"
-            },
-            {
-              "title": "Customer Stories",
-              "description": "",
-              "url": "https://todoist.com/customers"
-            },
-            {
-              "title": "Productivity Methods + Quiz",
-              "description": "",
-              "url": "https://todoist.com/productivity-methods"
-            },
-            {
-              "title": "Inspiration Hub",
-              "description": "",
-              "url": "https://todoist.com/inspiration"
-            },
-            {
-              "title": "Downloads",
-              "description": "",
-              "url": "https://todoist.com/downloads"
-            }
-          ]
+          "type": "link",
+          "title": "Integrations",
+          "url": "https://todoist.com/integrations"
+        },
+        {
+          "type": "link",
+          "title": "Templates",
+          "url": "https://todoist.com/templates"
+        },
+        {
+          "type": "link",
+          "title": "Getting Started",
+          "url": "https://todoist.com/help/articles/get-started-with-todoist-OgNNJR"
+        },
+        {
+          "type": "link",
+          "title": "Help Center",
+          "url": "https://todoist.com/help"
+        },
+        {
+          "type": "link",
+          "title": "Customer Stories",
+          "url": "https://todoist.com/customers"
+        },
+        {
+          "type": "link",
+          "title": "Productivity Methods + Quiz",
+          "url": "https://todoist.com/productivity-methods"
+        },
+        {
+          "type": "link",
+          "title": "Inspiration Hub",
+          "url": "https://todoist.com/inspiration"
+        },
+        {
+          "type": "link",
+          "title": "Downloads",
+          "url": "https://todoist.com/downloads"
         }
       ]
     },
     {
-      "menu_name": "Navigation",
-      "sections": [
-        {
-          "section_title": null,
-          "items": [
-            {
-              "title": "Pricing",
-              "description": "",
-              "url": "https://todoist.com/pricing"
-            },
-            {
-              "title": "Start for free",
-              "description": "",
-              "url": "https://app.todoist.com/auth/signup?locale=en"
-            }
-          ]
-        }
-      ]
+      "type": "link",
+      "title": "Pricing",
+      "url": "https://todoist.com/pricing"
+    },
+    {
+      "type": "link",
+      "title": "Log in",
+      "url": "https://app.todoist.com/auth/login?locale=en"
+    },
+    {
+      "type": "link",
+      "title": "Start for free",
+      "url": "https://app.todoist.com/auth/signup?locale=en"
     }
-  ]
+  ],
+  "metadata": {
+    "total_links": 16,
+    "top_level_items": 5,
+    "max_depth": 2
+  }
 }

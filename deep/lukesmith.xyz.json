@@ -1,0 +1,107 @@
+{
+  "website": "https://lukesmith.xyz",
+  "domain": "lukesmith.xyz",
+  "scraped_at": "2025-11-09 14:32:17",
+  "navigation": [
+    {
+      "type": "link",
+      "title": "YouTube",
+      "url": "https://youtube.com/c/lukesmithxyz"
+    },
+    {
+      "type": "link",
+      "title": "Videos",
+      "url": "https://videos.lukesmith.xyz"
+    },
+    {
+      "type": "link",
+      "title": "Library",
+      "url": "https://lukesmith.xyz/library"
+    },
+    {
+      "type": "link",
+      "title": "Programs",
+      "url": "https://lukesmith.xyz/programs"
+    },
+    {
+      "type": "link",
+      "title": "About",
+      "url": "https://lukesmith.xyz/about"
+    },
+    {
+      "type": "link",
+      "title": "Links",
+      "url": "https://lukesmith.xyz/links"
+    },
+    {
+      "type": "link",
+      "title": "Not Related",
+      "url": "https://notrelated.xyz"
+    },
+    {
+      "type": "link",
+      "title": "Landchad.net",
+      "url": "https://landchad.net"
+    },
+    {
+      "type": "link",
+      "title": "Based.Cooking",
+      "url": "https://based.cooking"
+    },
+    {
+      "type": "link",
+      "title": "LARBS",
+      "url": "https://larbs.xyz"
+    },
+    {
+      "type": "link",
+      "title": "MuttWizard",
+      "url": "https://muttwizard.com"
+    },
+    {
+      "type": "link",
+      "title": "EmailWiz",
+      "url": "https://github.com/LukeSmithxyz/emailwiz"
+    },
+    {
+      "type": "link",
+      "title": "My Github profile",
+      "url": "https://github.com/lukesmithxyz"
+    },
+    {
+      "type": "link",
+      "title": "Churches",
+      "url": "https://lukesmith.xyz/churches"
+    },
+    {
+      "type": "link",
+      "title": "Countries",
+      "url": "https://lukesmith.xyz/countries"
+    },
+    {
+      "type": "link",
+      "title": "Academic",
+      "url": "https://lukesmith.xyz/academic"
+    },
+    {
+      "type": "link",
+      "title": "Credit Cards",
+      "url": "https://lukesmith.xyz/credit-cards"
+    },
+    {
+      "type": "link",
+      "title": "Don'ts",
+      "url": "https://lukesmith.xyz/donts"
+    },
+    {
+      "type": "link",
+      "title": "Contact Me",
+      "url": "https://lukesmith.xyz/contact"
+    }
+  ],
+  "metadata": {
+    "total_links": 19,
+    "top_level_items": 19,
+    "max_depth": 1
+  }
+}

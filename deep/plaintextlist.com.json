@@ -1,0 +1,32 @@
+{
+  "website": "https://plaintextlist.com",
+  "domain": "plaintextlist.com",
+  "scraped_at": "2025-11-09 14:31:33",
+  "navigation": [
+    {
+      "type": "link",
+      "title": "LOGIN",
+      "url": "https://pandame.pro/pttogel"
+    },
+    {
+      "type": "link",
+      "title": "DAFTAR",
+      "url": "https://pandame.pro/pttogel1"
+    },
+    {
+      "type": "link",
+      "title": "Pttogel",
+      "url": "https://plaintextlist.com/"
+    },
+    {
+      "type": "link",
+      "title": "Prediksi Togel",
+      "url": "https://pandame.pro/prediksipttgroup"
+    }
+  ],
+  "metadata": {
+    "total_links": 4,
+    "top_level_items": 4,
+    "max_depth": 1
+  }
+}
