@@ -475,7 +475,6 @@ URLS = [
     'https://info.cern.ch',
     'https://projecteuler.net',
     'https://lukesmith.xyz',
-    'https://tonsky.me',
     'https://www.gnu.org',
     'https://www.cs.princeton.edu/'
 ]

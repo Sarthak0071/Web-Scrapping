@@ -1,0 +1,486 @@
+{
+  "website": "https://tonsky.me",
+  "domain": "tonsky.me",
+  "scraped_at": "2025-11-09 14:32:20",
+  "navigation": [
+    {
+      "type": "link",
+      "title": "Blog",
+      "url": "https://tonsky.me/"
+    },
+    {
+      "type": "link",
+      "title": "Talks",
+      "url": "https://tonsky.me/talks/"
+    },
+    {
+      "type": "link",
+      "title": "Projects",
+      "url": "https://tonsky.me/projects/"
+    },
+    {
+      "type": "link",
+      "title": "Logos",
+      "url": "https://tonsky.me/design/"
+    },
+    {
+      "type": "link",
+      "title": "Sign In",
+      "url": "https://tonsky.me/sign-in/"
+    },
+    {
+      "type": "link",
+      "title": "Personal Information",
+      "url": "https://tonsky.me/personal-information/"
+    },
+    {
+      "type": "link",
+      "title": "User Agreement",
+      "url": "https://tonsky.me/user-agreement/"
+    },
+    {
+      "type": "link",
+      "title": "Subscribe",
+      "url": "https://tonsky.me/subscribe/",
+      "is_cta": true
+    },
+    {
+      "type": "link",
+      "title": "niki@tonsky.me",
+      "url": "mailto:niki@tonsky.me",
+      "is_cta": true
+    },
+    {
+      "type": "link",
+      "title": "Patreon",
+      "url": "https://patreon.com/tonsky",
+      "is_cta": true
+    },
+    {
+      "type": "link",
+      "title": "Github",
+      "url": "https://github.com/sponsors/tonsky",
+      "is_cta": true
+    },
+    {
+      "type": "link",
+      "title": "I am sorry, but everyone is getting syntax highlighting wrong",
+      "url": "https://tonsky.me/blog/syntax-highlighting/"
+    },
+    {
+      "type": "link",
+      "title": "We shouldn’t have needed lockfiles",
+      "url": "https://tonsky.me/blog/lockfiles/"
+    },
+    {
+      "type": "link",
+      "title": "Gaslight-driven development",
+      "url": "https://tonsky.me/blog/gaslight-driven-development/"
+    },
+    {
+      "type": "link",
+      "title": "When You Get to Be Smart Writing a Macro",
+      "url": "https://tonsky.me/blog/hashp/"
+    },
+    {
+      "type": "link",
+      "title": "Where Should Visual Programming Go",
+      "url": "https://tonsky.me/blog/diagrams/"
+    },
+    {
+      "type": "link",
+      "title": "Clojure macros continue to surprise me",
+      "url": "https://tonsky.me/blog/clojure-macros/"
+    },
+    {
+      "type": "link",
+      "title": "Local, first, forever",
+      "url": "https://tonsky.me/blog/crdt-filesync/"
+    },
+    {
+      "type": "link",
+      "title": "Going to the cinema is a data visualization problem",
+      "url": "https://tonsky.me/blog/allekinos/"
+    },
+    {
+      "type": "link",
+      "title": "Humble Chronicles: Shape of the Component",
+      "url": "https://tonsky.me/blog/humble-defcomp/"
+    },
+    {
+      "type": "link",
+      "title": "Humble Chronicles: The Inescapable Objects",
+      "url": "https://tonsky.me/blog/humble-objects/"
+    },
+    {
+      "type": "link",
+      "title": "Hardest Problem in Computer Science: Centering Things",
+      "url": "https://tonsky.me/blog/centering/"
+    },
+    {
+      "type": "link",
+      "title": "Daylight Saving Time is a perfect test for UI designer",
+      "url": "https://tonsky.me/blog/dst/"
+    },
+    {
+      "type": "link",
+      "title": "JavaScript Bloat in 2024",
+      "url": "https://tonsky.me/blog/js-bloat/"
+    },
+    {
+      "type": "link",
+      "title": "New Library: clj-reload",
+      "url": "https://tonsky.me/blog/clj-reload/"
+    },
+    {
+      "type": "link",
+      "title": "In Loving Memory of Square Checkbox",
+      "url": "https://tonsky.me/blog/checkbox/"
+    },
+    {
+      "type": "link",
+      "title": "Humble Chronicles: Managing State with VDOM",
+      "url": "https://tonsky.me/blog/humble-vdom/"
+    },
+    {
+      "type": "link",
+      "title": "New Library: Simple Router",
+      "url": "https://tonsky.me/blog/simple-router/"
+    },
+    {
+      "type": "link",
+      "title": "The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses",
+      "url": "https://tonsky.me/blog/unicode/"
+    },
+    {
+      "type": "link",
+      "title": "A case for ClojureScript 2.0",
+      "url": "https://tonsky.me/blog/clojurescript-2/"
+    },
+    {
+      "type": "link",
+      "title": "Humble Chronicles: Managing State with Signals",
+      "url": "https://tonsky.me/blog/humble-signals/"
+    },
+    {
+      "type": "link",
+      "title": "Humble Chronicles: State Management",
+      "url": "https://tonsky.me/blog/humble-state/"
+    },
+    {
+      "type": "link",
+      "title": "Adventures in REPL implementation",
+      "url": "https://tonsky.me/blog/clojure-sublimed-3/"
+    },
+    {
+      "type": "link",
+      "title": "GMTK Game Jam 2022: Dice Out",
+      "url": "https://tonsky.me/blog/dice-out/"
+    },
+    {
+      "type": "link",
+      "title": "Ideas for Clojure Network Eval API",
+      "url": "https://tonsky.me/blog/network-eval/"
+    },
+    {
+      "type": "link",
+      "title": "Ideas for DataScript 2",
+      "url": "https://tonsky.me/blog/datascript-2/"
+    },
+    {
+      "type": "link",
+      "title": "Forbidden West and the Art of Editing",
+      "url": "https://tonsky.me/blog/horizon/"
+    },
+    {
+      "type": "link",
+      "title": "Humble Chronicles: Developer Experience",
+      "url": "https://tonsky.me/blog/humble-dx/"
+    },
+    {
+      "type": "link",
+      "title": "Humble Chronicles: The Layout",
+      "url": "https://tonsky.me/blog/humble-layout/"
+    },
+    {
+      "type": "link",
+      "title": "Humble Chronicles: Decomposition",
+      "url": "https://tonsky.me/blog/humble-decomposition/"
+    },
+    {
+      "type": "link",
+      "title": "Sublime ❤︎ Clojure",
+      "url": "https://tonsky.me/blog/sublime-clojure/"
+    },
+    {
+      "type": "link",
+      "title": "Python as a build tool",
+      "url": "https://tonsky.me/blog/python-build/"
+    },
+    {
+      "type": "link",
+      "title": "Thoughts on Clojure UI framework",
+      "url": "https://tonsky.me/blog/clojure-ui/"
+    },
+    {
+      "type": "link",
+      "title": "Zig, Skia, Clojure, Geometry and the Japanese TV Show: ICFP Contest 2021",
+      "url": "https://tonsky.me/blog/icfpc-2021/"
+    },
+    {
+      "type": "link",
+      "title": "Building an ultimate writing machine from Sublime Text",
+      "url": "https://tonsky.me/blog/sublime-writer/"
+    },
+    {
+      "type": "link",
+      "title": "Font size is useless; let’s fix it",
+      "url": "https://tonsky.me/blog/font-size/"
+    },
+    {
+      "type": "link",
+      "title": "Emoji under the hood",
+      "url": "https://tonsky.me/blog/emoji/"
+    },
+    {
+      "type": "link",
+      "title": "Phil Libin: Find a new way to ski",
+      "url": "https://tonsky.me/blog/phil-libin/"
+    },
+    {
+      "type": "link",
+      "title": "Macs and 4K 120Hz displays compatibility list",
+      "url": "https://tonsky.me/blog/monitors-mac/"
+    },
+    {
+      "type": "link",
+      "title": "Skija: Graphics for JVM",
+      "url": "https://tonsky.me/blog/skija/"
+    },
+    {
+      "type": "link",
+      "title": "People expect technology to suck because it actually sucks",
+      "url": "https://tonsky.me/blog/tech-sucks/"
+    },
+    {
+      "type": "link",
+      "title": "The most important feature of Sublime Text",
+      "url": "https://tonsky.me/blog/sublime/"
+    },
+    {
+      "type": "link",
+      "title": "Cognitect, please stop adding alpha to your namespaces",
+      "url": "https://tonsky.me/blog/alpha/"
+    },
+    {
+      "type": "link",
+      "title": "Time to upgrade your monitor",
+      "url": "https://tonsky.me/blog/monitors/"
+    },
+    {
+      "type": "link",
+      "title": "Computers as I used to love them",
+      "url": "https://tonsky.me/blog/syncthing/"
+    },
+    {
+      "type": "link",
+      "title": "Cleaning up form UI",
+      "url": "https://tonsky.me/blog/form-cleanup/"
+    },
+    {
+      "type": "link",
+      "title": "Grumpy chronicles: The question of utils",
+      "url": "https://tonsky.me/blog/utils/"
+    },
+    {
+      "type": "link",
+      "title": "Performance first",
+      "url": "https://tonsky.me/blog/performance-first/"
+    },
+    {
+      "type": "link",
+      "title": "SwiftUI defaults considered harmful",
+      "url": "https://tonsky.me/blog/swiftui/"
+    },
+    {
+      "type": "link",
+      "title": "Good times create weak men",
+      "url": "https://tonsky.me/blog/good-times-weak-men/"
+    },
+    {
+      "type": "link",
+      "title": "Grumpy chronicles: Pedestal and routing",
+      "url": "https://tonsky.me/blog/pedestal/"
+    },
+    {
+      "type": "link",
+      "title": "Grumpy chronicles: deps and uberdeps",
+      "url": "https://tonsky.me/blog/uberdeps/"
+    },
+    {
+      "type": "link",
+      "title": "How NOT to hire a software engineer",
+      "url": "https://tonsky.me/blog/hiring/"
+    },
+    {
+      "type": "link",
+      "title": "Redesigning Github repository page",
+      "url": "https://tonsky.me/blog/github-redesign/"
+    },
+    {
+      "type": "link",
+      "title": "It is fast or it is wrong",
+      "url": "https://tonsky.me/blog/slow-wrong/"
+    },
+    {
+      "type": "link",
+      "title": "Better Clojure formatting",
+      "url": "https://tonsky.me/blog/clojurefmt/"
+    },
+    {
+      "type": "link",
+      "title": "You need neither PWA nor AMP to make your website load fast",
+      "url": "https://tonsky.me/blog/pwa/"
+    },
+    {
+      "type": "link",
+      "title": "Solve the problem at hand",
+      "url": "https://tonsky.me/blog/concrete-vs-abstract/"
+    },
+    {
+      "type": "link",
+      "title": "Medium is a poor choice for blogging",
+      "url": "https://tonsky.me/blog/medium/"
+    },
+    {
+      "type": "link",
+      "title": "Apple Design Team vs the World",
+      "url": "https://tonsky.me/blog/ipad/"
+    },
+    {
+      "type": "link",
+      "title": "Address the root cause",
+      "url": "https://tonsky.me/blog/root-cause/"
+    },
+    {
+      "type": "link",
+      "title": "Software disenchantment",
+      "url": "https://tonsky.me/blog/disenchantment/"
+    },
+    {
+      "type": "link",
+      "title": "Designing good DSL",
+      "url": "https://tonsky.me/blog/dsl/"
+    },
+    {
+      "type": "link",
+      "title": "Library focus",
+      "url": "https://tonsky.me/blog/library-focus/"
+    },
+    {
+      "type": "link",
+      "title": "Speed is a feature",
+      "url": "https://tonsky.me/blog/speed/"
+    },
+    {
+      "type": "link",
+      "title": "JavaScript v. backward compatibility",
+      "url": "https://tonsky.me/blog/compatibility/"
+    },
+    {
+      "type": "link",
+      "title": "Hiccup, Macros, API design, and magic",
+      "url": "https://tonsky.me/blog/hiccup/"
+    },
+    {
+      "type": "link",
+      "title": "Cursor keys belong at the center of your keyboard",
+      "url": "https://tonsky.me/blog/cursor-keys/"
+    },
+    {
+      "type": "link",
+      "title": "My web app died from performance bankruptcy",
+      "url": "https://tonsky.me/blog/chrome-intervention/"
+    },
+    {
+      "type": "link",
+      "title": "You don’t want many options",
+      "url": "https://tonsky.me/blog/options/"
+    },
+    {
+      "type": "link",
+      "title": "Readable Clojure",
+      "url": "https://tonsky.me/blog/readable-clojure/"
+    },
+    {
+      "type": "link",
+      "title": "Blind Spot in Dependency Management",
+      "url": "https://tonsky.me/blog/blind-spot-in-dependency/"
+    },
+    {
+      "type": "link",
+      "title": "The Blessing of Interactive Development",
+      "url": "https://tonsky.me/blog/interactive-development/"
+    },
+    {
+      "type": "link",
+      "title": "The Web After Tomorrow",
+      "url": "https://tonsky.me/blog/the-web-after-tomorrow/"
+    },
+    {
+      "type": "link",
+      "title": "A shallow dive into DataScript internals",
+      "url": "https://tonsky.me/blog/datascript-internals/"
+    },
+    {
+      "type": "link",
+      "title": "Couple of DataScript resources",
+      "url": "https://tonsky.me/blog/datascript-resources/"
+    },
+    {
+      "type": "link",
+      "title": "Streams: Mail 3.0 concept",
+      "url": "https://tonsky.me/blog/streams/"
+    },
+    {
+      "type": "link",
+      "title": "Another powered-by-DataScript example",
+      "url": "https://tonsky.me/blog/acha-acha/"
+    },
+    {
+      "type": "link",
+      "title": "Chatting cats use DataScript for fun",
+      "url": "https://tonsky.me/blog/datascript-chat/"
+    },
+    {
+      "type": "link",
+      "title": "Irrelevant Things",
+      "url": "https://tonsky.me/blog/irrelevant-things/"
+    },
+    {
+      "type": "link",
+      "title": "Reinventing Git interface",
+      "url": "https://tonsky.me/blog/reinventing-git-interface/"
+    },
+    {
+      "type": "link",
+      "title": "Unofficial guide to Datomic internals",
+      "url": "https://tonsky.me/blog/unofficial-guide-to-datomic-internals/"
+    },
+    {
+      "type": "link",
+      "title": "Datomic as a Protocol",
+      "url": "https://tonsky.me/blog/datomic-as-protocol/"
+    },
+    {
+      "type": "link",
+      "title": "Decomposing web app development",
+      "url": "https://tonsky.me/blog/decomposing-web-app-development/"
+    }
+  ],
+  "metadata": {
+    "total_links": 94,
+    "top_level_items": 94,
+    "max_depth": 1
+  }
+}

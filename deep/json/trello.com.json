@@ -1,0 +1,42 @@
+{
+  "website": "https://www.trello.com",
+  "domain": "www.trello.com",
+  "scraped_at": "2025-11-09 14:30:32",
+  "navigation": [
+    {
+      "type": "link",
+      "title": "InboxCapture every vital detail from emails, Slack, and more directly into your Trello Inbox",
+      "url": "https://www.trello.com/inbox"
+    },
+    {
+      "type": "link",
+      "title": "PlannerSync your calendar and allocate focused time slots to boost productivity",
+      "url": "https://www.trello.com/planner"
+    },
+    {
+      "type": "link",
+      "title": "AutomationAutomate tasks and workflows with Trello",
+      "url": "https://www.trello.com/butler-automation"
+    },
+    {
+      "type": "link",
+      "title": "Power-UpsPower up your teams by linking their favorite tools with Trello plugins",
+      "url": "https://www.trello.com/power-ups"
+    },
+    {
+      "type": "link",
+      "title": "TemplatesGive your team a blueprint for success with easy-to-use templates from industry leaders and the Trello community",
+      "url": "https://www.trello.com/templates"
+    },
+    {
+      "type": "link",
+      "title": "IntegrationsFind the apps your team is already using or discover new ways to get work done in Trello",
+      "url": "https://www.trello.com/integrations"
+    }
+  ],
+  "metadata": {
+    "total_links": 6,
+    "top_level_items": 6,
+    "max_depth": 1
+  }
+}

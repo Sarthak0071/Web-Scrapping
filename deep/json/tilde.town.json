@@ -1,0 +1,37 @@
+{
+  "website": "https://tilde.town",
+  "domain": "tilde.town",
+  "scraped_at": "2025-11-09 14:31:55",
+  "navigation": [
+    {
+      "type": "link",
+      "title": "html graffiti",
+      "url": "https://tilde.town/graffiti.html"
+    },
+    {
+      "type": "link",
+      "title": "poetry",
+      "url": "https://tilde.town/~subtransience/machinecode/aphantom.html"
+    },
+    {
+      "type": "link",
+      "title": "bbj",
+      "url": "https://bbj-dev.github.io/bbj/site/"
+    },
+    {
+      "type": "link",
+      "title": "interactive blackout art",
+      "url": "https://tilde.town/~kc/blackout"
+    },
+    {
+      "type": "link",
+      "title": "our zine",
+      "url": "https://tilde.town/~zine"
+    }
+  ],
+  "metadata": {
+    "total_links": 5,
+    "top_level_items": 5,
+    "max_depth": 1
+  }
+}

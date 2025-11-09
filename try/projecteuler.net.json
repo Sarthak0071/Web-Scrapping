@@ -1,0 +1,42 @@
+{
+  "website": "https://projecteuler.net",
+  "domain": "projecteuler.net",
+  "scraped_at": "2025-11-09 22:54:55",
+  "navigation": [
+    {
+      "type": "link",
+      "title": "About",
+      "url": "https://projecteuler.net/about"
+    },
+    {
+      "type": "link",
+      "title": "Archives",
+      "url": "https://projecteuler.net/archives"
+    },
+    {
+      "type": "link",
+      "title": "Recent",
+      "url": "https://projecteuler.net/recent"
+    },
+    {
+      "type": "link",
+      "title": "News",
+      "url": "https://projecteuler.net/news"
+    },
+    {
+      "type": "link",
+      "title": "Register",
+      "url": "https://projecteuler.net/register"
+    },
+    {
+      "type": "link",
+      "title": "Sign In",
+      "url": "https://projecteuler.net/sign_in"
+    }
+  ],
+  "metadata": {
+    "total_links": 6,
+    "top_level_items": 6,
+    "max_depth": 1
+  }
+}

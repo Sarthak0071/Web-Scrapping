@@ -1,0 +1,104 @@
+{
+  "website": "https://todoist.com",
+  "domain": "todoist.com",
+  "scraped_at": "2025-11-09 14:30:01",
+  "navigation": [
+    {
+      "type": "dropdown",
+      "title": "Made For",
+      "children": [
+        {
+          "type": "link",
+          "title": "Task Management",
+          "url": "https://todoist.com/task-management"
+        },
+        {
+          "type": "link",
+          "title": "Project Management",
+          "url": "https://todoist.com/project-management"
+        },
+        {
+          "type": "link",
+          "title": "Time Management",
+          "url": "https://todoist.com/time-management"
+        },
+        {
+          "type": "link",
+          "title": "Habit Forming",
+          "url": "https://todoist.com/habit-forming"
+        },
+        {
+          "type": "link",
+          "title": "Teamwork",
+          "url": "https://todoist.com/teamwork"
+        }
+      ]
+    },
+    {
+      "type": "dropdown",
+      "title": "Resources",
+      "children": [
+        {
+          "type": "link",
+          "title": "Integrations",
+          "url": "https://todoist.com/integrations"
+        },
+        {
+          "type": "link",
+          "title": "Templates",
+          "url": "https://todoist.com/templates"
+        },
+        {
+          "type": "link",
+          "title": "Getting Started",
+          "url": "https://todoist.com/help/articles/get-started-with-todoist-OgNNJR"
+        },
+        {
+          "type": "link",
+          "title": "Help Center",
+          "url": "https://todoist.com/help"
+        },
+        {
+          "type": "link",
+          "title": "Customer Stories",
+          "url": "https://todoist.com/customers"
+        },
+        {
+          "type": "link",
+          "title": "Productivity Methods + Quiz",
+          "url": "https://todoist.com/productivity-methods"
+        },
+        {
+          "type": "link",
+          "title": "Inspiration Hub",
+          "url": "https://todoist.com/inspiration"
+        },
+        {
+          "type": "link",
+          "title": "Downloads",
+          "url": "https://todoist.com/downloads"
+        }
+      ]
+    },
+    {
+      "type": "link",
+      "title": "Pricing",
+      "url": "https://todoist.com/pricing"
+    },
+    {
+      "type": "link",
+      "title": "Log in",
+      "url": "https://app.todoist.com/auth/login?locale=en"
+    },
+    {
+      "type": "link",
+      "title": "Start for free",
+      "url": "https://app.todoist.com/auth/signup?locale=en"
+    }
+  ],
+  "metadata": {
+    "total_links": 16,
+    "top_level_items": 5,
+    "max_depth": 2
+  }
+}

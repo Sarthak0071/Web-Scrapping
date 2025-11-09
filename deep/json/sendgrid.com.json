@@ -1,0 +1,609 @@
+{
+  "website": "https://www.sendgrid.com",
+  "domain": "www.sendgrid.com",
+  "scraped_at": "2025-11-09 14:30:13",
+  "navigation": [
+    {
+      "type": "mega-menu",
+      "title": "Products",
+      "children": [
+        {
+          "type": "section",
+          "title": "Email API",
+          "children": [
+            {
+              "type": "section",
+              "title": "Email API",
+              "children": [
+                {
+                  "type": "link",
+                  "title": "OverviewAn icon of a right arrow",
+                  "url": "https://sendgrid.com/en-us/solutions/email-api",
+                  "is_cta": true
+                },
+                {
+                  "type": "link",
+                  "title": "Take a tourAn icon of a right arrow",
+                  "url": "https://sendgrid.com/en-us/email-api-tour",
+                  "is_cta": true
+                },
+                {
+                  "type": "link",
+                  "title": "SMTP Service",
+                  "url": "https://www.sendgrid.com/en-us/solutions/email-api/smtp-service"
+                },
+                {
+                  "type": "link",
+                  "title": "Email Validation",
+                  "url": "https://www.sendgrid.com/en-us/solutions/email-api/email-address-validation-api"
+                },
+                {
+                  "type": "link",
+                  "title": "Deliverability Insights",
+                  "url": "https://www.sendgrid.com/en-us/solutions/email-api/deliverability-insights"
+                },
+                {
+                  "type": "link",
+                  "title": "Dynamic Templates",
+                  "url": "https://www.sendgrid.com/en-us/solutions/email-api/dynamic-email-templates"
+                },
+                {
+                  "type": "link",
+                  "title": "Email Infrastructure",
+                  "url": "https://www.sendgrid.com/en-us/solutions/email-api/proven-email-infrastructure"
+                },
+                {
+                  "type": "link",
+                  "title": "5-minute Integration",
+                  "url": "https://docs.sendgrid.com/for-developers/sending-email/api-getting-started"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "Email Marketing Campaigns",
+              "children": [
+                {
+                  "type": "link",
+                  "title": "OverviewAn icon of a right arrow",
+                  "url": "https://sendgrid.com/en-us/solutions/email-marketing",
+                  "is_cta": true
+                },
+                {
+                  "type": "link",
+                  "title": "Take a tourAn icon of a right arrow",
+                  "url": "https://sendgrid.com/en-us/product-tour/marketing-campaigns",
+                  "is_cta": true
+                },
+                {
+                  "type": "link",
+                  "title": "Email Automation",
+                  "url": "https://www.sendgrid.com/en-us/solutions/email-marketing/automation"
+                },
+                {
+                  "type": "link",
+                  "title": "Signup Forms",
+                  "url": "https://www.sendgrid.com/en-us/solutions/email-marketing/signup-forms"
+                },
+                {
+                  "type": "link",
+                  "title": "Email Testing",
+                  "url": "https://www.sendgrid.com/en-us/solutions/email-marketing/email-testing"
+                },
+                {
+                  "type": "link",
+                  "title": "Email Design",
+                  "url": "https://www.sendgrid.com/en-us/solutions/email-marketing/email-design"
+                },
+                {
+                  "type": "link",
+                  "title": "Email Templates",
+                  "url": "https://www.sendgrid.com/en-us/solutions/email-marketing/email-templates"
+                },
+                {
+                  "type": "link",
+                  "title": "Email Statistics",
+                  "url": "https://www.sendgrid.com/en-us/solutions/email-marketing/email-statistics"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "Expert Services (Twilio Professional Services",
+              "children": [
+                {
+                  "type": "section",
+                  "title": "Expert Services (Twilio Professional Services",
+                  "children": [
+                    {
+                      "type": "section",
+                      "title": "Expert Services (Twilio Professional Services",
+                      "children": [
+                        {
+                          "type": "section",
+                          "title": "Expert Services (Twilio Professional Services",
+                          "children": [
+                            {
+                              "type": "link",
+                              "title": "OverviewAn icon of a right arrow",
+                              "url": "https://www.twilio.com/en-us/professional-services",
+                              "is_cta": true
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "mega-menu",
+      "title": "Why SendGrid",
+      "children": [
+        {
+          "type": "section",
+          "title": "Overview",
+          "children": [
+            {
+              "type": "section",
+              "title": "Overview",
+              "children": [
+                {
+                  "type": "link",
+                  "title": "Calculate Your Email ROI",
+                  "url": "https://www.sendgrid.com/en-us/resource/roi-calculator"
+                },
+                {
+                  "type": "link",
+                  "title": "Our Delivery Rates",
+                  "url": "https://www.sendgrid.com/en-us/email-delivery"
+                },
+                {
+                  "type": "link",
+                  "title": "Free Plan",
+                  "url": "https://www.sendgrid.com/en-us/free"
+                },
+                {
+                  "type": "link",
+                  "title": "Email + SMS, WhatsApp, and More",
+                  "url": "https://www.sendgrid.com/en-us/solutions/multichannel"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "Solutions",
+              "children": [
+                {
+                  "type": "link",
+                  "title": "Developers",
+                  "url": "https://www.sendgrid.com/en-us/solutions/email-api"
+                },
+                {
+                  "type": "link",
+                  "title": "Startups",
+                  "url": "https://www.twilio.com/en-us/solutions/startups-resources"
+                },
+                {
+                  "type": "link",
+                  "title": "High-Volume Senders",
+                  "url": "https://www.sendgrid.com/en-us/contact"
+                },
+                {
+                  "type": "link",
+                  "title": "Marketers",
+                  "url": "https://www.sendgrid.com/en-us/solutions/email-marketing"
+                },
+                {
+                  "type": "link",
+                  "title": "Enterprises",
+                  "url": "https://www.sendgrid.com/en-us/solutions/enterprise"
+                },
+                {
+                  "type": "link",
+                  "title": "Ecommerce",
+                  "url": "https://www.twilio.com/en-us/solutions/ecommerce"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "Customer Stories",
+              "children": [
+                {
+                  "type": "section",
+                  "title": "Customer Stories",
+                  "children": [
+                    {
+                      "type": "section",
+                      "title": "Customer Stories",
+                      "children": [
+                        {
+                          "type": "link",
+                          "title": "See more customersAn icon of a outbound link arrow",
+                          "url": "https://customers.twilio.com/en-us/sendgrid?page=1&products=email%2Cmarketing-campaigns",
+                          "is_cta": true
+                        },
+                        {
+                          "type": "link",
+                          "title": "Shopify logo",
+                          "url": "https://customers.twilio.com/en-us/shopify-2"
+                        },
+                        {
+                          "type": "link",
+                          "title": "ibotta logo",
+                          "url": "https://customers.twilio.com/en-us/ibotta"
+                        },
+                        {
+                          "type": "link",
+                          "title": "Glassdoor logo",
+                          "url": "https://customers.twilio.com/en-us/glassdoor"
+                        },
+                        {
+                          "type": "link",
+                          "title": "Phenix logo",
+                          "url": "https://customers.twilio.com/en-us/phenix"
+                        },
+                        {
+                          "type": "link",
+                          "title": "Strava logo",
+                          "url": "https://customers.twilio.com/en-us/strava"
+                        },
+                        {
+                          "type": "link",
+                          "title": "Vacasa logo",
+                          "url": "https://customers.twilio.com/en-us/vacasa"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Overview",
+          "children": [
+            {
+              "type": "section",
+              "title": "Overview",
+              "children": [
+                {
+                  "type": "link",
+                  "title": "Why Twilio SendGridAn icon of a right arrow",
+                  "url": "https://sendgrid.com/en-us/why-sendgrid",
+                  "is_cta": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Solutions",
+          "children": [
+            {
+              "type": "section",
+              "title": "Solutions",
+              "children": [
+                {
+                  "type": "link",
+                  "title": "Email SolutionsAn icon of a right arrow",
+                  "url": "https://sendgrid.com/en-us/solutions",
+                  "is_cta": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "mega-menu",
+      "title": "Resources",
+      "children": [
+        {
+          "type": "section",
+          "title": "Resources",
+          "children": [
+            {
+              "type": "section",
+              "title": "Resources",
+              "children": [
+                {
+                  "type": "link",
+                  "title": "Guides",
+                  "url": "https://www.twilio.com/en-us/resource-center/guides?page=1&solution=email"
+                },
+                {
+                  "type": "link",
+                  "title": "Blog",
+                  "url": "https://www.twilio.com/en-us/blog"
+                },
+                {
+                  "type": "link",
+                  "title": "Email Marketing Guide",
+                  "url": "https://www.twilio.com/en-us/resource-center/email-marketing-guide"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "Customer Help",
+              "children": [
+                {
+                  "type": "link",
+                  "title": "FAQ",
+                  "url": "https://www.sendgrid.com/en-us/resource/faq"
+                },
+                {
+                  "type": "link",
+                  "title": "Status",
+                  "url": "https://status.sendgrid.com/"
+                },
+                {
+                  "type": "link",
+                  "title": "Partners",
+                  "url": "https://www.sendgrid.com/en-us/partners"
+                },
+                {
+                  "type": "link",
+                  "title": "Knowledge Center",
+                  "url": "https://docs.sendgrid.com/"
+                },
+                {
+                  "type": "link",
+                  "title": "API Reference",
+                  "url": "https://docs.sendgrid.com/api-reference/how-to-use-the-sendgrid-v3-api/authentication"
+                },
+                {
+                  "type": "link",
+                  "title": "Privacy and Security",
+                  "url": "https://www.sendgrid.com/en-us/policies/security"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Resources",
+          "children": [
+            {
+              "type": "section",
+              "title": "Resources",
+              "children": [
+                {
+                  "type": "link",
+                  "title": "See all resourcesAn icon of a right arrow",
+                  "url": "https://www.twilio.com/en-us/resource-center",
+                  "is_cta": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Customer Help",
+          "children": [
+            {
+              "type": "section",
+              "title": "Customer Help",
+              "children": [
+                {
+                  "type": "link",
+                  "title": "SupportAn icon of a right arrow",
+                  "url": "https://support.sendgrid.com/hc/en-us",
+                  "is_cta": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "mega-menu",
+      "title": "Developers",
+      "children": [
+        {
+          "type": "section",
+          "title": "Get started",
+          "children": [
+            {
+              "type": "section",
+              "title": "Get started",
+              "children": [
+                {
+                  "type": "link",
+                  "title": "Event Webhook",
+                  "url": "https://docs.sendgrid.com/for-developers/tracking-events/event"
+                },
+                {
+                  "type": "link",
+                  "title": "Libraries",
+                  "url": "https://github.com/sendgrid/"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "Popular Topics",
+              "children": [
+                {
+                  "type": "link",
+                  "title": "Inbound Parse Webhook",
+                  "url": "https://docs.sendgrid.com/for-developers/parsing-email/setting-up-the-inbound-parse-webhook"
+                },
+                {
+                  "type": "link",
+                  "title": "Contact Support",
+                  "url": "https://support.sendgrid.com/"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "Featured Libraries",
+              "children": [
+                {
+                  "type": "section",
+                  "title": "Featured Libraries",
+                  "children": [
+                    {
+                      "type": "section",
+                      "title": "Featured Libraries",
+                      "children": [
+                        {
+                          "type": "section",
+                          "title": "Featured Libraries",
+                          "children": [
+                            {
+                              "type": "link",
+                              "title": "URL",
+                              "url": "https://docs.sendgrid.com/for-developers/sending-email/curl-examples"
+                            },
+                            {
+                              "type": "link",
+                              "title": "Node",
+                              "url": "https://github.com/sendgrid/sendgrid-nodejs/"
+                            },
+                            {
+                              "type": "link",
+                              "title": "Ruby",
+                              "url": "https://github.com/sendgrid/sendgrid-ruby/"
+                            },
+                            {
+                              "type": "link",
+                              "title": "PHP",
+                              "url": "https://github.com/sendgrid/sendgrid-php/"
+                            },
+                            {
+                              "type": "link",
+                              "title": "Go",
+                              "url": "https://github.com/sendgrid/sendgrid-go/"
+                            },
+                            {
+                              "type": "link",
+                              "title": "Python",
+                              "url": "https://github.com/sendgrid/sendgrid-python/"
+                            },
+                            {
+                              "type": "link",
+                              "title": "Java",
+                              "url": "https://github.com/sendgrid/sendgrid-java/"
+                            },
+                            {
+                              "type": "link",
+                              "title": "C",
+                              "url": "https://github.com/sendgrid/sendgrid-csharp/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Get started",
+          "children": [
+            {
+              "type": "section",
+              "title": "Get started",
+              "children": [
+                {
+                  "type": "link",
+                  "title": "View docsAn icon of a right arrow",
+                  "url": "https://docs.sendgrid.com/for-developers",
+                  "is_cta": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "mega-menu",
+      "title": "Contact us",
+      "children": [
+        {
+          "type": "section",
+          "title": "Support",
+          "children": [
+            {
+              "type": "section",
+              "title": "Talk to sales",
+              "children": [
+                {
+                  "type": "section",
+                  "title": "Talk to sales",
+                  "children": [
+                    {
+                      "type": "link",
+                      "title": "Contact salesAn icon of a right arrow",
+                      "url": "https://sendgrid.com/en-us/contact-us-form",
+                      "is_cta": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "FAQ",
+              "children": [
+                {
+                  "type": "section",
+                  "title": "FAQ",
+                  "children": [
+                    {
+                      "type": "link",
+                      "title": "View FAQAn icon of a right arrow",
+                      "url": "https://sendgrid.com/en-us/resource/faq",
+                      "is_cta": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "link",
+      "title": "Pricing",
+      "url": "https://www.sendgrid.com/en-us/pricing"
+    },
+    {
+      "type": "link",
+      "title": "Sign in",
+      "url": "https://login.sendgrid.com/login/identifier"
+    },
+    {
+      "type": "link",
+      "title": "Start for free",
+      "url": "https://signup.sendgrid.com/",
+      "is_cta": true
+    }
+  ],
+  "metadata": {
+    "total_links": 65,
+    "top_level_items": 8,
+    "max_depth": 7
+  }
+}

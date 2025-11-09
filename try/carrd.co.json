@@ -1,0 +1,48 @@
+{
+  "website": "https://carrd.co/",
+  "domain": "carrd.co",
+  "scraped_at": "2025-11-09 22:54:28",
+  "navigation": [
+    {
+      "type": "link",
+      "title": "In",
+      "url": "https://carrd.co/login",
+      "description": "Log in to an existing account"
+    },
+    {
+      "type": "link",
+      "title": "Up",
+      "url": "https://carrd.co/signup",
+      "description": "Create a free Carrd account",
+      "is_cta": true
+    },
+    {
+      "type": "link",
+      "title": "Documentation",
+      "url": "https://carrd.co/docs",
+      "description": "Get answers and instructions"
+    },
+    {
+      "type": "link",
+      "title": "Changelog",
+      "url": "https://carrd.co/docs/general/changelog",
+      "description": "Learn what's new (and changed"
+    },
+    {
+      "type": "link",
+      "title": "Go Pro!Upgrade your Carrd experience",
+      "url": "https://carrd.co/pro"
+    },
+    {
+      "type": "link",
+      "title": "Contact",
+      "url": "https://carrd.co/contact",
+      "description": "Send your questions and comments"
+    }
+  ],
+  "metadata": {
+    "total_links": 6,
+    "top_level_items": 6,
+    "max_depth": 1
+  }
+}

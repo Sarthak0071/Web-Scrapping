@@ -1,0 +1,113 @@
+{
+  "website": "https://ghost.org",
+  "domain": "ghost.org",
+  "scraped_at": "2025-11-09 22:54:06",
+  "navigation": [
+    {
+      "type": "link",
+      "title": "Creators",
+      "url": "https://ghost.org/creators/",
+      "description": "YouTubers, bloggers, podcasters, musicians & artists",
+      "is_cta": true
+    },
+    {
+      "type": "link",
+      "title": "Publishers",
+      "url": "https://ghost.org/publishers/",
+      "description": "Writers, journalists, local news and new media outlets",
+      "is_cta": true
+    },
+    {
+      "type": "link",
+      "title": "Business",
+      "url": "https://ghost.org/business/",
+      "description": "Modern brands & companies with ambitious content marketing",
+      "is_cta": true
+    },
+    {
+      "type": "link",
+      "title": "Developers",
+      "url": "https://docs.ghost.org/",
+      "description": "Source code, documentation, guides and tutorials",
+      "is_cta": true
+    },
+    {
+      "type": "link",
+      "title": "Explore",
+      "url": "https://explore.ghost.org"
+    },
+    {
+      "type": "link",
+      "title": "Marketplace",
+      "url": "https://ghost.org/marketplace/",
+      "description": "Professional themes, custom integrations and qualified experts",
+      "is_cta": true
+    },
+    {
+      "type": "link",
+      "title": "Start hereNewA huge library of guides, stories, interviews and tips for success",
+      "url": "https://ghost.org/resources/",
+      "is_cta": true
+    },
+    {
+      "type": "link",
+      "title": "Themes",
+      "url": "https://ghost.org/themes/",
+      "description": "Hundreds of beautifully designed publication templates",
+      "is_cta": true
+    },
+    {
+      "type": "link",
+      "title": "Help centerGet help with product features and answers to common questions",
+      "url": "https://ghost.org/help/",
+      "is_cta": true
+    },
+    {
+      "type": "link",
+      "title": "Integrations",
+      "url": "https://ghost.org/integrations/",
+      "description": "Connect thousands of apps and services with your website",
+      "is_cta": true
+    },
+    {
+      "type": "link",
+      "title": "Product updatesAll the latest changes and improvements to Ghost",
+      "url": "https://ghost.org/changelog/",
+      "is_cta": true
+    },
+    {
+      "type": "link",
+      "title": "Experts",
+      "url": "https://ghost.org/experts/",
+      "description": "Get help building your site from certified Ghost developers",
+      "is_cta": true
+    },
+    {
+      "type": "link",
+      "title": "About usLearn more about the people behind the platform (We're hiring",
+      "url": "https://ghost.org/about/",
+      "is_cta": true
+    },
+    {
+      "type": "link",
+      "title": "Pricing",
+      "url": "https://ghost.org/pricing/"
+    },
+    {
+      "type": "link",
+      "title": "Sign in",
+      "url": "https://account.ghost.org/signin/"
+    },
+    {
+      "type": "link",
+      "title": "Get Started— free",
+      "url": "https://account.ghost.org/signup/",
+      "is_cta": true
+    }
+  ],
+  "metadata": {
+    "total_links": 16,
+    "top_level_items": 16,
+    "max_depth": 1
+  }
+}

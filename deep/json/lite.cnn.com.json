@@ -1,0 +1,512 @@
+{
+  "website": "https://lite.cnn.com",
+  "domain": "lite.cnn.com",
+  "scraped_at": "2025-11-09 14:31:48",
+  "navigation": [
+    {
+      "type": "link",
+      "title": "Typhoon Fung-wong strengthens, menacing an already storm-stricken Philippines",
+      "url": "https://lite.cnn.com/2025/11/08/asia/philippines-typhoon-fung-wong-uwan-hnk-intl"
+    },
+    {
+      "type": "link",
+      "title": "The Fed’s newest governor brings a Trump perspective on the economy. Is anyone buying it",
+      "url": "https://lite.cnn.com/2025/11/09/economy/stephen-miran-fed-perspective"
+    },
+    {
+      "type": "link",
+      "title": "A Chinese coffee shop called itself People’s Cafe. That name got it roasted",
+      "url": "https://lite.cnn.com/2025/11/09/china/china-people-cafe-change-name-intl-hnk"
+    },
+    {
+      "type": "link",
+      "title": "Nuclear codes, voicemail hacks and businesses going bust. These are some of the biggest password blunders",
+      "url": "https://lite.cnn.com/2025/11/09/europe/louvre-heist-weak-password-blunders-hackers-intl"
+    },
+    {
+      "type": "link",
+      "title": "Travelers face mounting delays this weekend as airlines cut hundreds of flights due to the shutdown. Here’s what to know",
+      "url": "https://lite.cnn.com/2025/11/08/us/weekend-travel-flight-cuts-government-shutdown-hnk"
+    },
+    {
+      "type": "link",
+      "title": "Infant botulism in 10 US states linked to formula being recalled",
+      "url": "https://lite.cnn.com/2025/11/08/health/infant-formula-recall-botulism"
+    },
+    {
+      "type": "link",
+      "title": "Supreme Court lets Trump pause full SNAP payments for now",
+      "url": "https://lite.cnn.com/2025/11/07/politics/trump-administration-supreme-court-snap-benefits"
+    },
+    {
+      "type": "link",
+      "title": "Images of Trump appearing to close his eyes during Oval Office event spread across social media",
+      "url": "https://lite.cnn.com/2025/11/08/politics/trump-oval-office-event"
+    },
+    {
+      "type": "link",
+      "title": "The last of India’s mythic superstars",
+      "url": "https://lite.cnn.com/2025/11/08/india/india-shah-rukh-khan-last-superstar-feature-intl-hnk-dst"
+    },
+    {
+      "type": "link",
+      "title": "FAA halts flights of MD-11 cargo planes and requires inspections after UPS plane crash leaves community in mourning",
+      "url": "https://lite.cnn.com/2025/11/08/us/ups-crash-fleets-grounded-investigation-lawsuit"
+    },
+    {
+      "type": "link",
+      "title": "Miraculous late toe-tap touchdown keeps No. 2 Indiana’s perfect season alive",
+      "url": "https://lite.cnn.com/2025/11/08/sport/college-football-indiana-penn-state-miracle-catch"
+    },
+    {
+      "type": "link",
+      "title": "Unprecedented’ tornado tears through southern Brazil, killing at least six",
+      "url": "https://lite.cnn.com/2025/11/08/americas/brazil-tornado-weather-parana-intl"
+    },
+    {
+      "type": "link",
+      "title": "Randomness of UPS air disaster shocks happy hour crowd at popular local bar",
+      "url": "https://lite.cnn.com/2025/11/08/us/louisville-bar-ups-plane-crash"
+    },
+    {
+      "type": "link",
+      "title": "Pope Leo holds hours-long ‘profound and painful’ meeting with abuse survivors",
+      "url": "https://lite.cnn.com/2025/11/08/europe/pope-leo-meets-abuse-survivors-belgium-latam-intl"
+    },
+    {
+      "type": "link",
+      "title": "Experimental daily pill may lower cholesterol in patients who don’t see enough benefit with statins alone, study finds",
+      "url": "https://lite.cnn.com/2025/11/08/health/enlicitide-cholesterol-lowering-drug-study"
+    },
+    {
+      "type": "link",
+      "title": "At least 4 killed after driver slams into Tampa bar, 11 others injured",
+      "url": "https://lite.cnn.com/2025/11/08/us/tampa-florida-police-chase-crash"
+    },
+    {
+      "type": "link",
+      "title": "Widespread power outages hit Ukraine after Russian missile and drone barrage",
+      "url": "https://lite.cnn.com/2025/11/08/europe/ukraine-russia-power-attack-intl"
+    },
+    {
+      "type": "link",
+      "title": "Pelosi’s retirement announcement could open floodgates for a wave of new candidates",
+      "url": "https://lite.cnn.com/2025/11/08/politics/nancy-pelosi-retirement-candidates-replace"
+    },
+    {
+      "type": "link",
+      "title": "Wig disguises, a swapped license plate and a 1,000-mile drive: Where the search for 9-year-old Melodee Buzzard stands",
+      "url": "https://lite.cnn.com/2025/11/08/us/melodee-buzzard-missing-search-update"
+    },
+    {
+      "type": "link",
+      "title": "After missing World Series for personal reasons, Dodgers’ Vesia says his baby daughter has died",
+      "url": "https://lite.cnn.com/2025/11/08/sport/baseball-mlb-vesia-dodgers-world-series"
+    },
+    {
+      "type": "link",
+      "title": "Scientists have edited a gene that may reduce high cholesterol permanently",
+      "url": "https://lite.cnn.com/2025/11/08/health/cholesterol-gene-edit-wellness"
+    },
+    {
+      "type": "link",
+      "title": "Why OpenAI went into crisis PR mode Thursday",
+      "url": "https://lite.cnn.com/2025/11/06/tech/openai-backtracks-government-support-chip-investments"
+    },
+    {
+      "type": "link",
+      "title": "The anti-Trump vote appears as strong as ever",
+      "url": "https://lite.cnn.com/2025/11/08/politics/anti-trump-vote-virigina-new-jersey"
+    },
+    {
+      "type": "link",
+      "title": "Trump grants Hungary one-year exemption from Russian energy sanctions",
+      "url": "https://lite.cnn.com/2025/11/07/europe/orban-trump-oil-sanctions-hungary-latam-intl"
+    },
+    {
+      "type": "link",
+      "title": "Six killed in fire at perfume depot in northwestern Turkey",
+      "url": "https://lite.cnn.com/2025/11/08/europe/six-killed-fire-perfume-depot-turkey-intl"
+    },
+    {
+      "type": "link",
+      "title": "Supreme Court to hear case of Rastafarian man seeking to sue prison officials for cutting his dreadlocks",
+      "url": "https://lite.cnn.com/2025/11/08/politics/supreme-court-rastafarian-man-dreadlocks"
+    },
+    {
+      "type": "link",
+      "title": "Israel identifies deceased hostage from Gaza following fourth such transfer this week",
+      "url": "https://lite.cnn.com/2025/11/07/middleeast/israel-receives-remains-hostage-gaza-intl-latam"
+    },
+    {
+      "type": "link",
+      "title": "Why one man says the ‘airport divorce’ is the best way to start a vacation",
+      "url": "https://lite.cnn.com/2025/11/08/travel/travel-news-airport-divorce-trend"
+    },
+    {
+      "type": "link",
+      "title": "National 211 hotline calls for food assistance quadrupled in a matter of days, a magnitude typically seen during disasters",
+      "url": "https://lite.cnn.com/2025/11/08/health/211-food-assistance-hotline-snap"
+    },
+    {
+      "type": "link",
+      "title": "Six months in, Pope Leo is bringing an American flavor to the papacy",
+      "url": "https://lite.cnn.com/2025/11/08/europe/pope-leo-six-months-in-american-flavor-intl"
+    },
+    {
+      "type": "link",
+      "title": "What to know about fees and tips when donating to a good cause",
+      "url": "https://lite.cnn.com/2025/11/08/business/online-charitable-contributions-fees-tips"
+    },
+    {
+      "type": "link",
+      "title": "People are really hurting’: From airports to grocery stores, shutdown leaves Americans scrambling",
+      "url": "https://lite.cnn.com/2025/11/08/politics/shutdown-airport-delays-food-stamps"
+    },
+    {
+      "type": "link",
+      "title": "Typhoon Kalmaegi slams into Vietnam after unleashing deadly destruction in the Philippines",
+      "url": "https://lite.cnn.com/2025/11/06/asia/typhoon-kalmaegi-philippines-damage-vietnam-intl-hnk"
+    },
+    {
+      "type": "link",
+      "title": "Biden says Trump has ‘taken a wrecking ball’ to democracy in sharp criticism",
+      "url": "https://lite.cnn.com/2025/11/08/politics/biden-democracy-wrecking-ball-trump"
+    },
+    {
+      "type": "link",
+      "title": "Rare footage shows sucker fish as they whale-surf in the ocean’s wildest joyride",
+      "url": "https://lite.cnn.com/2025/11/07/asia/sucker-fish-humpback-whales-intl-hnk"
+    },
+    {
+      "type": "link",
+      "title": "3 employees of Louisville facility among those missing after UPS plane crash that looked like ‘hell’s fury,’ owner says",
+      "url": "https://lite.cnn.com/2025/11/06/us/ups-plane-crash-victims-louisville"
+    },
+    {
+      "type": "link",
+      "title": "Trump administration starts funding full SNAP benefits for November",
+      "url": "https://lite.cnn.com/2025/11/07/politics/emergency-appeal-snap-benefits-november"
+    },
+    {
+      "type": "link",
+      "title": "Elite Iranian unit plotted assassination of Israeli ambassador to Mexico, US official says",
+      "url": "https://lite.cnn.com/2025/11/07/americas/iran-assassination-plot-israeli-ambassador-mexico-intl-latam"
+    },
+    {
+      "type": "link",
+      "title": "Hundreds of flights are slashed, and more could be cut if the shutdown doesn’t end. What to know if you’re about to fly",
+      "url": "https://lite.cnn.com/2025/11/06/us/flight-cuts-government-shutdown-travel"
+    },
+    {
+      "type": "link",
+      "title": "No one can shut our voice’: Miss Universe Mexico confronts mistreatment",
+      "url": "https://lite.cnn.com/2025/11/07/americas/miss-universe-mexico-thailand-latam-intl"
+    },
+    {
+      "type": "link",
+      "title": "House cleaner shot to death on front porch after going to wrong house in Indianapolis suburb",
+      "url": "https://lite.cnn.com/2025/11/07/us/whitestown-indiana-house-cleaner-shot"
+    },
+    {
+      "type": "link",
+      "title": "Feds move to subpoena former CIA director and others who investigated Russian interference in Trump’s 2016 campaign",
+      "url": "https://lite.cnn.com/2025/11/07/politics/subpoena-brennan-russian-interference"
+    },
+    {
+      "type": "link",
+      "title": "Trump is trying to make ‘affordability’ his issue. Good luck with that",
+      "url": "https://lite.cnn.com/2025/11/07/politics/affordability-trump-gop-analysis"
+    },
+    {
+      "type": "link",
+      "title": "Trump’s filibuster fixation intensifies after a tough week for the GOP",
+      "url": "https://lite.cnn.com/2025/11/07/politics/filibuster-trump-shutdown"
+    },
+    {
+      "type": "link",
+      "title": "China’s Trump’ told us how he went viral. And yes, it started as a bet",
+      "url": "https://lite.cnn.com/2025/11/07/china/china-trump-ryan-chen-intl-hnk"
+    },
+    {
+      "type": "link",
+      "title": "Mother of missing 9-year-old Melodee Buzzard is arrested. Authorities say it’s not related to her daughter’s disappearance",
+      "url": "https://lite.cnn.com/2025/11/07/us/ashlee-buzzard-arrest-melodee-missing"
+    },
+    {
+      "type": "link",
+      "title": "Senate Democrats block GOP-led bill to pay federal workers as shutdown stalemate deepens",
+      "url": "https://lite.cnn.com/2025/11/07/politics/shutdown-congress-federal-pay-vote"
+    },
+    {
+      "type": "link",
+      "title": "Ex-NFL player Antonio Brown waives extradition on attempted murder charge, will return to Miami",
+      "url": "https://lite.cnn.com/2025/11/07/sport/football-nfl-antonio-brown-waives-extradition-attempted-murder"
+    },
+    {
+      "type": "link",
+      "title": "Letitia James asks judge to dismiss charges, arguing they are the result of Trump’s personal revenge",
+      "url": "https://lite.cnn.com/2025/11/07/politics/letitia-james-motion-to-dismiss"
+    },
+    {
+      "type": "link",
+      "title": "Spain dismantles its first suspected cell of Tren de Aragua, Venezuelan gang targeted by Trump",
+      "url": "https://lite.cnn.com/world/americas/tren-de-aragua-spain-police-latam-intl"
+    },
+    {
+      "type": "link",
+      "title": "Turkey issues ‘genocide’ arrest warrants against Netanyahu and other Israeli officials",
+      "url": "https://lite.cnn.com/2025/11/07/middleeast/turkey-issues-genocide-arrest-warrant-against-netanyahu-intl-latam"
+    },
+    {
+      "type": "link",
+      "title": "The FAA is limiting flights at big airports. But passengers at small airports will feel the most pain",
+      "url": "https://lite.cnn.com/2025/11/07/business/flight-limits-impact-small-airports"
+    },
+    {
+      "type": "link",
+      "title": "Tracking US flight delays and cancellations in charts",
+      "url": "https://lite.cnn.com/us/flight-delays-cancellations-tracker-vis"
+    },
+    {
+      "type": "link",
+      "title": "Katseye is having the best year ever and the Grammys just proved it",
+      "url": "https://lite.cnn.com/2025/11/07/entertainment/katseye-grammys"
+    },
+    {
+      "type": "link",
+      "title": "Trump approves pardon for former NYPD officer convicted in Chinese government scheme",
+      "url": "https://lite.cnn.com/2025/11/07/politics/michael-mcmahon-trump-pardon"
+    },
+    {
+      "type": "link",
+      "title": "Trump pardons MLB great Darryl Strawberry on 1995 tax evasion charge",
+      "url": "https://lite.cnn.com/2025/11/07/politics/trump-pardons-mlb-great-darryl-strawberry-on-1995-tax-evasion-charge"
+    },
+    {
+      "type": "link",
+      "title": "Federal judge says border patrol chief admitted he lied, in ruling limiting federal agents’ use of force in Chicago",
+      "url": "https://lite.cnn.com/2025/11/06/us/gregory-bovino-deposition-chicago-immigration"
+    },
+    {
+      "type": "link",
+      "title": "Teachers working without pay in US military schools during shutdown received debt letters",
+      "url": "https://lite.cnn.com/2025/11/07/politics/military-teachers-pay-shutdown"
+    },
+    {
+      "type": "link",
+      "title": "Nasdaq suffers worst week since April as AI rally wobbles",
+      "url": "https://lite.cnn.com/2025/11/07/investing/us-stock-market"
+    },
+    {
+      "type": "link",
+      "title": "Editing federal employees’ emails to blame Democrats for shutdown violated their First Amendment rights, judge says",
+      "url": "https://lite.cnn.com/2025/11/07/politics/emails-blaming-democrats-shutdown-violate-first-amendment"
+    },
+    {
+      "type": "link",
+      "title": "James Watson, famous geneticist and Nobel Prize co-winner in the structure of DNA, dies at 97",
+      "url": "https://lite.cnn.com/2025/11/07/us/james-watson-death"
+    },
+    {
+      "type": "link",
+      "title": "Professional marksmen’ kill flu-exposed ostrich herd in Canada, ending legal saga that attracted RFK Jr.’s attention",
+      "url": "https://lite.cnn.com/2025/11/07/americas/canada-ostriches-killed-rfk-latam-intl"
+    },
+    {
+      "type": "link",
+      "title": "Grammy Awards 2026: See a list of nominees",
+      "url": "https://lite.cnn.com/2025/11/07/entertainment/grammy-award-nominations-2026"
+    },
+    {
+      "type": "link",
+      "title": "Cornell University reaches $60 million deal with Trump administration to restore federal funding",
+      "url": "https://lite.cnn.com/2025/11/07/politics/cornell-trump-administration-deal-federal-funding"
+    },
+    {
+      "type": "link",
+      "title": "ICE is recruiting NYPD officers after Zohran Mamdani’s victory",
+      "url": "https://lite.cnn.com/2025/11/07/politics/ice-nypd-zohran-mamdani"
+    },
+    {
+      "type": "link",
+      "title": "NCAA finds 6 players from 3 schools involved in fixing games",
+      "url": "https://lite.cnn.com/2025/11/07/sport/basketball-ncaa-bans-6-athletes-gambling-investigation"
+    },
+    {
+      "type": "link",
+      "title": "Fact check: Trump falsely claims it’s only beef, but dozens of groceries have gotten more expensive this year",
+      "url": "https://lite.cnn.com/2025/11/07/politics/fact-check-beef-grocery-prices-trump-vis"
+    },
+    {
+      "type": "link",
+      "title": "Taylor Swift won’t dominate the 2026 Grammys for one simple reason – and it’s not because of haters",
+      "url": "https://lite.cnn.com/2025/11/07/entertainment/taylor-swift-grammys-2026"
+    },
+    {
+      "type": "link",
+      "title": "Fox Sports fires Mark Sanchez and hires Drew Brees as NFL analyst",
+      "url": "https://lite.cnn.com/2025/11/07/sport/football-nfl-mark-sanchez-drew-brees"
+    },
+    {
+      "type": "link",
+      "title": "Flares, smoke and clashes disrupt Israeli orchestra’s Paris concert",
+      "url": "https://lite.cnn.com/2025/11/07/europe/israeli-orchestras-paris-concert-flares-intl"
+    },
+    {
+      "type": "link",
+      "title": "Multiple explosions shake mosque at Indonesian high school injuring at least 55",
+      "url": "https://lite.cnn.com/2025/11/07/asia/indonesia-mosque-high-school-jakarta-explosion-latam-intl"
+    },
+    {
+      "type": "link",
+      "title": "Trump is being challenged on affordability by a surprising source — Fox News",
+      "url": "https://lite.cnn.com/2025/11/07/media/trump-affordability-baier-heinrich-fox-media"
+    },
+    {
+      "type": "link",
+      "title": "Americans are feeling worse about the economy as government shutdown drags on",
+      "url": "https://lite.cnn.com/2025/11/07/economy/us-consumer-sentiment-november"
+    },
+    {
+      "type": "link",
+      "title": "Football in Berlin, a showdown in Tampa and a Monday night blockbuster: 5 things to know about Week 10 of the NFL season",
+      "url": "https://lite.cnn.com/2025/11/07/sport/football-nfl-week-10-preview"
+    },
+    {
+      "type": "link",
+      "title": "Deep freeze to cause major temperature swings, with lows that could break records in the South",
+      "url": "https://lite.cnn.com/2025/11/05/weather/cold-temperatures-snow-winter-forecast-arctic-climate"
+    },
+    {
+      "type": "link",
+      "title": "Wendy’s is closing hundreds of restaurants",
+      "url": "https://lite.cnn.com/2025/11/07/food/wendys-closures-earnings"
+    },
+    {
+      "type": "link",
+      "title": "At least 7 people at Joint Base Andrews fall ill after suspicious package delivered with white powder, sources say",
+      "url": "https://lite.cnn.com/2025/11/06/politics/joint-base-andrews-military-base-suspicious-package"
+    },
+    {
+      "type": "link",
+      "title": "Barrett and Kavanaugh urge convention of conservative lawyers to stand up for their principles",
+      "url": "https://lite.cnn.com/2025/11/07/politics/barrett-kavanaugh-federalist-society"
+    },
+    {
+      "type": "link",
+      "title": "Who will get hit hardest by ACA premium increases in four charts",
+      "url": "https://lite.cnn.com/2025/11/07/politics/aca-premium-increases-subsidies-charts-vis"
+    },
+    {
+      "type": "link",
+      "title": "Jury’s $10 million award to teacher shot by 6-year-old could weigh on school administrator’s criminal case",
+      "url": "https://lite.cnn.com/2025/11/07/us/ebony-parker-upcoming-trial-zwerner-shooting"
+    },
+    {
+      "type": "link",
+      "title": "Qantas releases first images of jet that will fly nonstop from Sydney to London and New York",
+      "url": "https://lite.cnn.com/2025/11/07/travel/qantas-airbus-project-sunrise-plane-nonstop-intl-scli"
+    },
+    {
+      "type": "link",
+      "title": "Savage beatings and dying trees: How West Bank settler violence is impacting Palestinians’ olive harvest",
+      "url": "https://lite.cnn.com/2025/11/07/middleeast/west-bank-settler-violence-palestinians-olive-harvest-intl-cmd"
+    },
+    {
+      "type": "link",
+      "title": "Travel troubles? We want to hear from you",
+      "url": "https://lite.cnn.com/travel/shutdown-holiday-travel-callout"
+    },
+    {
+      "type": "link",
+      "title": "Elise Stefanik criticizes Hochul over affordability and Mamdani in campaign launch for NY governor",
+      "url": "https://lite.cnn.com/2025/11/07/politics/elise-stefanik-running-new-york-governor-hochul"
+    },
+    {
+      "type": "link",
+      "title": "Sudan’s bloody conflict is plagued by foreign influence – here is what we know",
+      "url": "https://lite.cnn.com/2025/11/07/africa/sudan-conflict-foreign-influence-intl-cmd"
+    },
+    {
+      "type": "link",
+      "title": "Cutting America’s flights will have huge ramifications for ticket prices and passengers",
+      "url": "https://lite.cnn.com/2025/11/06/business/flight-cuts-ticket-prices-passengers"
+    },
+    {
+      "type": "link",
+      "title": "Facebook enables gender discrimination in job ads, European human rights body rules",
+      "url": "https://lite.cnn.com/2025/02/28/tech/facebook-gender-discrimination-europe-ruling-asequals-intl"
+    },
+    {
+      "type": "link",
+      "title": "Russian Foreign Minister Sergey Lavrov’s absence sets off alarm bells in Moscow",
+      "url": "https://lite.cnn.com/2025/11/07/europe/russian-foreign-minister-sergey-lavrov-absence-intl"
+    },
+    {
+      "type": "link",
+      "title": "Jaron Ennis: How Philadelphia’s latest champ is priming himself for boxing greatness",
+      "url": "https://lite.cnn.com/2025/11/07/sport/boxing-jaron-ennis-profile-intl"
+    },
+    {
+      "type": "link",
+      "title": "Jennifer Lawrence says she has a ‘secret life,’ getting into fights on TikTok",
+      "url": "https://lite.cnn.com/2025/11/07/entertainment/jennifer-lawrence-secret-life-tiktok-intl-scli"
+    },
+    {
+      "type": "link",
+      "title": "Disease of 1,000 faces shows how science is tackling immunity’s dark side",
+      "url": "https://lite.cnn.com/2025/11/07/health/autoimmune-disease-science"
+    },
+    {
+      "type": "link",
+      "title": "Prince Harry offers jokey apology to Canada for Dodgers baseball cap faux pas",
+      "url": "https://lite.cnn.com/2025/11/07/americas/prince-harry-apology-canada-baseball-cap-intl-scli"
+    },
+    {
+      "type": "link",
+      "title": "Homes are collapsing in North Carolina. It could spell trouble for other coastal areas, too",
+      "url": "https://lite.cnn.com/2025/11/07/homes/why-are-homes-collapsing-in-north-carolina"
+    },
+    {
+      "type": "link",
+      "title": "Israeli military launches strikes across southern Lebanon against what it says are Hezbollah targets",
+      "url": "https://lite.cnn.com/2025/11/06/middleeast/israel-strikes-lebanon-hezbollah-intl"
+    },
+    {
+      "type": "link",
+      "title": "The world’s best hotel for 2025 is a waterfront skyscraper",
+      "url": "https://lite.cnn.com/2025/10/31/travel/the-worlds-best-hotels-for-2025-revealed"
+    },
+    {
+      "type": "link",
+      "title": "What happens if the Supreme Court strikes down Trump’s tariffs? More tariffs",
+      "url": "https://lite.cnn.com/2025/11/07/economy/tariffs-supreme-court-trumps-next-step"
+    },
+    {
+      "type": "link",
+      "title": "Supreme Court to weigh longshot bid to overturn same-sex marriage precedent",
+      "url": "https://lite.cnn.com/2025/11/07/politics/supreme-court-consider-same-sex-marriage-precedent-obergefell"
+    },
+    {
+      "type": "link",
+      "title": "China’s latest aircraft carrier enters fleet as naval competition with the US heats up",
+      "url": "https://lite.cnn.com/2025/11/07/china/china-fujian-aircraft-carrier-xi-jinping-intl-hnk"
+    },
+    {
+      "type": "link",
+      "title": "Facing a spike in deadly bear attacks, Japan turns to the military and drones that bark",
+      "url": "https://lite.cnn.com/2025/11/06/asia/japan-bear-attacks-military-sdf-intl-hnk"
+    },
+    {
+      "type": "link",
+      "title": "Certain obesity drugs will cost as little as $149 and Medicare will start covering them under White House deals",
+      "url": "https://lite.cnn.com/2025/11/06/politics/weight-loss-drugs-medicare-deals"
+    }
+  ],
+  "metadata": {
+    "total_links": 100,
+    "top_level_items": 100,
+    "max_depth": 1
+  }
+}

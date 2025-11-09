@@ -1,0 +1,158 @@
+{
+  "website": "https://evernote.com",
+  "domain": "evernote.com",
+  "scraped_at": "2025-11-09 14:30:03",
+  "navigation": [
+    {
+      "type": "mega-menu",
+      "title": "Explore",
+      "children": [
+        {
+          "type": "link",
+          "title": "Why Evernote",
+          "url": "https://evernote.com/why-evernote"
+        },
+        {
+          "type": "link",
+          "title": "Note Taking",
+          "url": "https://evernote.com/features/notes-app"
+        },
+        {
+          "type": "link",
+          "title": "Self organizing",
+          "url": "https://evernote.com/personal"
+        },
+        {
+          "type": "link",
+          "title": "Productivity",
+          "url": "https://evernote.com/professional"
+        },
+        {
+          "type": "link",
+          "title": "Collaboration",
+          "url": "https://evernote.com/features/collaboration"
+        },
+        {
+          "type": "link",
+          "title": "Web Clipper",
+          "url": "https://evernote.com/features/webclipper"
+        },
+        {
+          "type": "link",
+          "title": "Advanced search",
+          "url": "https://evernote.com/features/search"
+        },
+        {
+          "type": "link",
+          "title": "Document scanning",
+          "url": "https://evernote.com/features/document-scanning"
+        },
+        {
+          "type": "link",
+          "title": "Personalization",
+          "url": "https://evernote.com/features/home"
+        },
+        {
+          "type": "link",
+          "title": "Tasks",
+          "url": "https://evernote.com/features/tasks"
+        },
+        {
+          "type": "link",
+          "title": "Calendar",
+          "url": "https://evernote.com/features/calendar"
+        },
+        {
+          "type": "link",
+          "title": "AI Transcribe",
+          "url": "https://evernote.com/ai-transcribe?t_s=marketing_website"
+        },
+        {
+          "type": "link",
+          "title": "AI Rewrite",
+          "url": "https://evernote.com/ai-rewrite?t_s=marketing_website"
+        },
+        {
+          "type": "link",
+          "title": "AI Text To Speech",
+          "url": "https://evernote.com/ai-text-to-voice?t_s=marketing_website"
+        },
+        {
+          "type": "link",
+          "title": "AI Meeting Note Taker",
+          "url": "https://evernote.com/ai-transcribe/meeting?t_s=marketing_website"
+        },
+        {
+          "type": "link",
+          "title": "AI Diagrams",
+          "url": "https://evernote.com/ai-diagrams?t_s=marketing_website"
+        },
+        {
+          "type": "link",
+          "title": "AI Detector",
+          "url": "https://evernote.com/ai-detector?t_s=marketing_website"
+        },
+        {
+          "type": "link",
+          "title": "PDF Editor",
+          "url": "https://evernote.com/pdf-editor?t_s=marketing_website"
+        },
+        {
+          "type": "link",
+          "title": "PDF Converter",
+          "url": "https://evernote.com/pdf-convert?t_s=marketing_website"
+        },
+        {
+          "type": "link",
+          "title": "Online Notepad",
+          "url": "https://evernote.com/online-notepad?t_s=marketing_website"
+        },
+        {
+          "type": "link",
+          "title": "Word Counter",
+          "url": "https://evernote.com/word-counter?t_s=marketing_website"
+        },
+        {
+          "type": "link",
+          "title": "Citation Generator",
+          "url": "https://evernote.com/citation-generator?t_s=marketing_website"
+        }
+      ]
+    },
+    {
+      "type": "link",
+      "title": "AI Features",
+      "url": "https://evernote.com/features/ai-features"
+    },
+    {
+      "type": "link",
+      "title": "Plans",
+      "url": "https://evernote.com/compare-plans"
+    },
+    {
+      "type": "link",
+      "title": "Enterprise",
+      "url": "https://evernote.com/enterprise"
+    },
+    {
+      "type": "link",
+      "title": "Log in",
+      "url": "https://www.evernote.com/client/web"
+    },
+    {
+      "type": "link",
+      "title": "Download",
+      "url": "https://evernote.com/download"
+    },
+    {
+      "type": "link",
+      "title": "Start for free",
+      "url": "https://accounts.evernote.com/registration"
+    }
+  ],
+  "metadata": {
+    "total_links": 28,
+    "top_level_items": 7,
+    "max_depth": 2
+  }
+}

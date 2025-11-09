@@ -1,0 +1,42 @@
+{
+  "website": "https://x.com",
+  "domain": "x.com",
+  "scraped_at": "2025-11-09 14:30:57",
+  "navigation": [
+    {
+      "type": "link",
+      "title": "Help Center",
+      "url": "https://help.x.com/using-x/x-supported-browsers"
+    },
+    {
+      "type": "link",
+      "title": "Terms of Service",
+      "url": "https://x.com/tos"
+    },
+    {
+      "type": "link",
+      "title": "Privacy Policy",
+      "url": "https://x.com/privacy"
+    },
+    {
+      "type": "link",
+      "title": "Cookie Policy",
+      "url": "https://support.x.com/articles/20170514"
+    },
+    {
+      "type": "link",
+      "title": "Imprint",
+      "url": "https://legal.twitter.com/imprint.html"
+    },
+    {
+      "type": "link",
+      "title": "Ads info",
+      "url": "https://business.twitter.com/en/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo"
+    }
+  ],
+  "metadata": {
+    "total_links": 6,
+    "top_level_items": 6,
+    "max_depth": 1
+  }
+}

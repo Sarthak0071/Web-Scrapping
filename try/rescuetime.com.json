@@ -1,0 +1,54 @@
+{
+  "website": "https://www.rescuetime.com",
+  "domain": "www.rescuetime.com",
+  "scraped_at": "2025-11-09 22:54:01",
+  "navigation": [
+    {
+      "type": "link",
+      "title": "Home",
+      "url": "https://www.rescuetime.com/"
+    },
+    {
+      "type": "link",
+      "title": "Features",
+      "url": "https://www.rescuetime.com/marketing/features"
+    },
+    {
+      "type": "link",
+      "title": "Timesheets",
+      "url": "https://timesheets.rescuetime.com/"
+    },
+    {
+      "type": "link",
+      "title": "Blog",
+      "url": "https://blog.rescuetime.com"
+    },
+    {
+      "type": "link",
+      "title": "Guided Focus Sessions",
+      "url": "https://workfrom.com/browse/jwgseb"
+    },
+    {
+      "type": "link",
+      "title": "Sign in",
+      "url": "https://www.rescuetime.com/login"
+    },
+    {
+      "type": "link",
+      "title": "Try For Free",
+      "url": "https://www.rescuetime.com/unified/users/new",
+      "is_cta": true
+    },
+    {
+      "type": "link",
+      "title": "Try For Free",
+      "url": "https://www.rescuetime.com/unified/teams/new",
+      "is_cta": true
+    }
+  ],
+  "metadata": {
+    "total_links": 8,
+    "top_level_items": 8,
+    "max_depth": 1
+  }
+}

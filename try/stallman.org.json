@@ -1,0 +1,152 @@
+{
+  "website": "https://stallman.org",
+  "domain": "stallman.org",
+  "scraped_at": "2025-11-09 22:54:42",
+  "navigation": [
+    {
+      "type": "link",
+      "title": "Political Articles",
+      "url": "https://stallman.org#politics"
+    },
+    {
+      "type": "link",
+      "title": "Political Notes",
+      "url": "https://stallman.org/archives/polnotes.html"
+    },
+    {
+      "type": "link",
+      "title": "Talks",
+      "url": "https://stallman.org/talks.html"
+    },
+    {
+      "type": "link",
+      "title": "Airlines",
+      "url": "https://stallman.org/airlines.html"
+    },
+    {
+      "type": "link",
+      "title": "Anti-Glossary",
+      "url": "https://stallman.org/antiglossary.html"
+    },
+    {
+      "type": "link",
+      "title": "Archive",
+      "url": "https://stallman.org/archive.html"
+    },
+    {
+      "type": "link",
+      "title": "Ban face recognition",
+      "url": "https://stallman.org/banfacerecognition.html"
+    },
+    {
+      "type": "link",
+      "title": "Books",
+      "url": "https://stallman.org#books"
+    },
+    {
+      "type": "link",
+      "title": "Comics",
+      "url": "https://stallman.org/comics.html"
+    },
+    {
+      "type": "link",
+      "title": "Empire of the Megacorporations",
+      "url": "https://stallman.org/empire.html"
+    },
+    {
+      "type": "link",
+      "title": "Fiction",
+      "url": "https://stallman.org#fiction"
+    },
+    {
+      "type": "link",
+      "title": "Glossary",
+      "url": "https://stallman.org/glossary.html"
+    },
+    {
+      "type": "link",
+      "title": "GPG Key",
+      "url": "https://stallman.org/gpg.html"
+    },
+    {
+      "type": "link",
+      "title": "Humor",
+      "url": "https://stallman.org#humor"
+    },
+    {
+      "type": "link",
+      "title": "Humorous Bio",
+      "url": "https://stallman.org/biographies.html#humorousbio"
+    },
+    {
+      "type": "link",
+      "title": "Links",
+      "url": "https://stallman.org/links.html"
+    },
+    {
+      "type": "link",
+      "title": "Media/Press/Bio",
+      "url": "https://stallman.org/media.html"
+    },
+    {
+      "type": "link",
+      "title": "Non-Political Articles",
+      "url": "https://stallman.org#non-political"
+    },
+    {
+      "type": "link",
+      "title": "The Four Factors of the Apocalypse",
+      "url": "https://stallman.org#apocalypse"
+    },
+    {
+      "type": "link",
+      "title": "There Ought to Be a Law",
+      "url": "https://stallman.org#oughttobe"
+    },
+    {
+      "type": "link",
+      "title": "Travel Experiences",
+      "url": "https://stallman.org#travel"
+    },
+    {
+      "type": "link",
+      "title": "Travel Photos",
+      "url": "https://stallman.org#travel_photos"
+    },
+    {
+      "type": "link",
+      "title": "How I Do My Computing",
+      "url": "https://stallman.org/stallman-computing.html"
+    },
+    {
+      "type": "link",
+      "title": "RMS personal FAQ",
+      "url": "https://stallman.org/rms-lifestyle.html"
+    },
+    {
+      "type": "link",
+      "title": "Sayings",
+      "url": "https://stallman.org/sayings.html"
+    },
+    {
+      "type": "link",
+      "title": "Scientific Links",
+      "url": "https://stallman.org#sci_links"
+    },
+    {
+      "type": "link",
+      "title": "Stallman on Love",
+      "url": "https://stallman.org#love"
+    },
+    {
+      "type": "link",
+      "title": "Thanks",
+      "url": "https://stallman.org#thanks"
+    }
+  ],
+  "metadata": {
+    "total_links": 28,
+    "top_level_items": 28,
+    "max_depth": 1
+  }
+}
